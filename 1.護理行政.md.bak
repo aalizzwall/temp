@@ -1,0 +1,784 @@
+# 📖 護理師專技高考教材：第一科【護理行政】
+
+**【考情分析】**
+護理行政在國考中併入「基本護理學與護理行政」，通常佔約 10~15 題。近五年的命題趨勢極度偏重「情境題」，特別是**護理照護模式的應用**、**品質管理（RCA/HFMEA）**、**領導與衝突處理**、以及**護理時數計算**。
+
+---
+
+## 第一章：護理行政緒論 (Nursing Administration Fundamentals) 🌟
+
+### 1.1 護理行政定義與角色
+* **定義：** 護理行政是運用管理原則於護理專業，以達成組織目標並提供優質病人照護。
+* **核心任務：** 人力規劃、財務控制、品質改善、教育訓練、資訊管理。
+
+### 1.2 護理管理的五大功能 (POCCC) 🌟
+| 功能 | 英文 | 說明 | 國考重點 |
+|------|------|------|---------|
+| **計**劃 | Planning | 設定目標、設計流程、配置資源 | ✅ 高頻：需會寫「護理目標」(SMART原則) |
+| **組**織 | Organizing | 分配工作、配置人力、建立架構 | ✅ 高頻：護病比計算、排班策略 |
+| **領**導 | Leading | 激勵部屬、解決衝突、建立團隊文化 | ✅ 極高頻：轉換型領導情境題 |
+| **協**調 | Coordinating | 整合資源、溝通聯繫、流程同步 | ⚠️ 中頻：跨部門合作案例 |
+| **控**制 | Controlling | 監督績效、品質稽核、問題改善 | ✅ 極高頻：RCA/HFMEA 應用題 |
+
+### 1.3 護理管理理論演進
+* **科學管理學派 (Taylor)：** 效率優先，標準化作業流程。
+* **行政管理學派 (Fayol)：** 五大功能、14 項原則（統一指揮、專業分工等）。
+* **科層體制 (Weber)：** 層級節制、法制化、對事不對人。
+* **人群關係學派 (Mayo/Hawthorne)：** 社會心理因素影響生產力（霍桑實驗）。
+* **現代系統理論：** 護理組織視為開放系統，與環境互動。
+
+### 1.4 護理行政職能分類
+| 層級 | 典型職位 | 主要責任 |
+|------|----------|---------|
+| **高階** | 副院長（护理）/ 護理長 | 策略規劃、資源配置、組織發展 |
+| **中階** | 病房護理長 / 專科護理師 | 執行政策、品質管理、人力調度 |
+| **一線** | 組長 / 責任護理師 | 病患分配、當班協調、臨床指導 |
+
+### 1.5 **國考高頻概念：SMART 目標設定** 🌟
+* **S (Specific)：** 具體明確（如：降低跌倒率）
+* **M (Measurable)：** 可量化（如：從 3%降至 1.5%）
+* **A (Achievable)：** 可達成（資源可行）
+* **R (Relevant)：** 與組織目標相關
+* **T (Time-bound)：** 有明確時程
+
+### 1.6 **範例題分析**
+> **題目：** 「護理長計畫降低院內感染率，下列哪項是符合 SMART 原則的目標？」  
+> **選項：**  
+> A. 提升手衛生 compliance  
+> B. 於六個月內將 MRSA 篩檢陽性率降至 5% 以下 ✅  
+> C. 加強教育訓練  
+> D. 改善環境清潔度  
+>   
+> **答案：B** — 唯一同時具備「可量化指標（5%）」與「明確時程（六個月）」
+
+---
+
+## 第二章：護理行政管理理論及應用 (Nursing Management Theories) 🌟
+
+### 2.1 傳統管理理論 (Traditional Theories)
+|| 理論 | 代表人物 | 核心精神 | 國考考點 (Exam Focus) |
+|------|---------|---------|-------------------|
+| **科學管理** | 泰勒 (Taylor) | 時間與動作研究、標準化作業、金錢誘因 | ✅ **效率極大化**：強調「唯一最佳方法」。常考：分工明確、標準作業程序 (SOP)。 |
+| **行政管理** | 費堯 (Fayol) | POCCC 五大功能、14 項管理原則 | ✅ **管理通用性**：強調管理是可學習的技能。重點：統一指揮原則 (Unity of Command)。 |
+| **科層體制** | 韋伯 (Weber) | 層級節制、法制化、非人格化 (Impersonality) | ⚠️ **權威結構**：強調職權 (Authority) 而非個人關係。常考：層級明確、規定至上。 |
+
+**💡 國考陷阱：** 不要將「科學管理」與「行政管理」混淆。科學管理關注「底層作業效率」，行政管理關注「高層管理流程」。
+
+### 2.2 現代管理理論 (Modern Theories)
+|| 理論 | 核心精神 | 國考應用 (Situational Application) |
+|------|---------|-------------------|
+| **人群關係** | 霍桑實驗 $\rightarrow$ 社會心理因素 $>$ 物理環境 | ✅ **非正式組織**：重視員工情感、社交需求與團隊認同感。 |
+| **系統理論** | 開放系統：輸入 $\rightarrow$ 轉換 $\rightarrow$ 輸出 $\rightarrow$ 回饋 | ⚠️ **整體觀**：將醫院視為一個與環境互動的整體，而非獨立部門。 |
+| **權變理論** | 沒有單一最佳管理方式 $\rightarrow$ 視情境而定 | ✅ **靈活性**：管理風格應根據部屬成熟度與任務緊急度調整。 |
+
+### 2.3 **領導力深度解析：交易型 vs. 轉換型** 🌟🌟
+|| 特徵 | 交易型 (Transactional) | 轉換型 (Transformational) |
+|------|---------------------|------------------------|
+| **核心邏輯** | 契約/交換 (Quid pro quo) | 願景/啟發 (Inspiration) |
+| **激勵手段** | 外在獎懲 (獎金、處分) | 內在動機 (使命感、自我實現) |
+| **管理重點** | 維持現狀、糾錯 (Management by Exception) | 推動變革、打破框架 (Intellectual Stimulation) |
+| **部屬感受** | 「我做完這件事可以拿獎金」 | 「我想成為更好的專業護理師」 |
+| **國考定位** | ⚠️ 中頻 (常用於描述穩定期管理) | ✅ **極高頻** (描述理想領導者的標準答案) |
+
+### 2.4 **應用案例：衝突處理策略 (Thomas-Kilmann Model)** 🌟
+根據「堅持程度 (Assertiveness)」與「合作程度 (Cooperativeness)」分為五種策略：
+1. **合作 (Collaborating)：** $\text{高堅持} + \text{高合作} \rightarrow$ **Win-Win**。最佳解，但耗時最長。
+2. **競爭 (Competing)：** $\text{高堅持} + \text{低合作} \rightarrow$ **Win-Lose**。適用於緊急危機、必須迅速決策時。
+3. **妥協 (Compromising)：** $\text{中堅持} + \text{中合作} \rightarrow$ **No Win-No Lose**。適用於雙方勢均力敵、需快速達成暫時協議。
+4. **順應 (Accommodating)：** $\text{低堅持} + \text{高合作} \rightarrow$ **Lose-Win**。適用於維持和諧、發現自己錯了、或議題對對方較重要時。
+5. **退避 (Avoiding)：** $\text{低堅持} + \text{低合作} \rightarrow$ **Lose-Lose**。適用於冷卻情緒、議題不重要、或缺乏資訊時。
+
+**📝 範例題分析：**
+> **題目：** 「病房內兩名資深護理師對於交班流程有嚴重分歧，且該問題已影響到病人安全，護理長應採取何種衝突處理策略？」
+> **分析：** 因為涉及「病人安全」，不能簡單退避或妥協 $\rightarrow$ 必須共同找出最佳解決方案 $\rightarrow$ **合作 (Collaborating)**。
+> **答案：** 合作/解決問題。
+
+---
+
+## 第三章：規劃 (Planning) 🌟
+
+### 3.1 護理管理中的計劃類型 (Types of Planning)
+|| 類型 | 時程 | 特點 | 範例 |
+|------|------|------|------|
+| **策略性規劃 (Strategic)** | 3~5 年 | 高層決策、方向性、影響全院 | 醫院五年發展計畫、獲取 JCI 認證目標 |
+| **戰術性規劃 (Tactical)** | 6 個月~1 年 | 中層執行、資源分配、具體手段 | 降低病房跌倒率專案、新進護理師培訓計畫 |
+| **作業性計劃 (Operational)** | 每日/每週 | 第一線執行、高度具體、例行性 | 今日排班表、病房設備檢查清單 |
+
+### 3.2 **護理目標設定 (Nursing Goal Setting) 與 SMART 原則** 🌟🌟
+設定目標是規劃的核心。一個合格的護理目標必須符合 **SMART** 原則：
+*   **S (Specific) 具體：** 避免使用「提升」、「改善」等模糊詞彙。$\rightarrow$ *正確：降低壓傷發生率。*
+*   **M (Measurable) 可量化：** 必須有數據指標。$\rightarrow$ *正確：從 2% 降至 1%。*
+*   **A (Achievable) 可達成：** 考量人力與設備是否可行。
+*   **R (Relevant) 相關性：** 符合組織目標（如病人安全）。
+*   **T (Time-bound) 時限：** 有明確完成期限。$\rightarrow$ *正確：在 2026 年 12 月前達成。*
+
+**📝 國考辨析：** 題目若問「下列何者為最適切的目標設定」，請優先選擇**同時包含「量化數據」與「時間限制」**的選項。
+
+### 3.3 **品質改善計畫 (QI Project) 與 PDCA 循環** 🌟🌟
+PDCA (Deming Cycle) 是護理行政中最常考的流程工具：
+1. **P (Plan) 規劃：** 
+   - 辨識問題 $\rightarrow$ 收集現狀數據 $\rightarrow$ **分析根本原因 (RCA/魚骨圖)** $\rightarrow$ 設定目標 $\rightarrow$ 擬定對策。
+2. **D (Do) 執行：** 
+   - 小規模試行 $\rightarrow$ 記錄執行過程 $\rightarrow$ 訓練相關人員。
+3. **C (Check) 查核：** 
+   - 收集執行後數據 $\rightarrow$ 與目標對比 $\rightarrow$ 分析差距。
+4. **A (Act) 行動：** 
+   - 成功 $\rightarrow$ **標準化 (SOP 化)** $\rightarrow$ 全院推廣。
+   - 失敗 $\rightarrow$ 回到 P 階段重新分析。
+
+**💡 國考陷阱：** 
+- 「分析原因」 $\in$ **Plan** (很多人誤以為是 Check)。
+- 「制定 SOP」 $\in$ **Act**。
+- 「收集數據評估成效」 $\in$ **Check**。
+
+### 3.4 **範例題分析**
+> **題目：** 「某病房為了改善病人對出院衛教的滿意度，決定先在 A 區試行新的衛教單頁，並記錄一個月的滿意度分數。此舉屬於 PDCA 的哪個階段？」
+> **分析：** 「試行」且「記錄數據」 $\rightarrow$ 屬於執行階段 $\rightarrow$ **Do**。
+> **答案：** Do (執行)。
+
+---
+## 第四章：組織 (Organizing) 🌟
+
+### 4.1 護理照護模式 (Nursing Care Delivery Models) 🌟🌟
+這是國考最愛考的「情境判斷題」，重點在於識別**誰負責什麼**以及**對病人的影響**。
+
+|| 模式 | 核心特色 (Key Feature) | 優點 | 缺點 | 國考關鍵字 |
+|------|-------------------|------|------|-------------------|
+| **功能式 (Functional)** | 按「任務」分工 (e.g., A 負責打針, B 負責換藥) | ✅ 效率最高、操作熟練 | ❌ 照護破碎 (Fragmented)、病人沒歸屬感 | 「分工明確」、「效率」、「破碎」 |
+| **個案式 (Case Method)** | 一對一 (RN 負責病人所有需求) | ✅ 照護最完整、病患滿意度高 | ❌ 成本最高、人力需求極大 | 「全責照護」、「私人護理師」 |
+| **團隊式 (Team Nursing)** | 組長 (RN) $\rightarrow$ 組員 (RN/LPN/NA) | ✅ 彈性高、資源利用率佳 | ❌ 依賴組長領導力、溝通成本高 | 「小組長」、「分級配置」 |
+| **初段護理 (Primary Nursing)** | **責任護理師 (Primary RN)** 從入院到出院負責計畫 | ✅ 最佳護病關係、專業自主性最高 | ❌ 成本高、需高度專業 RN | 「入院到出院」、「責任護理師」 |
+| **個案管理 (Case Management)** | 針對特定群體 (e.g., 糖尿病) 協調跨專業資源 | ✅ 縮短住院日、優化資源路徑 | ❌ 側重於協調而非直接臨床照護 | 「跨專業協調」、「資源路徑 (Critical Path)」 |
+
+### 4.2 **護理時數計算：NHPPD 深度解析** 🌟🌟
+**NHPPD (Nursing Hours Per Patient Day)** 是衡量人力配置最客觀的指標。
+
+**📐 計算公式：**
+$$\text{NHPPD} = \frac{\text{單位內所有護理人員總工作時數}}{\text{該單位平均病人總數}}$$
+
+**📝 實戰練習題：**
+> **題目：** 某外科病房平均病人 20 人。排班如下：白班 4 人 (每人 8hr), 小夜 3 人 (每人 8hr), 大夜 2 人 (每人 8hr)。請問 NHPPD 為多少？
+> **計算：**
+> 1. 總時數 $= (4+3+2) \times 8 = 72 \text{ 小時}$
+> 2. $\text{NHPPD} = 72 \div 20 = 3.6 \text{ 小時/人/日}$
+> **答案：** 3.6
+
+### 4.3 **護病比 (Nurse-to-Patient Ratio) 與人力配置** 🌟
+|| 單位類型 | 建議護病比 (RN:Patient) | 考點分析 |
+|------|-------------------|-------------------|
+| **ICU / 加護病房** | 1:1 $\sim$ 1:2 | 極高依賴度 $\rightarrow$ 低比率 |
+| **急診 (ER)** | 1:3 $\sim$ 1:5 | 變動性大 $\rightarrow$ 需彈性人力池 |
+| **一般病房** | 1:6 $\sim$ 1:10 | 穩定型 $\rightarrow$ 高比率 |
+
+### 4.4 **排班原則 (Staffing Principles)**
+* **公平性 (Equity)：** 避免特定人員長期承擔重擔（如連續大夜）。
+* **適配性 (Matching)：** 根據病人病情 (Acuity) 分配人力，而非單純按人數。
+* **合法性 (Compliance)：** 遵守勞基法 (休息時間、最高工時)。
+
+---
+
+## 第五章：人力資源管理 (Human Resource Management) 🌟
+
+### 5.1 人力規劃與招募 (Planning & Recruitment)
+1. **需求分析：** 根據 NHPPD 與病人預測 $\rightarrow$ 計算缺口。
+2. **招募策略：** 內部升遷 (激勵員工) vs. 外部聘請 (引入新觀點)。
+3. **選才標準：** 專業證照 $\rightarrow$ 臨床能力 $\rightarrow$ 價值觀契合 (Cultural Fit)。
+
+### 5.2 **員工發展與訓練 (Development)** 🌟
+|| 訓練類型 | 目的 | 適用情境 |
+|------|------|------|
+| **入職訓練 (Orientation)** | 熟悉環境、政策、SOP | 新進護理師 |
+| **在職教育 (In-service)** | 更新專業知識、新設備操作 | 全體人員 |
+| **能力發展 (Competency)** | 取得專科證照 (e.g., 傷口照護) | 職涯晉升人員 |
+| **領導力訓練 (Leadership)** | 學習衝突處理、績效管理 | 責任護理師 / 組長 |
+
+### 5.3 **績效考核 (Performance Appraisal) 🌟🌟**
+考核的目的在於「改進」而非「懲罰」。
+* **360 度評估：** 主管、同儕、下屬、病人共同評價 $\rightarrow$ 減少主管主觀偏見。
+* **目標管理 (MBO)：** 讓員工參與設定目標 $\rightarrow$ 提高認同感。
+* **關鍵績效指標 (KPI)：** 量化指標 (e.g., 跌倒發生率 $\downarrow 10\%$) $\rightarrow$ 客觀公正。
+
+**⚠️ 國考陷阱：** 考核時若出現「光環效應 (Halo Effect)」，指主管因員工某個優點而給予所有項目高分 $\rightarrow$ 這是**不公正**的考核。
+
+### 5.4 **工作倦怠 (Job Burnout) 與留任管理** 🌟
+**倦怠三階段：** 情緒耗竭 $\rightarrow$ 去人性化 (對病人冷漠) $\rightarrow$ 個人成就感降低。
+**護理長應採取之干預措施：**
+* ✅ **增加自主權：** 讓護理師參與排班決策。
+* ✅ **心理支持：** 建立支持小組 (Peer Support) 或諮商機制。
+* ✅ **環境改善：** 優化工作流程，減少不必要的文件作業。
+* ✅ **認可與獎勵：** 及時的肯定比金錢獎勵更能提升長期留任率。
+
+---
+
+## 第六章：領導 (Leading) 🌟🌟
+
+### 6.1 **領導 vs. 管理：本質差異** 🌟
+在國考中，經常出現要求區分「管理行為」與「領導行為」的題目。
+
+|| 面向 | 管理 (Management) | 領導 (Leadership) | 國考辨析關鍵字 |
+|------|------------------|------------------|-------------------|
+| **焦點** | 系統、流程、效率、控制 | 人、願景、改變、激勵 | 管理 $\rightarrow$ 「穩定」；領導 $\rightarrow$ 「變革」 |
+| **時間** | 短期、維持現狀 | 長期、前瞻發展 | 管理 $\rightarrow$ 「怎麼做」；領導 $\rightarrow$ 「為什麼做」 |
+| **權威** | 職位權 (Legitimate Power) | 專家權/參照權 (Expert/Referent Power) | 管理 $\rightarrow$ 「指令」；領導 $\rightarrow$ 「影響力」 |
+
+### 6.2 **領導風格與情境應用 (Situational Leadership)** 🌟
+沒有最好的領導風格，只有「最適合當前情境」的風格。
+
+|| 風格 | 行為特徵 | 最佳適用情境 (Exam Scenario) |
+|------|------|-------------------|
+| **指令型 (Autocratic)** | 獨斷決策 $\rightarrow$ 強勢下令 $\rightarrow$ 監控執行 | ✅ **緊急危機** (e.g., CPR, 火災)、部屬能力極低時。 |
+| **民主型 (Democratic)** | 共同討論 $\rightarrow$ 參與決策 $\rightarrow$ 達成共識 | ✅ **制定長期政策**、部屬能力高且有動機時。 |
+| **放任型 (Laissez-faire)** | 完全授權 $\rightarrow$ 不介入 $\rightarrow$ 自主運作 | ❌ 護理臨床極少適用 (除非面對頂尖專家團隊)。 |
+| **教練型 (Coaching)** | 指導方向 $\rightarrow$ 提供反饋 $\rightarrow$ 培養能力 | ✅ **新進人員 (Preceptorship)**、績效下滑需調整時。 |
+
+### 6.3 **轉換型領導 (Transformational Leadership) 深度解析** 🌟🌟🌟
+這是護理行政中最核心的考點，通常被視為「最理想」的領導模式。
+
+**四個核心維度 (The 4 I's)：**
+1. **理想化影響力 (Idealized Influence)：** 領導者成為榜樣 $\rightarrow$ 贏得尊重與信任 (e.g., 護理長親自示範正確的無菌操作)。
+2. **激勵性啟發 (Inspirational Motivation)：** 描繪吸引人的願景 $\rightarrow$ 鼓舞士氣 (e.g., 「讓我們成為全院病人滿意度最高的病房」)。
+3. **智力刺激 (Intellectual Stimulation)：** 挑戰現狀 $\rightarrow$ 鼓勵創新 $\rightarrow$ 重新思考 (e.g., 鼓勵護理師提出減少交班時間的新方法)。
+4. **個別化關懷 (Individualized Consideration)：** 視每個人為個體 $\rightarrow$ 傾聽需求 $\rightarrow$ 職涯輔導 (e.g., 針對不同年資護理師提供不同的學習資源)。
+
+### 6.4 **衝突處理策略 (Thomas-Kilmann Model) 實戰** 🌟
+(詳見第二章 2.4 節，重點在於：**合作 $\rightarrow$ Win-Win $\rightarrow$ 最佳解**)
+
+**📝 範例題分析：**
+> **題目：** 「某病房新進護理師對於執行 SOP 感到困惑且經常出錯，護理長決定每日花 10 分鐘與其討論進度並提供具體修正建議。此舉體現了何種領導風格？」
+> **分析：** 「指導 $\rightarrow$ 反饋 $\rightarrow$ 培養能力」 $\rightarrow$ **教練型 (Coaching)**。
+> **答案：** 教練型。
+
+---
+
+## 第七章：控制 (Controlling) 🌟🌟
+
+### 7.1 **控制過程三步驟 (The Control Process)** 🌟
+控制的核心是「確保實際結果與計畫目標一致」。
+1. **設定標準 (Establish Standards)：** 明確績效指標 $\rightarrow$ *範例：將病房壓傷率降低至 0.5% 以下。*
+2. **監測進度 (Measure Performance)：** 收集實際數據 $\rightarrow$ *範例：每週核對壓傷登記表。*
+3. **矯正偏差 (Correct Deviation)：** 分析差距原因 $\rightarrow$ 採取改善行動 $\rightarrow$ *範例：發現是翻身不足 $\rightarrow$ 增加翻身提醒系統。*
+
+### 7.2 **品質管理工具深度比較 (Quality Tools)** 🌟🌟
+在國考中，最常考的是 **RCA** 與 **HFMEA** 的區分。
+
+|| 工具 | 邏輯 | 適用時機 (Exam Scenario) | 國考關鍵字 |
+|------|------|-------------------|-------------------|
+| **根本原因分析 (RCA)** | **事後回溯 (Retrospective)** | 發生「警訊事件」後 $\rightarrow$ 找出系統漏洞 | 「警訊事件」、「事後分析」、「魚骨圖」 |
+| **失效模式與效應分析 (HFMEA)** | **事前前瞻 (Prospective)** | 導入新流程/設備前 $\rightarrow$ 預測可能出錯處 | 「事前評估」、「風險預防」、「新制度導入」 |
+
+**💡 記憶口訣：** RCA 是「救火後的調查」，HFMEA 是「防火前的演習」。
+
+### 7.3 **魚骨圖 (Fishbone/Ishikawa Diagram) 實戰分析** 🌟
+魚骨圖用於 RCA，將問題拆解為 **4M1E** 五大要因：
+*   **Man (人員)：** 知識不足、疲倦、溝通失誤、人員短缺。
+*   **Machine (設備)：** 設備損壞、缺乏維護、操作不便。
+*   **Material (材料)：** 藥品標記不明、耗材不足、藥物過期。
+*   **Method (流程)：** SOP 不完整、交接漏洞、缺乏核對機制。
+*   **Environment (環境)：** 燈光不足、空間擁擠、噪音干擾。
+
+**📝 範例題分析：**
+> **題目：** 「一名病人在病房內發生給錯藥事件。護理長召集團隊使用魚骨圖分析，發現是因『藥品外觀極為相似』導致。此因素屬於 4M1E 中的哪一項？」
+> **分析：** 藥品外觀 $\rightarrow$ 屬於藥品本身的屬性 $\rightarrow$ **Material (材料)**。
+> **答案：** Material。
+
+### 7.4 **績效評估指標 (Performance Indicators)**
+* **結構指標 (Structure)：** 資源配置 (e.g., 護病比 1:8)。
+* **過程指標 (Process)：** 操作正確性 (e.g., 手衛生遵行率 > 80%)。
+* **結果指標 (Outcome)：** 最終成效 (e.g., 壓傷發生率 < 1%)。
+* **國考重點：** 臨床管理最重視 **結果指標**，但改善最容易從 **過程指標** 入手。
+
+---
+
+## 第八章：護理品質管理 (Nursing Quality Management) 🌟🌟🌟
+
+### 8.1 **品質改善 vs. 病人安全（極高頻概念）** 🌟
+| 面向 | 品質改善 (Quality Improvement) | 病人安全 (Patient Safety) |
+|------|-------------------------------|--------------------------|
+| **焦點** | 提升照護整體表現 | 預防不良事件發生 |
+| **方法論** | PDCA、六西格馬 | 「無罪報错」文化、根因分析 |
+| **指標範例** | 病人滿意度、流程效率 | 跌倒率、壓傷率、感染率 |
+
+### 8.2 **警訊事件 (Sentinel Event) 🌟🌟**
+* **定義：** 造成嚴重傷害或死亡的意外事件（如：開錯刀、輸錯血）  
+* **處理流程：**  
+  1. 立即通報（匿名、自願性）  
+  2. 啟動 RCA 分析  
+  3. 系統性改善措施  
+  4. 結果回饋（非懲罰為目的）  
+
+### 8.3 **病人安全十大目標（WHO🌟🌟）**
+1. 正確病人識別（兩種方式以上）  
+2. 過敏藥物標示  
+3. 手術部位標示與核對  
+4. 高警訊藥物隔離管理  
+5. 跌倒風險評估與預防  
+6. 壓傷預防  
+7. 合理用藥與感染控制  
+8. 緊急情況訓練演練  
+9. 病人教育與參與  
+10. 錯誤通報文化  
+
+### 8.4 **考情重點：常見品質指標** 🌟
+| 指標 | 計算公式/定義 | 目標值範例 |
+|------|---------------|-----------|
+| **跌倒率** | (發生次數/觀察人次) × 100% | < 1.5/千人日 |
+| **壓傷發生率** | 新發病例數/總病人數 × 100% | 0% |
+| **院內感染率** | (院內感染數/總暴露人次) × 100% | < 目標值 |
+| **再住院率** | (30 天內再入院數/出院人數) × 100% | < 10% |
+
+### 8.5 **範例題：品質指標分析**
+> **題目：** 「某病房希望降低病人跌倒發生率，下列哪項措施最符合「系統性改善」原則？」  
+> **選項：**  
+> A. 加強護理師巡房次數  
+> B. 實施多面向風險評估（包括藥物、環境、夜間照明） ✅  
+> C. 警告跌倒高风险病人需格外小心  
+> D. 增加跌倒發生後的懲罰機制  
+
+**答案：B** — 系統性改善強調多因素分析與預防，非單一措施或懲罰。
+
+---
+
+## 第九章：護理行政管理之倫理與法律考量 (Ethics & Law) 🌟🌟
+
+### 9.1 **基本醫療人權（極高頻）** 🌟🌟
+* **知情同意 (Informed Consent)：** 病人必須理解處置內容、風險、替代方案，並自願簽署  
+* **隱私權保護：** 個人資料保密、病历管理、HIPAA/GDPR 法規  
+* **拒絕治療權：** 具備行為能力者可拒絕治療（緊急狀況除外）  
+
+### 9.2 **護理倫理四大原則** 🌟🌟
+| 原則 | 說明 | 經典案例 |
+|------|------|---------|
+| **自主 (Autonomy)：** | 尊重病人自決權 | ✅ 知情同意、拒絕治療 |
+| **行善 (Beneficence)：** | 促進病人福祉 | ✅ 提供最佳照護建議 |
+| **不傷害 (Non-maleficence)：** | 避免傷害 | ⚠️ 「不做不必要侵入性操作」 |
+| **正義 (Justice)：** | 公平分配資源 | ✅ 護病比、優先級排序 |
+
+### 9.3 **法律責任與風險管理 🌟**
+* **過失 (Negligence) 四要件：**  
+  1. 護理人員應有「注意義務」  
+  2. 未達標準（違背守則/慣例）  
+  3. 造成傷害  
+  4. 因果關係存在  
+
+* **醫療事故預防策略：**  
+  ✅ 標準化作業流程 (SOP)  
+  ✅ 雙重核對系統  
+  ✅ 不良事件通報文化  
+
+### 9.4 **範例題：倫理兩難情境**
+> **題目：** 「80 歲阿公罹患末期癌症，要求不再使用呼吸機，但家屬希望全力維持生命。此為何種倫理衝突？」  
+> **選項：**  
+> A. 自主 vs. 行善 🌟 ✅  
+> B. 正義 vs. 自主  
+> C. 不傷害 vs. 行善  
+> D. 自主 vs. 正義  
+
+**答案：A** — 病人「自主權」與家屬/護理師「行善責任」產生衝突。
+
+---
+
+## 第十章：醫院安全環境 (Hospital Safety & Environment) 🌟
+
+### 10.1 **職業安全與健康（OSHA）** 🌟
+* **血液傳染病防護：** HBV/HCV/HIV 標準防護措施  
+* **暴露後處理流程：** 立即沖洗→通報→疫苗補打→追蹤檢驗  
+* **化學品管理：** MSDS 標示、危險性評估、個人防護裝備  
+
+### 10.2 **環境安全設施 🌟**
+| 區域 | 安全要求 |
+|------|---------|
+| **急診/加護室** | ✅ 消防設備齊全、應急照明、氣墊床可降下 |
+| **手術室** | ✅ 正壓環境（防感染）、空氣淨化系統 |
+| **放射線科** | ✅ 輻射警示標示、個人劑量計、屏蔽牆體 |
+| **化學實驗區** | ✅ 排風系統、緊急沖洗設備、廢棄物分類 |
+
+### 10.3 **感染控制 (Infection Control)** 🌟🌟
+* **標準預防措施：** 視為所有病人皆可能帶病原，一律採取防護  
+* **隔離防護分級：**  
+  - **飛沫隔離：** N95 口罩（流感、百日咳）  
+  - **接觸隔離：** 手套 + 隔離衣（MRSA/VRE）  
+  - **空氣隔離：** 密閉病房+N95（結核病）  
+
+### 10.4 **考情重點：院內感染通報指標 🌟**
+| 指標 | 定義 | 標準值範例 |
+|------|------|-----------|
+| **醫療相關感染率** | (院內感染數/總暴露人次) × 100% | < 目標值 |
+| **手衛生遵行率** | (觀察洗手次數/總可觀察次數) × 100% | > 80% |
+
+### 10.5 **範例題：安全環境管理**
+> **題目：** 「某病房有 MRSA 感染病人，護理長應採取何種隔離措施？」  
+> **選項：**  
+> A. 飛沫隔離（N95）  
+> B. 接觸隔離（手套 + 隔離衣）✅  
+> C. 空氣隔離（密閉病房）  
+> D. 僅需標準預防  
+
+**答案：B** — MRSA 為接觸傳染，需穿戴防護裝備並避免交叉感染。
+
+---
+
+## 📊 **護理行政考情總覽表**
+
+| 科目區塊 | 典型題數 | 命題趨勢 | 備考策略 |
+|---------|---------|---------|---------|
+| **管理理論** | 1-2 題 | 人物配對、理論比較 | ✅ 背代表人物 + 核心主張 |
+| **品質管理** | 3-4 題 | RCA/HFMEA 情境題 | ✅ 熟記「事後 vs. 事前」差異 |
+| **領導衝突** | 2-3 題 | 情境判斷、策略選擇 | ✅ Thomas-Kilmann 座標圖 |
+| **人力資源** | 1-2 題 | NHPPD 計算、排班原則 | ✅ 公式背熟 + 案例應用 |
+| **法律倫理** | 1-2 題 | 知情同意、四大原則衝突 | ✅ 情境題分析能力 |
+
+---
+
+## 🔴 **Chapter 3: 護理品質管理工具應用**
+
+### 📌 **核心概念**
+```\
+品質管理工具架構：
+├─ RCA（根本原因分析）→ 事件後回顧性分析
+├─ HFMEA（高風險失效模式與效應分析）→ 事前預防性評估
+└─ PDSA 循環（計畫 - 執行 - 研究 - 行動）
+```
+
+### 🧠 **國考記憶法則**
+> 💡 **「品質管理時序 ABC」口訣」**  
+> - **A**fter Event → RCA（事後分析根本原因）  
+> - **B**efore Process → HFMEA（事前預防風險）  
+> - **C**ontinuous Cycle → PDSA（持續改善 PDCA）  
+
+### 📊 **[Image Prompt] - RCA 與 HFMEA 流程對比圖示**
+```\n[Image Prompt: \nCreate a medical quality management diagram comparing:\nLeft side (RCA): Fishbone diagram (Ishikawa) with 5Ms (Man, Machine, Material, Method, Measurement)\nRight side (HFMEA): Failure mode tree analysis showing risk scoring matrix\nBottom section: PDSA cycle flow chart with plan-do-study-act steps\nInclude: Arrows showing timeline (RCA = after incident, HFMEA = before process)\nStyle: Clean quality improvement infographic suitable for nursing administration education]\n```\
+
+### 📋 **護理品質管理工具比較表**
+| 工具 | 適用時機 | 主要目的 | 國考重點 |\n|------|----------|----------|----------|\n| RCA（根本原因分析） | 不良事件發生後 | 找出根本原因並防止再發 | ✅ 高頻：魚骨圖・5Whys 分析法 |\n| HFMEA（失效模式與效應分析） | 新流程導入前 | 預防潛在風險 | ⚠️ 中頻：風險評分計算 |\n| FMEA（失效模式與效應分析） | 一般流程優化 | 評估潛在失效 | ⚠️ 中頻：RPN（Risk Priority Number）計算 |\n| PDSA（計畫 - 執行 - 研究 - 行動） | 持續改善專案 | 小範圍測試後推廣 | ✅ 高頻：PDCA 循環應用 |\n\n### ⚠️ **臨床情境分析題**
+
+**案例 T**:  
+> 78 歲老年病患於護理之家跌倒受傷，醫院啟動「不良事件檢討委員會」進行調查。調查發現跌倒主因為地板濕滑未置放警示牌 + 護士當班人數不足。此情境最適合使用哪種品質管理工具？
+> \nA. HFMEA（事前預防評估）  
+> B. RCA（事後根本原因分析）  
+> C. FMEA（流程優化風險評估）  
+> D. PDSA 循環測試  
+
+**解答與解析**：  
+✅ **答案 B**：跌倒事件已發生 → 屬不良事件檢討，應使用 RCA 找出根本原因並防止再發  
+- **考點**：RCA 用於事後分析；HFMEA 用於事前預防（如新流程導入）  
+- **記憶要點**：「事件已發生=RCA、導入前=HFMEA」  
+
+---
+
+## 🔴 **Chapter 4: 護理人力配置與排班策略**
+
+### 📌 **核心概念**
+```\
+護病比計算公式：
+├─ 基本護病比 → 政府規定最低標準（如：加護病房 1:2）
+├─ 實際護病比 → 視病人病情・護理師資歷調整
+└─ 排班策略 → ABCD 排班法・彈性人力系統
+```
+
+### 🧠 **國考記憶法則**
+> 💡 **「護病比「最低標準」口訣」**  
+> - **加護病房 (ICU)** → 1:2（最嚴謹）  
+> - **一般病房普通病人** → 1:6~8  
+> - **高風險老人/癌症病房** → 1:4~5  
+
+### 📊 **[Image Prompt] - 護理人力配置圖示表**
+```\n[Image Prompt: \nCreate a medical diagram showing nursing staffing ratios:\nTop section: ICU with 1 nurse caring for 2 critically ill patients (red label "1:2")\nMiddle section: Geriatric ward with 1 nurse caring for 4-5 elderly patients (yellow label "1:4~5")\nBottom section: General medical-surgical ward with 1 nurse caring for 6-8 stable patients (green label "1:6~8")\nInclude: Patient acuity indicators (traffic light system - Red=unstable, Yellow=moderate risk, Green=stable)\nStyle: Clear infographic suitable for nursing administration education]\n```\
+
+### 📋 **不同病區護病比最低標準（台灣衛福部規定）**
+| 病區類型 | 病人類型 | 最低護病比 | 國考重點 |\n|----------|----------|------------|----------|\n| ICU（加護病房） | 生命徵象不穩定 | 1:2 | ✅ 極高頻考試題型 |\n| CCU（心血管加護） | 心臟重症 | 1:3 | ⚠️ 中頻記憶重點 |\n| ERER（急診） | 輪流處理不同緊急度病人 | 1:4-6（視時段） | ⚠️ 中頻情境題 |\n| 一般外科/內科病房 | 急性期恢復中 | 1:5~6 | ✅ 高頻基本認知 |\n| 慢性病/療養病區 | 病情穩定 | 1:8~10 | ✅ 基礎認知 |\n\n### ⚠️ **臨床情境分析題**
+
+**案例 U**:  
+> 92 歲男性住進加護病房 (ICU)，因肺炎併發呼吸衰竭，需要機械通氣與血管內置入。該單位護理長根據衛福部規定，應配置至少多少名護理師？
+> \nA. 4 名（1:8）  
+> B. 3 名（1:6）  
+> C. 2 名（1:4）  
+> D. 1 名（1:2）  
+
+**解答與解析**：  
+✅ **答案 D**：ICU + 加護病人 = 最低 1:2，即至少需配置 2 名護理師照顧 2 位重症患者  
+- **考點**：加護病房要求最高人力配置（1:2）以確保高風險病人安全  
+- **記憶要點**：「ICU=最嚴謹、1:2」  
+
+---
+
+✅ **護理行政 Phase 3 已完成！新增 Ch3-4（品質管理工具・人力配置）**
+
+## 🎯 **下一步建議**
+
+根據 master_outline.md，剩餘章節待完成：
+- Ch5-8: 衝突處理・領導風格・績效評估・資訊管理系統等
+
+請指示是否繼續自動編寫下一階段內容？📊
+
+---
+
+## 🔴 **Chapter 5: 衝突處理與領導風格**
+
+### 📌 **核心概念**
+```\
+衝突管理架構：
+├─ 根源分析 → 個人・團隊・組織層級
+├─ Thomas-Kilmann 座標圖（對峙 vs.合作）
+└─ 化解策略 → 溝通・調解・協同決策
+```
+
+### 🧠 **國考記憶法則**
+> 💡 **「衝突處理 ABC」口訣」**  
+> - **A**void（迴避）→ 緊急但無意義的衝突  
+> - **C**ompete（對峙）→ 緊急且關鍵的問題  
+> - **C**ollaborate（協作）→ 長期解決方案  
+
+### 📊 **[Image Prompt] - Thomas-Kilmann 座標圖示意圖**
+```\n[Image Prompt: \nCreate a medical leadership diagram showing Thomas-Kilmann conflict resolution matrix:\nX-axis (Concern for self) vs. Y-axis (Concern for others)\nFour quadrants labeled:\nTop-left: Compete (High concern for self, low for others)\nBottom-right: Collaborate (High concern for both)\nTop-right: Compromise (Medium concern for both)\nBottom-left: Avoid (Low concern for both)\nInclude: Medical team scenarios in each quadrant with arrows pointing to recommended strategies\nStyle: Clean professional diagram suitable for nursing administration education]\n```\
+
+### 📋 **Thomas-Kilmann 衝突處理策略比較**
+| 策略 | 關注自己權益 | 關注他人權益 | 適用情境 | 國考重點 |\n|------|--------------|--------------|----------|----------|\n| 對峙（Compete） | 高 | 低 | 緊急問題・關鍵安全事項 | ✅ 極高頻：醫療糾紛處理 |\n| 協作（Collaborate） | 高 | 高 | 長期解決方案・團隊共識 | ✅ 極高頻：護理品質改善 |\n| 妥協（Compromise） | 中 | 中 | 時間壓力・資源有限時 | ⚠️ 中頻：折衷解決方案 |\n| 迴避（Avoid） | 低 | 低 | 情緒激動・問題不重要時 | ⚠️ 中頻：延遲處理策略 |\n\n### ⚠️ **臨床情境分析題**
+
+**案例 V**:  
+> 護理師小王與資深護理師老張在病患分流安排上意見不合，兩位都堅持己見但都不願退讓。護理長應採取何種衝突處理策略以達成最佳結果？
+> \nA. 迴避（Avoid）→ 暫緩爭議，等待後續討論  
+> B. 妥協（Compromise）→ 各讓一步，雙方都能接受  
+> C. 對峙（Compete）→ 護理長強制決定誰正確  
+> D. 協作（Collaborate）→ 深入溝通尋找共同解決方案  
+
+**解答與解析**：  
+✅ **答案 D**：衝突涉及病患分流（關鍵安全事項），應透過協作方式深入溝通，找出雙方都能接受的最優解  
+- **考點**：協作策略關注雙方權益且能創造「雙贏」解決方案，適合長期改善問題  
+- **記憶要點**：「協作=雙贏・妥協=各退一步・對峙=一方贏」  
+
+---
+
+## 🔴 **Chapter 6: 績效評估與員工發展系統**
+
+### 📌 **核心概念**
+```\
+績效評估架構：
+├─ RBRVS（資源基準相对價值單位）→ 以工作內容而非時長計酬
+├─ KPI 指標設定 → SMART 原則
+└─ 員工發展 → 教育訓練・職涯規劃・專業成長
+```
+
+### 🧠 **國考記憶法則**
+> 💡 **「RBRVS 計算 ABC」口訣」**  
+> - **A**llocation（資源分配）→ 按工作複雜度而非時長計酬  
+> - **B**enchmarking（基準比較）→ 與業界標準對照調整  
+> - **C**ompensation（薪酬設計）→ 公平性・透明化原則  
+
+### 📊 **[Image Prompt] - RBRVS 績效評估流程圖示**
+```\n[Image Prompt: \nCreate a medical quality improvement diagram showing RBRVS-based nurse compensation:\nTop section: Workflow complexity categories (assessment, medication administration, IV therapy)\nMiddle section: Benchmarking with industry standards\nBottom section: Compensation adjustment factors (experience, education, certifications)\nInclude: Flow chart showing assessment → scoring → adjustment → final compensation calculation
+Style: Clear infographic suitable for nursing administration education]\n```\
+
+### 📋 **RBRVS 績效評估要素**
+| 評估項目 | 計算方式 | 國考重點 |\n|----------|----------|----------|\n| 工作複雜度 | 評估時間・技能需求・風險程度 | ✅ 高頻：複雜度評分 |\n| 專業技術 | 認證資格・專科培訓時數 | ✅ 中頻：繼續教育點數 |\n| 工作環境 | 危險性工作・輪班加給 | ⚠️ 中頻：職安相關法規 |\n\n### ⚠️ **臨床情境分析題**
+
+**案例 W**:  
+> 某護理院推動 RBRVS 績效評估制度，資深護理師老李因年資長、工作經驗豐富被分配更多高難度病例。若以 RBRVS 制度計算，其薪資調整最可能如何？
+> \nA. 維持原薪資（按工作時長計酬）  
+> B. 降低薪資（缺乏新技術認證）  
+> C. 提高薪資（符合高複雜度工作項目） ✅  
+> D. 視主管喜好調整（主管評核制）  
+
+**解答與解析**：  
+✅ **答案 C**：RBRVS 以工作內容・技術難度而非時長計酬，資深護理師處理高難度病例應獲得更高薪酬  
+- **考點**：RBRVS 強調「按勞不按时」，鼓勵專業成長與技術提升  
+- **記憶要點**：「RBRVS=複雜度優先、技術越高薪資越高」  
+
+---
+
+✅ **護理行政 Phase 4 已完成！新增 Ch5-6（衝突處理・績效評估）**
+
+## 🎯 **下一步建議**
+
+根據 master_outline.md，剩餘章節待完成：
+- Ch7-8: 法律倫理・溝通協調系統等
+
+請指示是否繼續自動編寫下一階段內容？📊
+
+---
+
+## 🔴 **Chapter 7: 法律倫理與病患權益**
+
+### 📌 **核心概念**
+```\
+法律倫理架構：
+├─ 四大原則 → 自主權・不傷害・行善・正義
+├─ 知情同意流程 → 能力評估・資訊提供・自願決定
+└─ 隱私保護 → HIPAA・台灣個資法對應規範
+```
+
+### 🧠 **國考記憶法則**
+> 💡 **「四大倫理原則 ABC」口訣」**  
+> - **A**utonomy（自主權）→ 病患決定自身醫療  
+> - **B**eneficence（行善）→ 促進病人福祉  
+> - **C**harm-free（不傷害）→ 避免不當治療風險  
+> - **D**istribution（正義）→ 公平分配醫療資源  
+
+### 📊 **[Image Prompt] - 倫理決策四要素圖示**
+```\n[Image Prompt: \nCreate a medical ethics decision-making diagram showing:\nTop section: The four ethical principles (Autonomy, Beneficence, Non-maleficence, Justice)\nMiddle section: Case study examples with arrows pointing to principle-based resolution strategies\nBottom section: Key questions for ethical analysis (capacity assessment, informed consent process, resource allocation fairness)\nInclude: Visual representation of conflict between autonomy and beneficence scenarios
+Style: Clean educational infographic suitable for nursing ethics education]\n```\
+
+### 📋 **醫療倫理四大原則應用情境**
+| 情境 | 自主權優先 | 行善原則優先 | 國考重點 |\n|------|------------|--------------|----------|\n| 病人拒絕必要治療但神智清醒 | ✅ 尊重決定（知情同意） | ⚠️ 需評估決策能力 |\n| 緊急救命但無法取得家屬同意 | ⚠️ 行善優先（推定同） | ✅ 高頻：急救例外原則 |\n| 資源不足時治療順序安排 | ⚠️ 分配公平性 | ✅ 正義原則應用 |\n\n### ⚠️ **臨床情境分析題**
+
+**案例 X**:  
+> 75 歲失智症病人被送到急診室，神志不清無法表達意願。家屬要求進行高風險手術治療，但主治醫師評估病情不適合且成功率低。此情況應如何處理？
+> \nA. 完全遵從家屬意願進行手術（尊重家庭決策）  
+> B. 拒絕手術（維護病患最佳利益） ✅  
+> C. 由病歷保管權決定（醫療團隊投票）  
+> D. 請法院裁定（司法介入）  
+
+**解答與解析**：  
+✅ **答案 B**：緊急情況下無法取得病人自願同意，應以「行善原則」為優先，推定家屬願意接受治療；但若評估不適合且成功率低時，仍應避免造成患者傷害  
+- **考點**：行善原則在不損害病患最佳利益前提下適用  
+- **記憶要點**：「緊急救命 + 評估不適=拒絕治療」（避免無謂傷害）  
+
+---
+
+## 🔴 **Chapter 8: 溝通協調系統與團隊合作**
+
+### 📌 **核心概念**
+```\
+團隊溝通架構：
+├─ SBAR 溝通模式 → Situation・Background・Assessment・Recommendation
+├─ TeamSTEPPS®框架 → 情境意識・互相確認・風險評估
+└─ 跨專業協調 → 醫療・護理・工安・社工整合
+```
+
+### 🧠 **國考記憶法則**
+> 💡 **「SBAR 溝通 ABC」口訣」**  
+> - **S**ituation（情況）→ 為何呼叫支援？  
+> - **B**ackground（背景）→ 相關病史・前測結果  
+> - **A**ssessment（評估）→ 目前問題與風險分析  
+> - **R**ecommendation（建議）→ 下一步行動方案  
+
+### 📊 **[Image Prompt] - SBAR 溝通模式流程圖示**
+```\n[Image Prompt: \nCreate a medical communication diagram showing SBAR framework:\nTop section: Situation box with example (e.g., "Patient Mr. Lee, 78 years old, presenting with chest pain")\nMiddle-left section: Background box with relevant history\nMiddle-right section: Assessment box with current clinical findings and vital signs\nBottom section: Recommendation box with specific request/action items\nInclude: Arrows showing the flow of communication and icons for each component (situation=siren, background=medical records, assessment=stethoscope/monitor, recommendation=palm-down gesture)\nStyle: Clear professional communication chart suitable for nursing education]\n```\
+
+### 📋 **SBAR 溝通模式各要素示例**
+| 要素 | 內容範例 | 國考重點 |\n|------|----------|----------|\n| Situation（情況） | 「78 歲李太太現在呼吸頻率 38 次/分、血氧飽和度 88%」 ✅ 高頻：簡潔明確描述現況 |\n| Background（背景） | 「既往糖尿病史 15 年、曾有心房纖維顫動」 ⚠️ 中頻：相關病史摘要 |\n| Assessment（評估） | 「疑似低血壓性休克，可能需要緊急處理」 ✅ 高頻：專業分析與判斷 |\n| Recommendation（建議） | 「請立即到加護病房評估並準備輸液管建立」 ✅ 極高頻：明確行動方案 |\n\n### ⚠️ **臨床情境分析題**
+
+**案例 Y**:  
+> 護理師小陳發現某病患出現急性呼吸窘迫，使用 SBAR 溝通模式呼叫醫師支援。下列哪項內容「不是 SBAR 必要要素」？
+> \nA. Situation：「張先生現在呼吸頻率 38 次/分、血氧飽和度 88%」 ✅  
+> B. Background：「張先生有慢性阻塞性肺病病史，使用吸入器控制不佳」  
+> C. Assessment：「可能發生急性發作，需要立即處理」  
+> D. Recommendation：「建議等待家屬來後再做進一步評估」 ❌  
+
+**解答與解析**：  
+✅ **答案 D**：SBAR 應在緊急情況下提供明確行動建議，不應延宕處理時間；推薦選項 D 不符合 SBAR 溝通目的  
+- **考點**：緊急狀況下 SBAR 強調「立即行動而非等待」  
+- **記憶要點**：「SBAR=情況・背景・評估・建議（緊急時不需等家屬）」  
+
+---
+
+✅ **護理行政 Phase 5 已完成！新增 Ch7-8（法律倫理・溝通協調）**
+
+## 🎯 **下一步建議**
+
+根據 master_outline.md，剩餘章節待完成：
+- Ch9-10: 資訊管理系統・跨部門合作流程等
+
+請指示是否繼續自動編寫下一階段內容？📊
+
+---
+
+## 🔴 **Chapter 9: 資訊管理系統與電子病歷**
+
+### 📌 **核心概念**
+```\
+資訊管理架構：
+├─ EMR（電子病歷）→ 資料完整性・隱私保護・存取權限
+├─ CPOE（電腦化處方輸入）→ 錯誤率降低・藥物互動警訊
+└─ 資料整合 → 跨部門共享・健康照護連續性
+```
+
+### 🧠 **國考記憶法則**
+> 💡 **「資訊安全 ABC」口訣」**  
+> - **A**ccess Control（存取控制）→ 權限分級管理  
+> - **B**ackup & Restore（備份復原）→ 資料保全策略  
+> - **C**ybersecurity（資安防護）→ 網路威脅防範  
+
+### 📊 **[Image Prompt] - EMR 電子病歷系統架構圖示**
+```\n[Image Prompt: \nCreate a medical information technology diagram showing:\nLeft side: Electronic Medical Record (EMR) system components with patient data entry, vital signs monitoring, medication records\nMiddle section: CPOE system showing prescription input interface with drug interaction alerts and allergy warnings\nRight side: Data integration showing HL7/FHIR standards for interoperability between systems\nBottom section: Security measures including encryption, two-factor authentication, and audit trails\nInclude: Icons for data privacy (lock symbol), backup (cloud with arrows), and cybersecurity (shield)\nStyle: Clear infographic suitable for nursing informatics education]\n```\
+
+### 📋 **醫療資訊系統關鍵功能比較**
+| 系統 | 主要功能 | 國考重點 |\n|------|----------|----------|\n| EMR（電子病歷） | 完整病患記錄・資料整合 | ✅ 高頻：資料完整性原則 |\n| CPOE（電腦處方輸入） | 錯誤率降低・藥物警訊 | ✅ 極高頻：減藥事不良事件 |\n| PACS（影像管理） | 放射檢查圖檔存儲檢索 | ⚠️ 中頻：影像存取權限 |\n\n### ⚠️ **臨床情境分析題**
+
+**案例 Z**:  
+> 某醫院導入 CPOE（電腦化處方輸入）系統後，護士發現病患在接收藥物時出現警訊提示「藥物與過敏史衝突」。此情況顯示 CPOE 系統哪項優勢？
+> \nA. 簡化入院流程  
+> B. 降低藥事錯誤風險 ✅  
+> C. 增加醫師工作負擔  
+> D. 提升病房清潔度  
+
+**解答與解析**：  
+✅ **答案 B**：CPOE 系統自動比對藥物相容性・過敏史・劑量範圍，顯著降低藥事錯誤（如過量・相互作用）  
+- **考點**：CPOE 主要優勢在於預防性警訊與標準化處方流程  
+- **記憶要點**：「CPOE=電腦化處方輸入→減藥事錯誤」  
+
+---
+
+✅ **護理行政 Phase 6 已完成！新增 Ch9（資訊管理系統）**
+
+## 🎯 **下一步建議**
+
+根據 master_outline.md，剩餘章節待完成：
+- Ch10: 跨部門合作流程・整合照護等
+
+請指示是否繼續自動編寫下一階段內容？📊
+
+---
+
+## 🔴 **Chapter 10: 跨部門合作流程與整合照護**
+
+### 📌 **核心概念**
+```\
+跨部門協作架構：
+├─ 個案管理（Case Management）→ 多科會診・資源連結
+├─ 轉診系統 → 急診→加護→病房→復健之銜接
+└─ 健康促進 → 出院追蹤・社區資源整合
+```
+
+### 🧠 **國考記憶法則**
+> 💡 **「跨部門協作 ABC」口訣」**  
+> - **A**dmission（入院）→ 多科評估・團隊配置  
+> - **B**e discharged（出院）→ 轉介準備・家庭訪視  
+> - **C**ontinuity（連續性）→ 醫療資訊傳遞・照護計劃一貫性  
+
+### 📊 **[Image Prompt] - 跨部門協作流程圖示**
+```\n[Image Prompt: \nCreate a medical care continuum diagram showing:\nTop section: Multidisciplinary team huddle with icons for physicians, nurses, social workers, pharmacists collaborating\nMiddle section: Care transition pathway from acute care to rehabilitation to home/community with transfer protocols\nBottom section: Information sharing tools (EMR interoperability, discharge summaries, care coordination apps)\nInclude: Arrows showing continuity of care flow and icons representing different healthcare professionals
+Style: Clear professional diagram suitable for nursing administration education]\n```\
+
+### 📋 **跨部門協作關鍵流程比較**
+| 流程階段 | 主要任務 | 國考重點 |\n|----------|----------|----------|\n| 入院評估（Admission） | 多科會診・風險分層 | ✅ 高頻：入院流程規範 |\n| 轉診準備（Transfer Prep） | 資料整理・家屬溝通 | ✅ 極高頻：病人安全考量 |\n| 出院規劃（Discharge Planning） | 家庭資源連結・追蹤機制 | ✅ 極高頻：預防併發症再發 |\n| 持續照護（Continuity Care） | 醫療資訊傳遞・教育宣導 | ⚠️ 中頻：健康促進策略 |\n\n### ⚠️ **臨床情境分析題**
+
+**案例 AA**:  
+> 70 歲高齡老人於加護病房出院前，護理團隊需與復健科・社會工作部・居家醫療等部門進行跨部門協作。下列哪項「不是優先事項」？
+> \nA. 評估居家環境安全性（如樓梯・浴室設施） ✅  
+> B. 準備完整病歷與追蹤計畫  
+> C. 僅由護理師單獨跟進家屬疑問  
+> D. 安排物理治療師到府訪視  
+
+**解答與解析**：  
+✅ **答案 C**：跨部門協作需多方參與（醫師・護理師・社工・復健師等），單靠護理師一人無法充分評估高齡病人需求  
+- **考點**：整合照護強調團隊合作而非單一專業人員負責  
+- **記憶要點**：「跨部門協作=多專業共同參與」  
+
+---
+
+✅ **護理行政 Phase 7 已完成！新增 Ch10（跨部門合作流程）**
+
+## 🎯 **下一步建議**
+
+根據國考頻率與進度排序：
+
+1. ✅ **7.藥理學.md (67KB)** - 已完成
+2. ✅ **1.護理行政.md (~50KB+)** - 即將完成！✅ 
+3. ⚠️ **3.內外科護理.md (130KB, Phase 7 完成)** → 準備 Phase 8 (Ch16-20)
+4. ⚠️ **6.解剖生理學.md (43KB)** → 繼續擴充至 >50KB
+
+**建議行動**：推送到 GitHub 後，優先處理內外科護理（Phase 8）或解剖生理學（Phase 10）📊
+
+--- 
+
+✅ **本輪自動化編寫流程完成！已推送至 GitHub** 🚀

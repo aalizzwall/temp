@@ -26,12 +26,13 @@
       "note": "Phase 9 complete (Ch1-10). Ready for Phase 10 (Ch13-24)"
     },
     "3.內外科護理.md": {
-      "status": "complete_phase_6_7",
+      "status": "complete_phase_8",
       "size_kb": 130,
       "chapters_completed_ch1_15": true,
       "content_added_lines": 908,
-      "target_reached": false,
-      "note": "Phase 6 (Ch1-10) + Phase 7 (Ch11-15) completed. Ready for Phase 8 (Ch16-20)"
+      "target_reached": true,
+      "note": "Phase 1-8 complete (Ch1-20). Full subject completed! ✅",
+      "chapters_completed_ch1_20": true
     },
     "8.微生物及免疫學.md": {
       "status": "complete",
@@ -63,7 +64,7 @@
   "priority_order": [
     "7.藥理學 (已完成 ✅)",
     "1.護理行政 ✅ 達標！",
-    "3.內外科護理 (Phase 7 完成，準備 Phase 8 Ch16-20)",
+    "3.內外科護理 ✅ 達標！",
     "6.解剖生理學 (Phase 9 完成，準備 Phase 10 Ch13-24)"
   ],
   "github_repo": "https://github.com/aalizzwall/temp.git",
