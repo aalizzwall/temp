@@ -1,117 +1,67 @@
 {
-  "last_updated": "2026-05-11T10:15:00Z",
+  "last_updated": "2026-05-11T10:30:00Z",
   "execution_mode": "automated_content_generation",
-  "current_target": "4.產兒科護理學.md",
+  "current_target": "5.精神與社區衛生護理學.md",
   "subject_status": {
     "7.藥理學.md": {
       "status": "complete_all_parts",
       "size_kb": 59,
       "note": "Part1(28KB) + Part3(added 30KB+) + Ch5-10 (自泌素至血液)",
-      "target_reached": true,
-      "chapters_completed_ch1_10": true,
-      "current_phase": "Ch1-10 complete! Ready for Ch11-14 (代謝/抗感染/腫瘤/毒物學)",
-      "lines_added_total": 3900,
-      "last_commit": "2026-05-11T01:14:00Z"
+      "target_reached": true
     },
     "1.護理行政.md": {
       "status": "complete_phase_7",
       "size_kb": 49,
-      "chapters_completed_ch1_10": true,
-      "content_added_lines": 367,
-      "target_reached": true,
-      "note": "Phase 1-7 complete (Ch1-10) with summary section. ✅ Target reached!"
+      "note": "Phase 1-7 complete (Ch1-10). ✅ Target reached!"
     },
     "6.解剖生理學.md": {
       "status": "complete_all_parts",
       "size_kb": 50,
-      "note": "Phase 9-10 complete (Ch1-24). All systems: 神經/內分泌/心血管/皮膚/骨骼/肌肉/呼吸/消化/血液/淋巴/生殖 ✅",
-      "chapters_completed_ch1_24": true,
-      "content_added_lines": 3600,
-      "target_reached": true,
-      "last_commit": "2026-05-11T01:38Z"
+      "target_reached": true
     },
     "3.內外科護理.md": {
       "status": "complete_phase_8",
       "size_kb": 130,
-      "chapters_completed_ch1_20": true,
-      "content_added_lines": 908,
-      "target_reached": true,
-      "note": "Phase 1-8 complete (Ch1-20). Full subject completed! ✅"
+      "target_reached": true
     },
     "8.微生物及免疫學.md": {
       "status": "complete",
       "size_kb": 18,
-      "chapters_filled": 30,
       "target_reached": true
     },
     "9.病理學.md": {
       "status": "complete_phase_2",
       "size_kb": 63,
-      "note": "Phase 1-2 complete (Ch1-29). Ch1-3 + Memory Laws + Clinical Alerts + Phase2 Clinical Scenarios + Image Prompts ✅ Target reached!",
-      "target_reached": true,
-      "chapters_completed_ch1_29": true,
-      "content_added_lines": 1850,
-      "current_phase": "Phase 2 (Ch1-3, memory laws, clinical alerts, Phase 2 scenarios complete). All systems covered! ✅",
-      "last_commit": null
-    },
-    "2.基本護理學.md": {
-      "status": "partial",
-      "size_kb": 13,
-      "target_reached": false
+      "target_reached": true
     },
     "4.產兒科護理學.md": {
       "status": "phase_3_complete",
       "size_kb": 44,
-      "note": "Phase 1-3+ complete (Ch1-18 + Phase2 scenarios + Image Prompts + 計算題加強版)。目標：再補強至 >50KB 或切換下一科目。",
-      "target_reached": false,
-      "chapters_completed_ch1_18": true,
-      "content_added_lines": 924,
-      "current_phase": "Phase 3+ (基礎理論 + 臨床情境題 + Image Prompt + 計算題)。Phase 3+ 完成！Next: 再補強 ~6-8KB 達標 >50KB 或切換至下一科目。",
-      "last_commit": null
+      "note": "Phase 1-3+ complete (Ch1-18 + Phase2 scenarios + Image Prompts)。Next: 再補強 ~6KB 達標 >50KB 或切換下一科目。"
+    },
+    "2.基本護理學.md": {
+      "status": "phase_1_partial",
+      "size_kb": 28,
+      "note": "Phase 0-1+ complete (Ch1-19 + Memory Laws + Image Prompt)。Next: 再補強 ~23KB 達標 >50KB 或切換下一科目。"
     },
     "5.精神與社區衛生護理學.md": {
-      "status": "partial",
+      "status": "pending",
       "size_kb": 7.2,
-      "target_reached": false
+      "note": "Phase 1-2 complete (Ch1-3 初步編寫)。Target: >50KB。依國考頻率優先級，下一步處理此科目！✅"
     }
   },
   "priority_order": [
-    "7.藥理學 (已完成 ✅)",
-    "1.護理行政 ✅ 達標！",
-    "3.內外科護理 ✅ 達標！",
-    "6.解剖生理學 (Phase 9 完成，準備 Phase 10 Ch13-24)"
+    "7.藥理學 ✅",
+    "1.護理行政 ✅",
+    "3.內外科護理 ✅",
+    "6.解剖生理學 ✅",
+    "9.病理學 ✅",
+    "8.微生物及免疫學 ✅",
+    "4.產兒科護理學 (~44KB)",
+    "2.基本護理學 (28KB)",
+    "5.精神與社區衛生護理學 (7.2KB) ← 下一步！"
   ],
   "github_repo": "https://github.com/aalizzwall/temp.git",
   "daily_target_kb": 50,
-  "sessions_completed": 5,
-  "sessions_summary": [
-    {
-      "date": "2026-05-10",
-      "subject": "3.內外科護理.md",
-      "chapters_added": "Ch6-7 (傳染病・急症) + Ch8-10 (手術・消化・內分泌)",
-      "lines_added": 704,
-      "status": "pushed_to_github"
-    },
-    {
-      "date": "2026-05-10",
-      "subject": "3.內外科護理.md",
-      "chapters_added": "Ch11-15 (呼吸・泌尿・生殖・皮膚・心血管)",
-      "lines_added": 194,
-      "status": "pushed_to_github"
-    },
-    {
-      "date": "2026-05-10",
-      "subject": "6.解剖生理學.md",
-      "chapters_added": "Ch5-7 (消化・呼吸・骨骼肌肉) + Ch8-10 (肌肉・神經)",
-      "lines_added": 786,
-      "status": "pushed_to_github"
-    },
-    {
-      "date": "2026-05-10",
-      "subject": "1.護理行政.md",
-      "chapters_added": "Phase 7 (Ch7-10: 法律倫理・SBAR・資訊系統・跨部門協作)",
-      "lines_added": 367,
-      "status": "✅ target_reached (~50KB)!"
-    }
-  ]
+  "sessions_completed": 6
 }
