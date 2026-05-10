@@ -56,9 +56,12 @@
       "target_reached": false
     },
     "4.產兒科護理學.md": {
-      "status": "partial",
-      "size_kb": 24,
-      "target_reached": false
+      "status": "partial_phase_3",
+      "size_kb": 30,
+      "note": "Ch1-18 complete (產科 + 兒科) + 國考記憶法則總結表",
+      "target_reached": false,
+      "chapters_completed_ch1_18": true,
+      "current_phase": "Phase 3 (Ch1-18 complete). Next target: 9.病理學.md"
     },
     "5.精神與社區衛生護理學.md": {
       "status": "partial",
