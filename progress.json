@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-05-10T08:40:00Z",
+  "last_updated": "2026-05-11T09:45:00Z",
   "execution_mode": "automated_content_generation",
-  "current_target": "3.內外科護理.md",
-    "subject_status": {
-      "7.藥理學.md": {
+  "current_target": "9.病理學.md",
+  "subject_status": {
+    "7.藥理學.md": {
       "status": "complete_all_parts",
       "size_kb": 59,
       "note": "Part1(28KB) + Part3(added 30KB+) + Ch5-10 (自泌素至血液)",
@@ -33,11 +33,10 @@
     "3.內外科護理.md": {
       "status": "complete_phase_8",
       "size_kb": 130,
-      "chapters_completed_ch1_15": true,
+      "chapters_completed_ch1_20": true,
       "content_added_lines": 908,
       "target_reached": true,
-      "note": "Phase 1-8 complete (Ch1-20). Full subject completed! ✅",
-      "chapters_completed_ch1_20": true
+      "note": "Phase 1-8 complete (Ch1-20). Full subject completed! ✅"
     },
     "8.微生物及免疫學.md": {
       "status": "complete",
@@ -46,12 +45,14 @@
       "target_reached": true
     },
     "9.病理學.md": {
-      "status": "partial_phase_1",
-      "size_kb": 13,
-      "note": "Ch4-29 complete + 國考記憶法則總表 + 臨床警訊對照表 + Ch1-3補充",
-      "target_reached": false,
-      "chapters_completed_ch4_29": true,
-      "current_phase": "Phase 1 (Ch1-3, memory laws, clinical alerts added). Next: 更多情境題與 Image Prompt。"
+      "status": "complete_phase_2",
+      "size_kb": 63,
+      "note": "Phase 1-2 complete (Ch1-29). Ch1-3 + Memory Laws + Clinical Alerts + Phase2 Clinical Scenarios + Image Prompts ✅ Target reached!",
+      "target_reached": true,
+      "chapters_completed_ch1_29": true,
+      "content_added_lines": 1850,
+      "current_phase": "Phase 2 (Ch1-3, memory laws, clinical alerts, Phase 2 scenarios complete). All systems covered! ✅",
+      "last_commit": null
     },
     "2.基本護理學.md": {
       "status": "partial",
@@ -64,7 +65,7 @@
       "note": "Ch1-18 complete (產科 + 兒科) + 國考記憶法則總結表",
       "target_reached": false,
       "chapters_completed_ch1_18": true,
-      "current_phase": "Phase 3 (Ch1-18 complete). Next target: 9.病理學.md"
+      "current_phase": "Phase 3 (Ch1-18 complete). Next target: 補充臨床情境分析題 + Image Prompt，目標補強至 >50KB"
     },
     "5.精神與社區衛生護理學.md": {
       "status": "partial",
