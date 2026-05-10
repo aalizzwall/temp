@@ -46,9 +46,12 @@
       "target_reached": true
     },
     "9.病理學.md": {
-      "status": "partial",
-      "size_kb": 7,
-      "target_reached": false
+      "status": "partial_phase_1",
+      "size_kb": 13,
+      "note": "Ch4-29 complete + 國考記憶法則總表 + 臨床警訊對照表 + Ch1-3補充",
+      "target_reached": false,
+      "chapters_completed_ch4_29": true,
+      "current_phase": "Phase 1 (Ch1-3, memory laws, clinical alerts added). Next: 更多情境題與 Image Prompt。"
     },
     "2.基本護理學.md": {
       "status": "partial",
