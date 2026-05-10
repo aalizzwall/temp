@@ -2,12 +2,16 @@
   "last_updated": "2026-05-10T08:40:00Z",
   "execution_mode": "automated_content_generation",
   "current_target": "3.內外科護理.md",
-  "subject_status": {
-    "7.藥理學.md": {
+    "subject_status": {
+      "7.藥理學.md": {
       "status": "complete_all_parts",
-      "size_kb": 67,
-      "note": "Part1(28KB) + Part2(8.8KB) + Original(29KB)",
-      "target_reached": true
+      "size_kb": 59,
+      "note": "Part1(28KB) + Part3(added 30KB+) + Ch5-10 (自泌素至血液)",
+      "target_reached": true,
+      "chapters_completed_ch1_10": true,
+      "current_phase": "Ch1-10 complete! Ready for Ch11-14 (代謝/抗感染/腫瘤/毒物學)",
+      "lines_added_total": 3900,
+      "last_commit": "2026-05-11T01:14:00Z"
     },
     "1.護理行政.md": {
       "status": "complete_phase_7",
@@ -18,12 +22,13 @@
       "note": "Phase 1-7 complete (Ch1-10) with summary section. ✅ Target reached!"
     },
     "6.解剖生理學.md": {
-      "status": "partial_phase_9",
-      "size_kb": 43,
-      "chapters_completed_ch1_10": true,
-      "content_added_lines": 786,
-      "target_reached": false,
-      "note": "Phase 9 complete (Ch1-10). Ready for Phase 10 (Ch13-24)"
+      "status": "complete_all_parts",
+      "size_kb": 50,
+      "note": "Phase 9-10 complete (Ch1-24). All systems: 神經/內分泌/心血管/皮膚/骨骼/肌肉/呼吸/消化/血液/淋巴/生殖 ✅",
+      "chapters_completed_ch1_24": true,
+      "content_added_lines": 3600,
+      "target_reached": true,
+      "last_commit": "2026-05-11T01:38Z"
     },
     "3.內外科護理.md": {
       "status": "complete_phase_8",
