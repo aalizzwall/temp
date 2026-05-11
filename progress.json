@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-05-11T10:45:00Z",
+  "last_updated": "2026-05-11T10:50:00Z",
   "execution_mode": "automated_content_generation",
-  "current_target": "2.基本護理學.md",
+  "current_target": "4.產兒科護理學.md",
   "subject_status": {
     "7.藥理學.md": {
       "status": "complete_all_parts",
@@ -37,12 +37,12 @@
     "4.產兒科護理學.md": {
       "status": "phase_3_complete",
       "size_kb": 44,
-      "note": "Phase 1-3+ complete (Ch1-18 + Phase2 scenarios + Image Prompts)。Next: 再補強 ~6KB 達標 >50KB 或切換下一科目。"
+      "note": "Phase 1-3+ complete (Ch1-18 + Phase2 scenarios + Image Prompts)。Next: 再補強 ~6KB 達標 >50KB！"
     },
     "2.基本護理學.md": {
       "status": "phase_1_partial",
       "size_kb": 28,
-      "note": "Phase 0-1+ complete (Ch1-19 + Memory Laws + Image Prompt)。Next: 再補強 ~23KB 達標 >50KB！"
+      "note": "Phase 0-1+ complete (Ch1-19 + Memory Laws + Image Prompt)。Next: 再補強 ~23KB 達標 >50KB。"
     },
     "5.精神與社區衛生護理學.md": {
       "status": "phase_1_partial",
@@ -57,11 +57,11 @@
     "6.解剖生理學 ✅",
     "9.病理學 ✅",
     "8.微生物及免疫學 ✅",
-    "4.產兒科護理學 (~44KB)",
-    "2.基本護理學 (28KB) ← 下一步！國考高頻次科目",
+    "4.產兒科護理學 (~44KB) ← 下一步！只需再補 ~6KB 達標",
+    "2.基本護理學 (28KB)",
     "5.精神與社區衛生護理學 (24KB)"
   ],
   "github_repo": "https://github.com/aalizzwall/temp.git",
   "daily_target_kb": 50,
-  "sessions_completed": 7
+  "sessions_completed": 8
 }
