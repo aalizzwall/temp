@@ -46,12 +46,13 @@
       "note": "✅ Phase 1+ complete (Ch1-19 + Memory Laws + Image Prompts + Scenarios)。Phase 2新增急救流程/藥物速記/品質指標等。Git Push success!"
     },
     "5.精神與社區衛生護理學.md": {
-      "status": "phase_1_partial",
-      "size_kb": 24,
-      "note": "Phase 0-1+ complete (Ch1-3 + Memory Laws + Image Prompt)。Next: 再補強 ~27KB 達標 >50KB。"
+      "status": "complete_all_parts",
+      "size_kb": 67,
+      "target_reached": true,
+      "note": "✅ Phase 0-1+ + Phase B Complete (Ch9-13 精神科後續章節 + Community CH1-15)。Git Push success! >50KB Target Reached!"
     }
   },
-  "priority_order": [
+"priority_order": [
     "7.藥理學 ✅",
     "1.護理行政 ✅",
     "3.內外科護理 ✅",
@@ -59,9 +60,9 @@
     "9.病理學 ✅",
     "8.微生物及免疫學 ✅",
     "4.產兒科護理學 ✅ (68KB)",
-    "2.基本護理學 ✅ (54.8KB) ← 剛剛完成！",
-    "5.精神與社區衛生護理學 (~13KB)"
-  ],
+    "2.基本護理學 ✅ (54.8KB)",
+    "5.精神與社區衛生護理學 ✅ (67KB) ← 剛剛完成！"
+],
   "github_repo": "https://github.com/aalizzwall/temp.git",
   "daily_target_kb": 50,
   "sessions_completed": 9
