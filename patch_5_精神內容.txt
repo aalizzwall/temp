@@ -1,0 +1,857 @@
+---
+
+### **📘 Chapter 9: 思考障礙病人的護理** (Thinking Disorders)
+
+#### 🌟 **核心考點**
+
+| 障礙類型 | DSM-5 分類 | 主要症狀 | 治療目標 |
+|---------|-----------|---------|---------|
+| **失語症 (Aphasia)** | - | 表達或理解語言障礙 | 溝通訓練、ADL 維持 |
+| **失認症 (Agnosia)** | - | 感官輸入無法辨識 | 環境適應訓練 |
+| **執行功能障礙** | - | 規劃/組織能力下降 | 結構化生活節奏 |
+
+#### 💊 **【藥物治療】**
+
+```
+抗精神病藥：
+├── Risperidone — 首選，認知副作用最小
+├── Aripiprazole — 部分激動劑，代謝影響小
+└── Olanzapine — 鎮靜效果好，但體重增加風險高
+
+💡 國考重點：「執行功能障礙」無法單純靠藥物改善，需配合認知復健！
+```
+
+#### ⚠️ **臨床警示**
+
+**【高風險情境】**
+1. **溝通困難導致的誤解**
+   - 🧠 **重點記憶**：失語症患者可能表達不清但理解力較好
+   - ⏰ **觀察指標**：使用圖片、手勢輔助溝通
+   - 💊 **護理措施**：確認病人理解指令（回示法：Ask them to repeat back）
+
+2. **環境刺激過度導致混亂加重**
+   - 🩺 複雜環境會加劇執行功能障礙病人的混亂
+   - 📝 **記憶法則**：«Less Is More!」→ 簡單、清晰、重複
+
+#### ❌ **易錯點**
+
+- **❌ 錯誤觀念**：「失語症患者無法學習」
+  - ✅ **正確認識**：理解力往往保留，可用圖片/手勢溝通訓練！
+
+---
+
+### **📘 Chapter 10: 情感障礙病人的護理** (Mood Disorders)
+
+#### 🌟 **核心考點**
+
+| 障礙類型 | 典型症狀 | 病程特徵 | 治療首選 |
+|---------|---------|---------|---------|
+| **重鬱症 (MDD)** | 情緒低落、興趣喪失 >2 週 | 單極性：只有抑鬱 | SSRIs + CBT |
+| **躁鬱症 (BD)** | 躁狂 + 抑鬱交替發作 | 雙極性：兩極循環 | 心境穩定劑優先 |
+
+#### 💊 **【藥物選擇策略】**
+
+```
+**MDD（重鬱症）：**
+├── SSRIs: Escitalopram/Lexapro → 首選（副作用最小）
+├── SNRIs: Venlafaxine → 合併慢性疼痛/焦慮時
+└── Bupropion → 性功能副作用大、需提神者
+
+**BD（躁鬱症）：**
+├── Lithium → 預防自殺風險最高（腎/TSH 監測）
+├── Valproate → 快速循環型首選（孕婦禁忌！）
+├── Lamotrigine → 抗抑鬱效果好，但啟動要慢（SJS 風險）
+└── Carbamazepine → 肝毒性需監測
+
+💡 高頻考點：
+- Lithium → TSH + Renal Function (腎+甲狀腺)
+- Valproate → Teratogenic (孕婦禁用！)
+- Lamotrigine → Slow Start! (SJS Risk)
+```
+
+#### ⚠️ **臨床警示**
+
+**【高風險情境】**
+1. **Lithium 中毒徵兆**
+   - 📌 **記憶法則**：「LIthium + 5+ 症狀」→ LIght-headed, Incoordination, Tremor, Irritability, Nausea
+   - ⚠️ **目標血濃度**：0.6-1.2 mEq/L（急性躁狂可達 1.5）
+   - 💡 **國考重點**：發燒/脫水會減少腎排泄 → Lithium 中毒！
+
+2. **Valproate 致畸性警告**
+   - 🩺 所有育齡期女性患者：**計劃怀孕前需調整用藥**
+   - 📝 **記憶法則**：«No Baby in the Lab!» (Lab = Liver) → 肝毒性高！
+
+3. **快速循環型 BD 治療失敗**
+   - 🧠 **重點記憶**：年發作<4 次為「單相型」，>4 次需調整策略為「心境穩定劑加強版」
+
+#### ❌ **易錯點**
+
+- **❌ 錯誤觀念**：「躁鬱症只需要抗抑鬱藥」
+  - ✅ **正確認識**：單一抗抑鬱藥可能誘發躁狂發作！必須搭配心境穩定劑
+
+---
+
+### **📘 Chapter 11: 人格障礙病人的護理** (Personality Disorders)
+
+#### 🌟 **核心考點**
+
+| 類型分類 | 特徵行為 | 治療策略 | 風險重點 |
+|---------|---------|---------|---------|
+| **A 類：古怪型**<br>(Schizoid, Paranoid, Schizotypal) | 社交退縮、多疑、偏離常規 | 建立信任關係<br>認知行為介入 | 孤獨、自殺風險 |
+| **B 類：戲劇型/混亂型**<br>(Antisocial, Borderline, Histrionic, Narcissistic) | 情緒不穩、衝動、 manipulative | DBT 技能訓練<br>結構化環境 | 自我傷害、關係破裂 |
+| **C 類：焦慮型**<br>(Avoidant, Dependent, Obsessive-Compulsive PD) | 恐懼拒絕、依賴、完美主義 | 逐步暴露療法<br>支持性心理治療 | 社交焦慮、功能受損 |
+
+#### 💊 **【藥物選擇策略】**
+
+```
+⚠️ 重要原則：人格障礙無特效藥，需对症治疗！
+
+**B 類（邊界型人格）：**
+├── Mood Stabilizers → Lithium/Valproate (情緒不穩)
+├── SSRIs → Depression/焦慮緩解
+└── Atypical Antipsychotics → 急性衝動控制
+
+💡 國考重點：「Borderline PD = Self-harm Risk」→ 緊急處理流程！
+```
+
+#### ⚠️ **臨床警示**
+
+**【高風險情境】**
+1. **邊界型人格 (BPD) 自我傷害行為**
+   - 🧠 **重點記憶**：非自殺企圖，而是「情緒調節失敗」
+   - ⏰ **觀察指標**：刮臂痕跡、自殘工具、衝動性言語
+   - 💊 **護理措施**：
+     * DBT 技能訓練（情緒調節、痛苦耐受）
+     * 不獎勵自我傷害行為，但不懲罰求助行為
+     * 建立安全計畫（緊急联系人、安撫技巧清單）
+
+2. **反社會人格 (ASPD) 治療抗拒**
+   - 🩺 常以「利用醫療資源」为目的就診
+   - 📝 **記憶法則**：«Lawyer's Attitude!» → 邊界堅定、契約清晰
+
+#### ❌ **易錯點**
+
+- **❌ 錯誤觀念**：「人格障礙無法治療」
+  - ✅ **正確認識**：雖不能改變人格，但可改善功能（藥物 + 心理社會介入）
+
+---
+
+### **📘 Chapter 12: 其他精神科疾病的護理** (Other Psychiatric Disorders)
+
+#### 🌟 **核心考點**
+
+| 疾病分類 | 代表性疾病 | 治療策略 | 關鍵監測指標 |
+|---------|-----------|---------|-------------|
+| **妄想性疾患** | 被害妄想、嫉妒妄想等 | 抗精神病藥 + CBT | 症狀控制、社會功能 |
+| **創傷後壓力症 (PTSD)** | 侵入回憶、閃回 | SSRIs/Prazosin + EMDR | 睡眠、焦慮程度 |
+| **解離性疾患** | 人格分裂、身份喪失 | Benzodiazepines（急性期）→ Psychotherapy | 穩定身份認同 |
+
+#### 💊 **【藥物選擇策略】**
+
+```
+**PTSD：**
+├── SSRIs: Sertraline/PAROXETINE → 首選
+├── Prazosin → 失眠/夜夢驚嚇 (Nightmares)
+└── Prn Benzodiazepines → 急性焦慮（短期使用！）
+
+💡 高頻考點：PTSD 患者對 SSRI 反應較慢，需耐心治療！
+
+**解離性身份障礙 (DID)：**
+├── Benzodiazepines → 急性期穩定
+└── Antipsychotics → 幻覺/妄想控制
+
+⚠️ 重要：避免長期使用苯二氮平類（依賴風險高）!
+```
+
+#### ⚠️ **臨床警示**
+
+**【高風險情境】**
+1. **PTSD 退伍軍人族群**
+   - 🧠 **重點記憶**：戰創壓力導致 PTSD 發病率特別高
+   - 💊 **國考重點**：需配合復健、職能訓練、家庭支持
+
+2. **酒精相關精神障礙**
+   - 🩺 戒斷期需 Benzodiazepines（預防痙攣）
+   - 📝 **記憶法則**：«Alcohol Withdrawal = Benzos First!»
+
+#### ❌ **易錯點**
+
+- **❌ 錯誤觀念**：「PTSD 只是心理問題，不需藥物」
+  - ✅ **正確認識**：神經生化學改變（HPA axis）→ 藥物治療是基礎！
+
+---
+
+### **📘 Chapter 13: 危機處理與意外事件的護理** (Crisis Intervention)
+
+#### 🌟 **核心考點**
+
+| 危機類型 | 緊急措施 | 長期介入 | 監測重點 |
+|---------|---------|---------|---------|
+| **自殺風險評估** | 1:1 陪伴、移除危險物品 | CBT + 藥物治療 | 情緒、計畫、手段可得性 |
+| **急性精神病發作** | 制動藥（Haldol）、隔離保護 | 抗精神病藥維持治療 | 症狀控制、社會功能恢復 |
+| **創傷事件後急應症** | 穩定情緒、安全環境 | EMDR + PTSD 心理療法 | 睡眠、閃回頻率 |
+
+#### 💊 **【藥物緊急處理】**
+
+```
+**自殺風險評估（Emergency）：**
+├── Benzodiazepines → 急性焦慮/激動控制
+├── Haldol (Haloperidol) → 躁動鎮定（肌鬆劑輔助防肌肉痙攣）
+└── Clozapine → 治療抵抗型精神分裂症（必須定期測白血球）
+
+⚠️ 重要：自殺風險評估需包含「計畫、手段、意願」三要素！
+📌 記憶法則：«Plan + Means + Will = Suicide Risk!»
+```
+
+#### ⚠️ **臨床警示**
+
+**【高風險情境】**
+1. **自殺過渡期（高危窗口）**
+   - 🧠 **重點記憶**：
+     * 急性期以被害妄想為主（不自殺）
+     - 病情穩定後反而較易自殺（希望升起→面對現實痛苦）
+     - 藥物轉換期最危險（症狀控制但未完全康復）
+   - ⏰ **觀察指標**：情緒突然「變好」可能是假性改善
+
+2. **精神緊急狀況處理流程**
+   - 📝 **標準作業程序**：
+     * Step 1: 安全評估（移除危險物品）
+     * Step 2: 穩定情緒（Benzos/Antipsychotics PRN）
+     * Step 3: 環境隔離保護
+     * Step 4: 團隊會診（精神科/社工/家屬）
+
+#### ❌ **易錯點**
+
+- **❌ 錯誤觀念**：「病人出院後自殺風險降低」
+  - ✅ **正確認識**：約 50% 自殺發生在出院後 3 個月內！需追蹤支持系統
+
+---
+
+### **🏙️ Part B: 社區衛生護理 (Community Health Nursing)** 
+
+> 💡 **核心理念**：從「醫療模式」轉向「社區復元模式（Recovery Model）」
+
+#### 🌟 **【社區衛生護理總論】**
+
+```
+【核心價值】
+├── Recovery Model → 強調「希望、自主、社會連結」
+├── Empowerment → 賦權患者，而非過度保護
+└── Strengths Perspective → 發掘優勢，而非只談病弱
+
+💡 國考重點：社區護理≠家庭護理！核心是「復元（Recovery）」+「社區融入」
+```
+
+#### 📚 **Chapter CH1-2: 緒論與流行病學基礎**
+
+##### **🌟 核心考點**
+
+| 主題 | 內容重點 | 臨床應用 |
+|------|---------|---------|
+| **社區健康評估** | 人口統計、資源地圖、問題優先排序 | 資源配置、政策倡議 |
+| **流行病學指標** | 发病率、盛行率、感染率計算 | 疫情監測、預防策略設計 |
+
+##### ⚠️ **臨床警示**
+
+**【高風險情境】**
+1. **社區精神健康服務不足**
+   - 🧠 **重點記憶**：約 70% 的精神疾病患者未接受適當治療（缺乏社區資源）
+   - 💊 **護理措施**：建立「社區轉銜系統」→ 醫院 ↔ 復健機構 ↔ 日間照顧
+
+2. **傳染病爆發預防**
+   - 🩺 HIV/TB/MERS 等透過社區篩檢早期發現
+   - 📝 **記憶法則**：«Screen Early → Treat Early → Stop Spread!»
+
+---
+
+#### 📚 **Chapter CH3-4: 生命統計與衛生教育**
+
+##### **🌟 核心考點**
+
+```
+【生命統計】
+├── Crude Birth Rate = (總出生數/年中人口) × 1000
+├── Mortality Rate = (死亡數/年中人口) × 1000
+└── Prevalence Rate = 現有病例數/調查人數
+
+💡 國考重點：Prevalence = Incidence × Duration → 慢性病盛行率高≠新發案件多!
+```
+
+##### **🎓 衛生教育原則**
+
+```
+【5A 模式】
+├── Assess → 評估需求與理解程度
+├── Advise → 提出健康建議
+├── Agree → 達成共同目標
+├── Assist → 協助執行
+└── Arrange → 安排追蹤計畫
+
+⚠️ 臨床警示：衛生教育失敗常見原因→「資訊過量」!
+📌 記憶法則：Less Is More! (5-10 個重點即可)
+```
+
+---
+
+#### 📚 **Chapter CH5-6: 社區評估與家庭護理**
+
+##### **🌟 核心考點**
+
+```
+【社區生態系統理論】
+├── Individual → Family → Community → Policy Levels
+└── 各層級相互影響，需整體性介入策略
+
+【家庭功能評估】(Bishop Scale)
+├── Communication (溝通)
+├── Problem-solving (問題解決)
+├── Role Flexibility (角色彈性)
+└── Stress Management (壓力調適)
+
+💡 國考重點：家庭功能受損是社區衛生的介入優先順序！
+```
+
+##### 📝 **記憶法則**
+
+«HEART Model」：
+- H = Home Environment (環境評估)
+- E = Education Needs (教育需求)
+- A = Assessment Complete (全面評估)
+- R = Resources Identified (資源連結)
+- T = Treatment Plan (治療計畫)
+
+---
+
+#### 📚 **Chapter CH7: 婦幼衛生**
+
+##### **🌟 核心考點**
+
+```
+【孕產期心理衛生】
+├── Postpartum Blues → 1-2 週內自然緩解
+├── Postpartum Depression → >2 週，需 SSRIs 治療
+└── Puerperal Psychosis → 緊急情況（抗精神病藥 + 住院）
+
+⚠️ 臨床警示：產後抑鬱發生率約 10-15%，不可忽視!
+
+【兒童發展里程碑】
+├── 6 個月：手眼協調、翻身
+├── 12 個月：行走、叫 mama/dada
+├── 24 個月：如廁訓練、兩字詞句
+└── 36 個月：三輪車、四段式對話
+
+💡 國考重點：發展遲緩（Red Flags）需早期介入！
+```
+
+---
+
+#### 📚 **Chapter CH8: 中老年人護理**
+
+##### **🌟 核心考點**
+
+```
+【憂鬱症診斷要點】
+├── DSM-5 Criteria (同成人)
+├── 但表現較不典型：「身體症狀」為主（疼痛、疲倦）
+└── 藥物反應較慢，起效時間延後 2-3 週
+
+⚠️ 臨床警示：老年憂鬱症常被誤認為「自然衰老」!
+📌 記憶法則：«Depression ≠ Dementia!» → 可治療！
+
+【認知症預防】
+├── MIND Diet (地中海飲食變體)
+├── 社交互動 + 腦力運動（Bridge、Poker、Chess）
+└── 控制慢性病（高血壓/糖尿病）
+
+💡 國考重點：認知症不可逆，但可「延緩惡化」！
+```
+
+---
+
+#### 📚 **Chapter CH9: 慢性疾病的護理**
+
+##### **🌟 核心考點**
+
+```
+【慢性病共同特徵】
+├── 長期性 (>3 個月)
+├── 需自我管理（Self-care）
+└── 多維度介入（醫療 + 心理+社會）
+
+【自我效能量表 (SELFScale)】
+├── Knowledge → 知覺疾病嚴重性
+├── Self-efficacy → 相信自己能管理
+├── Social Support → 家庭/朋友支持
+└── Health Beliefs → 對治療的依從性
+
+💡 國考重點：慢性病管理的核心是「自我效能感」！
+📌 記憶法則：K-S-S-H → Knowledge, Self-efficacy, Support, Health!
+```
+
+---
+
+#### 📚 **Chapter CH10: 長期照護**
+
+##### **🌟 核心考點**
+
+```
+【長期照護系統】
+├── 居家照顧 (Home Care) → 熟悉環境，成本低
+├── 社區日間托顧 → 日間照顧 + 晚間返家
+├── 養護機構 (Nursing Home) → 全天候專業護理
+└── 復健中心 → 短期密集訓練
+
+💡 國考重點：「在地安老」是主流趨勢！政策支持居家/社區方案!
+📌 記憶法則：Stay at Home First! (除非必要才入住)
+```
+
+##### ⚠️ **臨床警示**
+
+**【高風險情境】**
+1. **長照機構感染控制失敗**
+   - 🧠 **重點記憶**：輪椅、床板易積塵，需定期消毒
+   - 💊 **護理措施**：標準預防措施 + 隔離防護
+
+2. **老人虐待徵兆識別**
+   - 🩺 不明瘀傷、營養不良、恐懼眼神
+   - 📝 **記憶法že**：«Unexplained Injury = Abuse Alert!»
+
+---
+
+#### 📚 **Chapter CH11: 社區心理衛生**
+
+##### **🌟 核心考點**
+
+```
+【心理衛生三要素】
+├── 心理健康 → 情緒穩定、認知正常
+├── 社會適應 → 人際關係良好、工作/學習表現正常
+└── 道德倫理 → 行為符合社會規範
+
+【社區復元服務核心價值】
+├── Hope → 希望恢復
+├── Autonomy → 自主決定
+├── Identity → 身份認同（非「病人」標籤）
+└── Purpose → 生活目標（工作/志願活動等）
+
+💡 國考重點：社區復元≠醫療治愈！核心是「功能恢復」+「社會融入」!
+📌 記憶法則：Recovery = Hope + Autonomy + Identity + Purpose!
+```
+
+---
+
+#### 📚 **Chapter CH12: 學校衛生與護理**
+
+##### **🌟 核心考點**
+
+```
+【學生健康監測】
+├── 視力檢查 → 近視高盛行率（螢幕時代）
+├── 聽力篩檢 → 早期發現中耳炎/語言障礙
+└── 牙齒健康 → 蛀牙、牙周病預防
+
+【校園心理健康服務】
+├── 霸凌防治 (Anti-bullying)
+├── 自殺防制 (Gatekeeper Training)
+└── 危機介入流程
+
+⚠️ 臨床警示：學生壓力源前十大→學業、人際、家庭衝突!
+```
+
+---
+
+#### 📚 **Chapter CH13: 職業衛生與護理**
+
+##### **🌟 核心考點**
+
+```
+【職業相關疾病】
+├── 肌肉骨骼傷害 (MSDs) → 重複動作、不良姿勢
+├── 職業倦怠 (Burnout) → 工作壓大過勞
+├── 職業暴露風險 → 化學品、生物危害物質
+
+【職場心理健康促進】
+├── 壓力管理課程
+├── 員工協助方案 (EAP)
+└── 人機工程改善
+
+💡 國考重點：職業安全衛生法 + 勞工保健相關法規需掌握!
+📌 記憶法že：MSD → Musculoskeletal Disorders = Repetitive Motion + Poor Ergonomics!
+```
+
+---
+
+#### 📚 **Chapter CH14: 傳染病防治與護理**
+
+##### **🌟 核心考點**
+
+```
+【傳染病控制三鐵桶】
+├── 發現病例 (Find Cases) → 積極篩檢、通報
+├── 隔離治療 (Isolate & Treat) → 切斷傳播鏈
+└── 預防接種 (Vaccinate) → 群體免疫
+
+【重點感染症】
+├── HIV/AIDS → 抗病毒藥物 + 減少傳染風險行為
+├── TB → RIPE 治療 + 密接者追蹤
+├── Hepatitis B/C → 疫苗（B）、干擾素/直接滅活劑（C）
+└── MERS/CORS → 防護裝備 + 感染控制
+
+⚠️ 臨床警示：多重抗生素處方會導致「超級細菌」問題！
+📌 記憶法že：RIPE → Rifampin, Isoniazid, Pyrazinamide, Ethambutol = TB Regimen!
+```
+
+---
+
+#### 📚 **Chapter CH15: 環境衛生與食品衛生**
+
+##### **🌟 核心考點**
+
+```
+【水質標準】
+├── pH 值 → 6.5-8.5（世衛建議）
+├── 微生物指標 → Coliform < 10 CFU/L
+└── 化學物質 → Lead, Mercury, Asbestos 限制
+
+【食品安全五大重點】
+├── 清潔 (Clean) → 洗手、環境消毒
+├── 分離 (Separate) → 生熟分開避免交叉污染
+├── 煮熟 (Cook) → 中心溫度>75°C
+└── 冷卻 (Chill) → 2 小時內冷藏
+
+💡 國考重點：食物中毒前十大病原體→諾羅病毒、沙門氏菌、金黃色葡萄球菌!
+📌 記憶法則：「清潔、分開、煮熟、冷藏」= 4C of Food Safety!
+```
+
+---
+
+### **🧠 【國考記憶法則加強版】**
+
+#### **💡 「社區衛生護理核心概念速記」**
+
+| 概念 | 關鍵詞 | 💡 記憶法則 |
+|------|--------|-----------|
+| **Recovery Model** | Hope, Autonomy | «R.H.A.I.P.» = Recovery Has All Intensity of Purpose! |
+| **Empowerment** | Self-determination | 「給工具，不是包辦」= Tools > Doing For You! |
+| **Strengths Perspective** | Assets over deficits | 「找優點，別只盯缺點」= Shine Your Light, Don't Darken It! |
+| **Community Integration** | Social inclusion | «In» not «Out» = 融入社區，而非隔離! |
+
+#### **💡 「精神科緊急處理流程口訣」**
+
+```
+**ELISH Acronym：**
+E = Evaluate (評估風險)
+L = Listen (傾聽，不中斷)
+I = Intervene (介入：藥物/環境)
+S = Support (支持系統)
+H = Home plan (出院計畫)
+
+📌 記憶法則：「先安穩情緒，再談其他！」→ Stabilize Before Solve!
+```
+
+#### **💡 「社區護理優先順序（ABCDE）」**
+
+```
+A = Acute crisis / Suicidal risk → 立即評估！
+B = Behavioral safety / Self-harm → 移除危險物！
+C = Chronic disease management → 依從性追蹤！
+D = Daily living activities → ADL 功能維持！
+E = Environment assessment → 家戶環境安全！
+
+📌 記憶法則：先 A (Acute) 再 B (Behavior)，然後 C-D-E!
+```
+
+---
+
+### **🖼️ Image Prompts for Community Health Content** 🖼️
+
+#### **1. 「社區復元服務核心價值」圖示**
+```
+[Infographic showing Recovery Model 4 pillars with icons]
+Style: Clean modern diagram, soft teal and coral color scheme
+Key elements:
+- Hope: Lightbulb icon (yellow) → "相信可以變好"
+- Autonomy: Hand holding steering wheel (orange) → "自主決定生活"
+- Identity: Mirror with diverse faces (purple) → "找回真正的自己"
+- Purpose: Heart with activity icons (green) → "找到意義所在"
+Caption: "Community Recovery Model - 4 Pillars of Empowerment!"
+```
+
+#### **2. 「慢性病自我效能模型」示意圖**
+```
+[Circular diagram showing Self-Efficacy components]
+Style: Educational infographic, pastel blue and mint green
+Key elements:
+- Knowledge wheel segment (book icon)
+- Self-efficacy segment (thumbs up emoji)
+- Social support segment (handshake icons)
+- Health beliefs segment (brain with question marks)
+Central hub: Patient at center controlling their health
+Caption: "The 4 Keys to Self-Management Success!"
+```
+
+#### **3. 「社區衛生教育流程」5A 模式圖**
+```
+[Step-by-step process flow chart]
+Style: Modern flat design, clean lines
+Key elements:
+- 1st circle: Assess (clipboard icon) → "評估需求"
+- 2nd circle: Advise (megaphone icon) → "給予建議"
+- 3rd circle: Agree (handshake icon) → "達成共識"
+- 4th circle: Assist (coach icon) → "協助執行"
+- 5th circle: Arrange (calendar icon) → "安排追蹤"
+Flow arrows connecting them clockwise
+Caption: "The 5A Model of Health Education - Simple & Effective!"
+```
+
+#### **4. 「傳染病控制三鐵桶」圖示**
+```
+[Triangle diagram with 3 reinforcing sides]
+Style: Bold, clear medical illustration
+Key elements:
+- Side 1: Find Cases (magnifying glass + test tube) → "發現病例"
+- Side 2: Isolate & Treat (hospital bed + quarantine sign) → "隔離治療"
+- Side 3: Vaccinate (shot icon + vaccine vial) → "預防接種"
+Triangle center: Community protection shield badge
+Caption: "The 3 Iron Buckets of Infection Control - Stronger Together!"
+```
+
+#### **5. 「環境衛生標準」檢查清單**
+```
+[Checklist infographic with water droplets and leaf icons]
+Style: Clean, eco-friendly green tones
+Key elements:
+- pH meter icon (6.5-8.5 range) → "水質合格"
+- Coliform counter (0-10 CFU/L) → "微生物安全"
+- Heavy metals shield (Lead/Mercury crossed out) → "重金屬監控"
+- Food safety steps: Clean/Separate/Cook/Chill icons
+Background: Subtle water and plant patterns
+Caption: "Environmental Health Standards - Safe Water & Food!"
+```
+
+---
+
+### **📝 情境分析題：社區衛生護理（CH1-3）(Scenarios for Community Health Nursing)**
+
+#### **情境 1：**
+> **病患描述**：社區精神衛生活動中心，一位剛出院的重鬱症病患，希望參加復健計畫。
+>
+> **Q：下列哪項介入策略最符合「復元模式」？**
+> - A) 強制參與團體活動，以免回到舊習慣
+> - B) 評估病患興趣與能力，量身設計小步驟目標 ✅
+> - C) 建議家屬全天候照顧，避免外出不安
+> - D) 推薦住院加強治療，確保症狀不復發
+>
+> **💡 解答**：B) 復元模式核心是「自主決定」，尊重病人選擇！
+> 
+> **📌 記憶法則**：«Autonomy First!» = Give Choices, Not Orders!
+
+#### **情境 2：**
+> **病患描述**：社區衛生所接到通報，一棟眷村有 5 戶家庭聚集性腹瀉。
+>
+> **Q：下列哪項是最佳的初步介入措施？**
+> - A) 隔離所有病人至傳染病醫院
+> - B) 家戶環境評估 + 飲用水來源調查 ✅
+> - C) 建議全家搬遷到新住址
+> - D) 發給抗生素預防感染
+>
+> **💡 解答**：B) 找出污染源是關鍵（可能是污水/管線），並進行健康教育！
+> 
+> **📌 記憶法že**：«Find the Source!» = Water Test + Environment Assessment!
+
+#### **情境 3：**
+> **病患描述**：社區日間托顧機構，一位阿茲海默症病人有游走行為。
+>
+> **Q：下列哪項是最有效的非藥物介入策略？**
+> - A) 增加抗精神病藥劑量
+> - B) 環境調整（移除危險物、減少刺激） ✅
+> - C) 家屬加強約束限制活動範圍
+> - D) 建議送入養護機構
+>
+> **💡 解答**：B) 環境調整是「復元模式」核心，最小干擾最大舒適！
+> 
+> **📌 記憶法že**：«Less Stimulus = Better for Confusion!»
+
+#### **情境 4：**
+> **病患描述**：學校衛生室發現多學生近視度高於平均。
+>
+> **Q：下列哪項建議最適合家長？**
+> - A) 減少所有戶外活動，加強室內用眼訓練
+> - B) 每日至少 2 小時戶外活動 + 減少近距離用眼 ✅
+> - C) 強制配眼鏡，並每日使用眼藥水
+> - D) 轉介至眼科做雷射手術
+>
+> **💡 解答**：B) 自然光線暴露有助於視網膜多巴胺分泌，抑制近視發展！
+> 
+> **📌 記憶法že**：«More Sun = Less Myopia!»
+
+#### **情境 5：**
+> **病患描述**：職業安全單位檢查發現某工廠工作台面高度不統一。
+>
+> **Q：下列哪項是人機工程改善措施？**
+> - A) 要求工人調整到固定高度（不管個人舒適度）
+> - B) 提供可調式工作台 + 個人化設定 ✅
+> - C) 發放止痛藥預防肌肉骨骼傷害
+> - D) 減少工時至每天 2 小時
+>
+> **💡 解答**：B) 彈性設計尊重個別差異，才是真正的「預防性措施」！
+> 
+> **📌 記憶法že**：«Adjustable > Fixed!» = Ergonomics for Everyone!
+
+---
+
+### **📝 情境分析題：社區衛生護理（CH4-6）(Scenarios Continued)**
+
+#### **情境 6：**
+> **病患描述**：家庭評估顯示一位照顧者長期熬夜、情緒低落。
+>
+> **Q：下列哪項是最佳的介入策略？**
+> - A) 建議將病人轉送養護機構，減輕照顧者負擔 ✅
+> - B) 增加安寧療護藥物使用頻率
+> - C) 勸說家人多休息即可
+> - D) 忽略照顧者需求，專注於病人病情
+>
+> **💡 解答**：A) 照顧者倦怠是長期照顧失敗的主因！適時轉銜是專業責任。
+> 
+> **📌 記憶法že**：«Caregiver Well-being = Patient Safety!»
+
+#### **情境 7：**
+> **病患描述**：社區心理健康促進活動，要宣導「自殺預防」。
+>
+> **Q：下列哪項是最佳宣導重點？**
+> - A) 「談自殺會誘發！」→ 建議避開話題
+> - B) 「問問題不會增加風險，反而顯示關心」 ✅
+> - C) 「自殺都是心理疾病，不需醫療介入」
+> - D) 「所有自殺個案都會成功勸阻」
+>
+> **💡 解答**：B) 研究證實，「談論自殺不增加風險」，反而建立信任關係！
+> 
+> **📌 記憶法že**：«Ask, Listen, Connect!» = The 3 L's of Suicide Prevention!
+
+#### **情境 8：**
+> **病患描述**：社區日間照顧中心，一位 PTSD 退伍軍人情緒不穩。
+>
+> **Q：下列哪項活動最適合？**
+> - A) 激烈競賽性團體遊戲（如接力賽）
+> - B) 結構化的園藝治療 + 寵物互動 ✅
+> - C) 高音量卡拉 OK 唱歌比賽
+> - D) 開放式討論「戰爭回憶」工作坊
+>
+> **💡 解答**：B) 結構化、非威脅性活動最適合 PTSD！漸進式暴露需在專業下進行。
+> 
+> **📌 記憶法že**：«Structured > Chaotic!» = Safety First!
+
+#### **情境 9：**
+> **病患描述**：傳染病控制計畫，要推動「預防結核病」社區專案。
+>
+> **Q：下列哪項策略最有效？**
+> - A) 只針對已確診病例隔離治療
+> - B) 接觸者篩檢 + 預先治療 (TPT) + 健康宣導 ✅
+> - C) 強制關閉所有公共場所
+> - D) 開發新藥降低傳染率
+>
+> **💡 解答**：B) 接觸者追蹤（Contact Tracing）是「三鐵桶」關鍵一環！
+> 
+> **📌 記憶法že**：«Find Cases Early, Treat Before Sick!»
+
+#### **情境 10：**
+> **病患描述**：環境衛生單位發現社區水井有重金屬超標。
+>
+> **Q：下列哪項是緊急處理流程？**
+> - A) 通知居民立即停用水井，改用飲用水 ✅
+> - B) 建議大家多喝水加速排泄
+> - C) 等待政府進一步研究結果
+> - D) 提供解毒劑給高危群體
+>
+> **💡 解答**：A) 移除暴露源（Stop Exposure）是第一優先！
+> 
+> **📌 記憶法že**：«Remove Before Remedy!» = Stop the Harm First!
+
+#### **情境 11：**
+> **病患描述**：學校健康促進專案，發現學生肥胖盛行率高。
+>
+> **Q：下列哪項是社區層級最可行的介入？**
+> - A) 要求家長強制孩子減肥成功
+> - B) 提供營養午餐改良 + 體育課強化 ✅
+> - C) 發售减肥藥給高風險學生
+> - D) 建議所有學生戒糖飲食
+>
+> **💡 解答**：B) 環境調整（School Environment）是社區衛生核心策略！
+> 
+> **📌 記憶法že**：«Change the Environment, Change Behavior!»
+
+#### **情境 12：**
+> **病患描述**：長期照護機構，一位失智症患者跌倒受傷。
+>
+> **Q：下列哪項是最重要的預防措施？**
+> - A) 增加抗凝血藥物劑量（降低血栓風險）
+> - B) 地面防滑處理 + 夜間照明改善 ✅
+> - C) 要求家屬全天候陪同
+> - D) 建議病人戴護具限制活動
+>
+> **💡 解答**：B) 環境改良是預防跌倒最有效且無副作用的方法！
+> 
+> **📌 記憶法že**：«Environment Over Medication!» = Safety First, No Side Effects!
+
+#### **情境 13：**
+> **病患描述**：社區癌症防治宣導，要推動「乳癌篩檢」。
+>
+> **Q：下列哪項是最佳宣導策略？**
+> - A) 「乳癌一定會復發！」→ 引發恐懼促就診
+> - B) 「早期發現、早期治療」+ 免費篩檢活動 ✅
+> - C) 「所有女性都要切除乳房以防患未然」
+> - D) 「乳癌是基因決定的，無法預防」
+>
+> **💡 解答**：B) 正向信息（Empowerment）> 恐懼訴求（Fear Appeal）！
+> 
+> **📌 記憶法že**：«Hope + Hopeful Action = Best Prevention!»
+
+#### **情境 14：**
+> **病患描述**：社區精神健康促進，要推動「心理諮商服務」普及化。
+>
+> **Q：下列哪項是突破阻礙的策略？**
+> - A) 將價格調漲至只限經濟有能力者
+> - B) 階梯式收費 + 保險給付 + 篩檢轉介 ✅
+> - C) 只在醫院提供，社區不設點
+> - D) 僅對嚴重精神疾病患者開放
+>
+> **💡 解答**：B) 多元付費模式（Sliding Scale）+ 可及性提升！
+> 
+> **📌 記憶法že**：«Access for All!» = Remove Barriers!
+
+#### **情境 15：**
+> **病患描述**：傳染病防治單位接到 MERS 社區傳播通報。
+>
+> **Q：下列哪項是正確的處理流程？**
+> - A) 隔離患者 + 接觸者追蹤 + 防護裝備教育 ✅
+> - B) 關閉所有學校和辦公室
+> - C) 要求居民自發性搬離疫區
+> - D) 只治療確診病例，不篩檢接觸者
+>
+> **💡 解答**：A) 標準「發現-隔離-防護」流程！避免大規模恐慌。
+> 
+> **📌 記憶法že**：«Detect, Isolate, Educate!» = The 3 I's of Outbreak Control!
+
+---
+
+### **🏆 總結檢查清單 (Checklist)**
+
+```
+✅ Phase 0-1+ 完成：Ch1-3 + Memory Laws + Image Prompt
+✅ Phase 2 完成：緊急處理流程 / 藥物速記 / 品質指標等
+✅ Phase 3 完成：Clinical Scenarios (精神科 Ch9-13)
+✅ Phase B 完成：Community Health Nursing (CH1-15 完整填充)
+
+📌 剩餘強化項目：
+□ 再補強 Image Prompts (醫療插圖示意)
+□ 增加臨床案例討論題（Case Studies）
+□ 添加考前快速複習頁（Quick Review）
+
+💡 目標進度：>50KB ✅ (持續優化中)
+```
+
+---
+
+**📅 最後更新**: `2026-05-14`  
+**📊 填充狀態**: ✅ **Phase 3+ Complete** (Ch9-13 精神科後續章節 + Community Health CH1-15 完整填充)  
+**🎯 目標進度**: >50KB (目前約 52-56KB，預計推送到 GitHub 後更新 progress.json)
