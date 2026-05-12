@@ -24,9 +24,10 @@
    "target_reached": true
   },
   "9.病理學.md": {
-   "status": "complete_chapter1-8_plus_appendices",
-   "size_kb": 40,
-   "note": "✅ Chapter1-8 + Appendices A-F (Pathology Report Guide, CBC, Tumor Markers, Imaging, Drug Side Effects, Shock Pathophysiology)。Git Push success! 待進一步擴充至>50KB"
+   "status": "complete_enhanced_with_organ_systems",
+   "size_kb": 52,
+   "target_reached": true,
+   "note": "✅ Enhanced Edition (Ch1-18+Organ System Special Chapters: Cardiovascular/Respiratory/Renal/GI + Appendices A-F)。Git Push success! >50KB Target Reached! Added: 10 Clinical Scenarios, Memory Laws for Organ Systems (MI timeline, COPD types, Nephropathies)"
   },
   "8.微生物及免疫學.md": {
    "status": "complete_all_parts",
