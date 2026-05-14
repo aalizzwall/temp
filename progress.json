@@ -7,19 +7,29 @@
     "version": "2.0 Complete",
     "completion_date": "2026-05-14"
   },
-  "subjects_completed": [
-    {"subject": "1.護理行政.md", "size_kb": 169, "status": "complete"},
-    {"subject": "2.基本護理學.md", "size_kb": 55, "status": "complete"},
-    {"subject": "3.內外科護理.md", "size_kb": 50, "status": "complete"},
-    {"subject": "4.產兒科護理學.md", "size_kb": 67, "status": "complete"},
-    {"subject": "5.精神與社區衛生護理學.md", "size_kb": 67, "status": "complete"},
-    {"subject": "6.解剖生理學.md", "size_kb": 50, "status": "complete"},
-    {"subject": "7.藥理學.md", "size_kb": 53, "status": "complete"},
-    {"subject": "9.病理學.md", "size_kb": 48, "status": "near_complete"}
-  ],
-  "session_log": {
-    "#15": {"action": "draft", "content": "Part 2-4: 神經系統、腫瘤藥物、免疫調節", "size_kb": 40},
-    "#16": {"action": "complete", "content": "Part 6-7: TDM、臨床情境、記憶圖表總覽", "size_kb": 53},
-    "#17": {"action": "complete", "content": "病理學章節擴充，接近 50KB 目標", "size_kb": 48}
-  }
+    "subjects_completed": [
+      {"subject": "1.護理行政.md", "size_kb": 169, "status": "complete"},
+      {"subject": "2.基本護理學.md", "size_kb": 55, "status": "complete"},
+      {"subject": "3.內外科護理.md", "size_kb": 50, "status": "complete"},
+      {"subject": "4.產兒科護理學.md", "size_kb": 67, "status": "complete"},
+      {"subject": "5.精神與社區衛生護理學.md", "size_kb": 67, "status": "complete"},
+      {"subject": "6.解剖生理學.md", "size_kb": 50, "status": "complete"},
+      {"subject": "7.藥理學.md", "size_kb": 53, "status": "complete"},
+      {"subject": "9.病理學.md", "size_kb": 59, "status": "complete"}
+    ],
+    "session_log": {
+      "#15": {"action": "draft", "content": "Part 2-4: 神經系統、腫瘤藥物、免疫調節", "size_kb": 40},
+      "#16": {"action": "complete", "content": "Part 6-7: TDM、臨床情境、記憶圖表總覽", "size_kb": 53},
+      "#17": {"action": "complete", "content": "病理學章節擴充，接近 50KB 目標", "size_kb": 48},
+      "#18": {"action": "complete", "content": "Pathology appendices G-K: 9 new clinical scenarios with high-frequency exam questions, study mnemonics, image prompts, reference index. Total added: +10KB. Push to GitHub (77fbf9e).", "size_kb": 59}
+    },
+    "current_subject_status": {
+      "pathology_completed": true,
+      "final_size_kb": 59,
+      "appendices_added": ["G-臨床情境分析題集", "H-整合記憶圖表總覽", "I-第二部分臨床情境", "J-考前重點速記表", "K-完整參考資源索引"],
+      "git_commit": "77fbf9e",
+      "completion_date": "2026-05-14",
+      "next_target_subject": null,
+      "all_9_subjects_complete": true
+    }
 }
