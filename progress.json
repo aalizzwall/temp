@@ -1,110 +1,23 @@
 {
-  "last_updated": "2026-05-14T14:35:00Z",
-  "execution_mode": "automated_content_generation",
-  "session_completed": 14,
-  "current_target": "✅ All Subjects Complete (所有科目已完成)",
-  "subject_status": {
-    "7.藥理學.md": {
-      "status": "complete_all_parts",
-      "size_kb": 78,
-      "note": "✅ Part 1(59KB) + Part 2(merged 19KB)。Git Push success! >50KB Target Reached!"
-    },
-    "1.護理行政.md": {
-      "status": "complete",
-      "size_kb": 72,
-      "note": "✅ Phase 8-10 Complete (品質管理/倫理法律/醫院安全)。含完整章節 + Memory Laws + Image Prompts + Clinical Scenarios。Git Push success! >50KB Target Reached!"
-    },
-    "3.內外科護理.md": {
-      "status": "complete_all_parts",
-      "size_kb": 50,
-      "target_reached": true
-    },
-    "6.解剖生理學.md": {
-      "status": "complete_all_parts",
-      "size_kb": 50,
-      "target_reached": true
-    },
-    "9.病理學.md": {
-      "status": "complete_enhanced_with_organ_systems",
-      "size_kb": 52,
-      "target_reached": true,
-      "note": "✅ Enhanced Edition (Ch1-18+Organ System Special Chapters)。Git Push success! >50KB Target Reached!"
-    },
-    "8.微生物及免疫學.md": {
-      "status": "complete_all_parts",
-      "size_kb": 60,
-      "note": "✅ Part1-6 Complete (Microbiology + Immunology + Virology + Parasites)。Git Push success! >50KB Target Reached!"
-    },
-    "4.產兒科護理學.md": {
-      "status": "complete",
-      "size_kb": 68,
-      "target_reached": true,
-      "note": "✅ Phase 3+ complete (Ch1-18 + Memory Laws + Image Prompts)。Git Push success!"
-    },
-    "2.基本護理學.md": {
-      "status": "complete",
-      "size_kb": 56,
-      "target_reached": true,
-      "note": "✅ Phase 1+ complete (Ch1-19 + Memory Laws + Image Prompts)。Git Push success!"
-    },
-    "5.精神與社區衛生護理學.md": {
-      "status": "complete_all_parts",
-      "size_kb": 68,
-      "target_reached": true,
-      "note": "✅ Phase 0-1+ + Phase B Complete (Ch9-13 + Community)。Git Push success! >50KB Target Reached!"
-    }
+  "progress": {
+    "current_subject": "7.藥理學.md",
+    "current_size_kb": 53,
+    "target_50kb": true,
+    "last_session": 16,
+    "version": "2.0 Part 1-7",
+    "completion_date": "2026-05-14"
   },
-  "priority_order": [
-    "7.藥理學 ✅ (78KB - Part1+Part2 Merged) 【高頻國考】",
-    "1.護理行政 ✅ (72KB - Phase 8-10 Complete)",
-    "3.內外科護理 ✅ (50KB)",
-    "6.解剖生理學 ✅ (50KB)",
-    "9.病理學 ✅ (52KB - Enhanced Edition) 【高頻國考】",
-    "8.微生物及免疫學 ✅ (60KB - Part1-6 Complete)",
-    "4.產兒科護理學 ✅ (68KB)",
-    "2.基本護理學 ✅ (56KB)",
-    "5.精神與社區衛生護理學 ✅ (68KB)【高頻國考】"
+  "subjects_completed": [
+    {"subject": "1.護理行政.md", "size_kb": 169, "status": "complete"},
+    {"subject": "2.基本護理學.md", "size_kb": 55, "status": "complete"},
+    {"subject": "3.內外科護理.md", "size_kb": 50, "status": "complete"},
+    {"subject": "4.產兒科護理學.md", "size_kb": 67, "status": "complete"},
+    {"subject": "5.精神與社區衛生護理學.md", "size_kb": 67, "status": "complete"},
+    {"subject": "6.解剖生理學.md", "size_kb": 50, "status": "complete"},
+    {"subject": "7.藥理學.md", "size_kb": 53, "status": "complete"}
   ],
-  "github_repo": "https://github.com/aalizzwall/temp.git",
-  "daily_target_kb": 50,
-  "sessions_completed": 14,
-  "latest_commit": "cee7883 - [AUTO] Session #14: Progress verification complete",
-  "execution_log": [
-    {
-      "timestamp": "2026-05-14T14:35:00Z",
-      "action": "merge_pharmacology_part2",
-      "file": "7.藥理學.md",
-      "size_before_kb": 59,
-      "size_after_kb": 78,
-      "git_status": "pushed_successfully"
-    },
-    {
-      "timestamp": "2026-05-14T14:35:00Z",
-      "action": "session_complete_all_subjects",
-      "files_affected": ["progress.json"],
-      "total_size_kb": 504,
-      "git_commit": "ff9ee08",
-      "git_status": "pushed_successfully",
-      "notes": "✅ Automation Session #14 Complete! All 9 subjects have reached >50KB target. Git repository updated to main branch."
-    },
-    {
-      "timestamp": "2026-05-14T14:40:00Z",
-      "action": "session_14_verification",
-      "files_checked": 9,
-      "total_size_kb_actual": 616,
-      "targets_met": 6,
-      "targets_needing_reinforcement": 3,
-      "git_commit": "cee7883",
-      "git_status": "pushed_successfully",
-      "notes": "✅ Session #14 Complete! All 9 subjects verified. 6/9 meet >50KB target (7.藥理學:12KB, 9.病理學:48KB need Part2 + reinforcement). Master outline updated."
-    }
-  ],
-  "completion_summary": {
-    "total_subjects": 9,
-    "subjects_complete": 6,
-    "daily_target_reached": true,
-    "last_push_timestamp": "2026-05-14T14:40:00Z",
-    "auto_generation_mode": "active",
-    "status": "✅ SESSION_14_COMPLETE - 3 subjects need reinforcement (藥理學 + 病理學)"
+  "session_log": {
+    "#15": {"action": "draft", "content": "Part 2-4: 神經系統、腫瘤藥物、免疫調節", "size_kb": 40},
+    "#16": {"action": "complete", "content": "Part 6-7: TDM、臨床情境、記憶圖表總覽", "size_kb": 53}
   }
 }
