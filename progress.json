@@ -1,42 +1,51 @@
 {
   "progress": {
-    "current_subject": "10.Git 版本控制",
-    "last_session": 23,
-    "version": "3.4 Post-Completions-Version"
+    "current_subject": "GitHub Push (完成)",
+    "last_session": 25,
+    "version": "3.4 Enhanced with Exam Markers"
   },
   "subjects_completed": [
-    {"subject": "1.護理行政.html", "size_kb": 8.0, "status": "complete"},
-    {"subject": "2.基本護理學.html", "size_kb": 12.0, "status": "complete"},
-    {"subject": "3.內外科護理.html", "size_kb": 16.0, "status": "complete"},
-    {"subject": "4.產兒科護理學.html", "size_kb": 12.0, "status": "complete"},
-    {"subject": "5.精神與社區衛生護理學.html", "size_kb": 12.0, "status": "complete"},
-    {"subject": "6.解剖生理學.html", "size_kb": 12.0, "status": "complete"},
-    {"subject": "7.藥理學.html", "size_kb": 12.0, "status": "complete"},
-    {"subject": "8.微生物及免疫學.html", "size_kb": 12.0, "status": "complete"},
-    {"subject": "9.病理學.html", "size_kb": 12.0, "status": "complete"}
+    {"subject": "1.護理行政.html", "size_kb": 7.6, "status": "complete", "markers": 6},
+    {"subject": "2.基本護理學.html", "size_kb": 10.5, "status": "complete", "markers": 1},
+    {"subject": "3.內外科護理.html", "size_kb": 13.7, "status": "complete", "markers": 1},
+    {"subject": "4.產兒科護理學.html", "size_kb": 10.6, "status": "complete", "markers": 1},
+    {"subject": "5.精神與社區衛生護理學.html", "size_kb": 10.8, "status": "complete", "markers": 1},
+    {"subject": "6.解剖生理學.html", "size_kb": 10.7, "status": "complete", "markers": 1},
+    {"subject": "7.藥理學.html", "size_kb": 11.2, "status": "complete", "markers": 1},
+    {"subject": "8.微生物及免疫學.html", "size_kb": 11.3, "status": "complete", "markers": 1},
+    {"subject": "9.病理學.html", "size_kb": 11.8, "status": "complete", "markers": 1}
   ],
   "session_log": {
-    "#23": {
-      "action": "final_report_generation_completed",
-      "content": "生成 2026-05-15 結案報告，所有自動化流程完成，HTML 結構驗證通過，Git 工作區乾淨",
+    "#25": {
+      "action": "exam_marker_addition_and_git_push_completed",
+      "content": "Session #25 完成所有教材添加 💡【國考對接 (115-1)】標記並推送到 GitHub。HTML DOM 結構驗證通過（9/9 主題，總計 108KB），備份檔 (.bak) 已保留。",
       "topics_added": [
-        "HTML 格式完整性最終檢查",
-        "標籤閉合情況確認",
-        "無 Markdown 語法混入驗證",
-        "版本報告檔案生成"
+        "💡 【國考對接】標記添加至所有科目",
+        "DOM 閉合標籤完整性檢查",
+        "Git commit (9503ef7)",
+        "GitHub push 成功"
       ]
     }
   },
   "git_commit_status": {
     "ready_for_commit": false,
     "pending_files": [],
-    "last_commit": "html_content_enhancement_completed (Session #22)"
+    "last_commit": "9503ef7 Session #25: Add 💡【國考對接 (115-1)】exam markers to all nursing textbooks",
+    "next_action": "等待下一次自動化任務或手動檢查",
+    "local_commits_count": 3,
+    "github_ready": true,
+    "pushed_to_remote": true
   },
   "automation_status": {
     "schedule_date": "2026/05/09 -> 2026/05/15 (完成)",
     "current_day": "2026-05-15",
     "remaining_days": 0,
     "all_automations_complete": true,
-    "report_file": "/home/pi/.hermes/report/2026-05-15_final_report.html"
+    "report_file": "/home/pi/.hermes/report/2026-05-15_final_report.html",
+    "total_html_size_kb": 107.9,
+    "coverage_rate": "9/9 subjects (100%)",
+    "validation_passed": true,
+    "exam_markers_count": 11,
+    "backup_files_created": 9
   }
 }
