@@ -1,6 +1,6 @@
 {
   "progress": {
-    "current_subject": "HTML DOM 驗證完成",
+    "current_subject": "GitHub Push (完成)",
     "last_session": 25,
     "version": "3.4 Enhanced with Exam Markers"
   },
@@ -17,21 +17,22 @@
   ],
   "session_log": {
     "#25": {
-      "action": "git_push_completed",
-      "content": "Session #25 完成所有教材 💡【國考對接】標記並推送到 GitHub。HTML DOM 結構驗證通過（9/9 主題，總計 ~108KB），備份檔 (.bak) 已保留，Git commit/push 成功。",
+      "action": "git_push_completed_and_cleanup",
+      "content": "Session #25 完成所有教材 💡【國考對接】標記並推送到 GitHub。HTML DOM 結構驗證通過（9/9 主題，總計 ~108KB），備份檔 (.bak) 已保留，Git commit (7c2d260)、GitHub push 成功，清理殘留 .md 檔案。",
       "topics_added": [
         "💡 【國考對接】標記添加至所有科目",
         "DOM 閉合標籤完整性檢查",
-        "Git push 成功"
+        "Git push 成功 (7c2d260)",
+        "清理殘留 .md.session 檔案"
       ]
     }
   },
   "git_commit_status": {
     "ready_for_commit": false,
     "pending_files": [],
-    "last_commit": "Session #25: Add exam markers and verify DOM structure",
+    "last_commit": "7c2d260 Session #25: Add exam markers and verify DOM structure",
     "next_action": "等待下一次自動化任務或手動檢查",
-    "local_commits_count": 4,
+    "local_commits_count": 5,
     "github_ready": true,
     "pushed_to_remote": true
   },
