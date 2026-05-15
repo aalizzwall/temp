@@ -10,47 +10,47 @@
   "subjects_completed": [
     {
       "subject": "1.護理行政.html",
-      "size_kb": 169,
+      "size_kb": 28.53,
       "status": "complete"
     },
     {
       "subject": "2.基本護理學.html",
-      "size_kb": 63,
+      "size_kb": 30.85,
       "status": "complete"
     },
     {
       "subject": "3.內外科護理.html",
-      "size_kb": 63,
+      "size_kb": 28.4,
       "status": "complete"
     },
     {
       "subject": "4.產兒科護理學.html",
-      "size_kb": 2736,
+      "size_kb": 32.25,
       "status": "complete"
     },
     {
       "subject": "5.精神與社區衛生護理學.html",
-      "size_kb": 76,
+      "size_kb": 30.84,
       "status": "complete"
     },
     {
       "subject": "6.解剖生理學.html",
-      "size_kb": 61,
+      "size_kb": 29.53,
       "status": "complete"
     },
     {
       "subject": "7.藥理學.html",
-      "size_kb": 55,
+      "size_kb": 29.23,
       "status": "complete"
     },
     {
       "subject": "8.微生物及免疫學.html",
-      "size_kb": 52,
+      "size_kb": 29.74,
       "status": "complete"
     },
     {
       "subject": "9.病理學.html",
-      "size_kb": 59,
+      "size_kb": 31.44,
       "status": "complete"
     }
   ],
@@ -59,7 +59,14 @@
       "action": "logical_chain_reconstruction_completed",
       "content": "微生物及免疫學全量重構完成 (革蘭氏染色、免疫球蛋白、病毒特性、過敏反應、寄生蟲、黴菌、抗生素原理、臨床情境案例)",
       "size_kb": 52,
-      "topics_added": ["主題 1-7", "主題 8: 抗體診斷技術", "附錄 A: 記憶法則", "附錄 B: 參考資源索引", "附錄 C: 臨床情境案例 (6 個完整案例)", "附錄 D: 整合記憶圖表"]
+      "topics_added": [
+        "主題 1-7",
+        "主題 8: 抗體診斷技術",
+        "附錄 A: 記憶法則",
+        "附錄 B: 參考資源索引",
+        "附錄 C: 臨床情境案例 (6 個完整案例)",
+        "附錄 D: 整合記憶圖表"
+      ]
     }
   },
   "current_subject_status": {
