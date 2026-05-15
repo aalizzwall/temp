@@ -23,20 +23,87 @@
         .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
         .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
         .important { color: #e03131; font-weight: bold; }
-        .case-box { background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
     </style>
 </head>
 <body>
 
-<h1>3.內外科護理 📚</h1>
+<h1>{subject_name.replace(".html", "")} 📚</h1>
+
+<div class="theory-box">
+    <h2>🌟 核心考點總覽</h2><!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: "PingFang TC", "Microsoft JhengHei", sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 30px; color: #333; background-color: #fdfdfd; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #2c3e50; padding-bottom: 10px; margin-top: 40px; }
+        h2 { color: #34495e; border-bottom: 2px solid #eee; margin-top: 30px; padding-bottom: 5px; }
+        .theory-box { background-color: #f8fbff; border-left: 6px solid #339af0; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .logical-chain { display: flex; gap: 15px; align-items: center; padding: 15px; background-color: #f0f7ff; border-radius: 8px; margin: 15px 0; }
+        .chain-step { min-width: 120px; text-align: center; padding: 10px; background-color: #fff; border: 2px solid #339af0; border-radius: 6px; flex-shrink: 0; position: relative; }
+        .chain-step::after { content: "→"; position: absolute; right: -15px; top: 50%; transform: translateY(-50%); color: #339af0; font-weight: bold; font-size: 20px; }
+        .chain-step:last-child::after { display: none; }
+        .chain-label { font-weight: bold; color: #2c3e50; margin-bottom: 5px; font-size: 14px; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; background-color: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f9fa; font-weight: bold; color: #2c3e50; }
+        tr:nth-child(even) { background-color: #fafafa; }
+        .exam-block { background-color: #fff9db; border-left: 6px solid #fcc419; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .exam-question { font-weight: bold; color: #2c3e50; margin-bottom: 8px; }
+        .review-section { background-color: #f9f4f0; border-left: 6px solid #e07a5f; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .memory-key { background-color: #e7f5ff; border-left: 6px solid #339af0; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
+        .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .important { color: #e03131; font-weight: bold; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
+    </style>
+</head>
+<body>
+
+<h1>{subject_name.replace(".html", "")} 📚</h1>
 
 <div class="theory-box">
     <h2>🌟 核心考點總覽</h2>
+<div class="theory-box">
+    <h2>📘 ❤️ 急性心肌梗塞處理流程</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p><!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: "PingFang TC", "Microsoft JhengHei", sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 30px; color: #333; background-color: #fdfdfd; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #2c3e50; padding-bottom: 10px; margin-top: 40px; }
+        h2 { color: #34495e; border-bottom: 2px solid #eee; margin-top: 30px; padding-bottom: 5px; }
+        .theory-box { background-color: #f8fbff; border-left: 6px solid #339af0; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .logical-chain { display: flex; gap: 15px; align-items: center; padding: 15px; background-color: #f0f7ff; border-radius: 8px; margin: 15px 0; }
+        .chain-step { min-width: 120px; text-align: center; padding: 10px; background-color: #fff; border: 2px solid #339af0; border-radius: 6px; flex-shrink: 0; position: relative; }
+        .chain-step::after { content: "→"; position: absolute; right: -15px; top: 50%; transform: translateY(-50%); color: #339af0; font-weight: bold; font-size: 20px; }
+        .chain-step:last-child::after { display: none; }
+        .chain-label { font-weight: bold; color: #2c3e50; margin-bottom: 5px; font-size: 14px; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; background-color: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f9fa; font-weight: bold; color: #2c3e50; }
+        tr:nth-child(even) { background-color: #fafafa; }
+        .exam-block { background-color: #fff9db; border-left: 6px solid #fcc419; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .exam-question { font-weight: bold; color: #2c3e50; margin-bottom: 8px; }
+        .review-section { background-color: #f9f4f0; border-left: 6px solid #e07a5f; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .memory-key { background-color: #e7f5ff; border-left: 6px solid #339af0; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
+        .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .important { color: #e03131; font-weight: bold; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
+    </style>
+</head>
+<body>
 
+<h1>{subject_name.replace(".html", "")} 📚</h1>
+
+<div class="theory-box">
+    <h2>🌟 核心考點總覽</h2>
 <div class="theory-box">
     <h2>📘 ❤️ 急性心肌梗塞處理流程</h2>
     <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
-
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
@@ -53,13 +120,13 @@
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">2A - 原因分析：<strong>核心概念：ACS</strong></span>
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：急救</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">2C - 答案/現象：<strong>MONA</strong>記憶法則</span>
+        <span class="chain-label">2C - 答案/現象：<strong>ACS</strong>記憶法則</span>
     </div>
 </div>
 
@@ -79,7 +146,7 @@
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">4A - 原因分析：<strong>核心概念：MONA</strong></span>
+        <span class="chain-label">4A - 原因分析：<strong>核心概念：ACS</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
@@ -89,141 +156,1533 @@
     </div>
 </div>
 
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『急救』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：急救→關鍵詞：A</div>
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：ACS</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>急救</strong>記憶法則</span>
+    </div>
 </div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『MONA』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：MONA→關鍵詞：A</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『ACS』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：ACS→關鍵詞：B</div>
-</div>
-
-<div class="memory-key">
-    <strong>💡 記憶法則：</strong><br>
-    <code>3.內外科護理</code>→關鍵詞：MONA<br>
-</div>
-
-<div class="theory-box">
-    <h2>📘 🫁 慢性阻塞性肺病管理</h2>
-    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">1A - 原因分析：<strong>核心概念：藥物</strong></span>
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：ACS</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>心肌梗塞</strong>記憶法則</span>
+    </div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意急救，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意ACS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：ACS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於心肌梗塞與心肌梗塞的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於ACS與ACS的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：ACS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於急救與急救的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於溶栓與溶栓的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意心肌梗塞，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意ACS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：ACS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於溶栓與溶栓的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於急救與急救的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於心肌梗塞與心肌梗塞的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於急救與急救的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於心肌梗塞與心肌梗塞的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意心肌梗塞，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意ACS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：ACS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於MONA與MONA的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於急救與急救的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+
+<div class="memory-key">
+    <strong>💡 記憶法則：</strong><br>
+    <code>3.內外科護理</code>→關鍵詞：ACS<br>
+</div>
+
+<div class="theory-box"><h2>📋 ❤️ 急性心肌梗塞處理流程重點摘要</h2>
+<div class="theory-box">
+    <h2>📘 🫁 慢性阻塞性肺病管理</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p><!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: "PingFang TC", "Microsoft JhengHei", sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 30px; color: #333; background-color: #fdfdfd; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #2c3e50; padding-bottom: 10px; margin-top: 40px; }
+        h2 { color: #34495e; border-bottom: 2px solid #eee; margin-top: 30px; padding-bottom: 5px; }
+        .theory-box { background-color: #f8fbff; border-left: 6px solid #339af0; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .logical-chain { display: flex; gap: 15px; align-items: center; padding: 15px; background-color: #f0f7ff; border-radius: 8px; margin: 15px 0; }
+        .chain-step { min-width: 120px; text-align: center; padding: 10px; background-color: #fff; border: 2px solid #339af0; border-radius: 6px; flex-shrink: 0; position: relative; }
+        .chain-step::after { content: "→"; position: absolute; right: -15px; top: 50%; transform: translateY(-50%); color: #339af0; font-weight: bold; font-size: 20px; }
+        .chain-step:last-child::after { display: none; }
+        .chain-label { font-weight: bold; color: #2c3e50; margin-bottom: 5px; font-size: 14px; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; background-color: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f9fa; font-weight: bold; color: #2c3e50; }
+        tr:nth-child(even) { background-color: #fafafa; }
+        .exam-block { background-color: #fff9db; border-left: 6px solid #fcc419; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .exam-question { font-weight: bold; color: #2c3e50; margin-bottom: 8px; }
+        .review-section { background-color: #f9f4f0; border-left: 6px solid #e07a5f; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .memory-key { background-color: #e7f5ff; border-left: 6px solid #339af0; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
+        .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .important { color: #e03131; font-weight: bold; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
+    </style>
+</head>
+<body>
+
+<h1>{subject_name.replace(".html", "")} 📚</h1>
+
+<div class="theory-box">
+    <h2>🌟 核心考點總覽</h2>
+<div class="theory-box">
+    <h2>📘 ❤️ 急性心肌梗塞處理流程</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：ACS</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">1C - 答案/現象：<strong>COPD</strong>記憶法則</span>
+        <span class="chain-label">1C - 答案/現象：<strong>心肌梗塞</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">2A - 原因分析：<strong>核心概念：COPD</strong></span>
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：急救</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">2C - 答案/現象：<strong>氧療</strong>記憶法則</span>
+        <span class="chain-label">2C - 答案/現象：<strong>ACS</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">3A - 原因分析：<strong>核心概念：COPD</strong></span>
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：心肌梗塞</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">3C - 答案/現象：<strong>呼吸</strong>記憶法則</span>
+        <span class="chain-label">3C - 答案/現象：<strong>ACS</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">4A - 原因分析：<strong>核心概念：氧療</strong></span>
+        <span class="chain-label">4A - 原因分析：<strong>核心概念：ACS</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">4C - 答案/現象：<strong>藥物</strong>記憶法則</span>
+        <span class="chain-label">4C - 答案/現象：<strong>ACS</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：ACS</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>急救</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：ACS</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>心肌梗塞</strong>記憶法則</span>
     </div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『氣喘』的臨床判斷，下列敘述何者正確？</p>
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意急救，最可能引發的副作用是...</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：氣喘→關鍵詞：A</div>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意ACS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：ACS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (110年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『藥物』的臨床判斷，下列敘述何者正確？</p>
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：藥物→關鍵詞：A</div>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於心肌梗塞與心肌梗塞的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於ACS與ACS的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：ACS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於急救與急救的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於溶栓與溶栓的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意心肌梗塞，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意ACS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：ACS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於溶栓與溶栓的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於急救與急救的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於心肌梗塞與心肌梗塞的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於急救與急救的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於心肌梗塞與心肌梗塞的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意心肌梗塞，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意ACS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：ACS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於MONA與MONA的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於急救與急救的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+
+<div class="memory-key">
+    <strong>💡 記憶法則：</strong><br>
+    <code>3.內外科護理</code>→關鍵詞：ACS<br>
+</div>
+
+<div class="theory-box"><h2>📋 ❤️ 急性心肌梗塞處理流程重點摘要</h2>
+<div class="theory-box">
+    <h2>📘 🫁 慢性阻塞性肺病管理</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：復健</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1C - 答案/現象：<strong>藥物</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：氧療</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2C - 答案/現象：<strong>復健</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：藥物</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3C - 答案/現象：<strong>COPD</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">4A - 原因分析：<strong>核心概念：復健</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4C - 答案/現象：<strong>COPD</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：COPD</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>復健</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：COPD</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>氧療</strong>記憶法則</span>
+    </div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (113年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『COPD』的臨床判斷，下列敘述何者正確？</p>
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意COPD，最可能引發的副作用是...</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：COPD→關鍵詞：B</div>
+    <div class="tip-box">💡 記憶法則：COPD</div>
 </div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意COPD，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：COPD</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氣喘，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氣喘</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意呼吸，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：呼吸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於復健與復健的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：復健</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於呼吸與呼吸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：呼吸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於氧療與氧療的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氧療</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於藥物與藥物的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：藥物</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於氧療與氧療的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氧療</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於氧療與氧療的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氧療</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於藥物與藥物的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：藥物</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於復健與復健的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：復健</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於復健與復健的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：復健</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於復健與復健的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：復健</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氧療，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氧療</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於藥物與藥物的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：藥物</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於復健與復健的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：復健</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於呼吸與呼吸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：呼吸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氣喘，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氣喘</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氧療，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氧療</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意復健，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：復健</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於氣喘與氣喘的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氣喘</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於藥物與藥物的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：藥物</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氣喘，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氣喘</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氧療，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氧療</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於呼吸與呼吸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：呼吸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於氣喘與氣喘的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氣喘</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於藥物與藥物的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：藥物</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氧療，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氧療</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氣喘，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氣喘</div>
+</div>
+
 
 <div class="memory-key">
     <strong>💡 記憶法則：</strong><br>
     <code>3.內外科護理</code>→關鍵詞：氣喘<br>
 </div>
 
+<div class="theory-box"><h2>📋 🫁 慢性阻塞性肺病管理重點摘要</h2>
 <div class="theory-box">
     <h2>📘 🩸 休克救治與監測</h2>
-    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p><!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: "PingFang TC", "Microsoft JhengHei", sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 30px; color: #333; background-color: #fdfdfd; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #2c3e50; padding-bottom: 10px; margin-top: 40px; }
+        h2 { color: #34495e; border-bottom: 2px solid #eee; margin-top: 30px; padding-bottom: 5px; }
+        .theory-box { background-color: #f8fbff; border-left: 6px solid #339af0; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .logical-chain { display: flex; gap: 15px; align-items: center; padding: 15px; background-color: #f0f7ff; border-radius: 8px; margin: 15px 0; }
+        .chain-step { min-width: 120px; text-align: center; padding: 10px; background-color: #fff; border: 2px solid #339af0; border-radius: 6px; flex-shrink: 0; position: relative; }
+        .chain-step::after { content: "→"; position: absolute; right: -15px; top: 50%; transform: translateY(-50%); color: #339af0; font-weight: bold; font-size: 20px; }
+        .chain-step:last-child::after { display: none; }
+        .chain-label { font-weight: bold; color: #2c3e50; margin-bottom: 5px; font-size: 14px; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; background-color: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f9fa; font-weight: bold; color: #2c3e50; }
+        tr:nth-child(even) { background-color: #fafafa; }
+        .exam-block { background-color: #fff9db; border-left: 6px solid #fcc419; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .exam-question { font-weight: bold; color: #2c3e50; margin-bottom: 8px; }
+        .review-section { background-color: #f9f4f0; border-left: 6px solid #e07a5f; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .memory-key { background-color: #e7f5ff; border-left: 6px solid #339af0; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
+        .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .important { color: #e03131; font-weight: bold; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
+    </style>
+</head>
+<body>
 
+<h1>{subject_name.replace(".html", "")} 📚</h1>
+
+<div class="theory-box">
+    <h2>🌟 核心考點總覽</h2>
+<div class="theory-box">
+    <h2>📘 ❤️ 急性心肌梗塞處理流程</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">1A - 原因分析：<strong>核心概念：血壓</strong></span>
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：ACS</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">1C - 答案/現象：<strong>抗生素</strong>記憶法則</span>
+        <span class="chain-label">1C - 答案/現象：<strong>心肌梗塞</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">2A - 原因分析：<strong>核心概念：補液</strong></span>
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：急救</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2C - 答案/現象：<strong>ACS</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：心肌梗塞</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3C - 答案/現象：<strong>ACS</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">4A - 原因分析：<strong>核心概念：ACS</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4C - 答案/現象：<strong>ACS</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：ACS</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>急救</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：ACS</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>心肌梗塞</strong>記憶法則</span>
+    </div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意急救，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意ACS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：ACS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於心肌梗塞與心肌梗塞的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於ACS與ACS的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：ACS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於急救與急救的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於溶栓與溶栓的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意心肌梗塞，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意ACS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：ACS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於溶栓與溶栓的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於急救與急救的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於心肌梗塞與心肌梗塞的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於急救與急救的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於心肌梗塞與心肌梗塞的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意MONA，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意溶栓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：溶栓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意心肌梗塞，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：心肌梗塞</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：❤️ 急性心肌梗塞處理流程在臨床應用時應注意ACS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：ACS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於MONA與MONA的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：MONA</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於急救與急救的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：急救</div>
+</div>
+
+
+<div class="memory-key">
+    <strong>💡 記憶法則：</strong><br>
+    <code>3.內外科護理</code>→關鍵詞：ACS<br>
+</div>
+
+<div class="theory-box"><h2>📋 ❤️ 急性心肌梗塞處理流程重點摘要</h2>
+<div class="theory-box">
+    <h2>📘 🫁 慢性阻塞性肺病管理</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：復健</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1C - 答案/現象：<strong>藥物</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：氧療</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2C - 答案/現象：<strong>復健</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：藥物</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3C - 答案/現象：<strong>COPD</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">4A - 原因分析：<strong>核心概念：復健</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4C - 答案/現象：<strong>COPD</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：COPD</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>復健</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：COPD</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>氧療</strong>記憶法則</span>
+    </div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意COPD，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：COPD</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意COPD，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：COPD</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氣喘，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氣喘</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意呼吸，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：呼吸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於復健與復健的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：復健</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於呼吸與呼吸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：呼吸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於氧療與氧療的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氧療</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於藥物與藥物的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：藥物</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於氧療與氧療的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氧療</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於氧療與氧療的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氧療</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於藥物與藥物的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：藥物</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於復健與復健的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：復健</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於復健與復健的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：復健</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於復健與復健的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：復健</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氧療，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氧療</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於藥物與藥物的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：藥物</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於復健與復健的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：復健</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於呼吸與呼吸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：呼吸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氣喘，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氣喘</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氧療，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氧療</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意復健，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：復健</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於氣喘與氣喘的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氣喘</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於藥物與藥物的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：藥物</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氣喘，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氣喘</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氧療，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氧療</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於呼吸與呼吸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：呼吸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於氣喘與氣喘的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氣喘</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於藥物與藥物的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：藥物</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氧療，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氧療</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 慢性阻塞性肺病管理在臨床應用時應注意氣喘，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：氣喘</div>
+</div>
+
+
+<div class="memory-key">
+    <strong>💡 記憶法則：</strong><br>
+    <code>3.內外科護理</code>→關鍵詞：氣喘<br>
+</div>
+
+<div class="theory-box"><h2>📋 🫁 慢性阻塞性肺病管理重點摘要</h2>
+<div class="theory-box">
+    <h2>📘 🩸 休克救治與監測</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：灌注</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1C - 答案/現象：<strong>補液</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：抗生素</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
@@ -236,13 +1695,13 @@
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">3A - 原因分析：<strong>核心概念：抗生素</strong></span>
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：補液</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">3C - 答案/現象：<strong>血壓</strong>記憶法則</span>
+        <span class="chain-label">3C - 答案/現象：<strong>抗生素</strong>記憶法則</span>
     </div>
 </div>
 
@@ -255,456 +1714,253 @@
         <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">4C - 答案/現象：<strong>血壓</strong>記憶法則</span>
+        <span class="chain-label">4C - 答案/現象：<strong>器官衰竭</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：抗生素</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>灌注</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：器官衰竭</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>抗生素</strong>記憶法則</span>
     </div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『血壓』的臨床判斷，下列敘述何者正確？</p>
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於灌注與灌注的關係，下列敘述何者正確？</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：血壓→關鍵詞：A</div>
+    <div class="tip-box">💡 記憶法則：灌注</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於休克與休克的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：休克</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (113年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『灌注』的臨床判斷，下列敘述何者正確？</p>
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意補液，最可能引發的副作用是...</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：灌注→關鍵詞：B</div>
+    <div class="tip-box">💡 記憶法則：補液</div>
 </div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『補液』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：補液→關鍵詞：B</div>
-</div>
-
-<div class="memory-key">
-    <strong>💡 記憶法則：</strong><br>
-    <code>3.內外科護理</code>→關鍵詞：血壓<br>
-</div>
-
-<div class="theory-box">
-    <h2>📘 🔪 術後護理注意事項</h2>
-    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
-
-<!-- A → B → C 邏輯鏈 -->
-<div class="logical-chain">
-    <div class="chain-step">
-        <span class="chain-label">1A - 原因分析：<strong>核心概念：合併症</strong></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">1C - 答案/現象：<strong>疼痛</strong>記憶法則</span>
-    </div>
-</div>
-
-<!-- A → B → C 邏輯鏈 -->
-<div class="logical-chain">
-    <div class="chain-step">
-        <span class="chain-label">2A - 原因分析：<strong>核心概念：合併症</strong></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">2C - 答案/現象：<strong>復原</strong>記憶法則</span>
-    </div>
-</div>
-
-<!-- A → B → C 邏輯鏈 -->
-<div class="logical-chain">
-    <div class="chain-step">
-        <span class="chain-label">3A - 原因分析：<strong>核心概念：疼痛</strong></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">3C - 答案/現象：<strong>感染</strong>記憶法則</span>
-    </div>
-</div>
-
-<!-- A → B → C 邏輯鏈 -->
-<div class="logical-chain">
-    <div class="chain-step">
-        <span class="chain-label">4A - 原因分析：<strong>核心概念：復原</strong></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">4C - 答案/現象：<strong>合併症</strong>記憶法則</span>
-    </div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『疼痛』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：疼痛→關鍵詞：B</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『合併症』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：合併症→關鍵詞：A</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『感染』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：感染→關鍵詞：A</div>
-</div>
-
-<div class="memory-key">
-    <strong>💡 記憶法則：</strong><br>
-    <code>3.內外科護理</code>→關鍵詞：疼痛<br>
-</div>
-
-
-<div class="theory-box">
-    <h2>🏥 附錄 C: 臨床情境案例解析</h2>
-<div class="case-box"><strong>[案例 1]:</strong><br>【案例：敗血症】35 歲女性發燒伴隨呼吸急促，WBC 升高達 15,000...<br></div><div class="case-box"><strong>[案例 2]:</strong><br>【案例：急性腎衰竭】40 歲男性因急性腹膜炎導至少尿症狀，需監測電解質...<br></div>
-
-<div class="theory-box">
-    <h2>📊 附錄 A: 整合記憶圖表</h2>
-    <table>
-<tr><th>核心理論</th><th>A (原因)</th><th>B (機制)</th><th>C (答案)</th></tr>
-<tr><td>' + subject_name.replace(".html", "") + '</td><td>基礎概念</td><td>運作原理</td><td>臨床應用</td></tr>
-<tr><td>考題回顧</td><td>記憶法則</td><td>陷阱警示</td><td>重點複習</td></tr>
-</table>
-
-
-<div class="theory-box">
-    <h2>📚 附錄 B: 參考資源索引</h2>
-    <ul>
-        <li><strong>推薦書目:</strong> 護理師國考必讀教材、臨牀實務指南</li>
-        <li><strong>高頻考題主題:</strong> +、+、+ (依據統計分析)</li>
-        <li><strong>陷阱警告:</strong> 注意題目中的關鍵詞「最」「第一」「主要」</li>
-    </ul>
-</div>
-
-<div class="review-section">
-    <h2>📋 考題回顧區 (110-115 年國考精選)</h2>
 
 <div class="exam-block">
     <strong>【國考對接 (113年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『COPD』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：COPD</div>
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意血壓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：血壓</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於器官衰竭與器官衰竭的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：器官衰竭</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意休克，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：休克</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於器官衰竭與器官衰竭的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：器官衰竭</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意抗生素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：抗生素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意休克，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：休克</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於器官衰竭與器官衰竭的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：器官衰竭</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於血壓與血壓的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：血壓</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (110年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『休克』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：休克</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『抗生素』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：抗生素</div>
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意器官衰竭，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：器官衰竭</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (112年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『呼吸』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：呼吸</div>
+    <p class="exam-question">模擬題目：關於休克與休克的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：休克</div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『藥物』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：藥物</div>
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意補液，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：補液</div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『補液』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：補液</div>
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意休克，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：休克</div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『COPD』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：COPD</div>
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於器官衰竭與器官衰竭的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：器官衰竭</div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『疼痛』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：疼痛</div>
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於補液與補液的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：補液</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (115年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『血壓』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：血壓</div>
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意血壓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：血壓</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (110年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『休克』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：休克</div>
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意補液，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：補液</div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『復原』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：復原</div>
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意血壓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：血壓</div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『復原』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：復原</div>
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意血壓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：血壓</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (112年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『氧療』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：氧療</div>
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意抗生素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：抗生素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意器官衰竭，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：器官衰竭</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意抗生素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：抗生素</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (113年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『休克』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：休克</div>
+    <p class="exam-question">模擬題目：關於血壓與血壓的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：血壓</div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『疼痛』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：疼痛</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『灌注』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：灌注</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『抗生素』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：抗生素</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『疼痛』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：疼痛</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『抗生素』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：抗生素</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『血壓』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：血壓</div>
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於器官衰竭與器官衰竭的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：器官衰竭</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (112年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『氣喘』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：氣喘</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『復原』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：復原</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『休克』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：休克</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『氣喘』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：氣喘</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『氣喘』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：氣喘</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『呼吸』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：呼吸</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『補液』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：補液</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『術後』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：術後</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『休克』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：休克</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『復原』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：復原</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『MONA』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：MONA</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『氧療』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：氧療</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『MONA』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：MONA</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『氣喘』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：氣喘</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『灌注』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：灌注</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『MONA』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：MONA</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『感染』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：感染</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『急救』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：急救</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『灌注』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：灌注</div>
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意灌注，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：灌注</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (112年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『急救』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：急救</div>
+    <p class="exam-question">模擬題目：關於血壓與血壓的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：血壓</div>
 </div>
 
-
-<div class="important">
-    <h3>⚠️ 重要提醒</h3>
-    <ul>
-        <li>所有邏輯鏈推導均基於 110-115 年國考真題</li>
-        <li>請務必熟記核心概念與記憶法則</li>
-        <li>臨床應用需結合實際情境判斷</li>
-    </ul>
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意血壓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：血壓</div>
 </div>
 
-<div class="review-section">
-    <h2>📝 考題回顧區總結</h2>
-    <p><strong>本教材已涵蓋：</strong></p>
-    <ul>
-        <li>理論區：完整邏輯鏈 A→B→C 推導過程</li>
-        <li>考題區：110-115 年國考精選題目解析</li>
-        <li>記憶法則：零幻想原則完整應用</li>
-    </ul>
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🩸 休克救治與監測在臨床應用時應注意血壓，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：血壓</div>
 </div>
+
 
 <div class="memory-key">
-    <strong>🎓 學習建議：</strong><br>
-    1. 先閱讀理論區，理解 A→B→C 邏輯鏈<br>
-    2. 再看考題回顧，應用於實際情境<br>
-    3. 使用記憶法則複習關鍵詞<br>
+    <strong>💡 記憶法則：</strong><br>
+    <code>3.內外科護理</code>→關鍵詞：補液<br>
 </div>
 
-</body>
-</html>
+<div class="theory-box"><h2>📋 🩸 休克救治與監測重點摘要</h2>
+<div class="theory-box">
+    <h2>📘 🔪 術後護理注意事項</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>

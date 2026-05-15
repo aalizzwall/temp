@@ -23,37 +23,104 @@
         .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
         .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
         .important { color: #e03131; font-weight: bold; }
-        .case-box { background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
     </style>
 </head>
 <body>
 
-<h1>7.藥理學 📚</h1>
+<h1>{subject_name.replace(".html", "")} 📚</h1>
+
+<div class="theory-box">
+    <h2>🌟 核心考點總覽</h2><!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: "PingFang TC", "Microsoft JhengHei", sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 30px; color: #333; background-color: #fdfdfd; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #2c3e50; padding-bottom: 10px; margin-top: 40px; }
+        h2 { color: #34495e; border-bottom: 2px solid #eee; margin-top: 30px; padding-bottom: 5px; }
+        .theory-box { background-color: #f8fbff; border-left: 6px solid #339af0; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .logical-chain { display: flex; gap: 15px; align-items: center; padding: 15px; background-color: #f0f7ff; border-radius: 8px; margin: 15px 0; }
+        .chain-step { min-width: 120px; text-align: center; padding: 10px; background-color: #fff; border: 2px solid #339af0; border-radius: 6px; flex-shrink: 0; position: relative; }
+        .chain-step::after { content: "→"; position: absolute; right: -15px; top: 50%; transform: translateY(-50%); color: #339af0; font-weight: bold; font-size: 20px; }
+        .chain-step:last-child::after { display: none; }
+        .chain-label { font-weight: bold; color: #2c3e50; margin-bottom: 5px; font-size: 14px; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; background-color: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f9fa; font-weight: bold; color: #2c3e50; }
+        tr:nth-child(even) { background-color: #fafafa; }
+        .exam-block { background-color: #fff9db; border-left: 6px solid #fcc419; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .exam-question { font-weight: bold; color: #2c3e50; margin-bottom: 8px; }
+        .review-section { background-color: #f9f4f0; border-left: 6px solid #e07a5f; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .memory-key { background-color: #e7f5ff; border-left: 6px solid #339af0; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
+        .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .important { color: #e03131; font-weight: bold; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
+    </style>
+</head>
+<body>
+
+<h1>{subject_name.replace(".html", "")} 📚</h1>
 
 <div class="theory-box">
     <h2>🌟 核心考點總覽</h2>
+<div class="theory-box">
+    <h2>📘 💊 藥物動力學 (ADME)</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p><!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: "PingFang TC", "Microsoft JhengHei", sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 30px; color: #333; background-color: #fdfdfd; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #2c3e50; padding-bottom: 10px; margin-top: 40px; }
+        h2 { color: #34495e; border-bottom: 2px solid #eee; margin-top: 30px; padding-bottom: 5px; }
+        .theory-box { background-color: #f8fbff; border-left: 6px solid #339af0; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .logical-chain { display: flex; gap: 15px; align-items: center; padding: 15px; background-color: #f0f7ff; border-radius: 8px; margin: 15px 0; }
+        .chain-step { min-width: 120px; text-align: center; padding: 10px; background-color: #fff; border: 2px solid #339af0; border-radius: 6px; flex-shrink: 0; position: relative; }
+        .chain-step::after { content: "→"; position: absolute; right: -15px; top: 50%; transform: translateY(-50%); color: #339af0; font-weight: bold; font-size: 20px; }
+        .chain-step:last-child::after { display: none; }
+        .chain-label { font-weight: bold; color: #2c3e50; margin-bottom: 5px; font-size: 14px; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; background-color: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f9fa; font-weight: bold; color: #2c3e50; }
+        tr:nth-child(even) { background-color: #fafafa; }
+        .exam-block { background-color: #fff9db; border-left: 6px solid #fcc419; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .exam-question { font-weight: bold; color: #2c3e50; margin-bottom: 8px; }
+        .review-section { background-color: #f9f4f0; border-left: 6px solid #e07a5f; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .memory-key { background-color: #e7f5ff; border-left: 6px solid #339af0; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
+        .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .important { color: #e03131; font-weight: bold; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
+    </style>
+</head>
+<body>
 
+<h1>{subject_name.replace(".html", "")} 📚</h1>
+
+<div class="theory-box">
+    <h2>🌟 核心考點總覽</h2>
 <div class="theory-box">
     <h2>📘 💊 藥物動力學 (ADME)</h2>
     <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
-
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">1A - 原因分析：<strong>核心概念：代謝</strong></span>
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：排泄</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">1C - 答案/現象：<strong>代謝</strong>記憶法則</span>
+        <span class="chain-label">1C - 答案/現象：<strong>生物利用度</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">2A - 原因分析：<strong>核心概念：吸收</strong></span>
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：排泄</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
@@ -66,7 +133,7 @@
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">3A - 原因分析：<strong>核心概念：代謝</strong></span>
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：生物利用度</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
@@ -85,53 +152,600 @@
         <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">4C - 答案/現象：<strong>吸收</strong>記憶法則</span>
+        <span class="chain-label">4C - 答案/現象：<strong>排泄</strong>記憶法則</span>
     </div>
 </div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『分佈』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：分佈→關鍵詞：B</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『吸收』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：吸收→關鍵詞：B</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『代謝』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：代謝→關鍵詞：A</div>
-</div>
-
-<div class="memory-key">
-    <strong>💡 記憶法則：</strong><br>
-    <code>7.藥理學</code>→關鍵詞：排泄<br>
-</div>
-
-<div class="theory-box">
-    <h2>📘 ⚠️ 副作用與毒性機制</h2>
-    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">1A - 原因分析：<strong>核心概念：肝腎毒</strong></span>
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：代謝</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>排泄</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：排泄</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>生物利用度</strong>記憶法則</span>
+    </div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於分佈與分佈的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於吸收與吸收的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意代謝，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：代謝</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意吸收，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於分佈與分佈的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意吸收，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意排泄，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意排泄，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於生物利用度與生物利用度的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：生物利用度</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於生物利用度與生物利用度的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：生物利用度</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於吸收與吸收的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於生物利用度與生物利用度的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：生物利用度</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意排泄，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意吸收，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於吸收與吸收的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於生物利用度與生物利用度的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：生物利用度</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於分佈與分佈的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意代謝，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：代謝</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於吸收與吸收的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+
+<div class="memory-key">
+    <strong>💡 記憶法則：</strong><br>
+    <code>7.藥理學</code>→關鍵詞：代謝<br>
+</div>
+
+<div class="theory-box"><h2>📋 💊 藥物動力學 (ADME)重點摘要</h2>
+<div class="theory-box">
+    <h2>📘 ⚠️ 副作用與毒性機制</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p><!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: "PingFang TC", "Microsoft JhengHei", sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 30px; color: #333; background-color: #fdfdfd; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #2c3e50; padding-bottom: 10px; margin-top: 40px; }
+        h2 { color: #34495e; border-bottom: 2px solid #eee; margin-top: 30px; padding-bottom: 5px; }
+        .theory-box { background-color: #f8fbff; border-left: 6px solid #339af0; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .logical-chain { display: flex; gap: 15px; align-items: center; padding: 15px; background-color: #f0f7ff; border-radius: 8px; margin: 15px 0; }
+        .chain-step { min-width: 120px; text-align: center; padding: 10px; background-color: #fff; border: 2px solid #339af0; border-radius: 6px; flex-shrink: 0; position: relative; }
+        .chain-step::after { content: "→"; position: absolute; right: -15px; top: 50%; transform: translateY(-50%); color: #339af0; font-weight: bold; font-size: 20px; }
+        .chain-step:last-child::after { display: none; }
+        .chain-label { font-weight: bold; color: #2c3e50; margin-bottom: 5px; font-size: 14px; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; background-color: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f9fa; font-weight: bold; color: #2c3e50; }
+        tr:nth-child(even) { background-color: #fafafa; }
+        .exam-block { background-color: #fff9db; border-left: 6px solid #fcc419; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .exam-question { font-weight: bold; color: #2c3e50; margin-bottom: 8px; }
+        .review-section { background-color: #f9f4f0; border-left: 6px solid #e07a5f; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .memory-key { background-color: #e7f5ff; border-left: 6px solid #339af0; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
+        .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .important { color: #e03131; font-weight: bold; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
+    </style>
+</head>
+<body>
+
+<h1>{subject_name.replace(".html", "")} 📚</h1>
+
+<div class="theory-box">
+    <h2>🌟 核心考點總覽</h2>
+<div class="theory-box">
+    <h2>📘 💊 藥物動力學 (ADME)</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：排泄</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">1C - 答案/現象：<strong>副作用</strong>記憶法則</span>
+        <span class="chain-label">1C - 答案/現象：<strong>生物利用度</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：排泄</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2C - 答案/現象：<strong>排泄</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：生物利用度</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3C - 答案/現象：<strong>代謝</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">4A - 原因分析：<strong>核心概念：排泄</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4C - 答案/現象：<strong>排泄</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：代謝</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>排泄</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：排泄</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>生物利用度</strong>記憶法則</span>
+    </div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於分佈與分佈的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於吸收與吸收的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意代謝，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：代謝</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意吸收，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於分佈與分佈的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意吸收，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意排泄，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意排泄，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於生物利用度與生物利用度的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：生物利用度</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於生物利用度與生物利用度的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：生物利用度</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於吸收與吸收的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於生物利用度與生物利用度的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：生物利用度</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意排泄，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意吸收，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於吸收與吸收的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於生物利用度與生物利用度的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：生物利用度</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於分佈與分佈的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意代謝，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：代謝</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於吸收與吸收的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+
+<div class="memory-key">
+    <strong>💡 記憶法則：</strong><br>
+    <code>7.藥理學</code>→關鍵詞：代謝<br>
+</div>
+
+<div class="theory-box"><h2>📋 💊 藥物動力學 (ADME)重點摘要</h2>
+<div class="theory-box">
+    <h2>📘 ⚠️ 副作用與毒性機制</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：副作用</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1C - 答案/現象：<strong>肝腎毒</strong>記憶法則</span>
     </div>
 </div>
 
@@ -151,13 +765,13 @@
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">3A - 原因分析：<strong>核心概念：副作用</strong></span>
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：肝腎毒</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">3C - 答案/現象：<strong>肝腎毒</strong>記憶法則</span>
+        <span class="chain-label">3C - 答案/現象：<strong>累積</strong>記憶法則</span>
     </div>
 </div>
 
@@ -170,53 +784,898 @@
         <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">4C - 答案/現象：<strong>毒性</strong>記憶法則</span>
+        <span class="chain-label">4C - 答案/現象：<strong>副作用</strong>記憶法則</span>
     </div>
 </div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『肝腎毒』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：肝腎毒→關鍵詞：B</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『毒性』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：毒性→關鍵詞：A</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『副作用』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：副作用→關鍵詞：A</div>
-</div>
-
-<div class="memory-key">
-    <strong>💡 記憶法則：</strong><br>
-    <code>7.藥理學</code>→關鍵詞：肝腎毒<br>
-</div>
-
-<div class="theory-box">
-    <h2>📘 🧪 解毒劑原理應用</h2>
-    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">1A - 原因分析：<strong>核心概念：解毒</strong></span>
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：累積</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>毒性</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：副作用</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>肝腎毒</strong>記憶法則</span>
+    </div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於毒性與毒性的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於副作用與副作用的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於累積與累積的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：累積</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於肝腎毒與肝腎毒的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肝腎毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於累積與累積的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：累積</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意肝腎毒，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肝腎毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意毒性，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於過敏與過敏的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：過敏</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於副作用與副作用的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意毒性，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意累積，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：累積</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意副作用，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意肝腎毒，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肝腎毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意副作用，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於毒性與毒性的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於毒性與毒性的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意毒性，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意累積，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：累積</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意肝腎毒，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肝腎毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意副作用，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意累積，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：累積</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於肝腎毒與肝腎毒的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肝腎毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意毒性，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意毒性，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意副作用，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意副作用，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於副作用與副作用的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於肝腎毒與肝腎毒的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肝腎毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於副作用與副作用的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意累積，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：累積</div>
+</div>
+
+
+<div class="memory-key">
+    <strong>💡 記憶法則：</strong><br>
+    <code>7.藥理學</code>→關鍵詞：毒性<br>
+</div>
+
+<div class="theory-box"><h2>📋 ⚠️ 副作用與毒性機制重點摘要</h2>
+<div class="theory-box">
+    <h2>📘 🧪 解毒劑原理應用</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p><!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: "PingFang TC", "Microsoft JhengHei", sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 30px; color: #333; background-color: #fdfdfd; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #2c3e50; padding-bottom: 10px; margin-top: 40px; }
+        h2 { color: #34495e; border-bottom: 2px solid #eee; margin-top: 30px; padding-bottom: 5px; }
+        .theory-box { background-color: #f8fbff; border-left: 6px solid #339af0; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .logical-chain { display: flex; gap: 15px; align-items: center; padding: 15px; background-color: #f0f7ff; border-radius: 8px; margin: 15px 0; }
+        .chain-step { min-width: 120px; text-align: center; padding: 10px; background-color: #fff; border: 2px solid #339af0; border-radius: 6px; flex-shrink: 0; position: relative; }
+        .chain-step::after { content: "→"; position: absolute; right: -15px; top: 50%; transform: translateY(-50%); color: #339af0; font-weight: bold; font-size: 20px; }
+        .chain-step:last-child::after { display: none; }
+        .chain-label { font-weight: bold; color: #2c3e50; margin-bottom: 5px; font-size: 14px; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; background-color: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f9fa; font-weight: bold; color: #2c3e50; }
+        tr:nth-child(even) { background-color: #fafafa; }
+        .exam-block { background-color: #fff9db; border-left: 6px solid #fcc419; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .exam-question { font-weight: bold; color: #2c3e50; margin-bottom: 8px; }
+        .review-section { background-color: #f9f4f0; border-left: 6px solid #e07a5f; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .memory-key { background-color: #e7f5ff; border-left: 6px solid #339af0; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
+        .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .important { color: #e03131; font-weight: bold; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
+    </style>
+</head>
+<body>
+
+<h1>{subject_name.replace(".html", "")} 📚</h1>
+
+<div class="theory-box">
+    <h2>🌟 核心考點總覽</h2>
+<div class="theory-box">
+    <h2>📘 💊 藥物動力學 (ADME)</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：排泄</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">1C - 答案/現象：<strong>解毒</strong>記憶法則</span>
+        <span class="chain-label">1C - 答案/現象：<strong>生物利用度</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：排泄</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2C - 答案/現象：<strong>排泄</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：生物利用度</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3C - 答案/現象：<strong>代謝</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">4A - 原因分析：<strong>核心概念：排泄</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4C - 答案/現象：<strong>排泄</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：代謝</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>排泄</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：排泄</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>生物利用度</strong>記憶法則</span>
+    </div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於分佈與分佈的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於吸收與吸收的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意代謝，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：代謝</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意吸收，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於分佈與分佈的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意吸收，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意排泄，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意排泄，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於生物利用度與生物利用度的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：生物利用度</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於生物利用度與生物利用度的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：生物利用度</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於吸收與吸收的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於生物利用度與生物利用度的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：生物利用度</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於排泄與排泄的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意排泄，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：排泄</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意吸收，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於吸收與吸收的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於生物利用度與生物利用度的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：生物利用度</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意分佈，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於分佈與分佈的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：分佈</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：💊 藥物動力學 (ADME)在臨床應用時應注意代謝，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：代謝</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於吸收與吸收的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：吸收</div>
+</div>
+
+
+<div class="memory-key">
+    <strong>💡 記憶法則：</strong><br>
+    <code>7.藥理學</code>→關鍵詞：代謝<br>
+</div>
+
+<div class="theory-box"><h2>📋 💊 藥物動力學 (ADME)重點摘要</h2>
+<div class="theory-box">
+    <h2>📘 ⚠️ 副作用與毒性機制</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：副作用</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1C - 答案/現象：<strong>肝腎毒</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：毒性</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2C - 答案/現象：<strong>過敏</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：肝腎毒</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3C - 答案/現象：<strong>累積</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">4A - 原因分析：<strong>核心概念：過敏</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4C - 答案/現象：<strong>副作用</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：累積</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>毒性</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：副作用</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>肝腎毒</strong>記憶法則</span>
+    </div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於毒性與毒性的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於副作用與副作用的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於累積與累積的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：累積</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於肝腎毒與肝腎毒的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肝腎毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於累積與累積的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：累積</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意肝腎毒，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肝腎毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意毒性，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於過敏與過敏的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：過敏</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於副作用與副作用的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意毒性，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意累積，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：累積</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意副作用，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意肝腎毒，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肝腎毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意副作用，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於毒性與毒性的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於毒性與毒性的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意毒性，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意累積，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：累積</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意肝腎毒，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肝腎毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意副作用，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意累積，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：累積</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於肝腎毒與肝腎毒的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肝腎毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意毒性，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意毒性，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：毒性</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意副作用，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意副作用，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於副作用與副作用的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於肝腎毒與肝腎毒的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肝腎毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於副作用與副作用的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：副作用</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：⚠️ 副作用與毒性機制在臨床應用時應注意累積，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：累積</div>
+</div>
+
+
+<div class="memory-key">
+    <strong>💡 記憶法則：</strong><br>
+    <code>7.藥理學</code>→關鍵詞：毒性<br>
+</div>
+
+<div class="theory-box"><h2>📋 ⚠️ 副作用與毒性機制重點摘要</h2>
+<div class="theory-box">
+    <h2>📘 🧪 解毒劑原理應用</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：對抗</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1C - 答案/現象：<strong>對抗</strong>記憶法則</span>
     </div>
 </div>
 
@@ -229,482 +1688,279 @@
         <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">2C - 答案/現象：<strong>中和</strong>記憶法則</span>
+        <span class="chain-label">2C - 答案/現象：<strong>螯合</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">3A - 原因分析：<strong>核心概念：解毒</strong></span>
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：對抗</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">3C - 答案/現象：<strong>解毒</strong>記憶法則</span>
+        <span class="chain-label">3C - 答案/現象：<strong>拮抗</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">4A - 原因分析：<strong>核心概念：中和</strong></span>
+        <span class="chain-label">4A - 原因分析：<strong>核心概念：螯合</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">4C - 答案/現象：<strong>中和</strong>記憶法則</span>
+        <span class="chain-label">4C - 答案/現象：<strong>對抗</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：拮抗</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>中和</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：對抗</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>對抗</strong>記憶法則</span>
     </div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『中和』的臨床判斷，下列敘述何者正確？</p>
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🧪 解毒劑原理應用在臨床應用時應注意中和，最可能引發的副作用是...</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：中和→關鍵詞：A</div>
+    <div class="tip-box">💡 記憶法則：中和</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『中和』的臨床判斷，下列敘述何者正確？</p>
+    <p class="exam-question">模擬題目：🧪 解毒劑原理應用在臨床應用時應注意螯合，最可能引發的副作用是...</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：中和→關鍵詞：B</div>
+    <div class="tip-box">💡 記憶法則：螯合</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於螯合與螯合的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：螯合</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於解毒與解毒的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：解毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於螯合與螯合的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：螯合</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：🧪 解毒劑原理應用在臨床應用時應注意拮抗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：拮抗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於螯合與螯合的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：螯合</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：🧪 解毒劑原理應用在臨床應用時應注意對抗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：對抗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🧪 解毒劑原理應用在臨床應用時應注意對抗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：對抗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🧪 解毒劑原理應用在臨床應用時應注意解毒，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：解毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：🧪 解毒劑原理應用在臨床應用時應注意中和，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：中和</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於螯合與螯合的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：螯合</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於對抗與對抗的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：對抗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於拮抗與拮抗的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：拮抗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於中和與中和的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：中和</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🧪 解毒劑原理應用在臨床應用時應注意對抗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：對抗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於中和與中和的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：中和</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於螯合與螯合的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：螯合</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於螯合與螯合的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：螯合</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於中和與中和的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：中和</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於中和與中和的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：中和</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於螯合與螯合的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：螯合</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (115年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『解毒』的臨床判斷，下列敘述何者正確？</p>
+    <p class="exam-question">模擬題目：🧪 解毒劑原理應用在臨床應用時應注意螯合，最可能引發的副作用是...</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：解毒→關鍵詞：B</div>
+    <div class="tip-box">💡 記憶法則：螯合</div>
 </div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於解毒與解毒的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：解毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於對抗與對抗的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：對抗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於螯合與螯合的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：螯合</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於拮抗與拮抗的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：拮抗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於對抗與對抗的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：對抗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於解毒與解毒的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：解毒</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於拮抗與拮抗的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：拮抗</div>
+</div>
+
 
 <div class="memory-key">
     <strong>💡 記憶法則：</strong><br>
     <code>7.藥理學</code>→關鍵詞：對抗<br>
 </div>
 
+<div class="theory-box"><h2>📋 🧪 解毒劑原理應用重點摘要</h2>
 <div class="theory-box">
     <h2>📘 ⏱️ 半衰期與給藥間隔</h2>
     <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
-
-<!-- A → B → C 邏輯鏈 -->
-<div class="logical-chain">
-    <div class="chain-step">
-        <span class="chain-label">1A - 原因分析：<strong>核心概念：時間</strong></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">1C - 答案/現象：<strong>稳態</strong>記憶法則</span>
-    </div>
-</div>
-
-<!-- A → B → C 邏輯鏈 -->
-<div class="logical-chain">
-    <div class="chain-step">
-        <span class="chain-label">2A - 原因分析：<strong>核心概念：半衰期</strong></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">2C - 答案/現象：<strong>半衰期</strong>記憶法則</span>
-    </div>
-</div>
-
-<!-- A → B → C 邏輯鏈 -->
-<div class="logical-chain">
-    <div class="chain-step">
-        <span class="chain-label">3A - 原因分析：<strong>核心概念：稳態</strong></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">3C - 答案/現象：<strong>時間</strong>記憶法則</span>
-    </div>
-</div>
-
-<!-- A → B → C 邏輯鏈 -->
-<div class="logical-chain">
-    <div class="chain-step">
-        <span class="chain-label">4A - 原因分析：<strong>核心概念：半衰期</strong></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">4C - 答案/現象：<strong>半衰期</strong>記憶法則</span>
-    </div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『時間』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：時間→關鍵詞：B</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『半衰期』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：半衰期→關鍵詞：A</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『稳態』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：稳態→關鍵詞：A</div>
-</div>
-
-<div class="memory-key">
-    <strong>💡 記憶法則：</strong><br>
-    <code>7.藥理學</code>→關鍵詞：時間<br>
-</div>
-
-
-<div class="theory-box">
-    <h2>🏥 附錄 C: 臨床情境案例解析</h2>
-<div class="case-box"><strong>[案例 1]:</strong><br>【案例：華法林中毒】65 歲男性服用過量導致凝血時間延長至 80 秒...<br></div><div class="case-box"><strong>[案例 2]:</strong><br>【案例：腎臟藥物調整】40 歲慢性腎病患者需調整給藥劑量...<br></div>
-
-<div class="theory-box">
-    <h2>📊 附錄 A: 整合記憶圖表</h2>
-    <table>
-<tr><th>核心理論</th><th>A (原因)</th><th>B (機制)</th><th>C (答案)</th></tr>
-<tr><td>' + subject_name.replace(".html", "") + '</td><td>基礎概念</td><td>運作原理</td><td>臨床應用</td></tr>
-<tr><td>考題回顧</td><td>記憶法則</td><td>陷阱警示</td><td>重點複習</td></tr>
-</table>
-
-
-<div class="theory-box">
-    <h2>📚 附錄 B: 參考資源索引</h2>
-    <ul>
-        <li><strong>推薦書目:</strong> 護理師國考必讀教材、臨牀實務指南</li>
-        <li><strong>高頻考題主題:</strong> +、+、+ (依據統計分析)</li>
-        <li><strong>陷阱警告:</strong> 注意題目中的關鍵詞「最」「第一」「主要」</li>
-    </ul>
-</div>
-
-<div class="review-section">
-    <h2>📋 考題回顧區 (110-115 年國考精選)</h2>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『拮抗』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：拮抗</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『毒性』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：毒性</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『稳態』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：稳態</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『毒性』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：毒性</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『分佈』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：分佈</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『肝腎毒』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：肝腎毒</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『分佈』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：分佈</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『代謝』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：代謝</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『過敏』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：過敏</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『排泄』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：排泄</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『對抗』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：對抗</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『拮抗』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：拮抗</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『代謝』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：代謝</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『濃度』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：濃度</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『過敏』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：過敏</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『分佈』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：分佈</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『解毒』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：解毒</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『過敏』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：過敏</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『過敏』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：過敏</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『時間』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：時間</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『毒性』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：毒性</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『吸收』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：吸收</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『副作用』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：副作用</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『吸收』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：吸收</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『稳態』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：稳態</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『副作用』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：副作用</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『對抗』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：對抗</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『稳態』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：稳態</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『代謝』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：代謝</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『對抗』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：對抗</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『解毒』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：解毒</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『副作用』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：副作用</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『時間』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：時間</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『濃度』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：濃度</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『分佈』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：分佈</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『中和』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：中和</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『肝腎毒』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：肝腎毒</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『濃度』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：濃度</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『濃度』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：濃度</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『分佈』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：分佈</div>
-</div>
-
-
-<div class="important">
-    <h3>⚠️ 重要提醒</h3>
-    <ul>
-        <li>所有邏輯鏈推導均基於 110-115 年國考真題</li>
-        <li>請務必熟記核心概念與記憶法則</li>
-        <li>臨床應用需結合實際情境判斷</li>
-    </ul>
-</div>
-
-<div class="review-section">
-    <h2>📝 考題回顧區總結</h2>
-    <p><strong>本教材已涵蓋：</strong></p>
-    <ul>
-        <li>理論區：完整邏輯鏈 A→B→C 推導過程</li>
-        <li>考題區：110-115 年國考精選題目解析</li>
-        <li>記憶法則：零幻想原則完整應用</li>
-    </ul>
-</div>
-
-<div class="memory-key">
-    <strong>🎓 學習建議：</strong><br>
-    1. 先閱讀理論區，理解 A→B→C 邏輯鏈<br>
-    2. 再看考題回顧，應用於實際情境<br>
-    3. 使用記憶法則複習關鍵詞<br>
-</div>
-
-</body>
-</html>

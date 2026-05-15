@@ -23,30 +23,97 @@
         .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
         .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
         .important { color: #e03131; font-weight: bold; }
-        .case-box { background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
     </style>
 </head>
 <body>
 
-<h1>4.產兒科護理學 📚</h1>
+<h1>{subject_name.replace(".html", "")} 📚</h1>
+
+<div class="theory-box">
+    <h2>🌟 核心考點總覽</h2><!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: "PingFang TC", "Microsoft JhengHei", sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 30px; color: #333; background-color: #fdfdfd; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #2c3e50; padding-bottom: 10px; margin-top: 40px; }
+        h2 { color: #34495e; border-bottom: 2px solid #eee; margin-top: 30px; padding-bottom: 5px; }
+        .theory-box { background-color: #f8fbff; border-left: 6px solid #339af0; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .logical-chain { display: flex; gap: 15px; align-items: center; padding: 15px; background-color: #f0f7ff; border-radius: 8px; margin: 15px 0; }
+        .chain-step { min-width: 120px; text-align: center; padding: 10px; background-color: #fff; border: 2px solid #339af0; border-radius: 6px; flex-shrink: 0; position: relative; }
+        .chain-step::after { content: "→"; position: absolute; right: -15px; top: 50%; transform: translateY(-50%); color: #339af0; font-weight: bold; font-size: 20px; }
+        .chain-step:last-child::after { display: none; }
+        .chain-label { font-weight: bold; color: #2c3e50; margin-bottom: 5px; font-size: 14px; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; background-color: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f9fa; font-weight: bold; color: #2c3e50; }
+        tr:nth-child(even) { background-color: #fafafa; }
+        .exam-block { background-color: #fff9db; border-left: 6px solid #fcc419; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .exam-question { font-weight: bold; color: #2c3e50; margin-bottom: 8px; }
+        .review-section { background-color: #f9f4f0; border-left: 6px solid #e07a5f; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .memory-key { background-color: #e7f5ff; border-left: 6px solid #339af0; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
+        .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .important { color: #e03131; font-weight: bold; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
+    </style>
+</head>
+<body>
+
+<h1>{subject_name.replace(".html", "")} 📚</h1>
 
 <div class="theory-box">
     <h2>🌟 核心考點總覽</h2>
+<div class="theory-box">
+    <h2>📘 👶 新生兒黃疸與高膽紅素血症</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p><!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: "PingFang TC", "Microsoft JhengHei", sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 30px; color: #333; background-color: #fdfdfd; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #2c3e50; padding-bottom: 10px; margin-top: 40px; }
+        h2 { color: #34495e; border-bottom: 2px solid #eee; margin-top: 30px; padding-bottom: 5px; }
+        .theory-box { background-color: #f8fbff; border-left: 6px solid #339af0; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .logical-chain { display: flex; gap: 15px; align-items: center; padding: 15px; background-color: #f0f7ff; border-radius: 8px; margin: 15px 0; }
+        .chain-step { min-width: 120px; text-align: center; padding: 10px; background-color: #fff; border: 2px solid #339af0; border-radius: 6px; flex-shrink: 0; position: relative; }
+        .chain-step::after { content: "→"; position: absolute; right: -15px; top: 50%; transform: translateY(-50%); color: #339af0; font-weight: bold; font-size: 20px; }
+        .chain-step:last-child::after { display: none; }
+        .chain-label { font-weight: bold; color: #2c3e50; margin-bottom: 5px; font-size: 14px; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; background-color: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f9fa; font-weight: bold; color: #2c3e50; }
+        tr:nth-child(even) { background-color: #fafafa; }
+        .exam-block { background-color: #fff9db; border-left: 6px solid #fcc419; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .exam-question { font-weight: bold; color: #2c3e50; margin-bottom: 8px; }
+        .review-section { background-color: #f9f4f0; border-left: 6px solid #e07a5f; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .memory-key { background-color: #e7f5ff; border-left: 6px solid #339af0; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
+        .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .important { color: #e03131; font-weight: bold; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
+    </style>
+</head>
+<body>
 
+<h1>{subject_name.replace(".html", "")} 📚</h1>
+
+<div class="theory-box">
+    <h2>🌟 核心考點總覽</h2>
 <div class="theory-box">
     <h2>📘 👶 新生兒黃疸與高膽紅素血症</h2>
     <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
-
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">1A - 原因分析：<strong>核心概念：交換血</strong></span>
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：黃疸</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">1C - 答案/現象：<strong>光疗</strong>記憶法則</span>
+        <span class="chain-label">1C - 答案/現象：<strong>母乳</strong>記憶法則</span>
     </div>
 </div>
 
@@ -59,69 +126,616 @@
         <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">2C - 答案/現象：<strong>黃疸</strong>記憶法則</span>
+        <span class="chain-label">2C - 答案/現象：<strong>交換血</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">3A - 原因分析：<strong>核心概念：光疗</strong></span>
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：母乳</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">3C - 答案/現象：<strong>交換血</strong>記憶法則</span>
+        <span class="chain-label">3C - 答案/現象：<strong>母乳</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">4A - 原因分析：<strong>核心概念：黃疸</strong></span>
+        <span class="chain-label">4A - 原因分析：<strong>核心概念：交換血</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">4C - 答案/現象：<strong>膽紅素</strong>記憶法則</span>
+        <span class="chain-label">4C - 答案/現象：<strong>黃疸</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：母乳</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>膽紅素</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：黃疸</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>母乳</strong>記憶法則</span>
     </div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『光疗』的臨床判斷，下列敘述何者正確？</p>
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意黃疸，最可能引發的副作用是...</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：光疗→關鍵詞：A</div>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於膽紅素與膽紅素的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於黃疸與黃疸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意光疗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意光疗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於交換血與交換血的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於母乳與母乳的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：母乳</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於黃疸與黃疸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『交換血』的臨床判斷，下列敘述何者正確？</p>
+    <p class="exam-question">模擬題目：關於母乳與母乳的關係，下列敘述何者正確？</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：交換血→關鍵詞：B</div>
+    <div class="tip-box">💡 記憶法則：母乳</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於光疗與光疗的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意膽紅素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於光疗與光疗的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意光疗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於黃疸與黃疸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意膽紅素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意膽紅素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意膽紅素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意黃疸，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意母乳，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：母乳</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於交換血與交換血的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意母乳，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：母乳</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (110年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『黃疸』的臨床判斷，下列敘述何者正確？</p>
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意光疗，最可能引發的副作用是...</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：黃疸→關鍵詞：A</div>
+    <div class="tip-box">💡 記憶法則：光疗</div>
 </div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於黃疸與黃疸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意黃疸，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
 
 <div class="memory-key">
     <strong>💡 記憶法則：</strong><br>
-    <code>4.產兒科護理學</code>→關鍵詞：光疗<br>
+    <code>4.產兒科護理學</code>→關鍵詞：黃疸<br>
 </div>
 
+<div class="theory-box"><h2>📋 👶 新生兒黃疸與高膽紅素血症重點摘要</h2>
+<div class="theory-box">
+    <h2>📘 🫁 新生兒呼吸窘迫綜合症</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p><!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: "PingFang TC", "Microsoft JhengHei", sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 30px; color: #333; background-color: #fdfdfd; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #2c3e50; padding-bottom: 10px; margin-top: 40px; }
+        h2 { color: #34495e; border-bottom: 2px solid #eee; margin-top: 30px; padding-bottom: 5px; }
+        .theory-box { background-color: #f8fbff; border-left: 6px solid #339af0; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .logical-chain { display: flex; gap: 15px; align-items: center; padding: 15px; background-color: #f0f7ff; border-radius: 8px; margin: 15px 0; }
+        .chain-step { min-width: 120px; text-align: center; padding: 10px; background-color: #fff; border: 2px solid #339af0; border-radius: 6px; flex-shrink: 0; position: relative; }
+        .chain-step::after { content: "→"; position: absolute; right: -15px; top: 50%; transform: translateY(-50%); color: #339af0; font-weight: bold; font-size: 20px; }
+        .chain-step:last-child::after { display: none; }
+        .chain-label { font-weight: bold; color: #2c3e50; margin-bottom: 5px; font-size: 14px; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; background-color: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f9fa; font-weight: bold; color: #2c3e50; }
+        tr:nth-child(even) { background-color: #fafafa; }
+        .exam-block { background-color: #fff9db; border-left: 6px solid #fcc419; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .exam-question { font-weight: bold; color: #2c3e50; margin-bottom: 8px; }
+        .review-section { background-color: #f9f4f0; border-left: 6px solid #e07a5f; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .memory-key { background-color: #e7f5ff; border-left: 6px solid #339af0; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
+        .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .important { color: #e03131; font-weight: bold; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
+    </style>
+</head>
+<body>
+
+<h1>{subject_name.replace(".html", "")} 📚</h1>
+
+<div class="theory-box">
+    <h2>🌟 核心考點總覽</h2>
+<div class="theory-box">
+    <h2>📘 👶 新生兒黃疸與高膽紅素血症</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：黃疸</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1C - 答案/現象：<strong>母乳</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：膽紅素</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2C - 答案/現象：<strong>交換血</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：母乳</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3C - 答案/現象：<strong>母乳</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">4A - 原因分析：<strong>核心概念：交換血</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4C - 答案/現象：<strong>黃疸</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：母乳</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>膽紅素</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：黃疸</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>母乳</strong>記憶法則</span>
+    </div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意黃疸，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於膽紅素與膽紅素的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於黃疸與黃疸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意光疗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意光疗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於交換血與交換血的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於母乳與母乳的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：母乳</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於黃疸與黃疸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於母乳與母乳的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：母乳</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於光疗與光疗的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意膽紅素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於光疗與光疗的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意光疗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於黃疸與黃疸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意膽紅素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意膽紅素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意膽紅素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意黃疸，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意母乳，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：母乳</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於交換血與交換血的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意母乳，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：母乳</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意光疗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於黃疸與黃疸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意黃疸，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+
+<div class="memory-key">
+    <strong>💡 記憶法則：</strong><br>
+    <code>4.產兒科護理學</code>→關鍵詞：黃疸<br>
+</div>
+
+<div class="theory-box"><h2>📋 👶 新生兒黃疸與高膽紅素血症重點摘要</h2>
 <div class="theory-box">
     <h2>📘 🫁 新生兒呼吸窘迫綜合症</h2>
     <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
-
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
@@ -131,14 +745,14 @@
         <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">1C - 答案/現象：<strong>RDS</strong>記憶法則</span>
+        <span class="chain-label">1C - 答案/現象：<strong>肺泡表面活性物質</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">2A - 原因分析：<strong>核心概念：肺泡表面活性物質</strong></span>
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：CPAP</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
@@ -151,13 +765,13 @@
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">3A - 原因分析：<strong>核心概念：RDS</strong></span>
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：肺泡表面活性物質</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">3C - 答案/現象：<strong>肺泡表面活性物質</strong>記憶法則</span>
+        <span class="chain-label">3C - 答案/現象：<strong>無呼吸器</strong>記憶法則</span>
     </div>
 </div>
 
@@ -170,43 +784,888 @@
         <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">4C - 答案/現象：<strong>RDS</strong>記憶法則</span>
+        <span class="chain-label">4C - 答案/現象：<strong>CPAP</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：無呼吸器</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>肺泡表面活性物質</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：CPAP</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>無呼吸器</strong>記憶法則</span>
     </div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『無呼吸器』的臨床判斷，下列敘述何者正確？</p>
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於CPAP與CPAP的關係，下列敘述何者正確？</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：無呼吸器→關鍵詞：B</div>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『無呼吸器』的臨床判斷，下列敘述何者正確？</p>
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意肺泡表面活性物質，最可能引發的副作用是...</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：無呼吸器→關鍵詞：B</div>
+    <div class="tip-box">💡 記憶法則：肺泡表面活性物質</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於CPAP與CPAP的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於RDS與RDS的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意RDS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (113年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『肺泡表面活性物質』的臨床判斷，下列敘述何者正確？</p>
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意RDS，最可能引發的副作用是...</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：肺泡表面活性→關鍵詞：A</div>
+    <div class="tip-box">💡 記憶法則：RDS</div>
 </div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於無呼吸器與無呼吸器的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意RDS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意無呼吸器，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於CPAP與CPAP的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於RDS與RDS的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於RDS與RDS的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於無呼吸器與無呼吸器的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於CPAP與CPAP的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意無呼吸器，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於CPAP與CPAP的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於CPAP與CPAP的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意RDS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於無呼吸器與無呼吸器的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意RDS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於肺泡表面活性物質與肺泡表面活性物質的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肺泡表面活性物質</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意CPAP，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意無呼吸器，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意RDS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意無呼吸器，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於肺泡表面活性物質與肺泡表面活性物質的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肺泡表面活性物質</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於CPAP與CPAP的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於RDS與RDS的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於無呼吸器與無呼吸器的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於肺泡表面活性物質與肺泡表面活性物質的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肺泡表面活性物質</div>
+</div>
+
 
 <div class="memory-key">
     <strong>💡 記憶法則：</strong><br>
-    <code>4.產兒科護理學</code>→關鍵詞：RDS<br>
+    <code>4.產兒科護理學</code>→關鍵詞：肺泡表面活性物質<br>
 </div>
 
+<div class="theory-box"><h2>📋 🫁 新生兒呼吸窘迫綜合症重點摘要</h2>
+<div class="theory-box">
+    <h2>📘 💉 新生兒篩查項目解析</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p><!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body { font-family: "PingFang TC", "Microsoft JhengHei", sans-serif; line-height: 1.6; max-width: 1000px; margin: 0 auto; padding: 30px; color: #333; background-color: #fdfdfd; }
+        h1 { color: #2c3e50; border-bottom: 3px solid #2c3e50; padding-bottom: 10px; margin-top: 40px; }
+        h2 { color: #34495e; border-bottom: 2px solid #eee; margin-top: 30px; padding-bottom: 5px; }
+        .theory-box { background-color: #f8fbff; border-left: 6px solid #339af0; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .logical-chain { display: flex; gap: 15px; align-items: center; padding: 15px; background-color: #f0f7ff; border-radius: 8px; margin: 15px 0; }
+        .chain-step { min-width: 120px; text-align: center; padding: 10px; background-color: #fff; border: 2px solid #339af0; border-radius: 6px; flex-shrink: 0; position: relative; }
+        .chain-step::after { content: "→"; position: absolute; right: -15px; top: 50%; transform: translateY(-50%); color: #339af0; font-weight: bold; font-size: 20px; }
+        .chain-step:last-child::after { display: none; }
+        .chain-label { font-weight: bold; color: #2c3e50; margin-bottom: 5px; font-size: 14px; }
+        table { border-collapse: collapse; width: 100%; margin: 20px 0; background-color: #fff; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        th, td { border: 1px solid #ddd; padding: 12px; text-align: left; }
+        th { background-color: #f8f9fa; font-weight: bold; color: #2c3e50; }
+        tr:nth-child(even) { background-color: #fafafa; }
+        .exam-block { background-color: #fff9db; border-left: 6px solid #fcc419; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .exam-question { font-weight: bold; color: #2c3e50; margin-bottom: 8px; }
+        .review-section { background-color: #f9f4f0; border-left: 6px solid #e07a5f; padding: 20px; margin: 20px 0; border-radius: 0 8px 8px 0; }
+        .memory-key { background-color: #e7f5ff; border-left: 6px solid #339af0; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .image-prompt { background-color: #f3f0ff; border: 1px dashed #845ef7; padding: 15px; margin: 20px 0; font-style: italic; color: #5f3dc4; }
+        .tip-box { background-color: #fff8e1; border-left: 6px solid #ffb300; padding: 12px; margin: 15px 0; border-radius: 0 8px 8px 0; font-size: 13px; }
+        .important { color: #e03131; font-weight: bold; }
+        .case-box {{ background-color: #f0fff4; border-left: 6px solid #27ae60; padding: 15px; margin: 20px 0; border-radius: 0 8px 8px 0; font-size: 13px; }}
+    </style>
+</head>
+<body>
+
+<h1>{subject_name.replace(".html", "")} 📚</h1>
+
+<div class="theory-box">
+    <h2>🌟 核心考點總覽</h2>
+<div class="theory-box">
+    <h2>📘 👶 新生兒黃疸與高膽紅素血症</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：黃疸</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1C - 答案/現象：<strong>母乳</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：膽紅素</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2C - 答案/現象：<strong>交換血</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：母乳</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3C - 答案/現象：<strong>母乳</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">4A - 原因分析：<strong>核心概念：交換血</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4C - 答案/現象：<strong>黃疸</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：母乳</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>膽紅素</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：黃疸</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>母乳</strong>記憶法則</span>
+    </div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意黃疸，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於膽紅素與膽紅素的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於黃疸與黃疸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意光疗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意光疗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於交換血與交換血的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於母乳與母乳的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：母乳</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於黃疸與黃疸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於母乳與母乳的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：母乳</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於光疗與光疗的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意膽紅素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於光疗與光疗的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意光疗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於黃疸與黃疸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意膽紅素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意膽紅素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意膽紅素，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：膽紅素</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意交換血，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意黃疸，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意母乳，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：母乳</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於交換血與交換血的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：交換血</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意母乳，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：母乳</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意光疗，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：光疗</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於黃疸與黃疸的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：👶 新生兒黃疸與高膽紅素血症在臨床應用時應注意黃疸，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：黃疸</div>
+</div>
+
+
+<div class="memory-key">
+    <strong>💡 記憶法則：</strong><br>
+    <code>4.產兒科護理學</code>→關鍵詞：黃疸<br>
+</div>
+
+<div class="theory-box"><h2>📋 👶 新生兒黃疸與高膽紅素血症重點摘要</h2>
+<div class="theory-box">
+    <h2>📘 🫁 新生兒呼吸窘迫綜合症</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">1A - 原因分析：<strong>核心概念：無呼吸器</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">1C - 答案/現象：<strong>肺泡表面活性物質</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：CPAP</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">2C - 答案/現象：<strong>無呼吸器</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：肺泡表面活性物質</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">3C - 答案/現象：<strong>無呼吸器</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">4A - 原因分析：<strong>核心概念：無呼吸器</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">4C - 答案/現象：<strong>CPAP</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：無呼吸器</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">5C - 答案/現象：<strong>肺泡表面活性物質</strong>記憶法則</span>
+    </div>
+</div>
+
+<!-- A → B → C 邏輯鏈 -->
+<div class="logical-chain">
+    <div class="chain-step">
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：CPAP</strong></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+    </div>
+    <div class="chain-step">
+        <span class="chain-label">6C - 答案/現象：<strong>無呼吸器</strong>記憶法則</span>
+    </div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於CPAP與CPAP的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意肺泡表面活性物質，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肺泡表面活性物質</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於CPAP與CPAP的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於RDS與RDS的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意RDS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意RDS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於無呼吸器與無呼吸器的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意RDS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意無呼吸器，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於CPAP與CPAP的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於RDS與RDS的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於RDS與RDS的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於無呼吸器與無呼吸器的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於CPAP與CPAP的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意無呼吸器，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於CPAP與CPAP的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於CPAP與CPAP的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意RDS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於無呼吸器與無呼吸器的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意RDS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於肺泡表面活性物質與肺泡表面活性物質的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肺泡表面活性物質</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意CPAP，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意無呼吸器，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意RDS，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：🫁 新生兒呼吸窘迫綜合症在臨床應用時應注意無呼吸器，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於肺泡表面活性物質與肺泡表面活性物質的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肺泡表面活性物質</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於CPAP與CPAP的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：CPAP</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於RDS與RDS的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：RDS</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於無呼吸器與無呼吸器的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：無呼吸器</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於肺泡表面活性物質與肺泡表面活性物質的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：肺泡表面活性物質</div>
+</div>
+
+
+<div class="memory-key">
+    <strong>💡 記憶法則：</strong><br>
+    <code>4.產兒科護理學</code>→關鍵詞：肺泡表面活性物質<br>
+</div>
+
+<div class="theory-box"><h2>📋 🫁 新生兒呼吸窘迫綜合症重點摘要</h2>
 <div class="theory-box">
     <h2>📘 💉 新生兒篩查項目解析</h2>
     <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
-
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
@@ -216,495 +1675,292 @@
         <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">1C - 答案/現象：<strong>先天性代謝</strong>記憶法則</span>
+        <span class="chain-label">1C - 答案/現象：<strong>遺傳病</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">2A - 原因分析：<strong>核心概念：甲狀腺</strong></span>
+        <span class="chain-label">2A - 原因分析：<strong>核心概念：遺傳病</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">2C - 答案/現象：<strong>苯丙酮尿</strong>記憶法則</span>
+        <span class="chain-label">2C - 答案/現象：<strong>甲狀腺</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">3A - 原因分析：<strong>核心概念：先天性代謝</strong></span>
+        <span class="chain-label">3A - 原因分析：<strong>核心概念：遺傳病</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">3C - 答案/現象：<strong>甲狀腺</strong>記憶法則</span>
+        <span class="chain-label">3C - 答案/現象：<strong>苯丙酮尿</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">4A - 原因分析：<strong>核心概念：苯丙酮尿</strong></span>
+        <span class="chain-label">4A - 原因分析：<strong>核心概念：甲狀腺</strong></span>
     </div>
     <div class="chain-step">
         <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">4C - 答案/現象：<strong>先天性代謝</strong>記憶法則</span>
-    </div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『先天性代謝』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：先天性代謝→關鍵詞：A</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『先天性代謝』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：先天性代謝→關鍵詞：A</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『先天性代謝』的臨床判斷，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：先天性代謝→關鍵詞：B</div>
-</div>
-
-<div class="memory-key">
-    <strong>💡 記憶法則：</strong><br>
-    <code>4.產兒科護理學</code>→關鍵詞：苯丙酮尿<br>
-</div>
-
-<div class="theory-box">
-    <h2>📘 🦠 新生兒感染預防與處理</h2>
-    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
-
-<!-- A → B → C 邏輯鏈 -->
-<div class="logical-chain">
-    <div class="chain-step">
-        <span class="chain-label">1A - 原因分析：<strong>核心概念：敗血症</strong></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">1B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">1C - 答案/現象：<strong>感染</strong>記憶法則</span>
+        <span class="chain-label">4C - 答案/現象：<strong>遺傳病</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">2A - 原因分析：<strong>核心概念：紅豆症</strong></span>
+        <span class="chain-label">5A - 原因分析：<strong>核心概念：苯丙酮尿</strong></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">2B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+        <span class="chain-label">5B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">2C - 答案/現象：<strong>感染</strong>記憶法則</span>
-    </div>
-</div>
-
-<!-- A → B → C 邏輯鏈 -->
-<div class="logical-chain">
-    <div class="chain-step">
-        <span class="chain-label">3A - 原因分析：<strong>核心概念：感染</strong></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">3B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
-    </div>
-    <div class="chain-step">
-        <span class="chain-label">3C - 答案/現象：<strong>敗血症</strong>記憶法則</span>
+        <span class="chain-label">5C - 答案/現象：<strong>遺傳病</strong>記憶法則</span>
     </div>
 </div>
 
 <!-- A → B → C 邏輯鏈 -->
 <div class="logical-chain">
     <div class="chain-step">
-        <span class="chain-label">4A - 原因分析：<strong>核心概念：感染</strong></span>
+        <span class="chain-label">6A - 原因分析：<strong>核心概念：遺傳病</strong></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">4B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
+        <span class="chain-label">6B - 機制運作：<em>詳細推導過程說明，結合臨床應用...</em></span>
     </div>
     <div class="chain-step">
-        <span class="chain-label">4C - 答案/現象：<strong>紅豆症</strong>記憶法則</span>
+        <span class="chain-label">6C - 答案/現象：<strong>甲狀腺</strong>記憶法則</span>
     </div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『敗血症』的臨床判斷，下列敘述何者正確？</p>
+    <strong>【國考對接 (111年)】</strong> 多選題
+    <p class="exam-question">模擬題目：關於遺傳病與遺傳病的關係，下列敘述何者正確？</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：敗血症→關鍵詞：B</div>
+    <div class="tip-box">💡 記憶法則：遺傳病</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💉 新生兒篩查項目解析在臨床應用時應注意甲狀腺，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：甲狀腺</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💉 新生兒篩查項目解析在臨床應用時應注意遺傳病，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：遺傳病</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於苯丙酮尿與苯丙酮尿的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：苯丙酮尿</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於先天性代謝與先天性代謝的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：先天性代謝</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💉 新生兒篩查項目解析在臨床應用時應注意甲狀腺，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：甲狀腺</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於甲狀腺與甲狀腺的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：甲狀腺</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💉 新生兒篩查項目解析在臨床應用時應注意先天性代謝，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：先天性代謝</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於苯丙酮尿與苯丙酮尿的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：苯丙酮尿</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (113年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於甲狀腺與甲狀腺的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：甲狀腺</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💉 新生兒篩查項目解析在臨床應用時應注意遺傳病，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：遺傳病</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於甲狀腺與甲狀腺的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：甲狀腺</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於先天性代謝與先天性代謝的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：先天性代謝</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💉 新生兒篩查項目解析在臨床應用時應注意先天性代謝，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：先天性代謝</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於苯丙酮尿與苯丙酮尿的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：苯丙酮尿</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於苯丙酮尿與苯丙酮尿的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：苯丙酮尿</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💉 新生兒篩查項目解析在臨床應用時應注意先天性代謝，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：先天性代謝</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💉 新生兒篩查項目解析在臨床應用時應注意遺傳病，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：遺傳病</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於甲狀腺與甲狀腺的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：甲狀腺</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 判斷題
+    <p class="exam-question">模擬題目：關於苯丙酮尿與苯丙酮尿的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：苯丙酮尿</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (110年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💉 新生兒篩查項目解析在臨床應用時應注意苯丙酮尿，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：苯丙酮尿</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💉 新生兒篩查項目解析在臨床應用時應注意苯丙酮尿，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：苯丙酮尿</div>
 </div>
 
 <div class="exam-block">
     <strong>【國考對接 (110年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『紅豆症』的臨床判斷，下列敘述何者正確？</p>
+    <p class="exam-question">模擬題目：關於先天性代謝與先天性代謝的關係，下列敘述何者正確？</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：紅豆症→關鍵詞：B</div>
+    <div class="tip-box">💡 記憶法則：先天性代謝</div>
 </div>
 
 <div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『抗生素』的臨床判斷，下列敘述何者正確？</p>
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於先天性代謝與先天性代謝的關係，下列敘述何者正確？</p>
     <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
-    <p><strong>選項 B:</strong> 次要概念說明 - 輔助記憶</p>
-    <div class="tip-box">💡 記憶法則：抗生素→關鍵詞：B</div>
+    <div class="tip-box">💡 記憶法則：先天性代謝</div>
 </div>
+
+<div class="exam-block">
+    <strong>【國考對接 (111年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於先天性代謝與先天性代謝的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：先天性代謝</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💉 新生兒篩查項目解析在臨床應用時應注意先天性代謝，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：先天性代謝</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (115年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：關於苯丙酮尿與苯丙酮尿的關係，下列敘述何者正確？</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：苯丙酮尿</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💉 新生兒篩查項目解析在臨床應用時應注意遺傳病，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：遺傳病</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (114年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💉 新生兒篩查項目解析在臨床應用時應注意苯丙酮尿，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：苯丙酮尿</div>
+</div>
+
+<div class="exam-block">
+    <strong>【國考對接 (112年)】</strong> 選擇題
+    <p class="exam-question">模擬題目：💉 新生兒篩查項目解析在臨床應用時應注意甲狀腺，最可能引發的副作用是...</p>
+    <p><strong>選項 A:</strong> 核心概念解析 - 重要!</p>
+    <div class="tip-box">💡 記憶法則：甲狀腺</div>
+</div>
+
 
 <div class="memory-key">
     <strong>💡 記憶法則：</strong><br>
-    <code>4.產兒科護理學</code>→關鍵詞：紅豆症<br>
+    <code>4.產兒科護理學</code>→關鍵詞：遺傳病<br>
 </div>
 
-
+<div class="theory-box"><h2>📋 💉 新生兒篩查項目解析重點摘要</h2>
 <div class="theory-box">
-    <h2>🏥 附錄 C: 臨床情境案例解析</h2>
-<div class="case-box"><strong>[案例 1]:</strong><br>【案例：新生兒黃疸】3 天大的新生兒出現皮膚黃染，膽紅素達 12mg/dL...<br></div><div class="case-box"><strong>[案例 2]:</strong><br>【案例：先大子】40 週孕產婦娩出 4200g 男嬰，需特別監測呼吸困難症狀...<br></div>
-
-<div class="theory-box">
-    <h2>📊 附錄 A: 整合記憶圖表</h2>
-    <table>
-<tr><th>核心理論</th><th>A (原因)</th><th>B (機制)</th><th>C (答案)</th></tr>
-<tr><td>' + subject_name.replace(".html", "") + '</td><td>基礎概念</td><td>運作原理</td><td>臨床應用</td></tr>
-<tr><td>考題回顧</td><td>記憶法則</td><td>陷阱警示</td><td>重點複習</td></tr>
-</table>
-
-
-<div class="theory-box">
-    <h2>📚 附錄 B: 參考資源索引</h2>
-    <ul>
-        <li><strong>推薦書目:</strong> 護理師國考必讀教材、臨牀實務指南</li>
-        <li><strong>高頻考題主題:</strong> +、+、+ (依據統計分析)</li>
-        <li><strong>陷阱警告:</strong> 注意題目中的關鍵詞「最」「第一」「主要」</li>
-    </ul>
-</div>
-
-<div class="review-section">
-    <h2>📋 考題回顧區 (110-115 年國考精選)</h2>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『RDS』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：RDS</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『光疗』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：光疗</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『肺泡表面活性物質』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：肺泡表面活性物質</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『敗血症』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：敗血症</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『敗血症』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：敗血症</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『感染』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：感染</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『交換血』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：交換血</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『先天性代謝』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：先天性代謝</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『紅豆症』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：紅豆症</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『光疗』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：光疗</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『肺泡表面活性物質』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：肺泡表面活性物質</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『敗血症』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：敗血症</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『RDS』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：RDS</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『黃疸』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：黃疸</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『肺泡表面活性物質』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：肺泡表面活性物質</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『先天性代謝』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：先天性代謝</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『苯丙酮尿』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：苯丙酮尿</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『無呼吸器』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：無呼吸器</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『無呼吸器』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：無呼吸器</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『感染』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：感染</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『無呼吸器』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：無呼吸器</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『肺泡表面活性物質』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：肺泡表面活性物質</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『抗生素』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：抗生素</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『交換血』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：交換血</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『無呼吸器』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：無呼吸器</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『抗生素』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：抗生素</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『先天性代謝』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：先天性代謝</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『RDS』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：RDS</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『黃疸』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：黃疸</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『膽紅素』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：膽紅素</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (113年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『膽紅素』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：膽紅素</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『膽紅素』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：膽紅素</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (110年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『抗生素』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：抗生素</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (112年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『肺泡表面活性物質』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：肺泡表面活性物質</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『肺泡表面活性物質』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：肺泡表面活性物質</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『RDS』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：RDS</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『苯丙酮尿』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：苯丙酮尿</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (111年)】</strong> 選擇題
-    <p class="exam-question">模擬題目：關於『光疗』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：光疗</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (115年)】</strong> 多選題
-    <p class="exam-question">模擬題目：關於『敗血症』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：敗血症</div>
-</div>
-
-<div class="exam-block">
-    <strong>【國考對接 (114年)】</strong> 判斷題
-    <p class="exam-question">模擬題目：關於『交換血』的臨床應用，下列敘述何者正確？</p>
-    <p><strong>選項 A:</strong> 核心概念解析...</p>
-    <div class="tip-box">💡 重點：交換血</div>
-</div>
-
-
-<div class="important">
-    <h3>⚠️ 重要提醒</h3>
-    <ul>
-        <li>所有邏輯鏈推導均基於 110-115 年國考真題</li>
-        <li>請務必熟記核心概念與記憶法則</li>
-        <li>臨床應用需結合實際情境判斷</li>
-    </ul>
-</div>
-
-<div class="review-section">
-    <h2>📝 考題回顧區總結</h2>
-    <p><strong>本教材已涵蓋：</strong></p>
-    <ul>
-        <li>理論區：完整邏輯鏈 A→B→C 推導過程</li>
-        <li>考題區：110-115 年國考精選題目解析</li>
-        <li>記憶法則：零幻想原則完整應用</li>
-    </ul>
-</div>
-
-<div class="memory-key">
-    <strong>🎓 學習建議：</strong><br>
-    1. 先閱讀理論區，理解 A→B→C 邏輯鏈<br>
-    2. 再看考題回顧，應用於實際情境<br>
-    3. 使用記憶法則複習關鍵詞<br>
-</div>
-
-</body>
-</html>
+    <h2>📘 🦠 新生兒感染預防與處理</h2>
+    <p><strong>【國考對接 (110-115 年)】</strong> 本主題涵蓋核心考點：</p>
