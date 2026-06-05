@@ -8,14 +8,11 @@
 (B) 梅尼爾氏症（Meniere's disease）
 (C) 良性陣發性姿勢型暈眩（benign paroxysmal positional vertigo）
 (D) 動暈症（motion sickness）
-3 下列何者會導致電位過極化（hyperpolarizing），進而誘發抑制性突觸後電位（inhibitory
-postsynaptic potential, IPSP）的表現？
-(A) Cl–
-channel open；K＋ channel open
+3 下列何者會導致電位過極化（hyperpolarizing），進而誘發抑制性突觸後電位（inhibitory postsynaptic potential, IPSP）的表現？
+(A) Cl– channel open；K＋ channel open
 (B) Na＋ channel open；K＋ channel open
 (C) Ca２＋ channel open；K＋ channel open
-(D) Na＋ channel open；Cl–
-channel open
+(D) Na＋ channel open；Cl– channel open
 4 下列有關褪黑激素（melatonin）的敘述，何者錯誤？
 (A) 可由松果腺（pineal gland）分泌
 (B) 血清素（serotonin）為其前驅物
@@ -26,10 +23,7 @@ channel open
 (B) 雙氫睪固酮（DHT）
 (C) 雌激素（estrogen）
 (D) 去氫雄脂酮（DHEA）
-6 特定微血管區段之微血管靜水壓（capillary hydrostatic pressure）為24 mmHg、組織間隙靜水壓
-（interstitial hydrostatic pressure）為0 mmHg、微血管滲透壓（capillary colloid osmotic
-pressure）為12 mmHg、組織間隙滲透壓（interstitial colloid osmotic pressure）為2 mmHg，
-則該處微血管液流動形式及總驅動力（net filtration pressure）分別為何？
+6 特定微血管區段之微血管靜水壓（capillary hydrostatic pressure）為24 mmHg、組織間隙靜水壓 （interstitial hydrostatic pressure）為0 mmHg、微血管滲透壓（capillary colloid osmotic pressure）為12 mmHg、組織間隙滲透壓（interstitial colloid osmotic pressure）為2 mmHg， 則該處微血管液流動形式及總驅動力（net filtration pressure）分別為何？
 (A) 再吸收（absorption）流入微血管：7 mmHg
 (B) 再吸收（absorption）流入微血管：14 mmHg
 (C) 過濾（filtration）流出微血管：7 mmHg
@@ -54,8 +48,7 @@ pressure）為12 mmHg、組織間隙滲透壓（interstitial colloid osmotic pre
 (B) 由肝臟分泌
 (C) 僅具脂溶性
 (D) 具脂解的作用
-11 下列那兩個體內空腔之間沒有實質構造區隔，其中一個空腔內如果產生積水，會在兩個空腔內互相
-流通？
+11 下列那兩個體內空腔之間沒有實質構造區隔，其中一個空腔內如果產生積水，會在兩個空腔內互相 流通？
 (A) 縱膈腔（mediastinum）與胸膜腔（pleural cavity）
 (B) 胸膜腔（pleural cavity）與心包腔（pericardial cavity）
 (C) 心包腔（pericardial cavity）與腹腔（abdominal cavity）
@@ -125,8 +118,7 @@ pressure）為12 mmHg、組織間隙滲透壓（interstitial colloid osmotic pre
 (B) 兒童智力發展障礙
 (C) 周邊神經病變
 (D) 貧血
-25 下列何種血管炎會造成主動脈（aorta）及其主要分支的發炎狹窄，可能導致上肢摸不到脈搏，因
-而又稱為無脈症（pulseless disease）？
+25 下列何種血管炎會造成主動脈（aorta）及其主要分支的發炎狹窄，可能導致上肢摸不到脈搏，因 而又稱為無脈症（pulseless disease）？
 (A) 高安氏動脈炎（Takayasu arteritis）
 (B) 川崎氏病（Kawasaki disease）
 (C) 韋格納氏肉芽腫（Wegener granulomatosis）
@@ -141,8 +133,7 @@ pressure）為12 mmHg、組織間隙滲透壓（interstitial colloid osmotic pre
 (B) 病人的大腸會有超過100個腺瘤性息肉
 (C) 未治療的病人幾乎都會發生大腸癌
 (D) 可以用預防性大腸切除術來治療
-28 下列何者為快速進行性腎絲球腎炎（rapidly progressive glomerulonephritis）最主要的病理變
-化？
+28 下列何者為快速進行性腎絲球腎炎（rapidly progressive glomerulonephritis）最主要的病理變 化？
 (A) 新月體（crescent）
 (B) 乾酪性壞死（caseous necrosis）
 (C) 羅素小體（Russell body）
@@ -178,8 +169,7 @@ pressure）為12 mmHg、組織間隙滲透壓（interstitial colloid osmotic pre
 (C) ondansetron
 (D) sumatriptan
 35 毛地黃中毒時，因心跳過慢導致心律不整，下列何者為正確且安全的治療策略?
-(A) 直接給與高劑量鎂與毛地黃競爭Na+
--K+ pump 的結合位
+(A) 直接給與高劑量鎂與毛地黃競爭Na+ -K+ pump 的結合位
 (B) 血鉀過低時宜補充鉀，並以atropine治療房室阻斷
 (C) 可以抗心律不整藥物amiodarone來治療
 (D) 不宜給與毛地黃抗體，以免加重傳導阻斷
@@ -228,14 +218,12 @@ pressure）為12 mmHg、組織間隙滲透壓（interstitial colloid osmotic pre
 (B) 狂犬病疫苗
 (C) 破傷風疫苗
 (D) 小兒麻痺沙賓疫苗
-45 有關金黃色葡萄球菌（Staphylococcus aureus）感染所造成的臨床表徵，下列何者症狀通常不是
-由其分泌的毒素所導致？
+45 有關金黃色葡萄球菌（Staphylococcus aureus）感染所造成的臨床表徵，下列何者症狀通常不是 由其分泌的毒素所導致？
 (A) 猛爆性紫斑病（purpura fulminans）
 (B) 葡萄球菌食物中毒（food poisoning）
 (C) 心內膜炎（endocarditis）
 (D) 葡萄球菌燙傷狀皮膚症候群（staphylococcal scalded skin syndrome）
-46 病人最近得到泌尿道感染，醫師利用革蘭氏染色法檢驗尿液中的細菌，染到與番紅（safranin）呈
-現相同顏色的一株細菌，下列針對這株細菌的敘述，何者錯誤？
+46 病人最近得到泌尿道感染，醫師利用革蘭氏染色法檢驗尿液中的細菌，染到與番紅（safranin）呈 現相同顏色的一株細菌，下列針對這株細菌的敘述，何者錯誤？
 (A) 可能是大腸桿菌（E. coli）
 (B) 可能會產生內孢子（endospore）
 (C) 應該具有內毒素（endotoxin）

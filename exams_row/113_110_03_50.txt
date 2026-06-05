@@ -48,8 +48,7 @@
 (B) 胃
 (C) 空腸
 (D) 直腸
-11 在骨骼肌細胞（skeletal muscle cell）收縮過程中，產生力擊（power stroke）後，肌凝蛋白（myosin）會與
-①結合，並造成橫橋（cross-bridge）與肌動蛋白（actin）發生②的反應，下列①、②配對，何者正確？
+11 在骨骼肌細胞（skeletal muscle cell）收縮過程中，產生力擊（power stroke）後，肌凝蛋白（myosin）會與 ①結合，並造成橫橋（cross-bridge）與肌動蛋白（actin）發生②的反應，下列①、②配對，何者正確？
 (A) ①ATP，②連接
 (B) ①ATP，②分離
 (C) ①鈣離子，②連接
@@ -119,9 +118,7 @@
 (B) 擴張性心肌症（dilated cardiomyopathy）
 (C) 慢性胰臟炎（chronic pancreatitis）
 (D) 橫紋肌溶解（rhabdomyolysis）
-25 下列為心肌梗塞（myocardial infarction）的病理變化，請依出現的先後時序予以排列：①嗜中性球浸潤
-（neutrophilicinfiltration） ②吞噬細胞 （macrophages） 清除死亡的細胞 ③心肌出現凝固性壞死 （coagulativenecrosis）
-④肉芽組織（granulation tissue） 出 現， 並 有膠 原 纖維 （ collagen） 堆 積
+25 下列為心肌梗塞（myocardial infarction）的病理變化，請依出現的先後時序予以排列：①嗜中性球浸潤 （neutrophilicinfiltration） ②吞噬細胞 （macrophages） 清除死亡的細胞 ③心肌出現凝固性壞死 （coagulativenecrosis） ④肉芽組織（granulation tissue） 出 現， 並 有膠 原 纖維 （ collagen） 堆 積
 (A) ①④③②
 (B) ②①④③
 (C) ③①②④
@@ -166,14 +163,12 @@
 (B)  lithium
 (C)  loratadine
 (D)  valproic acid
-34 下列藥物中，何者為 calcitonin gene-related peptide（CGRP）受體拮抗劑，除了可緩解急性偏頭痛（acute
-migraine）症狀，亦可用於預防偏頭痛？
+34 下列藥物中，何者為 calcitonin gene-related peptide（CGRP）受體拮抗劑，除了可緩解急性偏頭痛（acute migraine）症狀，亦可用於預防偏頭痛？
 (A)  propranolol
 (B)  sumatriptan
 (C)  dihydroergotamine
 (D)  atogepant
-35 下列藥物中，何者可減少 angiotensin II 生成，並且使體內 bradykinin 含量增加，因此產生血管舒張作用而
-降低血壓？
+35 下列藥物中，何者可減少 angiotensin II 生成，並且使體內 bradykinin 含量增加，因此產生血管舒張作用而 降低血壓？
 (A)  lisinopril
 (B)  amlodipine
 (C)  methyldopa
@@ -183,8 +178,7 @@ migraine）症狀，亦可用於預防偏頭痛？
 (B)  tirofiban
 (C)  aspirin
 (D)  rivaroxaban
-37 小玉是位有心臟病病史的膀胱癌病人，正在使用化療藥物 cisplatin，因出現嘔吐副作用，此時使用下列何
-種止吐劑最合適？
+37 小玉是位有心臟病病史的膀胱癌病人，正在使用化療藥物 cisplatin，因出現嘔吐副作用，此時使用下列何 種止吐劑最合適？
 (A)  scopolamine
 (B)  palonosetron
 (C)  prochlorperaine

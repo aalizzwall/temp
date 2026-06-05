@@ -23,20 +23,17 @@
 (B) 高強度運動（high intensity exercise）
 (C) 體抑素（somatostatin）分泌增加
 (D) 類胰島素生長因子1（IGF-1）分泌增加
-6 科林菲特氏症（Klinefelter's syndrome）患者的白血球細胞核旁，最多可以看到幾個巴氏體（barr
-body）？
+6 科林菲特氏症（Klinefelter's syndrome）患者的白血球細胞核旁，最多可以看到幾個巴氏體（barr body）？
 (A) 0
 (B) 1
 (C) 2
 (D) 3
-7 下列何者最可能同時降低動脈血壓波振幅（arterial pulse wave）與動脈血壓波速度（pulse wave
-velocity）？
+7 下列何者最可能同時降低動脈血壓波振幅（arterial pulse wave）與動脈血壓波速度（pulse wave velocity）？
 (A) 粥狀動脈硬化
 (B) 動脈老化
 (C) 高血壓
 (D) 低血壓
-8 在沒有抗利尿激素（antidiuretic hormone）介入的情況下，下列何處對鈉離子的再吸收（reabsorption）
-最多？
+8 在沒有抗利尿激素（antidiuretic hormone）介入的情況下，下列何處對鈉離子的再吸收（reabsorption） 最多？
 (A) 近曲小管（proximal convoluted tubule）
 (B) 遠曲小管（distal convoluted tubule）
 (C) 亨利氏管上行枝（ascending limb of loop of Henle）
@@ -69,8 +66,7 @@ velocity）？
 14 右心室的腱索（chordae tendineae）固著在下列何處？
 (A) 肺動脈瓣
 (B) 主動脈瓣
-(C) 
-二尖瓣
+(C)  二尖瓣
 (D) 三尖瓣
 15 下列何者是負責供應肝臟充氧血的血管？
 (A) 腸繫膜上動脈
@@ -122,8 +118,7 @@ velocity）？
 (B) 維生素A
 (C) 維生素D
 (D) 維生素B12
-25 社區性肺炎（community-acquired pneumonia）指的是患者在日常生活環境中所得到的感染，而非在醫院中
-的感染。引起典型社區性肺炎最常見的致病菌為何？
+25 社區性肺炎（community-acquired pneumonia）指的是患者在日常生活環境中所得到的感染，而非在醫院中 的感染。引起典型社區性肺炎最常見的致病菌為何？
 (A) 金黃色葡萄球菌（Staphylococcus aureus）
 (B) 肺炎鏈球菌（Streptococcus pneumoniae）
 (C) 流行感冒嗜血桿菌（Haemophilus influenzae）
@@ -143,8 +138,7 @@ velocity）？
 (B) 孕激素受體（progesterone receptor）陰性
 (C) 第二型人類表皮生長因子接受體（human epidermal growth factor receptor 2）陰性
 (D) 細胞角蛋白（cytokeratin）陰性
-29 進行性多灶性白質腦病（progressive multifocal leukoencephalopathy, PML）是一種髓鞘脫失
-（demyelination）的病變，臨床上常與免疫抑制有關。此病主要由何種病毒引起？
+29 進行性多灶性白質腦病（progressive multifocal leukoencephalopathy, PML）是一種髓鞘脫失 （demyelination）的病變，臨床上常與免疫抑制有關。此病主要由何種病毒引起？
 (A) HSV-1（herpes simplex virus-1）
 (B) VZV（varicella-zoster virus）
 (C) EBV（Epstein-Barr virus）
@@ -153,10 +147,8 @@ velocity）？
 90%的病人與下列那一個基因突變有關？
 (A) Fibroblast growth factor receptor 3基因
 (B) Fibrillin-1基因
-(C) 
-NF-1基因
-(D) 
-TCIRG1基因
+(C)  NF-1基因
+(D)  TCIRG1基因
 31 在治療慢性阻塞性肺病（COPD）的藥物中，下列何者可抑制乙醯膽鹼（ACh）受體，以減少黏液之分泌？
 (A) cromolyn
 (B) ipratropium
@@ -252,8 +244,7 @@ TCIRG1基因
 (B) 感染提高口咽癌罹患機率
 (C) 感染造成傳染性濕疣（molluscum contagiosum）
 (D) HPV-16 E6為致癌基因（oncogene）
-50 下列何種人體器官，最常受到腸外阿米巴病（extraintestinal amebiasis）原蟲的滋養體（trophozoite）
-入侵？
+50 下列何種人體器官，最常受到腸外阿米巴病（extraintestinal amebiasis）原蟲的滋養體（trophozoite） 入侵？
 (A) 肺
 (B) 心臟
 (C) 肝

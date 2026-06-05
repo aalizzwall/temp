@@ -216,10 +216,8 @@
 44 有關疫苗的敘述，下列何者錯誤？
 (A) 目前的愛滋病毒（HIV）疫苗可以誘發有效的中和抗體來預防愛滋病毒感染
 (B) 接種疫苗是目前最有效預防傳染病的方法
-(C) 減毒活病毒疫苗（live attenuated virus vaccine）通常比死病毒疫苗（killed-virus vaccine）更能引
-發保護性免疫力
-(D) 死病毒疫苗（killed-virus vaccine）通常比減毒活病毒疫苗（live attenuated virus vaccine）安全，
-較不會因為接種疫苗造成疾病
+(C) 減毒活病毒疫苗（live attenuated virus vaccine）通常比死病毒疫苗（killed-virus vaccine）更能引 發保護性免疫力
+(D) 死病毒疫苗（killed-virus vaccine）通常比減毒活病毒疫苗（live attenuated virus vaccine）安全， 較不會因為接種疫苗造成疾病
 45 有關化膿性鏈球菌（Streptococcus pyogenes）的敘述，下列何者錯誤？
 (A) M protein 是主要作為致病菌株分型的其中一種蛋白質
 (B) 造成風濕熱（rheumatic fever）的感染源主要來自於皮膚感染菌

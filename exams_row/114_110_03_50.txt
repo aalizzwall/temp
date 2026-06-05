@@ -16,8 +16,7 @@
 4 心包腔（pericardial cavity）是位於那兩層構造之間？
 (A) 纖維性心包膜（fibrous pericardium）與漿膜性心包膜的壁層（parietal layer of serous pericardium）
 (B) 纖維性心包膜（fibrous pericardium）與胸膜的壁層（parietal layer of pleura）
-(C) 漿膜性心包膜的壁層（parietal layer of serous pericardium）與漿膜性心包膜的臟層（visceral layer of
-serous pericardium）
+(C) 漿膜性心包膜的壁層（parietal layer of serous pericardium）與漿膜性心包膜的臟層（visceral layer of serous pericardium）
 (D) 纖維性心包膜（fibrous pericardium）與胸壁之間
 5 下列何者不屬於淋巴器官（lymphoid organs） ，無法製造免疫細胞？
 (A) 松果腺（pineal gland）
@@ -79,8 +78,7 @@ serous pericardium）
 (B) 雄性素結合蛋白（androgen-binding protein）
 (C) 性激素結合球蛋白（sex hormone-binding globulin）
 (D) 皮質類固醇結合球蛋白（corticosteroid-binding globulin）
-17 關於治療慢性高血壓藥物血管張力素轉換酶（angiotensin-converting enzyme）抑制劑的作用機制，下列敘
-述何者正確？
+17 關於治療慢性高血壓藥物血管張力素轉換酶（angiotensin-converting enzyme）抑制劑的作用機制，下列敘 述何者正確？
 (A) 減少血管張力素 II 的生成，並降低醛固酮
 (B) 減少血管張力素 II 的生成，但增加醛固酮
 (C) 增加血管張力素 II 的生成，並增加醛固酮
@@ -105,8 +103,7 @@ serous pericardium）
 (B) 前列腺素 D2（prostaglandin D2）
 (C) 白三烯素 D4（leukotriene D4）
 (D) 組織胺（histamine）
-22 全身性紅斑性狼瘡（systemic lupus erythematosus, SLE）所造成的血球數目低下（cytopenia）病變，主要與
-下列何種過敏反應有關？
+22 全身性紅斑性狼瘡（systemic lupus erythematosus, SLE）所造成的血球數目低下（cytopenia）病變，主要與 下列何種過敏反應有關？
 (A) 第一型過敏反應
 (B) 第二型過敏反應
 (C) 第三型過敏反應
@@ -151,8 +148,7 @@ serous pericardium）
 (B) 纖維性發育不良（fibrous dysplasia）
 (C) 佝僂病（rickets）
 (D) 先天性成骨不全症（osteogenesis imperfecta）
-31 下列藥物中，何者為前驅藥物 （prodrug） 需要體內酵素代謝才會產生活性，但有些人可能因其代謝酵素活
-性較低，而使得該藥物之藥效減弱？
+31 下列藥物中，何者為前驅藥物 （prodrug） 需要體內酵素代謝才會產生活性，但有些人可能因其代謝酵素活 性較低，而使得該藥物之藥效減弱？
 (A)  phenobarbital
 (B)  clopidogrel
 (C)  rifampin
@@ -197,8 +193,7 @@ serous pericardium）
 (B)  somatotropin
 (C)  urofollitropin
 (D)  triiodothyronine
-40 下 列 何 者 為 人 源 性 單 株 抗 體 （ humanized monoclonal antibody） ， 用 於 免 疫 抑 制 誘 導 治 療 （ induction
-immunosuppressant therapy）？
+40 下 列 何 者 為 人 源 性 單 株 抗 體 （ humanized monoclonal antibody） ， 用 於 免 疫 抑 制 誘 導 治 療 （ induction immunosuppressant therapy）？
 (A)  alemtuzumab
 (B)  methylprednisolone
 (C)  rituximab

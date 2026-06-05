@@ -293,8 +293,7 @@
 (B) 減少低血壓之副作用
 (C) 避開肝臟代謝之首渡效應
 (D) 減少反射性心搏過速之副作用
-60 下列何種藥物是經由抑制多巴胺受體 （dopamine receptor） 而產生止吐作用 ， 可用以治療化療藥物所造成
-之噁心嘔吐？
+60 下列何種藥物是經由抑制多巴胺受體 （dopamine receptor） 而產生止吐作用 ， 可用以治療化療藥物所造成 之噁心嘔吐？
 (A)  Aprepitant
 (B)  Dexamethasone
 (C)  Ondansetron

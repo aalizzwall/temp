@@ -208,8 +208,7 @@
 (B) 成熟畸胎瘤（mature teratoma）
 (C) 顆粒細胞腫瘤（granulosa cell tumor）
 (D) 克魯肯氏腫瘤（Krukenberg tumor）
-43 5 歲小男孩 ， 出現腦壓增加 、 步履不穩的症狀 ， 腦部電腦斷層掃描發現小腦中間有一生長迅速的腫瘤 ，
-下列何者是最可能的診斷？
+43 5 歲小男孩 ， 出現腦壓增加 、 步履不穩的症狀 ， 腦部電腦斷層掃描發現小腦中間有一生長迅速的腫瘤 ， 下列何者是最可能的診斷？
 (A) 髓芽母細胞瘤（medulloblastoma）
 (B) 室管膜瘤（ependymoma）
 (C) 星狀細胞瘤（astrocytoma）
@@ -224,8 +223,7 @@
 (B) 鱗狀細胞癌（squamous cell carcinoma）
 (C) 小細胞癌（small cell carcinoma）
 (D) 大細胞未分化癌（large cell undifferentiated carcinoma）
-46 關於發生於胃的黏膜相關淋巴組織淋巴瘤（mucosa-associated lymphoid tissue lymphoma, MALToma）
-之敘述，下列何者錯誤？
+46 關於發生於胃的黏膜相關淋巴組織淋巴瘤（mucosa-associated lymphoid tissue lymphoma, MALToma） 之敘述，下列何者錯誤？
 (A) 與慢性胃炎（chronic gastritis）有關
 (B) 可以經由消除幽門螺旋桿菌來治療，屬於低惡性度淋巴瘤
 (C) 屬於 T 細胞淋巴瘤（T-cell lymphoma）

@@ -83,8 +83,7 @@
 (B) 青春期前較高
 (C) 兩者相等
 (D) 個體間無一致性
-18 當物質經腎臟排出至尿液的量大於其腎絲球過濾率（glomerular filtration rate）時，則表示該物質在腎臟中
-經過下列何種處理？
+18 當物質經腎臟排出至尿液的量大於其腎絲球過濾率（glomerular filtration rate）時，則表示該物質在腎臟中 經過下列何種處理？
 (A) 被腎小管代謝分解
 (B) 被腎小管再吸收
 (C) 被腎小管分泌
@@ -169,8 +168,7 @@
 (B) 治療急性甲狀腺功能亢進（acute hyperthyroidism）
 (C) 可引起血糖上升
 (D) 抑制腎素（renin）分泌
-35 非類固醇抗發炎藥物（NSAIDs）可以抑制下列何種酵素之活性，減少前列腺素生成，而產生解熱、鎮痛，
-以及抗發炎效果？
+35 非類固醇抗發炎藥物（NSAIDs）可以抑制下列何種酵素之活性，減少前列腺素生成，而產生解熱、鎮痛， 以及抗發炎效果？
 (A)  cyclooxygenase
 (C)  HMG CoA reductase
 (B)  angiotensin converting enzyme
@@ -180,14 +178,12 @@
 (B)  Felodipine
 (C)  Aliskiren
 (D)  Irbesartan
-37 下列抗心律不整藥物中，何者為人體內生性物質，經靜脈方式給與高劑量時，可以有效治療心室上心搏過
-速（supraventricular tachycardias）？
+37 下列抗心律不整藥物中，何者為人體內生性物質，經靜脈方式給與高劑量時，可以有效治療心室上心搏過 速（supraventricular tachycardias）？
 (A)  dronedarone
 (B)  adenosine
 (C)  sotalol
 (D)  lidocaine
-38 使用口服 Levothyroxine 治療甲狀腺功能低下（hypothyroidism）時，併用下列何種口服藥物最會降低
-Levothyroxine 吸收？
+38 使用口服 Levothyroxine 治療甲狀腺功能低下（hypothyroidism）時，併用下列何種口服藥物最會降低 Levothyroxine 吸收？
 (A)  Vitamin D
 (B)  Aluminum hydroxide
 (C)  Phenobarbital
