@@ -93,8 +93,7 @@
 (B) 肌肉注射 Ampicillin 250 mg一天 3 次，時間為 9 AM, 5 PM, 1 AM
 (C) 需要時給予肌肉注射 Ampicillin 250 mg一次
 (D) 每天 8 AM 給予肌肉注射 Ampicillin 250 mg一次
-20 林先生行闌尾切除手術後返回病房 ， 醫囑 「N.P.O.」 、 「Demerol 1 amp I.M. st & q6h p.r.n.」 、 「Cefazolin
-1 gm I.V. drip q8h」，下列敘述何者錯誤？
+20 林先生行闌尾切除手術後返回病房 ， 醫囑 「N.P.O.」 、 「Demerol 1 amp I.M. st & q6h p.r.n.」 、 「Cefazolin 1 gm I.V. drip q8h」，下列敘述何者錯誤？
 (A) 須立即肌肉注射 Demerol 1 amp
 (B) 每 6 小時肌肉注射 Demerol 1 amp
 (C) 每 8 小時由靜脈滴注 Cefazolin 1 gm
@@ -398,4 +397,4 @@
 (A) 相對標準
 (B) 客觀標準
 (C) 絕對標準
-(D) 建議標準
+(D) 建議標準 

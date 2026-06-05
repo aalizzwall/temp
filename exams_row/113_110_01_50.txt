@@ -143,8 +143,7 @@
 (B) VZV（varicella-zoster virus）
 (C) EBV（Epstein-Barr virus）
 (D) JC virus
-30 侏儒症中最常見的原因是軟骨發育不全（achondroplasia），而軟骨發育不全為體染色體顯性遺傳疾病。約
-90%的病人與下列那一個基因突變有關？
+30 侏儒症中最常見的原因是軟骨發育不全（achondroplasia），而軟骨發育不全為體染色體顯性遺傳疾病。約 90%的病人與下列那一個基因突變有關？
 (A) Fibroblast growth factor receptor 3基因
 (B) Fibrillin-1基因
 (C)  NF-1基因
@@ -248,4 +247,4 @@
 (A) 肺
 (B) 心臟
 (C) 肝
-(D) 腎臟
+(D) 腎臟 

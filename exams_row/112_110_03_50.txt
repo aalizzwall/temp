@@ -247,4 +247,4 @@
 (A) 瘧疾（Malaria）
 (B) 登革熱（Dengue fever）
 (C) 利什曼病（Leishmaniasis）
-(D) 西尼羅熱（West Nile Fever）
+(D) 西尼羅熱（West Nile Fever） 

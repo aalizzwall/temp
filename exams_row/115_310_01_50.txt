@@ -247,4 +247,4 @@
 (A) 病原菌屬於H型流感病毒
 (B) 大部分病人症狀輕微，一週內可痊癒
 (C) 主要經由飛沫與接觸傳染
-(D) 治療藥物為Tamiflu及Relenza
+(D) 治療藥物為Tamiflu及Relenza 

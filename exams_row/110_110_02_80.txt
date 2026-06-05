@@ -397,4 +397,4 @@
 (A) 蛔蟲病（ascariasis）
 (B) 鞭蟲病（trichuriasis）
 (C) 旋毛蟲病（trichinellosis）
-(D) 腸道毛線蟲病（intestinal capillariasis）
+(D) 腸道毛線蟲病（intestinal capillariasis） 

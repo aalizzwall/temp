@@ -158,8 +158,7 @@
 (A) 嬰幼兒疼痛量表（Neonatal Infant Pain Scale, NIPS）
 (B) 視覺類比量表（Visual Analogue Scale, VAS）
 (C) 數字量表（Numeric Rating Scale, NRS）
-(D)  FLACC 行為疼痛量表（Face, Legs, Activity, Cry, Consolability, FLACC）
-33一位 32 週的早產兒在餵食過程中出現腹脹、吐奶和血便。下列那一種情況最有可能是早產兒的併發症？
+(D)  FLACC 行為疼痛量表（Face, Legs, Activity, Cry, Consolability, FLACC） 33一位 32 週的早產兒在餵食過程中出現腹脹、吐奶和血便。下列那一種情況最有可能是早產兒的併發症？
 (A) 新生兒黃疸
 (B) 壞死性小腸結腸炎（NEC）
 (C) 呼吸窘迫症候群（RDS）
@@ -248,4 +247,4 @@
 (A) 約束抽搐肢體，以防肢體受傷
 (B) 可強行於口腔放入壓舌板，以防舌頭受傷
 (C) 協助側臥使口中分泌物流出
-(D) 發作後會造成神經系統損傷
+(D) 發作後會造成神經系統損傷 

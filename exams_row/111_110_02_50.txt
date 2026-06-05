@@ -187,8 +187,7 @@
 (A) 屬於 thionamides 類藥物，會抑制周邊 T4 轉化成 T3
 (B) 可抑制甲狀腺素合成過程之碘化反應
 (C) 對於已經儲存在腺體中的甲狀腺素仍有抑制的作用
-(D)  Methimazole 較 Propylthiouracil 的藥效長，且較有致畸胎之風險
-39一名病人因肺炎感染而住院，菌種分離偵測到 Methicillin 抗藥性的金黃色葡萄球菌，下列何者不適於治療此病人？
+(D)  Methimazole 較 Propylthiouracil 的藥效長，且較有致畸胎之風險 39一名病人因肺炎感染而住院，菌種分離偵測到 Methicillin 抗藥性的金黃色葡萄球菌，下列何者不適於治療此病人？
 (A)  Daptomycin
 (B)  Quinupristin/Dalfopristin
 (C)  Teicoplanin
@@ -247,4 +246,4 @@
 (A) 亞洲絛蟲
 (B) 豬肉絛蟲
 (C) 牛肉絛蟲
-(D) 廣節裂頭絛蟲
+(D) 廣節裂頭絛蟲 

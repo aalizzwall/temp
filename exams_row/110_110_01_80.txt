@@ -397,4 +397,4 @@
 (A)  Tetracycline
 (B)  Ivermectin
 (C)  Praziquantel
-(D)  Mebendazole
+(D)  Mebendazole 

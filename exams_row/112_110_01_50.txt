@@ -97,8 +97,7 @@
 (A) 肺間壓（Transpulmonary pressure）增加
 (B) 胸膜內壓（Intrapleural pressure）增加
 (C) 肺泡壓（Alveolar pressure）減小
-(D) 大氣壓（Atmospheric pressure）不變
-21一位 46 歲肝硬化患者，最近 3 個月逐漸出現下肢水腫和大量腹水，下列何者與此病人之下肢水腫原因的 關係最小？
+(D) 大氣壓（Atmospheric pressure）不變 21一位 46 歲肝硬化患者，最近 3 個月逐漸出現下肢水腫和大量腹水，下列何者與此病人之下肢水腫原因的 關係最小？
 (A) 血液滲透壓變小
 (B) 門靜脈壓變大
 (C) 鈉離子貯積
@@ -117,8 +116,7 @@
 (A) 類風濕性關節炎（rheumatoid arthritis）
 (B) 化膿性關節炎（pyogenic arthritis）
 (C) 結核性關節炎（tuberculous arthritis）
-(D) 骨關節炎（osteoarthritis）
-25一位患有慢性胃食道逆流的病人，在食道下三分之一處發現有區域性柱狀上皮的出現，此現象稱為：
+(D) 骨關節炎（osteoarthritis） 25一位患有慢性胃食道逆流的病人，在食道下三分之一處發現有區域性柱狀上皮的出現，此現象稱為：
 (A) 增生（hyperplasia）
 (B) 肥大（hypertrophy）
 (C) 萎縮（atrophy）
@@ -247,4 +245,4 @@
 (A)  IgM
 (B)  IgG
 (C)  IgA
-(D)  IgE
+(D)  IgE 
