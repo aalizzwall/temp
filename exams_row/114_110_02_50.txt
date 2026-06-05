@@ -1,149 +1,254 @@
 1 有關濾泡刺激素（follicle-stimulating hormone）的敘述，下列何者錯誤？
-刺激男性合成睪固酮（testosterone）
-作用標的是睪丸的曲細精管（seminiferous tubule）
-刺激女性合成雌激素（estrogen）
-作用標的是卵巢濾泡
+(A) 刺激男性合成睪固酮（testosterone）
+(B) 作用標的是睪丸的曲細精管（seminiferous tubule）
+(C) 刺激女性合成雌激素（estrogen）
+(D) 作用標的是卵巢濾泡
 2 下列結構中，何者直徑最大？
-微絲（microfilament） 微小管（microtubule）
-中間絲（intermediate filament） 肌原纖維（myofibril）
+(A) 微絲（microfilament）
+(B) 微小管（microtubule）
+(C) 中間絲（intermediate filament）
+(D) 肌原纖維（myofibril）
 3 有關肌肉的作用，下列何者與其他三者不同？
-股二頭肌 半腱肌 半膜肌 股薄肌
+(A) 股二頭肌
+(B) 半腱肌
+(C) 半膜肌
+(D) 股薄肌
 4 在大多數的人，下列那兩者是左冠狀動脈（left coronary artery）的主要分支？
-前心室間動脈（anterior interventricular artery）與邊緣動脈（marginal artery）
-前心室間動脈與迴旋動脈（circumflex artery）
-後心室間動脈（posterior interventricular artery）與邊緣動脈
-後心室間動脈與迴旋動脈
+(A) 前心室間動脈（anterior interventricular artery）與邊緣動脈（marginal artery）
+(B) 前心室間動脈與迴旋動脈（circumflex artery）
+(C) 後心室間動脈（posterior interventricular artery）與邊緣動脈
+(D) 後心室間動脈與迴旋動脈
 5 巨噬細胞是由下列何者分化而成？
-嗜酸性球 嗜鹼性球 單核球 淋巴球
+(A) 嗜酸性球
+(B) 嗜鹼性球
+(C) 單核球
+(D) 淋巴球
 6 下列何者與男性陰莖的龜頭，都是由尿道海綿體（corpus spongiosum）構成？
-陰莖球（bulb of the penis） 陰莖腳（crura of the penis）
-陰莖包皮（prepuce of the penis） 尿道球腺（bulbo-urethral gland）
+(A) 陰莖球（bulb of the penis）
+(B) 陰莖腳（crura of the penis）
+(C) 陰莖包皮（prepuce of the penis）
+(D) 尿道球腺（bulbo-urethral gland）
 7 有關左、右腎臟的敘述，下列何者錯誤？
-二者水平位置等高 二者皆為腹膜後器官
-二者上方皆有腎上腺 二者的背面皆受第 12 肋骨保護
+(A) 二者水平位置等高
+(B) 二者皆為腹膜後器官
+(C) 二者上方皆有腎上腺
+(D) 二者的背面皆受第 12 肋骨保護
 8 下列何者是牙齒的主體結構？
-琺瑯質（enamel） 牙質（dentin） 白堊質（cementum） 齒髓（tooth pulp）
+(A) 琺瑯質（enamel）
+(B) 牙質（dentin）
+(C) 白堊質（cementum）
+(D) 齒髓（tooth pulp）
 9 下列何者內含退化的臍靜脈？
-肝圓韌帶（round ligament of liver） 鐮狀韌帶（falciform ligament）
-大網膜（greater omentum） 小網膜（lesser omentum）
+(A) 肝圓韌帶（round ligament of liver）
+(B) 鐮狀韌帶（falciform ligament）
+(C) 大網膜（greater omentum）
+(D) 小網膜（lesser omentum）
 10 下列何者攜帶的神經纖維刺激耳下腺的分泌？
-顏面神經 舌咽神經 動眼神經 迷走神經
+(A) 顏面神經
+(B) 舌咽神經
+(C) 動眼神經
+(D) 迷走神經
 11 次級主動運輸（secondary active transport）的直接動力來自：
-電化學梯度 三磷酸腺苷（ATP） 三磷酸鳥苷（GTP） 滲透壓
+(A) 電化學梯度
+(B) 三磷酸腺苷（ATP）
+(C) 三磷酸鳥苷（GTP）
+(D) 滲透壓
 12 鈣離子活化平滑肌細胞橫橋（cross-bridge）反應，下列何者為其主要作用？
-旋轉肌凝素（tropomyosin） 旋轉素 C（troponin C）
-肌動蛋白（actin） 肌球蛋白（myosin）
+(A) 旋轉肌凝素（tropomyosin）
+(B) 旋轉素 C（troponin C）
+(C) 肌動蛋白（actin）
+(D) 肌球蛋白（myosin）
 13 下列何者不是下運動神經元（lower motor neuron）損傷的表徵？
-肌肉弛緩性癱瘓（flaccid paralysis） 肌束顫動（fasciculation）
-肌肉萎縮（muscular atrophy） 肌肉張力亢進（hypertonia）
+(A) 肌肉弛緩性癱瘓（flaccid paralysis）
+(B) 肌束顫動（fasciculation）
+(C) 肌肉萎縮（muscular atrophy）
+(D) 肌肉張力亢進（hypertonia）
 14 下列何者為清醒狀態（awake state）時，神經傳導物質所媒介的神經元活性表現？
-正腎上腺素（norepinephrine）神經元活性減弱
-血清素（serotonin）神經元活性減弱
-乙醯膽鹼（acetylcholine）神經元活性減弱
- γ-胺基丁酸（GABA）神經元活性增強
+(A) 正腎上腺素（norepinephrine）神經元活性減弱
+(B) 血清素（serotonin）神經元活性減弱
+(C) 乙醯膽鹼（acetylcholine）神經元活性減弱
+(D)  γ-胺基丁酸（GABA）神經元活性增強
 15 下列那個腦區是主要調控褪黑素（melatonin）的分泌？
-視上核（supraoptic nucleus） 旁室核（paraventricular nucleus）
-視叉上核（suprachiasmatic nucleus） 外側膝狀核（lateral geniculate nucleus）
+(A) 視上核（supraoptic nucleus）
+(B) 旁室核（paraventricular nucleus）
+(C) 視叉上核（suprachiasmatic nucleus）
+(D) 外側膝狀核（lateral geniculate nucleus）
 16 下列何者可將睪固酮轉換為動情二醇（17β-estradiol）？
-濾泡細胞 萊迪氏細胞 卵細胞 卵囊泡膜細胞
+(A) 濾泡細胞
+(B) 萊迪氏細胞
+(C) 卵細胞
+(D) 卵囊泡膜細胞
 17 下列何種疾病主要是視錐細胞（cone cells）基因突變異常所致？
-散光（astigmatism） 色盲（color blindness）
-弱視（amblyopia） 青光眼（glaucoma）
+(A) 散光（astigmatism）
+(B) 色盲（color blindness）
+(C) 弱視（amblyopia）
+(D) 青光眼（glaucoma）
 18 下列那一段腎小管（renal tubule）對水的通透度最低？
-近曲小管 亨利氏管上行枝 亨利氏管下行枝 集尿管
+(A) 近曲小管
+(B) 亨利氏管上行枝
+(C) 亨利氏管下行枝
+(D) 集尿管
 19 失語症（aphasia）與下列那個腦區受損最為相關？
-視丘（thalamus） 海馬迴（hippocampus）
-維尼克氏腦區（Wernicke's area） 前運動皮質（premotor cortex）
+(A) 視丘（thalamus）
+(B) 海馬迴（hippocampus）
+(C) 維尼克氏腦區（Wernicke's area）
+(D) 前運動皮質（premotor cortex）
 20 下列那一種刺激會引起最多的唾液分泌？
-甜味 酸味 鹹味 觸覺
+(A) 甜味
+(B) 酸味
+(C) 鹹味
+(D) 觸覺
 21 下列何種病灶的發炎反應形式與其他三種最不相同？
-膿胸（empyema） 急性闌尾炎（acute appendicitis）
-膿瘍（abscess） 帶狀疱疹（varicella-zoster virus）引起的水泡
+(A) 膿胸（empyema）
+(B) 急性闌尾炎（acute appendicitis）
+(C) 膿瘍（abscess）
+(D) 帶狀疱疹（varicella-zoster virus）引起的水泡
 22 下列何種機制與鬱血性心衰竭（congestive heart failure）患者的肺水腫最為相關？
-肺毛細血管靜水壓增加 肺毛細血管血漿膠體滲透壓降低
-肺毛細血管通透性增加 肺臟淋巴管阻塞
+(A) 肺毛細血管靜水壓增加
+(B) 肺毛細血管血漿膠體滲透壓降低
+(C) 肺毛細血管通透性增加
+(D) 肺臟淋巴管阻塞
 23 下列何種自體抗體（autoantibody）與全身性紅斑性狼瘡（systemic lupus erythematosus）最相關？
-抗核抗體（anti-nuclear antibody）
-抗肌動蛋白抗體（anti-actin antibody）
-抗粒線體抗體（anti-mitochondrial antibody）
-抗嗜中性球細胞質抗體（anti-neutrophil cytoplasmic antibody）
+(A) 抗核抗體（anti-nuclear antibody）
+(B) 抗肌動蛋白抗體（anti-actin antibody）
+(C) 抗粒線體抗體（anti-mitochondrial antibody）
+(D) 抗嗜中性球細胞質抗體（anti-neutrophil cytoplasmic antibody）
 24 下列那一種人類病原體的大小（size）最小？
-黴菌（fungi） 普利昂蛋白（prion）
-細菌（bacteria） 原生動物（protozoa）
+(A) 黴菌（fungi）
+(B) 普利昂蛋白（prion）
+(C) 細菌（bacteria）
+(D) 原生動物（protozoa）
 25 末期大腸直腸癌具有遠端器官的腫瘤轉移。下列何者是大腸直腸癌最常發生轉移的器官？
-肝臟 胰臟 脾臟 心臟
+(A) 肝臟
+(B) 胰臟
+(C) 脾臟
+(D) 心臟
 26 3 歲男性，右側睪丸有一個腫瘤，抽血發現血清中的甲型胎兒蛋白 （α -fetoprotein） 異常升高，他的睪丸腫
 瘤最可能是那一種？
-卵黃囊瘤（yolk sac tumor） 絨毛膜癌（choriocarcinoma）
-淋巴癌（lymphoma） 胚胎性癌（embryonal carcinoma）
+(A) 卵黃囊瘤（yolk sac tumor）
+(B) 絨毛膜癌（choriocarcinoma）
+(C) 淋巴癌（lymphoma）
+(D) 胚胎性癌（embryonal carcinoma）
 27 關於 IgA 腎病變（IgA nephropathy）的敘述，下列何者最不適當？
-又稱為 Berger 氏病（Berger disease） ，最好發於老年女性
- IgA 主要沉積於腎絲球的膈細胞（mesangial cells）的區域
-病人通常會有血尿（hematuria）及蛋白尿（proteinuria）
-是目前世界上最常見的原發性腎病變，也是導致慢性腎病的主要原因之一
+(A) 又稱為 Berger 氏病（Berger disease） ，最好發於老年女性
+(B)  IgA 主要沉積於腎絲球的膈細胞（mesangial cells）的區域
+(C) 病人通常會有血尿（hematuria）及蛋白尿（proteinuria）
+(D) 是目前世界上最常見的原發性腎病變，也是導致慢性腎病的主要原因之一
 28 子宮頸癌（cervical cancer）最常見的病理組織形態為何？
-鱗狀上皮癌（squamous cell carcinoma） 腺癌（adenocarcinoma）
-小細胞癌（small cell carcinoma） 腺樣囊性癌（adenoid cystic carcinoma）
+(A) 鱗狀上皮癌（squamous cell carcinoma）
+(B) 腺癌（adenocarcinoma）
+(C) 小細胞癌（small cell carcinoma）
+(D) 腺樣囊性癌（adenoid cystic carcinoma）
 29 小腦天幕疝脫（transtentorial herniation） ，顳葉內側緣被擠壓時，下列何種變化最少見？
-腦壓上升 腦萎縮 瞳孔放大 視覺皮質缺血
+(A) 腦壓上升
+(B) 腦萎縮
+(C) 瞳孔放大
+(D) 視覺皮質缺血
 30 痛風為尿酸鈉結晶沉積於關節或附近組織造成發炎反應，關於痛風的臨床表現下列何者正確？
-好發於生育年齡女性 有高尿酸血症的人大部分都會有痛風
-好發於肢體近端大關節 可能造成腎臟病變的併發症
+(A) 好發於生育年齡女性
+(B) 有高尿酸血症的人大部分都會有痛風
+(C) 好發於肢體近端大關節
+(D) 可能造成腎臟病變的併發症
 31 巨環類抗生素（macrolides）最不易引起下列何種副作用？
-腸胃不適 黃疸 耳毒性 癲癇
+(A) 腸胃不適
+(B) 黃疸
+(C) 耳毒性
+(D) 癲癇
 32 下列何者不屬於毒蕈鹼拮抗劑（muscarinic antagonist）的臨床適應症？
-膀胱痙攣 帕金森氏症 青光眼 消化道痙攣
+(A) 膀胱痙攣
+(B) 帕金森氏症
+(C) 青光眼
+(D) 消化道痙攣
 33 下列降血壓藥物中，何者為腎素抑制劑（renin inhibitor）？
- Azilsartan  Aliskiren  Amiloride  Acebutolol
+(A)  Azilsartan
+(B)  Aliskiren
+(C)  Amiloride
+(D)  Acebutolol
 34 下列藥物中，何者屬於長效型 β2 腎上腺性受體（β2 adrenergic receptor）致效劑，常用於治療氣喘及慢性阻
 塞性肺病（chronic obstructive pulmonary disease）？
- Salmeterol  Albuterol  Naphazoline  Dobutamine
+(A)  Salmeterol
+(B)  Albuterol
+(C)  Naphazoline
+(D)  Dobutamine
 35 關於 Diphenhydramine 的敘述，下列何者錯誤？
-可改善過敏症狀 口服吸收良好
-無中樞神經抑制作用 為組織胺 H1 受體拮抗劑
+(A) 可改善過敏症狀
+(B) 口服吸收良好
+(C) 無中樞神經抑制作用
+(D) 為組織胺 H1 受體拮抗劑
 36 有關 Angiotensin-converting enzyme inhibitors （ACEIs） 用於治療心衰竭的作用機制之敘述 ， 下列何者錯誤？
-抑制交感神經活性 減少血管阻力
-減少鈉水滯留 減少 bradykinin 濃度
+(A) 抑制交感神經活性
+(B) 減少血管阻力
+(C) 減少鈉水滯留
+(D) 減少 bradykinin 濃度
 37 下列利尿劑中，何者在頻繁及高劑量使用下易產生耳毒性（ototoxicity）副作用？
- Thiazide diuretics  Loop diuretics
- Aldosterone antagonists  Carbonic anhydrase inhibitors
+(A)  Thiazide diuretics
+(B)  Loop diuretics
+(C)  Aldosterone antagonists
+(D)  Carbonic anhydrase inhibitors
 38 下列糖尿病的治療藥物中，何者單獨使用時最可能造成低血糖（hypoglycemia）的風險？
- Glyburide  Metformin  Pioglitazone  Acarbose
+(A)  Glyburide
+(B)  Metformin
+(C)  Pioglitazone
+(D)  Acarbose
 39 下列何者不是使用 Corticosteroids 藥物治療時常見之副作用？
-骨質疏鬆症 低血壓 增加感染的危險 周邊水腫
+(A) 骨質疏鬆症
+(B) 低血壓
+(C) 增加感染的危險
+(D) 周邊水腫
 40一位乳癌患者經化療藥物治療後，產生嚴重心臟毒性，最可能是使用下列何種抗癌藥物？
- Bleomycin  Doxorubicin  Cyclophosphamide  Vinblastine
+(A)  Bleomycin
+(B)  Doxorubicin
+(C)  Cyclophosphamide
+(D)  Vinblastine
 41 外科手術器材如帶有塑膠材質，下列何者是最適合的消毒法？
-酒精 過氧化氫蒸氣 四級氨化合物 高壓滅菌法
+(A) 酒精
+(B) 過氧化氫蒸氣
+(C) 四級氨化合物
+(D) 高壓滅菌法
 42 下列何者為正確的五大主要類型免疫球蛋白（immunoglobulin）？
- IgA, IgD, IgK, IgG, IgM  IgA, IgD, IgE, IgG, IgM
- IgA, IgK, IgE, IgG, IgM  IgA, IgD, IgE, IgK, IgM
+(A)  IgA, IgD, IgK, IgG, IgM
+(B)  IgA, IgD, IgE, IgG, IgM
+(C)  IgA, IgK, IgE, IgG, IgM
+(D)  IgA, IgD, IgE, IgK, IgM
 43 效應 TH1 細胞可以提供那兩種訊號幫助巨噬細胞進一步活化？
- PD1-PD-L1；TNF-α  CD40L-CD40；IFN-γ
- CD28-B7；IL-10  TCR-MHC；IL-2
+(A)  PD1-PD-L1；TNF-α
+(B)  CD40L-CD40；IFN-γ
+(C)  CD28-B7；IL-10
+(D)  TCR-MHC；IL-2
 44 下列何種疾病目前無有效的疫苗可預防？
-肺結核 白喉 破傷風 梅毒
+(A) 肺結核
+(B) 白喉
+(C) 破傷風
+(D) 梅毒
 45 金黃色葡萄球菌常在食材煮熟前就污染了食物，因而造成食物中毒。下列針對該菌造成食物中毒的敘述何
 者錯誤？
-症狀發生通常於進食後平均 4 小時左右 可能因該菌產生的耐熱型腸毒素造成
-食物中毒症狀通常伴隨發燒及血便 臨床用藥以症狀消除為主，不建議抗生素
+(A) 症狀發生通常於進食後平均 4 小時左右
+(B) 可能因該菌產生的耐熱型腸毒素造成
+(C) 食物中毒症狀通常伴隨發燒及血便
+(D) 臨床用藥以症狀消除為主，不建議抗生素
 46 下列針對腦膜炎雙球菌（Neisseria meningitidis）引發腦膜炎的敘述，何者錯誤？
-具有莢膜結構能抑制吞噬作用 該菌主要透過飛沫傳染造成疾病
-該菌屬於人畜共通的傳染疾病 出血性皮疹為診斷的其中一種依據
+(A) 具有莢膜結構能抑制吞噬作用
+(B) 該菌主要透過飛沫傳染造成疾病
+(C) 該菌屬於人畜共通的傳染疾病
+(D) 出血性皮疹為診斷的其中一種依據
 47 下列那種細菌感染在傷口通常會出現黃色到橘色的類硫磺顆粒（sulfur granules） ，常與口腔衛生不佳或是
 侵入性牙科手術有關？
-放線菌（Actinomyces） 乳酸桿菌（Lactobacillus）
-比菲德氏菌（Bifidobacterium） 梭狀芽孢桿菌（Clostridium）
+(A) 放線菌（Actinomyces）
+(B) 乳酸桿菌（Lactobacillus）
+(C) 比菲德氏菌（Bifidobacterium）
+(D) 梭狀芽孢桿菌（Clostridium）
 48 引起全身性真菌病的主要真菌病原菌，最常見感染人類的方式為何？
-誤食真菌的菌絲體 傷口接觸到真菌菌絲
-吸入真菌的分生孢子 眼睛黏膜接觸到酵母菌樣 （yeast-form） 之真菌病原菌
+(A) 誤食真菌的菌絲體
+(B) 傷口接觸到真菌菌絲
+(C) 吸入真菌的分生孢子
+(D) 眼睛黏膜接觸到酵母菌樣 （yeast-form） 之真菌病原菌
 49 有關流行性感冒病毒的敘述，下列何者錯誤？
-為一具有八段正股 RNA 基因體的病毒
-病毒可能經由飛沫或人畜共同傳染
- Zanamivir 可用於治療 A 型流感病毒及 B 型流感病毒之感染
-具有去活化的疫苗可以預防
+(A) 為一具有八段正股 RNA 基因體的病毒
+(B) 病毒可能經由飛沫或人畜共同傳染
+(C)  Zanamivir 可用於治療 A 型流感病毒及 B 型流感病毒之感染
+(D) 具有去活化的疫苗可以預防
 50 有關病毒的敘述，下列何者最適當？
-病毒都要用宿主細胞的核糖體來製造自己的蛋白質
-所有病毒都有自己的核酸聚合酶
-對大部分的抗生素有感受性
-如同細胞有絲分裂一樣，用二分裂法的方式複製
+(A) 病毒都要用宿主細胞的核糖體來製造自己的蛋白質
+(B) 所有病毒都有自己的核酸聚合酶
+(C) 對大部分的抗生素有感受性
+(D) 如同細胞有絲分裂一樣，用二分裂法的方式複製

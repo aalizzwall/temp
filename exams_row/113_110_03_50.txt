@@ -1,147 +1,256 @@
 1 大轉子（greater trochanter）位於下列那塊骨骼？
-髖骨 坐骨 髂骨 股骨
+(A) 髖骨
+(B) 坐骨
+(C) 髂骨
+(D) 股骨
 2 下列何者受坐骨神經（sciatic nerve）支配？
-股四頭肌 股二頭肌 臀大肌 臀中肌
+(A) 股四頭肌
+(B) 股二頭肌
+(C) 臀大肌
+(D) 臀中肌
 3 支配聲帶肌群的神經是：
-迷走神經 舌咽神經 舌下神經 頸橫神經
+(A) 迷走神經
+(B) 舌咽神經
+(C) 舌下神經
+(D) 頸橫神經
 4 DNA 雙股結構中的腺嘌呤（adenine）主要與下列何者配對？
-腺嘌呤（adenine） 鳥糞嘌呤（guanine） 胞嘧啶（cytosine） 胸腺嘧啶（thymine）
+(A) 腺嘌呤（adenine）
+(B) 鳥糞嘌呤（guanine）
+(C) 胞嘧啶（cytosine）
+(D) 胸腺嘧啶（thymine）
 5 關於第 7 肋骨的描述下列何者錯誤？
-屬於真肋（true ribs） 屬於假肋（false ribs）
-屬於典型肋骨 第 8 肋軟骨附著於第 7 肋軟骨
+(A) 屬於真肋（true ribs）
+(B) 屬於假肋（false ribs）
+(C) 屬於典型肋骨
+(D) 第 8 肋軟骨附著於第 7 肋軟骨
 6 淋巴液是在何處匯入靜脈？
-頸內靜脈與鎖骨下靜脈交會處 頭靜脈與腋靜脈交會處
-左、右頭臂靜脈交會處 左、右肋間靜脈交會處
+(A) 頸內靜脈與鎖骨下靜脈交會處
+(B) 頭靜脈與腋靜脈交會處
+(C) 左、右頭臂靜脈交會處
+(D) 左、右肋間靜脈交會處
 7 聲帶（vocal cord）的前方連結在甲狀軟骨，請問後方連結在那一塊軟骨？
-會厭軟骨（epiglottis） 環狀軟骨（cricoid cartilage）
-杓狀軟骨（arytenoid cartilage） 楔狀軟骨（cuneiform cartilage）
+(A) 會厭軟骨（epiglottis）
+(B) 環狀軟骨（cricoid cartilage）
+(C) 杓狀軟骨（arytenoid cartilage）
+(D) 楔狀軟骨（cuneiform cartilage）
 8 下列有關肝小葉之敘述何者錯誤？
-為肝臟之構造功能單位 主要由肝細胞以肝動脈為中心輻射狀排列組成
-形狀約略成六角形 在其周圍有門脈三合體（portal triad）
+(A) 為肝臟之構造功能單位
+(B) 主要由肝細胞以肝動脈為中心輻射狀排列組成
+(C) 形狀約略成六角形
+(D) 在其周圍有門脈三合體（portal triad）
 9 下列何者分泌內在因子（intrinsic factor） ，以協助維生素 B12 之吸收？
-胃壁細胞（parietal cells） 胃主細胞（chief cells）
-胰島細胞（islet cells） 胰腺泡細胞（acinar cells）
+(A) 胃壁細胞（parietal cells）
+(B) 胃主細胞（chief cells）
+(C) 胰島細胞（islet cells）
+(D) 胰腺泡細胞（acinar cells）
 10 下列何者具有明顯之環狀皺襞（circular folds）？
-食道 胃 空腸 直腸
+(A) 食道
+(B) 胃
+(C) 空腸
+(D) 直腸
 11 在骨骼肌細胞（skeletal muscle cell）收縮過程中，產生力擊（power stroke）後，肌凝蛋白（myosin）會與
 ①結合，並造成橫橋（cross-bridge）與肌動蛋白（actin）發生②的反應，下列①、②配對，何者正確？
-①ATP，②連接 ①ATP，②分離 ①鈣離子，②連接 ①鈣離子，②分離
+(A) ①ATP，②連接
+(B) ①ATP，②分離
+(C) ①鈣離子，②連接
+(D) ①鈣離子，②分離
 12 車禍造成大腦枕葉損傷，最可能造成下列何種症狀？
-視覺障礙 聽覺障礙 肢體運動困難 運動性失語症
+(A) 視覺障礙
+(B) 聽覺障礙
+(C) 肢體運動困難
+(D) 運動性失語症
 13 食用含有河豚毒素（tetrodotoxin）的生魚片之後出現肌肉麻痺的現象，此現象為何種通道被阻斷所致？
-鉀通道 鈣通道 鈉通道 氯通道
+(A) 鉀通道
+(B) 鈣通道
+(C) 鈉通道
+(D) 氯通道
 14 下列何者促進脂質分解，增加血中脂肪酸濃度的效果最強？
-胰島素 生長激素 礦物皮質素 升糖激素
+(A) 胰島素
+(B) 生長激素
+(C) 礦物皮質素
+(D) 升糖激素
 15 下列有關女性排卵的敘述，何者正確？
-由黃體（corpus luteum）分泌的雌激素（estrogen）誘發排卵
-黃體激素（progesterone）對黃體促素（LH）的正回饋所致
-腦下腺前葉 LH 的高峯分泌（LH surge）可誘發排卵
-排卵後的濾泡細胞即轉變為白體（corpus albicans）
+(A) 由黃體（corpus luteum）分泌的雌激素（estrogen）誘發排卵
+(B) 黃體激素（progesterone）對黃體促素（LH）的正回饋所致
+(C) 腦下腺前葉 LH 的高峯分泌（LH surge）可誘發排卵
+(D) 排卵後的濾泡細胞即轉變為白體（corpus albicans）
 16 當組織代謝活性（tissue metabolic activity）增加時不會引起下列何種反應？
-微血管前括約肌收縮 微血管的血流量增加
-小動脈血管舒張 微血管開啟數量增加
+(A) 微血管前括約肌收縮
+(B) 微血管的血流量增加
+(C) 小動脈血管舒張
+(D) 微血管開啟數量增加
 17一個 70 歲老人的心電圖（ECG）如下，他的心跳每分鐘約多少下？
- 70  78  94  104
+(A)  70
+(B)  78
+(C)  94
+(D)  104
 18 抗利尿激素（antidiuretic hormone）在下列那個腦區合成？
-下視丘視上核（supraoptic nucleus） 視丘前核（anterior nucleus）
-大腦基底核（basal ganglia） 中腦黑質（substantia nigra）
+(A) 下視丘視上核（supraoptic nucleus）
+(B) 視丘前核（anterior nucleus）
+(C) 大腦基底核（basal ganglia）
+(D) 中腦黑質（substantia nigra）
 19 有關氣胸（pneumothorax）後的敘述，下列何者最適當？
-胸膜內壓（intrapleural pressure）降低 肺間壓（transpulmonary pressure）下降
-肺泡內壓（alveolar pressure）持續降低 肺泡內壓（alveolar pressure）持續升高
+(A) 胸膜內壓（intrapleural pressure）降低
+(B) 肺間壓（transpulmonary pressure）下降
+(C) 肺泡內壓（alveolar pressure）持續降低
+(D) 肺泡內壓（alveolar pressure）持續升高
 20 有關脂肪乳化（emulsification）的敘述，下列何者正確？
-腸道機械性的運動對於脂肪乳化沒有影響
-三酸甘油酯 （triglyceride） 經乳化作用分解為單酸甘油酯 （monoglyceride） 和游離脂肪酸 （free fatty acid）
-特定蛋白質經乳化作用與三酸甘油酯（triglyceride）產生乳糜微粒（chylomicron）
-脂肪乳化需要肝臟分泌的膽鹽（bile salt）和磷脂質（phospholipid）
+(A) 腸道機械性的運動對於脂肪乳化沒有影響
+(B) 三酸甘油酯 （triglyceride） 經乳化作用分解為單酸甘油酯 （monoglyceride） 和游離脂肪酸 （free fatty acid）
+(C) 特定蛋白質經乳化作用與三酸甘油酯（triglyceride）產生乳糜微粒（chylomicron）
+(D) 脂肪乳化需要肝臟分泌的膽鹽（bile salt）和磷脂質（phospholipid）
 21 有關細胞凋亡（apoptosis）的敘述，下列何者最不適當？
-凋亡比壞死（necrosis）更易引起發炎反應 輻射造成細胞核酸嚴重受損可引起細胞凋亡的發生
-病毒性肝炎肝細胞的死亡為病理性的凋亡 正常月經週期子宮內膜崩離是生理性的凋亡
+(A) 凋亡比壞死（necrosis）更易引起發炎反應
+(B) 輻射造成細胞核酸嚴重受損可引起細胞凋亡的發生
+(C) 病毒性肝炎肝細胞的死亡為病理性的凋亡
+(D) 正常月經週期子宮內膜崩離是生理性的凋亡
 22 下列何者不是造成血漿滲透壓下降的原因？
-腎病症候群（nephrotic syndrome） 肝硬化（liver cirrhosis）
-蛋白質營養不良（protein malnutrition） 鈉滯留（sodium retention）
+(A) 腎病症候群（nephrotic syndrome）
+(B) 肝硬化（liver cirrhosis）
+(C) 蛋白質營養不良（protein malnutrition）
+(D) 鈉滯留（sodium retention）
 23 微生物可能和癌症有關，下列敘述何者最不適當？
- Epstein-Barr virus（EBV）和勃氏淋巴瘤（Burkitt lymphoma）
-幽門螺旋桿菌和胃的邊緣區型淋巴瘤（marginal zone lymphoma）
- HTLV－1（human T－cell leukemia virus type 1）和慢性淋巴性白血病（chronic lymphocytic leukemia）
-埃及血吸蟲（Schistosoma haematobium）和膀胱癌
+(A)  Epstein-Barr virus（EBV）和勃氏淋巴瘤（Burkitt lymphoma）
+(B) 幽門螺旋桿菌和胃的邊緣區型淋巴瘤（marginal zone lymphoma）
+(C)  HTLV－1（human T－cell leukemia virus type 1）和慢性淋巴性白血病（chronic lymphocytic leukemia）
+(D) 埃及血吸蟲（Schistosoma haematobium）和膀胱癌
 24 下列何者不是慢性酗酒的常見後遺症？
-周邊神經病變（peripheral neuropathy） 擴張性心肌症（dilated cardiomyopathy）
-慢性胰臟炎（chronic pancreatitis） 橫紋肌溶解（rhabdomyolysis）
+(A) 周邊神經病變（peripheral neuropathy）
+(B) 擴張性心肌症（dilated cardiomyopathy）
+(C) 慢性胰臟炎（chronic pancreatitis）
+(D) 橫紋肌溶解（rhabdomyolysis）
 25 下列為心肌梗塞（myocardial infarction）的病理變化，請依出現的先後時序予以排列：①嗜中性球浸潤
 （neutrophilicinfiltration） ②吞噬細胞 （macrophages） 清除死亡的細胞 ③心肌出現凝固性壞死 （coagulativenecrosis）
 ④肉芽組織（granulation tissue） 出 現， 並 有膠 原 纖維 （ collagen） 堆 積
-①④③② ②①④③ ③①②④ ④②③①
+(A) ①④③②
+(B) ②①④③
+(C) ③①②④
+(D) ④②③①
 26 血液中何種白血球增多與過敏性疾病（allergic diseases）最相關？
-嗜中性球（neutrophil） 嗜酸性球（eosinophil）
-單核球（monocyte） 淋巴球（lymphocyte）
+(A) 嗜中性球（neutrophil）
+(B) 嗜酸性球（eosinophil）
+(C) 單核球（monocyte）
+(D) 淋巴球（lymphocyte）
 27 肝硬化（cirrhosis）會造成腹水（ascites）是和下列何種原因有關？
-白蛋白（albumin）增加 白蛋白（albumin）降低
-膽紅素（bilirubin）增加 膽紅素（bilirubin）降低
+(A) 白蛋白（albumin）增加
+(B) 白蛋白（albumin）降低
+(C) 膽紅素（bilirubin）增加
+(D) 膽紅素（bilirubin）降低
 28 三歲男孩，血中 α 胎兒蛋白（α-fetoprotein）上升，最可能為何種睪丸腫瘤？
-精細胞瘤（seminoma） 卵黃囊瘤（yolk sac tumor）
-絨毛膜癌（choriocarcinoma） 畸胎瘤（teratoma）
+(A) 精細胞瘤（seminoma）
+(B) 卵黃囊瘤（yolk sac tumor）
+(C) 絨毛膜癌（choriocarcinoma）
+(D) 畸胎瘤（teratoma）
 29 子宮肌腺症（adenomyosis）典型的表現，下列何者最恰當？
-子宮肌肉層中發現子宮內膜組織 卵巢內有巧克力囊腫
-子宮壁化膿 內膜增厚形成息肉
+(A) 子宮肌肉層中發現子宮內膜組織
+(B) 卵巢內有巧克力囊腫
+(C) 子宮壁化膿
+(D) 內膜增厚形成息肉
 30 甲狀腺乳突癌（papillary carcinoma） ，下列何者最少見？
- BRAF 基因突變  TP53 基因突變
-毛玻璃樣細胞核（ground-glass nuclei） 細胞核內假包涵物（intra-nuclear pseudo-inclusions）
+(A)  BRAF 基因突變
+(B)  TP53 基因突變
+(C) 毛玻璃樣細胞核（ground-glass nuclei）
+(D) 細胞核內假包涵物（intra-nuclear pseudo-inclusions）
 31 下列降血壓藥物中，何者能活化交感神經突觸前的 α2-adrenergic receptor？
- prazosin  acebutolol  clonidine  yohimbine
+(A)  prazosin
+(B)  acebutolol
+(C)  clonidine
+(D)  yohimbine
 32 下列安眠藥中，何者能活化 melatonin receptor（褪黑激素受體）？
- zolpidem  suvorexant  temazepam  ramelteon
+(A)  zolpidem
+(B)  suvorexant
+(C)  temazepam
+(D)  ramelteon
 33 下列藥物中，何者不作為躁鬱症（mania and bipolar disorder）的治療用藥？
- carbamazepine  lithium  loratadine  valproic acid
+(A)  carbamazepine
+(B)  lithium
+(C)  loratadine
+(D)  valproic acid
 34 下列藥物中，何者為 calcitonin gene-related peptide（CGRP）受體拮抗劑，除了可緩解急性偏頭痛（acute
 migraine）症狀，亦可用於預防偏頭痛？
- propranolol  sumatriptan  dihydroergotamine  atogepant
+(A)  propranolol
+(B)  sumatriptan
+(C)  dihydroergotamine
+(D)  atogepant
 35 下列藥物中，何者可減少 angiotensin II 生成，並且使體內 bradykinin 含量增加，因此產生血管舒張作用而
 降低血壓？
- lisinopril  amlodipine  methyldopa  losartan
+(A)  lisinopril
+(B)  amlodipine
+(C)  methyldopa
+(D)  losartan
 36 下列藥物中，何者為抗凝血劑 （anticoagulant） ，主要用於預防深層靜脈栓塞 （deep vein thrombosis） 生成？
- clopidogrel  tirofiban  aspirin  rivaroxaban
+(A)  clopidogrel
+(B)  tirofiban
+(C)  aspirin
+(D)  rivaroxaban
 37 小玉是位有心臟病病史的膀胱癌病人，正在使用化療藥物 cisplatin，因出現嘔吐副作用，此時使用下列何
 種止吐劑最合適？
- scopolamine  palonosetron  prochlorperaine  meclizine
+(A)  scopolamine
+(B)  palonosetron
+(C)  prochlorperaine
+(D)  meclizine
 38 進行女性不孕症治療療程中，下列何種藥物最適合促進卵巢濾泡成熟？
- bromocriptine  leuprolide  follitropin  cetrorelix
+(A)  bromocriptine
+(B)  leuprolide
+(C)  follitropin
+(D)  cetrorelix
 39 下列抗癌藥物中，何者不屬於烷基化藥物（alkylating agents）？
- cyclophosphamide  methotrexate  lomustine  temozolomide
+(A)  cyclophosphamide
+(B)  methotrexate
+(C)  lomustine
+(D)  temozolomide
 40 下列那一個藥物屬於 topoisomerase I 抑制劑？
- vinblastine  paclitaxel  irinotecan  azacitidine
+(A)  vinblastine
+(B)  paclitaxel
+(C)  irinotecan
+(D)  azacitidine
 41 為了降低抗藥性細菌的發生率，應該採取下列那一種措施？
-定期公告流行病的疫情、病原種類及抗生素敏感性
-可以使用抗生素作為飼料，加速家畜的生長
-服用低劑量抗生素，作為預防感染的手段
-醫院長期使用同一種抗生素
+(A) 定期公告流行病的疫情、病原種類及抗生素敏感性
+(B) 可以使用抗生素作為飼料，加速家畜的生長
+(C) 服用低劑量抗生素，作為預防感染的手段
+(D) 醫院長期使用同一種抗生素
 42 下列那一種補體分子促進肥大細胞（mast cell）分化效果最佳？
- C1a  C2a  C3a  C4b
+(A)  C1a
+(B)  C2a
+(C)  C3a
+(D)  C4b
 43 具先天性第二型主要組織相容性複合體（MHC class II）缺陷的人，體內易有何種病變？
-糖尿病 關節炎
-因 T 淋巴細胞缺乏而易受感染 高血壓
+(A) 糖尿病
+(B) 關節炎
+(C) 因 T 淋巴細胞缺乏而易受感染
+(D) 高血壓
 44 下列何種並非具致病性葡萄球菌之特色？
-能產生色素 能發酵木蜜醇（mannitol）
-具有溶血作用 凝固酶（coagulase）反應試驗呈陰性反應
+(A) 能產生色素
+(B) 能發酵木蜜醇（mannitol）
+(C) 具有溶血作用
+(D) 凝固酶（coagulase）反應試驗呈陰性反應
 45 法蘭西氏土倫桿菌（Francisella tularensis）可以在巨噬細胞內存活一段時間的主要原因為何？
-抑制吞噬體-溶酶體（phagosome-lysosome）的融合
-具有抗氧化的能力（anti-oxidants）
-不具脂質莢膜（lipid capsule）
-具有內毒素（endotoxin）
+(A) 抑制吞噬體-溶酶體（phagosome-lysosome）的融合
+(B) 具有抗氧化的能力（anti-oxidants）
+(C) 不具脂質莢膜（lipid capsule）
+(D) 具有內毒素（endotoxin）
 46 肝炎病毒中，那一種病毒需要 B 型肝炎病毒同時感染，才能幫助它複製繁殖？
- A 型肝炎病毒  C 型肝炎病毒  D 型肝炎病毒  E 型肝炎病毒
+(A)  A 型肝炎病毒
+(B)  C 型肝炎病毒
+(C)  D 型肝炎病毒
+(D)  E 型肝炎病毒
 47 流行性感冒病毒主要藉由其表面的何種分子蛋白附著於細胞表面？
-病毒基質蛋白（M1） 非結構性蛋白（NS1）
-神經胺酸酶（neuraminidase） 紅血球凝集素（hemagglutinin）
+(A) 病毒基質蛋白（M1）
+(B) 非結構性蛋白（NS1）
+(C) 神經胺酸酶（neuraminidase）
+(D) 紅血球凝集素（hemagglutinin）
 48 單股（＋）strand RNA 病毒在宿主細胞內繁殖的特性為何？
-感染初期在細胞核內複製 會先形成 DNA，再製造 RNA
-由單股（＋）strand RNA 製造病毒蛋白 由單股（－）strand RNA 製造病毒蛋白
+(A) 感染初期在細胞核內複製
+(B) 會先形成 DNA，再製造 RNA
+(C) 由單股（＋）strand RNA 製造病毒蛋白
+(D) 由單股（－）strand RNA 製造病毒蛋白
 49 下列有關腸病毒的描述何者錯誤？
-腸病毒指的是一群病毒，並非特定某一個病毒
-感染後，病人常常會出現腸胃道不適的症狀
-有時會有肢體麻痺症候群（paralytic disease）併發症
-手足口病為感染後常見的症狀
+(A) 腸病毒指的是一群病毒，並非特定某一個病毒
+(B) 感染後，病人常常會出現腸胃道不適的症狀
+(C) 有時會有肢體麻痺症候群（paralytic disease）併發症
+(D) 手足口病為感染後常見的症狀
 50 下列關於叢林型斑疹傷寒（scrub typhus）的敘述何者錯誤？
-其病原體為立克次氏立克次體（Rickettsia rickettsii）
-主要經由恙蟎（mite）叮咬而傳播
-潛伏期為 10～12 天
-患者出現發燒、頭痛、肌肉痛、淋巴結腫大等症狀
+(A) 其病原體為立克次氏立克次體（Rickettsia rickettsii）
+(B) 主要經由恙蟎（mite）叮咬而傳播
+(C) 潛伏期為 10～12 天
+(D) 患者出現發燒、頭痛、肌肉痛、淋巴結腫大等症狀
