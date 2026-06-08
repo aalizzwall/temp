@@ -1,0 +1,788 @@
+{"question": "下列何種蛋白質屬於初級主動運輸子（active transporter）？", "options": {"A": "鈣通道", "B": "鈣依賴性鉀通道", "C": "鈉鈣交換子", "D": "鈣幫浦"}}
+{"question": "手舉起椅子一動也不動地罰站，此時維持靜止且正在施力的上臂肌肉之收縮型態為下列何者？", "options": {"A": "向心收縮（concentric contraction）", "B": "離心收縮（eccentric contraction）", "C": "等張收縮（isotonic contraction）", "D": "等長收縮（isometric contraction）"}}
+{"question": "當一個人正在思考如何解決問題時，大腦那一區域活性最高？", "options": {"A": "額葉（frontal lobe）", "B": "顳葉（temporal lobe）", "C": "枕葉（occipital lobe）", "D": "頂葉（parietal lobe）"}}
+{"question": "心室細胞在生理狀態下之靜止膜電位約為多少？", "options": {"A": "+90毫伏特", "B": "-40毫伏特", "C": "-90毫伏特", "D": "+40毫伏特"}}
+{"question": "下列氣體與血紅素的親合力，何者最高？", "options": {"A": "氧", "B": "一氧化碳", "C": "二氧化碳", "D": "氮"}}
+{"question": "6 神經細胞於靜止膜電位階段，細胞膜對鈉離子與鉀離子的通透性為何？", "options": {"A": "對鈉離子的通透性遠大於鉀離子", "B": "對鉀離子的通透性遠大於鈉離子", "C": "對鈉離子與鉀離子通透性相等", "D": "對鈉離子與鉀離子皆不可通透"}}
+{"question": "7 副甲狀腺素（PTH）作用在腎小管時會產生下列何種反應？", "options": {"A": "刺激遠曲小管對鈣離子的再吸收", "B": "刺激近曲小管對磷酸鹽的再吸收", "C": "增加管腔細胞膜上的 PTH接受器", "D": "降低尿液中的環腺苷酸（cAMP）"}}
+{"question": "8 下列何種激素最可能造成孕婦發生妊娠糖尿病？", "options": {"A": "人類絨毛膜促性腺激素", "B": "人類胎盤泌乳素", "C": "黃體素", "D": "催產素"}}
+{"question": "9 利尿劑主要作用機制為下列何者？", "options": {"A": "滲透性利尿劑主要作用在遠曲小管", "B": "環利尿劑主要作用在鈉—氫協同運輸", "C": "醛固酮拮抗劑主要作用在集尿管", "D": "鈉通道阻斷劑主要作用在近曲小管"}}
+{"question": "10 負責消化道運動功能之主要結構組織層為下列何者？", "options": {"A": "黏膜層（mucosa）", "B": "黏膜肌肉層（muscularis mucosa）", "C": "外肌肉層（muscularis externa）", "D": "漿膜層（serosa）"}}
+{"question": "11 下列那兩種內分泌器官，其主體是由神經組織以及腺體組織共同發育組合形成？", "options": {"A": "腦下腺（pituitary gland）與甲狀腺（thyroid gland）", "B": "甲狀腺（thyroid gland）與胰臟（pancreas）", "C": "胰臟（pancreas）與腎上腺（adrenal gland）", "D": "腎上腺（adrenal gland）與腦下腺（pituitary gland）"}}
+{"question": "12 下列何者不具上皮組織？", "options": {"A": "肌腱", "B": "子宮腺", "C": "小腸絨毛", "D": "血管內皮"}}
+{"question": "13 下列有關股四頭肌（quadriceps femoris）的敘述，何者錯誤？", "options": {"A": "股四頭肌收縮可伸直小腿（extend leg at knee joint）", "B": "股四頭肌收縮可屈曲大腿（flex thigh at hip joint）", "C": "股四頭肌的外側部可作為肌肉注射位置", "D": "股四頭肌的內側部是股三角（femoral triangle）的內側邊界"}}
+{"question": "14 以聽診器聽取病人心跳時，下列那一個瓣膜關閉時產生第一心音？", "options": {"A": "肺動脈瓣膜", "B": "下腔靜脈瓣膜", "C": "主動脈瓣膜", "D": "二尖瓣膜"}}
+{"question": "15 下列何者是供應下肢養分的最主要血管？", "options": {"A": "髂外動脈", "B": "髂內動脈", "C": "旋髂淺動脈", "D": "旋髂深動脈"}}
+{"question": "16 就多數情況而言，下列有關右肺肋面（costal surface）裂隙的敘述，何者錯誤？", "options": {"A": "上葉、中葉之間只有水平裂（horizontal fissure）", "B": "中葉、下葉之間只有斜裂（oblique fissure）", "C": "水平裂只作為上葉、中葉的分界，與下葉無涉", "D": "斜裂只作為中葉、下葉的分界，與上葉無涉"}}
+{"question": "17 下列有關子宮內膜（endometrium）的敘述，何者正確？", "options": {"A": "月經期（menstrual phase）整個子宮內膜會崩解", "B": "增生期（proliferative phase）的子宮內膜很薄，尚未分布血管", "C": "排卵（ovulation）時，子宮內膜厚度達到極致", "D": "分泌期（secretory phase）的子宮內膜腺可分泌肝醣"}}
+{"question": "18 下列那一結構可增加小腸內表面積，提高吸收效率？", "options": {"A": "微絨毛（microvilli）", "B": "平滑肌（smooth muscle）", "C": "纖毛（cilia）", "D": "杯狀細胞（goblet cell）"}}
+{"question": "19 下列何者不具有味蕾？", "options": {"A": "絲狀舌乳頭（filiform papilla）", "B": "蕈狀舌乳頭（fungiform papilla）", "C": "葉狀舌乳頭（foliate papilla）", "D": "輪廓狀舌乳頭（circumvallate papilla）"}}
+{"question": "20 下列那兩種神經膠細胞（glia cells）會形成髓鞘（myelin sheath）？", "options": {"A": "星狀膠細胞（astrocyte）與微小膠細胞（microglia）", "B": "星狀膠細胞（astrocyte）與寡突膠細胞（oligodendrocyte）", "C": "寡突膠細胞（oligodendrocyte）與許旺氏細胞（Schwann cell）", "D": "許旺氏細胞（Schwann cell）與衛星細胞（satellite cell）"}}
+{"question": "21 有關血管受傷後的止血作用之敘述，下列何者錯誤？", "options": {"A": "內皮素（endothelin）的釋放可導致血管收縮", "B": "血小板與血管內皮細胞上的選擇素（E-selectin）結合，形成初級止血栓", "C": "組織因子（tissue factor）可活化凝血機制", "D": "凝血酵素調節素（thrombomodulin）可阻斷凝血機制"}}
+{"question": "22 關於慢性肉芽腫病（chronic granulomatous disease）的敘述，下列何者正確？", "options": {"A": "因吞噬細胞氧化酶（phagocyte oxidase）基因缺陷，導致無法毒殺細菌", "B": "特徵是吞噬小體（phagosome）與溶酶體（lysosome）無法融合", "C": "因補體調節蛋白的缺陷，導致過度發炎反應", "D": "患者有陣發性水腫，影響皮膚與黏膜表面為表徵"}}
+{"question": "23 下列何者不屬於體染色體（autosome）數量異常的疾病？", "options": {"A": "特納氏症候群（Turner syndrome）", "B": "愛德華氏症候群（Edwards syndrome）", "C": "帕陀氏症候群（Patau syndrome）", "D": "唐氏症候群（Down syndrome）"}}
+{"question": "24 有關流行性感冒病毒（influenza virus），下列敘述何者正確？", "options": {"A": "流行性感冒病毒是一種DNA 病毒", "B": "流行性感冒病毒中最易引起大流行（pandemic）及地區流行（epidemic）的是type B", "C": "流行性感冒病毒發生抗原移型（antigenic shift）是大流行（pandemic）發生的主要原因", "D": "決定流行性感冒病毒亞型的是病毒表面的血球凝集素（hemagglutinin）及病毒的核蛋白（nucleoprotein）"}}
+{"question": "25 急性心肌梗塞最常見且重要的病因為何？", "options": {"A": "細菌性心內膜炎導致心肌炎", "B": "冠狀動脈痙攣所致", "C": "冠狀動脈粥狀硬化引起之血管阻塞", "D": "血管炎，引起血流減少所致"}}
+{"question": "26 下列何種疾病會出現 Barts 氏血紅素（Hb Barts）？", "options": {"A": "甲型地中海型貧血（α-thalassemia）", "B": "鐮刀型貧血（sickle cell anemia）", "C": "遺傳性球狀紅血球症（hereditary spherocytosis）", "D": "缺鐵性貧血（iron deficiency anemia）"}}
+{"question": "27 下列何種病毒不會造成慢性肝炎？", "options": {"A": "A 型肝炎病毒（hepatitis A virus）", "B": "B 型肝炎病毒（hepatitis B virus）", "C": "C 型肝炎病毒（hepatitis C virus）", "D": "D 型肝炎病毒（hepatitis D virus）"}}
+{"question": "28 有關性傳播疾病（sexually transmitted infections, STIs）的敘述，下列何者錯誤？", "options": {"A": "梅毒乃由Treponema pallidum螺旋體（spirochete）造成", "B": "梅毒病理病變主要為富有嗜酸性白血球（eosinophil）之浸潤", "C": "性病淋巴肉芽腫（lymphogranuloma venereum）病理特徵常有星狀膿瘍（stellate abscess）", "D": "尖性濕疣（condyloma acuminata）與人類乳突病毒（HPV）感染有關"}}
+{"question": "29 第一型糖尿病最常見下列何種變化？", "options": {"A": "蘭氏小島發炎破壞", "B": "β細胞數量增加", "C": "類澱粉沉積", "D": "周邊胰島素阻抗"}}
+{"question": "30 葡萄狀肉瘤（sarcoma botryoides）的腫瘤細胞是往那個方向分化（differentiation）？", "options": {"A": "妊娠組織（gestational tissue）", "B": "上皮細胞（epithelial cells）", "C": "平滑肌細胞（smooth muscle cells）", "D": "骨骼肌細胞（skeletal muscle cells）"}}
+{"question": "31 下列何者可治療腹瀉及具有腸道抗菌效果，並可預防旅行腹瀉（traveler’s diarrhea）？", "options": {"A": "sucralfate", "B": "bismuth subsalicylate", "C": "cimetidine", "D": "cholestyramine"}}
+{"question": "32 下列抗生素之敘述，何者最不適當？", "options": {"A": "penicillins 與 aminoglycosides合用具有協同作用", "B": "aminoglycosides 類藥物胃腸吸收效果佳，可達到適當殺菌濃度", "C": "amoxicillin 與 clavulanic acid合用效果比單獨使用佳", "D": "ampicillin屬於廣效性抗生素"}}
+{"question": "33 藥物動力學（pharmacokinetics）探究藥物的範疇，不包括下列那一項？", "options": {"A": "藥物的作用機制", "B": "藥物的排泄", "C": "藥物在體內的分布", "D": "藥物在體內的代謝"}}
+{"question": "34 緩解支氣管平滑肌痙攣（bronchospasm），使用下列何種藥物最佳？", "options": {"A": "ipratropium", "B": "phentolamine", "C": "physostigmine", "D": "atropine"}}
+{"question": "35 下列何者不是三環類抗憂鬱藥物之作用機制？", "options": {"A": "抑制正腎上腺素與血清素再回收", "B": "抑制單胺氧化酶之作用", "C": "阻斷毒蕈鹼性受體", "D": "阻斷組織胺受體"}}
+{"question": "36 有關吸入性麻醉劑的最低肺泡濃度（minimum alveolar concentration, MAC）之敘述，下列何者最不適當？", "options": {"A": "可用以量化吸入性麻醉劑的效價（potency）", "B": "一般以混合氣體中達到某一作用所需之氣體百分比來表示", "C": "麻醉劑效價（potency）與 MAC 成正比", "D": "酒精成癮者之 MAC 值較高"}}
+{"question": "37 下列何種抗組織胺（antihistamines）較不易有昏睡之副作用？", "options": {"A": "loratadine", "B": "bromopheniramine", "C": "diphenhydramine", "D": "clemastine"}}
+{"question": "38 有機硝酸鹽（organic nitrates）用於治療典型心絞痛，主要的藥理機制為何？", "options": {"A": "抑制血小板凝集，避免粥狀硬化灌流不足區更加狹窄", "B": "減少心臟前負荷，降低心輸出量，使心肌需氧量降低", "C": "擴張動脈血管，減少心臟後負荷，降低心臟壓力", "D": "增加平滑肌細胞內cAMP，擴張冠狀動脈以增加血流量"}}
+{"question": "39 有關影響內分泌藥物的敘述，下列何者錯誤？", "options": {"A": "metyrapone可用於治療庫欣氏症候群（Cushing syndrome）", "B": "aminoglutethimide可降低雄性素（androgens）和動情素（estrogens）的生成", "C": "mifepristone 可作為glucocorticoid 受體的拮抗劑，也可作為黃體素（progestins）受體的拮抗劑", "D": "spironolactone可競爭glucocorticoid受體，進而減少腎對鈉的再吸收"}}
+{"question": "40 下列何種抗生素會抑制細菌的DNA依賴型之 RNA聚合酶（DNA-dependent RNA polymerase）的活性？", "options": {"A": "clindamycin", "B": "cephalosporin", "C": "daptomycin", "D": "rifampin"}}
+{"question": "41 有關革蘭氏陽性細菌的敘述，下列何者正確？", "options": {"A": "其革蘭氏染色結果呈現紅色", "B": "其細胞壁具有內膜和外膜", "C": "其細胞膜上具有脂多醣體（lipopolysaccharide）", "D": "其具有的胜肽聚醣（peptidoglycan）層較革蘭氏陰性細菌的厚"}}
+{"question": "42 下列何種免疫細胞具有吞噬能力，當病原菌入侵人體組織時，可作為抗菌的第一道防線？", "options": {"A": "肥大細胞（mast cell）", "B": "巨噬細胞（macrophage）", "C": "漿細胞（plasma cell）", "D": "自然殺手細胞（natural killer cell）"}}
+{"question": "43 下列何種細胞最主要表現MHC class II分子，並將抗原呈現給T 細胞？", "options": {"A": "紅血球", "B": "樹突細胞", "C": "嗜中性白血球", "D": "肝細胞"}}
+{"question": "44 有關疫苗的敘述，下列何者錯誤？", "options": {"A": "目前的愛滋病毒（HIV）疫苗可以誘發有效的中和抗體來預防愛滋病毒感染", "B": "接種疫苗是目前最有效預防傳染病的方法", "C": "減毒活病毒疫苗（live attenuated virus vaccine）通常比死病毒疫苗（killed-virus vaccine）更能引 發保護性免疫力", "D": "死病毒疫苗（killed-virus vaccine）通常比減毒活病毒疫苗（live attenuated virus vaccine）安全， 較不會因為接種疫苗造成疾病"}}
+{"question": "45 有關化膿性鏈球菌（Streptococcus pyogenes）的敘述，下列何者錯誤？", "options": {"A": "M protein 是主要作為致病菌株分型的其中一種蛋白質", "B": "造成風濕熱（rheumatic fever）的感染源主要來自於皮膚感染菌", "C": "又稱嗜肉菌，病人需合併抗生素及手術治療", "D": "會造成急性腎小球腎炎（acute glomerulonephritis），主要靠ASO test來確診"}}
+{"question": "46 有關貓抓熱（cat-scratch disease）的敘述，下列何者最適當？", "options": {"A": "常使用乙內醯胺（β-lactam）類藥物治療", "B": "常引發局部淋巴病變", "C": "容易導致嚴重併發症", "D": "分離培養細菌是最有效的鑑定方式"}}
+{"question": "47 下列何種細菌可直接人對人傳染？", "options": {"A": "法蘭西氏菌（Francisella）", "B": "巴東氏菌（Bartonella）", "C": "包氏螺旋體（Borrelia）", "D": "梅毒螺旋體（Treponema pallidum）"}}
+{"question": "48 下列何種DNA病毒的感染，最不會增加病人得到癌症的機會？", "options": {"A": "人類乳突病毒第16型", "B": "腺病毒第7 型", "C": "EB病毒", "D": "C 型肝炎病毒"}}
+{"question": "49 口腔內最常見的真菌感染是由下列何種菌屬引起？", "options": {"A": "念珠菌（Candida）", "B": "隱球菌（Cryptococcus）", "C": "粗球黴菌（Coccidioides）", "D": "孢子絲菌（Sporothrix）"}}
+{"question": "50 下列何種症狀最常見於鉤蟲（hookworms）成蟲感染？", "options": {"A": "肝硬化", "B": "肺炎", "C": "貧血", "D": "腎衰竭"}}
+{"question": "有關濾泡刺激素（follicle-stimulating hormone）的敘述，下列何者錯誤？", "options": {"A": "刺激男性合成睪固酮（testosterone）", "B": "作用標的是睪丸的曲細精管（seminiferous tubule）", "C": "刺激女性合成雌激素（estrogen）", "D": "作用標的是卵巢濾泡"}}
+{"question": "下列結構中，何者直徑最大？", "options": {"A": "微絲（microfilament）", "B": "微小管（microtubule）", "C": "中間絲（intermediate filament）", "D": "肌原纖維（myofibril）"}}
+{"question": "有關肌肉的作用，下列何者與其他三者不同？", "options": {"A": "股二頭肌", "B": "半腱肌", "C": "半膜肌", "D": "股薄肌"}}
+{"question": "在大多數的人，下列那兩者是左冠狀動脈（left coronary artery）的主要分支？", "options": {"A": "前心室間動脈（anterior interventricular artery）與邊緣動脈（marginal artery）", "B": "前心室間動脈與迴旋動脈（circumflex artery）", "C": "後心室間動脈（posterior interventricular artery）與邊緣動脈", "D": "後心室間動脈與迴旋動脈"}}
+{"question": "巨噬細胞是由下列何者分化而成？", "options": {"A": "嗜酸性球", "B": "嗜鹼性球", "C": "單核球", "D": "淋巴球"}}
+{"question": "6 下列何者與男性陰莖的龜頭，都是由尿道海綿體（corpus spongiosum）構成？", "options": {"A": "陰莖球（bulb of the penis）", "B": "陰莖腳（crura of the penis）", "C": "陰莖包皮（prepuce of the penis）", "D": "尿道球腺（bulbo-urethral gland）"}}
+{"question": "7 有關左、右腎臟的敘述，下列何者錯誤？", "options": {"A": "二者水平位置等高", "B": "二者皆為腹膜後器官", "C": "二者上方皆有腎上腺", "D": "二者的背面皆受第 12 肋骨保護"}}
+{"question": "8 下列何者是牙齒的主體結構？", "options": {"A": "琺瑯質（enamel）", "B": "牙質（dentin）", "C": "白堊質（cementum）", "D": "齒髓（tooth pulp）"}}
+{"question": "9 下列何者內含退化的臍靜脈？", "options": {"A": "肝圓韌帶（round ligament of liver）", "B": "鐮狀韌帶（falciform ligament）", "C": "大網膜（greater omentum）", "D": "小網膜（lesser omentum）"}}
+{"question": "10 下列何者攜帶的神經纖維刺激耳下腺的分泌？", "options": {"A": "顏面神經", "B": "舌咽神經", "C": "動眼神經", "D": "迷走神經"}}
+{"question": "11 次級主動運輸（secondary active transport）的直接動力來自：", "options": {"A": "電化學梯度", "B": "三磷酸腺苷（ATP）", "C": "三磷酸鳥苷（GTP）", "D": "滲透壓"}}
+{"question": "12 鈣離子活化平滑肌細胞橫橋（cross-bridge）反應，下列何者為其主要作用？", "options": {"A": "旋轉肌凝素（tropomyosin）", "B": "旋轉素 C（troponin C）", "C": "肌動蛋白（actin）", "D": "肌球蛋白（myosin）"}}
+{"question": "13 下列何者不是下運動神經元（lower motor neuron）損傷的表徵？", "options": {"A": "肌肉弛緩性癱瘓（flaccid paralysis）", "B": "肌束顫動（fasciculation）", "C": "肌肉萎縮（muscular atrophy）", "D": "肌肉張力亢進（hypertonia）"}}
+{"question": "14 下列何者為清醒狀態（awake state）時，神經傳導物質所媒介的神經元活性表現？", "options": {"A": "正腎上腺素（norepinephrine）神經元活性減弱", "B": "血清素（serotonin）神經元活性減弱", "C": "乙醯膽鹼（acetylcholine）神經元活性減弱", "D": "γ-胺基丁酸（GABA）神經元活性增強"}}
+{"question": "15 下列那個腦區是主要調控褪黑素（melatonin）的分泌？", "options": {"A": "視上核（supraoptic nucleus）", "B": "旁室核（paraventricular nucleus）", "C": "視叉上核（suprachiasmatic nucleus）", "D": "外側膝狀核（lateral geniculate nucleus）"}}
+{"question": "16 下列何者可將睪固酮轉換為動情二醇（17β-estradiol）？", "options": {"A": "濾泡細胞", "B": "萊迪氏細胞", "C": "卵細胞", "D": "卵囊泡膜細胞"}}
+{"question": "17 下列何種疾病主要是視錐細胞（cone cells）基因突變異常所致？", "options": {"A": "散光（astigmatism）", "B": "色盲（color blindness）", "C": "弱視（amblyopia）", "D": "青光眼（glaucoma）"}}
+{"question": "18 下列那一段腎小管（renal tubule）對水的通透度最低？", "options": {"A": "近曲小管", "B": "亨利氏管上行枝", "C": "亨利氏管下行枝", "D": "集尿管"}}
+{"question": "19 失語症（aphasia）與下列那個腦區受損最為相關？", "options": {"A": "視丘（thalamus）", "B": "海馬迴（hippocampus）", "C": "維尼克氏腦區（Wernicke's area）", "D": "前運動皮質（premotor cortex）"}}
+{"question": "20 下列那一種刺激會引起最多的唾液分泌？", "options": {"A": "甜味", "B": "酸味", "C": "鹹味", "D": "觸覺"}}
+{"question": "21 下列何種病灶的發炎反應形式與其他三種最不相同？", "options": {"A": "膿胸（empyema）", "B": "急性闌尾炎（acute appendicitis）", "C": "膿瘍（abscess）", "D": "帶狀疱疹（varicella-zoster virus）引起的水泡"}}
+{"question": "22 下列何種機制與鬱血性心衰竭（congestive heart failure）患者的肺水腫最為相關？", "options": {"A": "肺毛細血管靜水壓增加", "B": "肺毛細血管血漿膠體滲透壓降低", "C": "肺毛細血管通透性增加", "D": "肺臟淋巴管阻塞"}}
+{"question": "23 下列何種自體抗體（autoantibody）與全身性紅斑性狼瘡（systemic lupus erythematosus）最相關？", "options": {"A": "抗核抗體（anti-nuclear antibody）", "B": "抗肌動蛋白抗體（anti-actin antibody）", "C": "抗粒線體抗體（anti-mitochondrial antibody）", "D": "抗嗜中性球細胞質抗體（anti-neutrophil cytoplasmic antibody）"}}
+{"question": "24 下列那一種人類病原體的大小（size）最小？", "options": {"A": "黴菌（fungi）", "B": "普利昂蛋白（prion）", "C": "細菌（bacteria）", "D": "原生動物（protozoa）"}}
+{"question": "25 末期大腸直腸癌具有遠端器官的腫瘤轉移。下列何者是大腸直腸癌最常發生轉移的器官？", "options": {"A": "肝臟", "B": "胰臟", "C": "脾臟", "D": "心臟"}}
+{"question": "26 3 歲男性，右側睪丸有一個腫瘤，抽血發現血清中的甲型胎兒蛋白 （α -fetoprotein） 異常升高，他的睪丸腫 瘤最可能是那一種？", "options": {"A": "卵黃囊瘤（yolk sac tumor）", "B": "絨毛膜癌（choriocarcinoma）", "C": "淋巴癌（lymphoma）", "D": "胚胎性癌（embryonal carcinoma）"}}
+{"question": "27 關於 IgA 腎病變（IgA nephropathy）的敘述，下列何者最不適當？", "options": {"A": "又稱為 Berger 氏病（Berger disease） ，最好發於老年女性", "B": "IgA 主要沉積於腎絲球的膈細胞（mesangial cells）的區域", "C": "病人通常會有血尿（hematuria）及蛋白尿（proteinuria）", "D": "是目前世界上最常見的原發性腎病變，也是導致慢性腎病的主要原因之一"}}
+{"question": "28 子宮頸癌（cervical cancer）最常見的病理組織形態為何？", "options": {"A": "鱗狀上皮癌（squamous cell carcinoma）", "B": "腺癌（adenocarcinoma）", "C": "小細胞癌（small cell carcinoma）", "D": "腺樣囊性癌（adenoid cystic carcinoma）"}}
+{"question": "29 小腦天幕疝脫（transtentorial herniation） ，顳葉內側緣被擠壓時，下列何種變化最少見？", "options": {"A": "腦壓上升", "B": "腦萎縮", "C": "瞳孔放大", "D": "視覺皮質缺血"}}
+{"question": "30 痛風為尿酸鈉結晶沉積於關節或附近組織造成發炎反應，關於痛風的臨床表現下列何者正確？", "options": {"A": "好發於生育年齡女性", "B": "有高尿酸血症的人大部分都會有痛風", "C": "好發於肢體近端大關節", "D": "可能造成腎臟病變的併發症"}}
+{"question": "31 巨環類抗生素（macrolides）最不易引起下列何種副作用？", "options": {"A": "腸胃不適", "B": "黃疸", "C": "耳毒性", "D": "癲癇"}}
+{"question": "32 下列何者不屬於毒蕈鹼拮抗劑（muscarinic antagonist）的臨床適應症？", "options": {"A": "膀胱痙攣", "B": "帕金森氏症", "C": "青光眼", "D": "消化道痙攣"}}
+{"question": "33 下列降血壓藥物中，何者為腎素抑制劑（renin inhibitor）？", "options": {"A": "Azilsartan", "B": "Aliskiren", "C": "Amiloride", "D": "Acebutolol"}}
+{"question": "34 下列藥物中，何者屬於長效型 β2 腎上腺性受體（β2 adrenergic receptor）致效劑，常用於治療氣喘及慢性阻 塞性肺病（chronic obstructive pulmonary disease）？", "options": {"A": "Salmeterol", "B": "Albuterol", "C": "Naphazoline", "D": "Dobutamine"}}
+{"question": "35 關於 Diphenhydramine 的敘述，下列何者錯誤？", "options": {"A": "可改善過敏症狀", "B": "口服吸收良好", "C": "無中樞神經抑制作用", "D": "為組織胺 H1 受體拮抗劑"}}
+{"question": "36 有關 Angiotensin-converting enzyme inhibitors （ACEIs） 用於治療心衰竭的作用機制之敘述 ， 下列何者錯誤？", "options": {"A": "抑制交感神經活性", "B": "減少血管阻力", "C": "減少鈉水滯留", "D": "減少 bradykinin 濃度"}}
+{"question": "37 下列利尿劑中，何者在頻繁及高劑量使用下易產生耳毒性（ototoxicity）副作用？", "options": {"A": "Thiazide diuretics", "B": "Loop diuretics", "C": "Aldosterone antagonists", "D": "Carbonic anhydrase inhibitors"}}
+{"question": "38 下列糖尿病的治療藥物中，何者單獨使用時最可能造成低血糖（hypoglycemia）的風險？", "options": {"A": "Glyburide", "B": "Metformin", "C": "Pioglitazone", "D": "Acarbose"}}
+{"question": "39 下列何者不是使用 Corticosteroids 藥物治療時常見之副作用？", "options": {"A": "Bleomycin", "B": "Doxorubicin", "C": "Cyclophosphamide", "D": "Vinblastine"}}
+{"question": "(A)  Bleomycin", "options": {"A": "酒精", "B": "過氧化氫蒸氣", "C": "四級氨化合物", "D": "高壓滅菌法"}}
+{"question": "(A) 酒精", "options": {"A": "IgA, IgD, IgK, IgG, IgM", "B": "IgA, IgD, IgE, IgG, IgM", "C": "IgA, IgK, IgE, IgG, IgM", "D": "IgA, IgD, IgE, IgK, IgM"}}
+{"question": "(A)  IgA, IgD, IgK, IgG, IgM", "options": {"A": "PD1-PD-L1；TNF-α", "B": "CD40L-CD40；IFN-γ", "C": "CD28-B7；IL-10", "D": "TCR-MHC；IL-2"}}
+{"question": "(A)  PD1-PD-L1；TNF-α", "options": {"A": "肺結核", "B": "白喉", "C": "破傷風", "D": "梅毒"}}
+{"question": "(A) 肺結核", "options": {"A": "症狀發生通常於進食後平均 4 小時左右", "B": "可能因該菌產生的耐熱型腸毒素造成", "C": "食物中毒症狀通常伴隨發燒及血便", "D": "臨床用藥以症狀消除為主，不建議抗生素"}}
+{"question": "(A) 症狀發生通常於進食後平均 4 小時左右", "options": {"A": "具有莢膜結構能抑制吞噬作用", "B": "該菌主要透過飛沫傳染造成疾病", "C": "該菌屬於人畜共通的傳染疾病", "D": "出血性皮疹為診斷的其中一種依據"}}
+{"question": "(A) 具有莢膜結構能抑制吞噬作用", "options": {"A": "放線菌（Actinomyces）", "B": "乳酸桿菌（Lactobacillus）", "C": "比菲德氏菌（Bifidobacterium）", "D": "梭狀芽孢桿菌（Clostridium）"}}
+{"question": "(A) 放線菌（Actinomyces）", "options": {"A": "誤食真菌的菌絲體", "B": "傷口接觸到真菌菌絲", "C": "吸入真菌的分生孢子", "D": "眼睛黏膜接觸到酵母菌樣 （yeast-form） 之真菌病原菌"}}
+{"question": "(A) 誤食真菌的菌絲體", "options": {"A": "為一具有八段正股 RNA 基因體的病毒", "B": "病毒可能經由飛沫或人畜共同傳染", "C": "Zanamivir 可用於治療 A 型流感病毒及 B 型流感病毒之感染", "D": "具有去活化的疫苗可以預防"}}
+{"question": "(A) 為一具有八段正股 RNA 基因體的病毒", "options": {"A": "病毒都要用宿主細胞的核糖體來製造自己的蛋白質", "B": "所有病毒都有自己的核酸聚合酶", "C": "對大部分的抗生素有感受性", "D": "如同細胞有絲分裂一樣，用二分裂法的方式複製"}}
+{"question": "在青春期，下列何者對長骨的「縱向生長」最為重要？", "options": {"A": "骨外膜（periosteum）", "B": "骨內膜（endosteum）", "C": "骨骺板（epiphyseal plate）", "D": "骨骺線（epiphyseal line）"}}
+{"question": "下列椎骨中，何者的棘突（spinous process）最長？", "options": {"A": "第 5 頸椎", "B": "第 5 胸椎", "C": "第 5 腰椎", "D": "第 5 薦椎"}}
+{"question": "下列何者參與圍成股三角（femoral triangle）？", "options": {"A": "股內側肌（vastus medialis）", "B": "股外側肌（vastus lateralis）", "C": "縫匠肌（sartorius）", "D": "恥骨肌（pectineus）"}}
+{"question": "關於心臟腔室的敘述，下列何者錯誤？", "options": {"A": "梳狀肌位於心房內壁", "B": "卵圓窩位於心房間隔上", "C": "房室瓣上面有腱索附著，並連接到心房", "D": "心臟表面的冠狀溝，位於心房與心室的界線上"}}
+{"question": "下列關於紅血球（erythrocyte; RBC）的敘述，何者正確？", "options": {"A": "呈雙凹圓盤狀，直徑大約 7～8 奈米（nm）", "B": "人類的紅血球發育成熟後具有多葉狀的細胞核", "C": "血紅素含有鐵原子，可與氧氣或二氧化碳結合", "D": "O+型血液，係指紅血球表面同時有 O 型與 Rh 型的抗原"}}
+{"question": "6 下列那個胃腺細胞，主要產生鹽酸與內在因子？", "options": {"A": "黏液頸細胞（mucous neck cell）", "B": "壁細胞（parietal cell）", "C": "主細胞（chief cell）", "D": "腸內分泌細胞（enteroendocrine cell）"}}
+{"question": "7 下列何者位於延髓（medulla oblongata）？", "options": {"A": "乳頭體（mammillary body）", "B": "四疊體（corpora quadrigemina）", "C": "錐體（pyramid）", "D": "松果體（pineal body）"}}
+{"question": "8 下列關於內分泌細胞的敘述，何者錯誤？", "options": {"A": "松果腺細胞分泌褪黑素（melatonin）", "B": "胰臟 alpha 細胞分泌升糖素（glucagon）", "C": "副甲狀腺主細胞（chief cells）分泌副甲狀腺素（parathyroid hormone）", "D": "腎上腺皮質絲球帶細胞（zona glomerulosa cells）分泌糖皮質激素（glucocorticoid）"}}
+{"question": "9 間盤（intercalated disc）為下列何者之特殊結構？", "options": {"A": "骨骼肌", "B": "心肌", "C": "平滑肌", "D": "橫紋肌"}}
+{"question": "10 總膽管與胰管匯聚形成肝胰壺腹（hepatopancreatic ampulla），開口於下列何處？", "options": {"A": "胃的幽門部", "B": "胃的賁門部", "C": "十二指腸", "D": "空腸"}}
+{"question": "11 下列男性生殖系統，何者具有靜纖毛（stereocilia）構造，以及儲存精子的功能？", "options": {"A": "睪丸（testis）", "B": "副睪（epididymis）", "C": "精囊（seminal vesicle）", "D": "前列腺（prostate gland）"}}
+{"question": "12 肺臟內的那一構造，只具有傳送氣體的導管功用，但是不具備氣體交換的功能？", "options": {"A": "肺泡囊（alveolar sac）", "B": "肺泡管（alveolar duct）", "C": "終末細支氣管（terminal bronchiole）", "D": "呼吸性細支氣管（respiratory bronchiole）"}}
+{"question": "13 下列那一種器官主要負責尿液（urine）的形成？", "options": {"A": "腎臟（kidney）", "B": "輸尿管（ureter）", "C": "膀胱（urinary bladder）", "D": "尿道（urethra）"}}
+{"question": "14 依照大腸（large intestine）前後排列之順序，下列何者在最前端？", "options": {"A": "升結腸", "B": "降結腸", "C": "盲腸", "D": "迴腸"}}
+{"question": "15 下列何者不是由腹膜（peritoneum）衍生形成的構造？", "options": {"A": "大網膜", "B": "小網膜", "C": "肝圓韌帶", "D": "腸繫膜"}}
+{"question": "16 下列何者包覆陰蒂（clitoris），形成陰蒂的包皮（prepuce of clitoris）？", "options": {"A": "陰阜（mons pubis）", "B": "大陰唇（labia majora）", "C": "小陰唇（labia minora）", "D": "陰道前庭（vaginal vestibule）"}}
+{"question": "17 何時次級卵母細胞（secondary oocyte）會完成第二次減數分裂？", "options": {"A": "胚胎時期", "B": "出生時", "C": "排卵時", "D": "受精時"}}
+{"question": "18 以間隙接合（gap junction）形成的電性突觸（electrical synapse）並不存在於：", "options": {"A": "心肌細胞", "B": "平滑肌細胞", "C": "骨骼肌細胞", "D": "神經細胞"}}
+{"question": "19 心肌細胞興奮時會增加細胞質中鈣離子的濃度，下列敘述何者正確？", "options": {"A": "從細胞外流入的鈣離子量等於從肌漿網釋放的量", "B": "從細胞外流入的鈣離子量大於從肌漿網釋放的量", "C": "從細胞外流入的鈣離子量小於從肌漿網釋放的量", "D": "從細胞外流入的鈣離子量等於從粒線體釋放的量"}}
+{"question": "20 二氧化碳在血液中運送的各種形式，其中比例最高的形式是下列何者？", "options": {"A": "氣態二氧化碳", "B": "溶於血漿中之二氧化碳", "C": "碳醯胺基血紅素（carbaminohemoglobin）", "D": "碳酸氫根離子（_ HCO ） 3"}}
+{"question": "21 下列何者在小腸液中的含量最低？", "options": {"A": "蔗糖酶（sucrase）", "B": "肝醣酶（glycogenase）", "C": "乳糖酶（lactase）", "D": "麥芽糖酶（maltase）"}}
+{"question": "22 有關靜止膜電位（resting membrane potential）之敘述，下列何者正確？", "options": {"A": "細胞外鉀離子濃度增加，靜止膜電位減小", "B": "細胞外鉀離子濃度減少，靜止膜電位減小", "C": "細胞內鉀離子濃度增加，靜止膜電位減小", "D": "細胞內鉀離子濃度增加，靜止膜電位不變"}}
+{"question": "23 死亡後開始出現肌肉僵硬的現象，主要是由下列那一個原因造成？", "options": {"A": "乳酸的堆積", "B": "缺少鈣離子", "C": "肝醣耗盡", "D": "缺乏 ATP"}}
+{"question": "24 關於視覺路徑，物體影像經水晶體投射至視網膜時，其影像與原物體方位相比較，下列敘述何者正確？", "options": {"A": "影像方位與原物體相同", "B": "影像呈現上下顛倒且左右相反", "C": "影像呈現上下顛倒，但左右與原物體相同", "D": "影像呈現左右相反，但上下與原物體相同"}}
+{"question": "25 下列那一種神經膠細胞（neuroglia cells）可幫助調節腦脊髓液（cerebrospinal fluid）的生成與流動？", "options": {"A": "室管膜細胞（ependymal cell）", "B": "星狀細胞（astrocyte）", "C": "微膠細胞（microglia）", "D": "寡突細胞（oligodendrocyte）"}}
+{"question": "26 有關紅血球生成素 （erythropoietin）的分泌與作用，下列那些敘述正確？①缺氧時會分泌減少 ②主要在腎臟合成分泌 ③可促進紅血球之生成 ④主要標的器官為紅骨髓", "options": {"A": "①②③", "B": "①③④", "C": "②③④", "D": "①②④"}}
+{"question": "27 體抑素（somatostatin）最主要抑制下列何種激素的分泌？", "options": {"A": "甲狀腺素（T4）", "B": "生長激素（GH）", "C": "催產素（oxytocin）", "D": "泌乳素（prolactin）"}}
+{"question": "28 12 歲的王同學因為外傷造成兩側睪丸嚴重受損被迫切除，下列何者為手術後的生理變化？", "options": {"A": "聲音變得低沉且毛髮增生", "B": "血液中黃體生成素（LH）濃度上升", "C": "血液中睪固酮（testosterone）濃度上升", "D": "尿液中雄性素（androgen）濃度上升"}}
+{"question": "29 有關淋巴循環的生理功能敘述，下列何者錯誤？", "options": {"A": "主要回收組織液中的鉀離子", "B": "運輸脂肪", "C": "調節血漿和組織液之間的液體平衡", "D": "清除組織中紅血球跟細菌"}}
+{"question": "30 在腎臟的近曲小管中，鈉離子主要與下列何種物質共同運輸進入上皮細胞？", "options": {"A": "氫離子", "B": "鈣離子", "C": "葡萄糖", "D": "碳酸氫根離子"}}
+{"question": "31 腎臟對水的再吸收與下列何種離子最為相關？", "options": {"A": "鈉離子", "B": "鉀離子", "C": "磷離子", "D": "氫離子"}}
+{"question": "32 有關脂溶性維生素的敘述，下列何者錯誤？", "options": {"A": "吸收不受膽汁分泌的影響", "B": "包含維生素 A、D、E 與 K", "C": "溶解在微膠粒（micelle）中", "D": "在小腸中被吸收進入人體"}}
+{"question": "33 40 歲女性出現手指僵硬，吞嚥困難及非發炎性真皮明顯纖維化。此人最可能罹患下列何種疾病？", "options": {"A": "皮肌炎（dermatomyositis）", "B": "全身性硬皮病（systemic scleroderma）", "C": "修格連氏症候群（Sjögren syndrome）", "D": "僵直性脊椎炎（ankylosing spondilitis）"}}
+{"question": "34 下列何種感染最容易發生在燒燙傷的病人？", "options": {"A": "結核桿菌（Mycobacterium tuberculosis）", "B": "大腸桿菌（Escherichia coli）", "C": "隱球菌（Cryptococcus）", "D": "綠膿桿菌（Pseudomonas aeruginosa）"}}
+{"question": "35 堵塞性血栓血管炎（thromboangiitis obliterans）最常侵犯身體何處的血管？", "options": {"A": "腦", "B": "腳", "C": "腎", "D": "脾"}}
+{"question": "36 下列何者不屬於 B 細胞（B lymphocyte）腫瘤？", "options": {"A": "慢性淋巴細胞白血病（chronic lymphocytic leukemia）", "B": "濾泡性淋巴瘤（follicular lymphoma）", "C": "伯基特氏淋巴瘤（Burkitt’s lymphoma）", "D": "蕈樣肉芽腫（mycosis fungoides）"}}
+{"question": "37 下列何者不是潰瘍性結腸炎（ulcerative colitis）的臨床病理特徵？", "options": {"A": "通常僅侷限於黏膜層和黏膜下層", "B": "易產生肉芽腫", "C": "是一種連續性病變", "D": "是發生大腸癌的危險因子"}}
+{"question": "38 有關微量變化疾病（minimal change disease）之敘述，下列何者正確？", "options": {"A": "90%以上的病人對類固醇治療反應良好", "B": "50%以上的病人，終究會出現慢性腎衰竭", "C": "以血尿（hematuria）為主要表現", "D": "因免疫沉澱物所引發"}}
+{"question": "39 下列何種乳房疾病是造成乳頭的派吉特氏症（Paget disease）的最主要成因？", "options": {"A": "纖維狀變化（fibrocystic change）", "B": "化膿性乳房炎（suppurative mastitis）", "C": "乳管原位癌（ductal carcinoma in situ）", "D": "葉狀瘤（phyllodes tumor）"}}
+{"question": "40 骨質疏鬆症（osteoporosis）與下列那一徵候較無關？", "options": {"A": "發燒", "B": "疼痛", "C": "骨折", "D": "脊柱側彎"}}
+{"question": "41 下列細胞形態或胞器的改變，何者是屬於細胞可逆性的損傷？", "options": {"A": "脂肪變性", "B": "溶酶體破裂", "C": "細胞核溶解", "D": "細胞核破裂"}}
+{"question": "42 下列有關栓塞（embolism）的敘述，何者最不適當？", "options": {"A": "發生嚴重長骨骨折的病人可能會發生脂肪栓塞", "B": "全身性血栓栓塞是指靜脈循環中的栓子，大部分來自深部腿靜脈", "C": "深海潛水伕上升水面速度太快易引發空氣栓塞", "D": "羊水栓塞是羊水或其內容物經由破裂的子宮靜脈進入母體循環所造成"}}
+{"question": "43 下列何種腫瘤的細胞來源是上皮細胞（epithelial cells）？", "options": {"A": "脂肪瘤（lipoma）", "B": "血管瘤（hemangioma）", "C": "淋巴瘤（lymphoma）", "D": "乳頭狀瘤（papilloma）"}}
+{"question": "44 下列何者不是威爾森氏病（Wilson disease）的特徵？", "options": {"A": "為體染色體顯性遺傳（autosomal dominant inheritance）疾病", "B": "銅離子無法被代謝，沉積在肝、腦等器官", "C": "眼睛角膜周圍可見棕綠色環", "D": "可能有神經及精神症狀"}}
+{"question": "45 病人突然發生呼吸短促、呼吸困難。顯微鏡下可見支氣管壁的平滑肌肥大，黏膜下腺體增生，伴有炎症反應，特別是嗜酸性白血球（eosinophils）增多。上列敘述最可能是那一種病症的組織反應？", "options": {"A": "急性肺炎", "B": "支氣管擴大症", "C": "肺氣腫", "D": "過敏性氣喘"}}
+{"question": "46 克林氏潰瘍（Curling ulcer）最容易發生在那種病人身上？", "options": {"A": "長期服用阿司匹靈（Aspirin）", "B": "嚴重燒傷", "C": "車禍之後嚴重頭痛", "D": "感染幽門螺旋桿菌"}}
+{"question": "47 陰莖鱗狀細胞瘤及前驅病變，與下列何種病毒最有關？", "options": {"A": "人類乳突瘤病毒（human papilloma virus; HPV）", "B": "EB 病毒（Epstein-Barr virus; EBV）", "C": "人類疱疹病毒（human herpes virus-8; HHV8）", "D": "人類免疫缺失病毒（human immunodeficiency virus; HIV）"}}
+{"question": "48 關於正常骨折癒合的過程，下列那一個順序是正確的？", "options": {"A": "有機化血塊（organizing hematoma）→軟性骨痂（soft callus）→骨性骨痂（bony callus）→層狀硬骨（lamellar bone）", "B": "有機化血塊（organizing hematoma）→骨性骨痂（bony callus）→層狀硬骨（lamellar bone）→軟性骨痂（soft callus）", "C": "有機化血塊（organizing hematoma）→軟性骨痂（soft callus）→層狀硬骨（lamellar bone）→骨性骨痂（bony callus）", "D": "有機化血塊（organizing hematoma）→層狀硬骨（lamellar bone）→軟性骨痂（soft callus）→骨性骨痂（bony callus）"}}
+{"question": "49 國產藥物與外國原廠的藥物，口服後之時間-血中濃度曲線下之面積相同時，表示此兩種藥物具有何種相同性質？", "options": {"A": "生體可用率（bioavailability）", "B": "首渡效應（first-pass effect）", "C": "藥物代謝速率（metabolic rate）", "D": "生體相等性（bioequivalence）"}}
+{"question": "50 下列何者不是抗癲癇藥物的作用機轉？", "options": {"A": "影響特定離子通道的通透性", "B": "阻斷興奮性麩胺酸（glutamate）受體", "C": "活化抑制性 γ-胺基丁酸（GABA）受體", "D": "阻斷正腎上腺素（norepinephrine）受體"}}
+{"question": "51 阿司匹靈（Aspirin）與下列何種藥物併用會增加血中濃度，而使危險性提高？", "options": {"A": "Antacids", "B": "Warfarin", "C": "Heparin", "D": "Probenecid"}}
+{"question": "52 高血壓用藥 furosemide 在分類上屬於下列何者？", "options": {"A": "保鉀利尿劑", "B": "滲透性利尿劑", "C": "亨利氏環利尿劑", "D": "碳酸酐酶抑制劑"}}
+{"question": "53 有關可待因（codeine）的敘述，下列何者錯誤？", "options": {"A": "具成癮性", "B": "具止咳作用", "C": "止咳劑量低於止痛劑量", "D": "容易出現腹瀉之副作用"}}
+{"question": "54 腎臟功能不良的高齡病人，若以 vancomycin 治療其嚴重感染症，要特別注意下列何種副作用？", "options": {"A": "耳毒性", "B": "癲癇", "C": "腹瀉", "D": "白內障"}}
+{"question": "55 下列何者不是 physostigmine 的作用？", "options": {"A": "膀胱逼尿肌收縮", "B": "瞳孔放大", "C": "血壓下降", "D": "心跳減速"}}
+{"question": "56 下列何者不是 phenytoin 的副作用？", "options": {"A": "牙齦增生", "B": "複視", "C": "Steven-Johnson 症候群", "D": "體重增加"}}
+{"question": "57 下列何種安眠藥物被濫用的可能性較低，而未被列為管制藥品？", "options": {"A": "Zolpidem", "B": "Zaleplon", "C": "Eszopiclone", "D": "Ramelteon"}}
+{"question": "58 Alteplase 主要用於治療急性缺血性中風、心肌梗塞 、肺栓塞、深部靜脈栓塞 ，其藥理作用機轉為何？", "options": {"A": "不可逆結合抑制凝血酶 IIa", "B": "可逆結合抑制凝血酶 Xa", "C": "活化已經和血栓結合之胞漿素原（fibrin-bound plasminogen）", "D": "活化 vitamin K 環氧化還原酶（epoxide reductase）"}}
+{"question": "59 Nitroglycerin（NTG）經由舌下或經皮膚（貼劑）給藥的目的為何？", "options": {"A": "以利併用其他擴增冠狀動脈循環用藥", "B": "減少低血壓之副作用", "C": "避開肝臟代謝之首渡效應", "D": "減少反射性心搏過速之副作用"}}
+{"question": "60 下列何種藥物是經由抑制多巴胺受體 （dopamine receptor） 而產生止吐作用 ， 可用以治療化療藥物所造成 之噁心嘔吐？", "options": {"A": "Aprepitant", "B": "Dexamethasone", "C": "Ondansetron", "D": "Prochlorperazine"}}
+{"question": "61 關於 corticosteroid 的臨床用途，下列何者錯誤？", "options": {"A": "診斷庫欣氏症候群（Cushing’s syndrome）", "B": "治療腎上腺皮質機能不全", "C": "治療白內障", "D": "緩解異位性皮膚炎"}}
+{"question": "62 下列何種藥物可用於治療肢端肥大症（acromegaly）？", "options": {"A": "Octreotide", "B": "Somatropin", "C": "Methimazole", "D": "Leuprolide"}}
+{"question": "63 下列何者的藥理作用機轉是抑制細胞內微小管 （microtubule） 的聚合，並具有較低的骨髓抑制作用？", "options": {"A": "Colchicine", "B": "Docetaxel", "C": "Vinblastine", "D": "Vincristine"}}
+{"question": "64 下列何者與磺胺藥（sulfadoxine）混合使用，以治療弓形蟲（Toxoplasma gondii）之感染？", "options": {"A": "Ciprofloxacin", "B": "Metronidazole", "C": "Pyrimethamine", "D": "Trimethoprim"}}
+{"question": "65 下列何者存在於動物細胞，而不存在於細菌？", "options": {"A": "核糖體（ribosome）", "B": "細胞壁（cell wall）", "C": "質體（plasmid）", "D": "溶酶體（lysosome）"}}
+{"question": "66 惡性貧血的病因是因為體內產生對抗下列何者的自體抗體？", "options": {"A": "維生素 C", "B": "維生素 B12 內在因子（intrinsic factor）", "C": "胰島素（insulin）", "D": "血清素（serotonin）"}}
+{"question": "67 藍氏（Lancefield）血清學分類法，主要是依溶血性鏈球菌之何種構造的抗原不同加以分類？", "options": {"A": "細胞壁", "B": "細胞膜", "C": "細胞質", "D": "細胞核"}}
+{"question": "68 下列何者目前沒有疫苗可以預防？", "options": {"A": "百日咳桿菌", "B": "淋病雙球菌", "C": "流行性感冒嗜血桿菌", "D": "破傷風桿菌"}}
+{"question": "69 包氏螺旋體（Borrelia）感染除了萊姆病（Lyme disease）外，主要造成何種人類疾病？", "options": {"A": "梅毒", "B": "腦膜炎", "C": "回歸熱", "D": "食物中毒"}}
+{"question": "70 下列何者是致死率極高，目前世界衛生組織宣布已經被人類消滅之 DNA 病毒？", "options": {"A": "天花病毒", "B": "伊波拉病毒", "C": "漢他病毒", "D": "E 型肝炎病毒"}}
+{"question": "71 下列何種病毒主要由齧齒類動物為媒介傳播至人？", "options": {"A": "日本腦炎病毒", "B": "漢他病毒", "C": "黃熱病病毒", "D": "委內瑞拉腦炎病毒"}}
+{"question": "72 下列何者不是 prion 的主要特性？", "options": {"A": "可濾過性，具傳染性", "B": "具有蛋白質", "C": "不具有核酸", "D": "可引起免疫反應"}}
+{"question": "73 下列何種器官移植，較可能發生移植體對抗宿主疾病（graft-versus-host disease; GVHD）？", "options": {"A": "肝臟移植", "B": "心臟移植", "C": "骨髓移植", "D": "腎臟移植"}}
+{"question": "74 五大主要類型的免疫球蛋白（immunoglobulin）具有不同的性質與功能，下列敘述何者正確？", "options": {"A": "IgA 與造成全身性過敏反應有關", "B": "所有類型的免疫球蛋白都能通過胎盤", "C": "IgG 是半衰期最長的免疫球蛋白", "D": "IgE 是固定補體最有效率的免疫球蛋白"}}
+{"question": "75 關於組織相容性複合體（MHC）的敘述，下列何者正確？", "options": {"A": "樹突細胞利用第 I 類 MHC（MHC Class I）呈現抗原活化 CD4 T 細胞", "B": "所有有核細胞均表現第 II 類 MHC（MHC Class II）", "C": "蛋白分子必須經過適當的裂解形成短胜肽才能被 MHC 分子呈現", "D": "第 I 類 MHC 主要呈現 11～13 個胺基酸的胜肽"}}
+{"question": "76 關於各型大腸桿菌（Escherichia coli）的敘述，下列何者正確？", "options": {"A": "志賀毒性大腸桿菌（Shiga toxin-producing E. coli; STEC）主要透過未煮熟的食物傳染，嚴重時會引發出血性腹瀉", "B": "腸毒素性大腸桿菌（Enterotoxigenic E. coli; ETEC）常以人傳人的方式造成旅行者腹瀉", "C": "腸聚集性大腸桿菌（Enteroaggregative E. coli; EAEC）只會導致持續性腹瀉，並不會造成發炎反應", "D": "腸病源性大腸桿菌（Enteropathogenic E. coli; EPEC）具有志賀毒素（Shiga toxin）"}}
+{"question": "77 有關梅毒螺旋菌（Treponema pallidum）的感染，下列敘述何者錯誤？", "options": {"A": "第一期梅毒出現硬性下疳（hard chancre），感染後約 10～90 天會出現無痛性潰瘍", "B": "第二期梅毒疹，在全身皮膚及黏膜出現紅疹（rash）", "C": "第三期肉芽腫病變亦稱為梅毒腫（gummas），只出現在生殖器官", "D": "細菌可經由子宮感染引起先天性梅毒，導致胎兒嚴重疾病"}}
+{"question": "78 下列何種特性不是白色念珠菌（Candida albicans）之主要致病因子？", "options": {"A": "能黏附組織", "B": "能合成黑色素", "C": "能分泌蛋白酶", "D": "能轉換表現型"}}
+{"question": "79 下列何種酵素與麴菌屬（Aspergillus）之毒性無關？", "options": {"A": "彈性蛋白酶", "B": "葉酸酶", "C": "磷脂酶", "D": "過氧化氫酶"}}
+{"question": "80 下列何種藥物治療蟠尾絲蟲（Onchocerca volvulus）引起的河川盲（river blindness）為首選藥物，而且病人副作用最小？", "options": {"A": "Tetracycline", "B": "Ivermectin", "C": "Praziquantel", "D": "Mebendazole"}}
+{"question": "大轉子（greater trochanter）位於下列那塊骨骼？", "options": {"A": "髖骨", "B": "坐骨", "C": "髂骨", "D": "股骨"}}
+{"question": "下列何者受坐骨神經（sciatic nerve）支配？", "options": {"A": "股四頭肌", "B": "股二頭肌", "C": "臀大肌", "D": "臀中肌"}}
+{"question": "支配聲帶肌群的神經是：", "options": {"A": "迷走神經", "B": "舌咽神經", "C": "舌下神經", "D": "頸橫神經"}}
+{"question": "DNA 雙股結構中的腺嘌呤（adenine）主要與下列何者配對？", "options": {"A": "腺嘌呤（adenine）", "B": "鳥糞嘌呤（guanine）", "C": "胞嘧啶（cytosine）", "D": "胸腺嘧啶（thymine）"}}
+{"question": "關於第 7 肋骨的描述下列何者錯誤？", "options": {"A": "屬於真肋（true ribs）", "B": "屬於假肋（false ribs）", "C": "屬於典型肋骨", "D": "第 8 肋軟骨附著於第 7 肋軟骨"}}
+{"question": "6 淋巴液是在何處匯入靜脈？", "options": {"A": "頸內靜脈與鎖骨下靜脈交會處", "B": "頭靜脈與腋靜脈交會處", "C": "左、右頭臂靜脈交會處", "D": "左、右肋間靜脈交會處"}}
+{"question": "7 聲帶（vocal cord）的前方連結在甲狀軟骨，請問後方連結在那一塊軟骨？", "options": {"A": "會厭軟骨（epiglottis）", "B": "環狀軟骨（cricoid cartilage）", "C": "杓狀軟骨（arytenoid cartilage）", "D": "楔狀軟骨（cuneiform cartilage）"}}
+{"question": "8 下列有關肝小葉之敘述何者錯誤？", "options": {"A": "為肝臟之構造功能單位", "B": "主要由肝細胞以肝動脈為中心輻射狀排列組成", "C": "形狀約略成六角形", "D": "在其周圍有門脈三合體（portal triad）"}}
+{"question": "9 下列何者分泌內在因子（intrinsic factor） ，以協助維生素 B12 之吸收？", "options": {"A": "胃壁細胞（parietal cells）", "B": "胃主細胞（chief cells）", "C": "胰島細胞（islet cells）", "D": "胰腺泡細胞（acinar cells）"}}
+{"question": "10 下列何者具有明顯之環狀皺襞（circular folds）？", "options": {"A": "食道", "B": "胃", "C": "空腸", "D": "直腸"}}
+{"question": "11 在骨骼肌細胞（skeletal muscle cell）收縮過程中，產生力擊（power stroke）後，肌凝蛋白（myosin）會與 ①結合，並造成橫橋（cross-bridge）與肌動蛋白（actin）發生②的反應，下列①、②配對，何者正確？", "options": {"A": "①ATP，②連接", "B": "①ATP，②分離", "C": "①鈣離子，②連接", "D": "①鈣離子，②分離"}}
+{"question": "12 車禍造成大腦枕葉損傷，最可能造成下列何種症狀？", "options": {"A": "視覺障礙", "B": "聽覺障礙", "C": "肢體運動困難", "D": "運動性失語症"}}
+{"question": "13 食用含有河豚毒素（tetrodotoxin）的生魚片之後出現肌肉麻痺的現象，此現象為何種通道被阻斷所致？", "options": {"A": "鉀通道", "B": "鈣通道", "C": "鈉通道", "D": "氯通道"}}
+{"question": "14 下列何者促進脂質分解，增加血中脂肪酸濃度的效果最強？", "options": {"A": "胰島素", "B": "生長激素", "C": "礦物皮質素", "D": "升糖激素"}}
+{"question": "15 下列有關女性排卵的敘述，何者正確？", "options": {"A": "由黃體（corpus luteum）分泌的雌激素（estrogen）誘發排卵", "B": "黃體激素（progesterone）對黃體促素（LH）的正回饋所致", "C": "腦下腺前葉 LH 的高峯分泌（LH surge）可誘發排卵", "D": "排卵後的濾泡細胞即轉變為白體（corpus albicans）"}}
+{"question": "16 當組織代謝活性（tissue metabolic activity）增加時不會引起下列何種反應？", "options": {"A": "70", "B": "78", "C": "94", "D": "104"}}
+{"question": "(A)  70", "options": {"A": "下視丘視上核（supraoptic nucleus）", "B": "視丘前核（anterior nucleus）", "C": "大腦基底核（basal ganglia）", "D": "中腦黑質（substantia nigra）"}}
+{"question": "(A) 下視丘視上核（supraoptic nucleus）", "options": {"A": "胸膜內壓（intrapleural pressure）降低", "B": "肺間壓（transpulmonary pressure）下降", "C": "肺泡內壓（alveolar pressure）持續降低", "D": "肺泡內壓（alveolar pressure）持續升高"}}
+{"question": "(A) 胸膜內壓（intrapleural pressure）降低", "options": {"A": "腸道機械性的運動對於脂肪乳化沒有影響", "B": "三酸甘油酯 （triglyceride） 經乳化作用分解為單酸甘油酯 （monoglyceride） 和游離脂肪酸 （free fatty acid）", "C": "特定蛋白質經乳化作用與三酸甘油酯（triglyceride）產生乳糜微粒（chylomicron）", "D": "脂肪乳化需要肝臟分泌的膽鹽（bile salt）和磷脂質（phospholipid）"}}
+{"question": "(A) 腸道機械性的運動對於脂肪乳化沒有影響", "options": {"A": "凋亡比壞死（necrosis）更易引起發炎反應", "B": "輻射造成細胞核酸嚴重受損可引起細胞凋亡的發生", "C": "病毒性肝炎肝細胞的死亡為病理性的凋亡", "D": "正常月經週期子宮內膜崩離是生理性的凋亡"}}
+{"question": "(A) 凋亡比壞死（necrosis）更易引起發炎反應", "options": {"A": "腎病症候群（nephrotic syndrome）", "B": "肝硬化（liver cirrhosis）", "C": "蛋白質營養不良（protein malnutrition）", "D": "鈉滯留（sodium retention）"}}
+{"question": "(A) 腎病症候群（nephrotic syndrome）", "options": {"A": "Epstein-Barr virus（EBV）和勃氏淋巴瘤（Burkitt lymphoma）", "B": "幽門螺旋桿菌和胃的邊緣區型淋巴瘤（marginal zone lymphoma）", "C": "HTLV－1（human T－cell leukemia virus type 1）和慢性淋巴性白血病（chronic lymphocytic leukemia）", "D": "埃及血吸蟲（Schistosoma haematobium）和膀胱癌"}}
+{"question": "(A)  Epstein-Barr virus（EBV）和勃氏淋巴瘤（Burkitt lymphoma）", "options": {"A": "周邊神經病變（peripheral neuropathy）", "B": "擴張性心肌症（dilated cardiomyopathy）", "C": "慢性胰臟炎（chronic pancreatitis）", "D": "橫紋肌溶解（rhabdomyolysis）"}}
+{"question": "(A) 周邊神經病變（peripheral neuropathy）", "options": {"A": "①④③②", "B": "②①④③", "C": "③①②④", "D": "④②③①"}}
+{"question": "(A) ①④③②", "options": {"A": "嗜中性球（neutrophil）", "B": "嗜酸性球（eosinophil）", "C": "單核球（monocyte）", "D": "淋巴球（lymphocyte）"}}
+{"question": "(A) 嗜中性球（neutrophil）", "options": {"A": "白蛋白（albumin）增加", "B": "白蛋白（albumin）降低", "C": "膽紅素（bilirubin）增加", "D": "膽紅素（bilirubin）降低"}}
+{"question": "(A) 白蛋白（albumin）增加", "options": {"A": "精細胞瘤（seminoma）", "B": "卵黃囊瘤（yolk sac tumor）", "C": "絨毛膜癌（choriocarcinoma）", "D": "畸胎瘤（teratoma）"}}
+{"question": "(A) 精細胞瘤（seminoma）", "options": {"A": "子宮肌肉層中發現子宮內膜組織", "B": "卵巢內有巧克力囊腫", "C": "子宮壁化膿", "D": "內膜增厚形成息肉"}}
+{"question": "(A) 子宮肌肉層中發現子宮內膜組織", "options": {"A": "BRAF 基因突變", "B": "TP53 基因突變", "C": "毛玻璃樣細胞核（ground-glass nuclei）", "D": "細胞核內假包涵物（intra-nuclear pseudo-inclusions）"}}
+{"question": "(A)  BRAF 基因突變", "options": {"A": "prazosin", "B": "acebutolol", "C": "clonidine", "D": "yohimbine"}}
+{"question": "(A)  prazosin", "options": {"A": "zolpidem", "B": "suvorexant", "C": "temazepam", "D": "ramelteon"}}
+{"question": "(A)  zolpidem", "options": {"A": "carbamazepine", "B": "lithium", "C": "loratadine", "D": "valproic acid"}}
+{"question": "(A)  carbamazepine", "options": {"A": "propranolol", "B": "sumatriptan", "C": "dihydroergotamine", "D": "atogepant"}}
+{"question": "(A)  propranolol", "options": {"A": "lisinopril", "B": "amlodipine", "C": "methyldopa", "D": "losartan"}}
+{"question": "(A)  lisinopril", "options": {"A": "clopidogrel", "B": "tirofiban", "C": "aspirin", "D": "rivaroxaban"}}
+{"question": "(A)  clopidogrel", "options": {"A": "scopolamine", "B": "palonosetron", "C": "prochlorperaine", "D": "meclizine"}}
+{"question": "(A)  scopolamine", "options": {"A": "bromocriptine", "B": "leuprolide", "C": "follitropin", "D": "cetrorelix"}}
+{"question": "(A)  bromocriptine", "options": {"A": "cyclophosphamide", "B": "methotrexate", "C": "lomustine", "D": "temozolomide"}}
+{"question": "(A)  cyclophosphamide", "options": {"A": "vinblastine", "B": "paclitaxel", "C": "irinotecan", "D": "azacitidine"}}
+{"question": "(A)  vinblastine", "options": {"A": "定期公告流行病的疫情、病原種類及抗生素敏感性", "B": "可以使用抗生素作為飼料，加速家畜的生長", "C": "服用低劑量抗生素，作為預防感染的手段", "D": "醫院長期使用同一種抗生素"}}
+{"question": "(A) 定期公告流行病的疫情、病原種類及抗生素敏感性", "options": {"A": "C1a", "B": "C2a", "C": "C3a", "D": "C4b"}}
+{"question": "(A)  C1a", "options": {"A": "糖尿病", "B": "關節炎", "C": "因 T 淋巴細胞缺乏而易受感染", "D": "高血壓"}}
+{"question": "(A) 糖尿病", "options": {"A": "能產生色素", "B": "能發酵木蜜醇（mannitol）", "C": "具有溶血作用", "D": "凝固酶（coagulase）反應試驗呈陰性反應"}}
+{"question": "(A) 能產生色素", "options": {"A": "抑制吞噬體-溶酶體（phagosome-lysosome）的融合", "B": "具有抗氧化的能力（anti-oxidants）", "C": "不具脂質莢膜（lipid capsule）", "D": "具有內毒素（endotoxin）"}}
+{"question": "(A) 抑制吞噬體-溶酶體（phagosome-lysosome）的融合", "options": {"A": "A 型肝炎病毒", "B": "C 型肝炎病毒", "C": "D 型肝炎病毒", "D": "E 型肝炎病毒"}}
+{"question": "(A)  A 型肝炎病毒", "options": {"A": "病毒基質蛋白（M1）", "B": "非結構性蛋白（NS1）", "C": "神經胺酸酶（neuraminidase）", "D": "紅血球凝集素（hemagglutinin）"}}
+{"question": "(A) 病毒基質蛋白（M1）", "options": {"A": "感染初期在細胞核內複製", "B": "會先形成 DNA，再製造 RNA", "C": "由單股（＋）strand RNA 製造病毒蛋白", "D": "由單股（－）strand RNA 製造病毒蛋白"}}
+{"question": "(A) 感染初期在細胞核內複製", "options": {"A": "腸病毒指的是一群病毒，並非特定某一個病毒", "B": "感染後，病人常常會出現腸胃道不適的症狀", "C": "有時會有肢體麻痺症候群（paralytic disease）併發症", "D": "手足口病為感染後常見的症狀"}}
+{"question": "(A) 腸病毒指的是一群病毒，並非特定某一個病毒", "options": {"A": "其病原體為立克次氏立克次體（Rickettsia rickettsii）", "B": "主要經由恙蟎（mite）叮咬而傳播", "C": "潛伏期為 10～12 天", "D": "患者出現發燒、頭痛、肌肉痛、淋巴結腫大等症狀"}}
+{"question": "下列何種胃腺細胞，其分泌物質與大腸杯狀細胞所分泌的相似？", "options": {"A": "黏液頸細胞", "B": "壁細胞", "C": "主細胞", "D": "腸內分泌細胞"}}
+{"question": "二氧化碳在血液中最主要的運送形式是：", "options": {"A": "與白血球結合", "B": "與血紅素結合", "C": "形成重碳酸離子", "D": "與血漿白蛋白結合"}}
+{"question": "胸大肌收縮可使上臂：", "options": {"A": "外展及外旋", "B": "外展及內旋", "C": "內收及外旋", "D": "內收及內旋"}}
+{"question": "下列那一構造，不是完全由腹膜反摺構成的？", "options": {"A": "肝鐮韌帶", "B": "肝圓韌帶", "C": "小網膜", "D": "腸繫膜"}}
+{"question": "下列何者傳送頸動脈竇受器所感受血壓改變的訊息？", "options": {"A": "三叉神經", "B": "舌咽神經", "C": "顏面神經", "D": "副神經"}}
+{"question": "6 手術時不小心移除下列何者，最可能直接造成血鈣濃度下降？", "options": {"A": "胸腺", "B": "腎上腺皮質", "C": "胰島", "D": "副甲狀腺"}}
+{"question": "7 腭骨（palatine bone）不參與下列何者的組成？", "options": {"A": "鼻腔", "B": "眼眶", "C": "上腭", "D": "顱腔"}}
+{"question": "8 鼠蹊部疝氣（inguinal hernia）嚴重時，擠入鼠蹊管 （inguinal canal）的腸子，最容易直接壓迫到下列何者，造成睪丸的血液循環受阻？", "options": {"A": "睪丸（testis）", "B": "副睪（epididymis）", "C": "精索（spermatic cord）", "D": "儲精囊（seminal vesicle）"}}
+{"question": "9 下列何者是由勃起組織（erectile tissue）構成，與男性的陰莖（penis）有相似的構造，受刺激時會充血勃起？", "options": {"A": "陰阜（mons pubis）", "B": "陰蒂（clitoris）", "C": "大陰唇（labia majora）", "D": "小陰唇（labia minora）"}}
+{"question": "10 有關舌乳頭之敘述，下列何者正確？", "options": {"A": "絲狀乳頭數目最多且含有許多味蕾", "B": "蕈狀乳頭多分布於舌尖且不含味蕾", "C": "輪廓狀乳頭分布於舌後半部且含有味蕾", "D": "僅由顏面神經傳遞味覺訊息"}}
+{"question": "11 有關無氧快肌與有氧慢肌的比較，下列何者正確？", "options": {"A": "無氧快肌含有比較多的肌紅素", "B": "無氧快肌含有比較多的的粒線體", "C": "無氧快肌有比較多的微血管", "D": "無氧快肌含有比較多的肝醣"}}
+{"question": "12 當小偷被警察追著跑時，下列何者不是小偷的交感神經調控之生理作用？", "options": {"A": "腸胃道蠕動減少", "B": "汗液分泌增加", "C": "氣管擴張", "D": "瞳孔縮小"}}
+{"question": "13 決定血流速率大小，下列何者最不重要？", "options": {"A": "血液黏滯度", "B": "心跳速率", "C": "血管半徑", "D": "血管兩端壓力差"}}
+{"question": "14 下列何者具有最低的腎臟血漿清除率（renal clearance）？", "options": {"A": "葡萄糖（glucose）", "B": "尿素（urea）", "C": "肌酐酸（creatinine）", "D": "對胺基馬尿酸（para-aminohippuric acid）"}}
+{"question": "15 體制素（somatostatin）主要由消化道何處分泌？", "options": {"A": "唾腺", "B": "胃", "C": "膽囊", "D": "十二指腸"}}
+{"question": "16 河豚毒素（tetrodotoxin）對神經細胞最主要的影響為何？", "options": {"A": "阻止神經細胞再極化（repolarization）", "B": "阻止神經細胞去極化（depolarization）", "C": "促進神經傳導物質的釋放", "D": "抑制神經傳導物質的釋放"}}
+{"question": "17 有關突觸後電位（postsynaptic potentials）的敘述，下列何者正確？", "options": {"A": "均為動作電位（action potential）", "B": "均為興奮性（excitatory）", "C": "均為抑制性（inhibitory）", "D": "缺乏不反應期（refractory period）"}}
+{"question": "18 人體內胰島 β 細胞被破壞時，不會產生下列何種反應？", "options": {"A": "血漿中游離脂肪酸增加", "B": "血漿中胺基酸濃度下降", "C": "血漿的滲透度上升", "D": "血漿中升糖素（glucagon）增加"}}
+{"question": "19 下列那一種人類細胞中，巴氏體（barr body）的數量會超過一個 ？", "options": {"A": "正常女性", "B": "超女性症（super female）", "C": "透納氏症（Turner’s syndrome）", "D": "柯林菲特氏症（Klinefelter’s syndrome）"}}
+{"question": "20 口渴時，腎小管增加水分再吸收的機轉為下列何者？", "options": {"A": "抑制醛固酮分泌", "B": "抑制血管收縮素分泌", "C": "增加抗利尿激素分泌", "D": "降低細胞膜水通道蛋白的量"}}
+{"question": "21 下列何者不屬於急性風濕熱瓊斯氏標準（Jones criteria）的主要標準（major criteria）？", "options": {"A": "心臟炎（carditis）", "B": "邊緣性紅班（erythema marginatum）", "C": "白血球增多（leukocytosis）", "D": "多關節炎（polyarthritis）"}}
+{"question": "22 有關重症肌無力（myasthenia gravis）病人之敘述，下列何者正確？", "options": {"A": "肌肉運動減少，神經傳導減少", "B": "肌肉運動減少，神經傳導正常", "C": "肌肉運動正常，神經傳導減少", "D": "肌肉運動正常，神經傳導正常"}}
+{"question": "23 有關靜脈血栓的敘述，下列何者最不適當？", "options": {"A": "罹患靜脈曲張病人發生淺層靜脈血栓的風險較高", "B": "相較於深層靜脈血栓，淺層靜脈血栓比較少見栓塞發生", "C": "來自膝部以下深處腿靜脈血栓有較高的風險造成肺栓塞", "D": "鬱血性心衰竭的病人有可能產生靜脈血栓"}}
+{"question": "24 18 歲的男病人至醫院門診，表示自己吃了海鮮後皮膚癢且出現蕁麻疹，此病人最有可能發生：", "options": {"A": "立即型過敏反應", "B": "抗體媒介過敏反應", "C": "免疫複合物媒介過敏反應", "D": "遲發型過敏反應"}}
+{"question": "25 關於唐氏症（Down syndrome）的敘述，下列何者錯誤？", "options": {"A": "唐氏症病人常見第 21 對染色體有三條（trisomy 21）的現象", "B": "唐氏症發生率與母親生育年齡呈正相關", "C": "白血病（leukemia）是唐氏症病人早夭最主要的原因", "D": "病人的眼睛出現內眥贅皮（epicanthal fold） ，眼瞼縫向外上方傾斜"}}
+{"question": "26 55 歲男性患有咳嗽數月並伴有體重減輕和發熱 ， 肺臟組織學檢查發現多發性乾酪樣肉芽腫 ， 此病人最有可能感染下列何種微生物？", "options": {"A": "Mycobacterium tuberculosis", "B": "Toxoplasma gondii", "C": "Candida albicans", "D": "Staphylococcus aureus"}}
+{"question": "27 B 細胞濾泡性淋巴瘤（follicular lymphoma）常見下列何種染色體異常？", "options": {"A": "染色體 12 三染色體症（trisomy 12）", "B": "t（14, 18） （染色體 14 及 18 轉位）", "C": "t（11, 14） （染色體 11 及 14 轉位）", "D": "t（9, 22） （染色體 9 及 22 轉位）"}}
+{"question": "28 關於 A 型肝炎（hepatitis A）的敘述，下列何者正確？", "options": {"A": "A 型肝炎病毒（hepatitis A virus, HAV）屬於 DNA 病毒", "B": "A 型肝炎病毒為一缺陷的病毒，必須有 B 型肝炎病毒（hepatitis B virus, HBV）的存在才能感染人體", "C": "不會引起慢性肝炎（chronic hepatitis）", "D": "不會引起猛爆性肝炎（fulminant hepatitis）"}}
+{"question": "29 關於卵巢腫瘤的敘述，下列何者錯誤？", "options": {"A": "未生產（nulliparity）為卵巢癌的危險因子", "B": "表面上皮腫瘤（surface epithelial tumor）為最常見的原發卵巢腫瘤", "C": "惡性漿液性腫瘤（serous carcinoma）為最常見的原發惡性卵巢腫瘤", "D": "Krukenberg 腫瘤為原發雙側性卵巢腫瘤"}}
+{"question": "30 Creutzfeldt-Jakob 病會造成大腦皮質及深部灰質的海綿狀變形（spongiform transformation） ，這種病的病因主要與下列何者有關？", "options": {"A": "病毒感染", "B": "細菌感染", "C": "原蟲感染", "D": "Prion 蛋白變異"}}
+{"question": "31 Amantadine 具有抗巴金森氏症的作用，有關其副作用，下列敘述何者錯誤？", "options": {"A": "口乾", "B": "高血壓", "C": "周邊水腫", "D": "尿液滯留"}}
+{"question": "32 下列降血壓藥物，何者初次服用會造成姿態性低血壓，可給予較少的起始劑量或睡前服用？", "options": {"A": "Propranolol", "B": "Minoxidil", "C": "Furosemide", "D": "Prazosin"}}
+{"question": "33 下列何者不是 1995 年東京地鐵發生沙林（sarin）毒氣攻擊事件受害者的症狀？", "options": {"A": "心跳加速", "B": "瞳孔縮小", "C": "頻尿", "D": "唾液增加"}}
+{"question": "34 下列何者為 Ethosuximide 治療失神性癲癇（absence seizures）的主要作用機轉？", "options": {"A": "抑制 L 型鈣離子通道", "B": "抑制 P 型鈣離子通道", "C": "抑制 T 型鈣離子通道", "D": "抑制 N 型鈣離子通道"}}
+{"question": "35 下列何者為 Lorsatan 降血壓的作用機制？", "options": {"A": "血管收縮素轉換酶抑制劑（ACE inhibitor）", "B": "血管收縮素 II 受體拮抗劑（angiotensin II receptor antagonist）", "C": "血管收縮素 I 受體拮抗劑（angiotensin I receptor antagonist）", "D": "Beta 腎上腺素受體抑制劑"}}
+{"question": "36 下列那一個抗心律不整藥物，不適合用來治療陣發性上心室心律不整？", "options": {"A": "Verapamil", "B": "Atropine", "C": "Adenosine", "D": "Propranolol"}}
+{"question": "37 下列何種藥物是藉由周邊作用來抑制咳嗽反射，作為治療咳嗽的藥物？", "options": {"A": "Codeine", "B": "Dextromethorphan", "C": "Guaifenesin", "D": "Benzonatate"}}
+{"question": "38 關於甲狀腺機能亢進（hyperthyroidism）治療藥物 Propylthiouracil 之敘述，下列何者錯誤？", "options": {"A": "Daptomycin", "B": "Quinupristin/Dalfopristin", "C": "Teicoplanin", "D": "Telavancin"}}
+{"question": "(A)  Daptomycin", "options": {"A": "抑制 BCR-ABL", "B": "抑制 EGF receptor", "C": "抑制 HER2", "D": "抑制 c-KIT"}}
+{"question": "(A) 抑制 BCR-ABL", "options": {"A": "接合作用（conjugation）", "B": "形質導入（transduction）", "C": "形質轉換（transformation）", "D": "分泌作用（secretion）"}}
+{"question": "(A) 接合作用（conjugation）", "options": {"A": "沒有細胞壁", "B": "特殊之細胞壁結構、鍵結", "C": "特殊之細胞壁成分", "D": "細胞膜較厚且具有外莢膜"}}
+{"question": "(A) 沒有細胞壁", "options": {"A": "細胞主要從吞噬作用獲得抗原", "B": "抗原在溶小體（lysosome）被降解成短胜肽", "C": "抗原在蛋白酶體（proteasome）被降解成短胜肽", "D": "是個體清除胞外菌相當重要的作用機制"}}
+{"question": "(A) 細胞主要從吞噬作用獲得抗原", "options": {"A": "增加血管通透性", "B": "吸引吞噬細胞到感染部位", "C": "促進發炎反應", "D": "促進病原體被吞噬細胞辨識"}}
+{"question": "(A) 增加血管通透性", "options": {"A": "第一型過敏反應", "B": "第二型過敏反應", "C": "第三型過敏反應", "D": "第四型過敏反應"}}
+{"question": "(A) 第一型過敏反應", "options": {"A": "退伍軍人肺炎菌 (Legionella pneumophila)", "C": "破傷風梭狀菌 (Clostridium tetani)", "B": "鼠疫桿菌（ Yersinia pestis)", "D": "單胞李斯特菌 (Listeria monocytogenes )"}}
+{"question": "(A) 退伍軍人肺炎菌 (Legionella pneumophila)", "options": {"A": "麴菌屬（Aspergillus）", "B": "念珠菌屬（Candida）", "C": "著色芽生屬（Fonsecaea）", "D": "小芽胞菌屬（Microsporum）"}}
+{"question": "(A) 麴菌屬（Aspergillus）", "options": {"A": "第一期梅毒會出現具疼痛的潰瘍，按壓糜軟，故又稱軟性下疳", "B": "第二期梅毒有高量細菌匯聚在淋巴結，病人無太明顯臨床症狀", "C": "第三期症狀主要以皮疹及濕疣為主，具高傳染力", "D": "先天性梅毒主要通過孕婦胎盤傳染給胎兒"}}
+{"question": "(A) 第一期梅毒會出現具疼痛的潰瘍，按壓糜軟，故又稱軟性下疳", "options": {"A": "腺病毒（adenovirus）", "B": "單純疱疹病毒（herpes simplex virus）", "C": "B 型肝炎病毒（hepatitis B virus）", "D": "A 型流行性感冒病毒（influenza A virus）"}}
+{"question": "(A) 腺病毒（adenovirus）", "options": {"A": "亞洲絛蟲", "B": "豬肉絛蟲", "C": "牛肉絛蟲", "D": "廣節裂頭絛蟲"}}
+{"question": "心肌的肌內質網主要受何者刺激而釋放鈣離子？", "options": {"A": "細胞外流入的鈉離子", "B": "肌醇三磷酸", "C": "細胞外流入的鈣離子", "D": "細胞膜電位的改變"}}
+{"question": "下列何種疾病與耳朵功能異常最無關？", "options": {"A": "黃斑退化症（macular degeneration）", "B": "梅尼爾氏症（Meniere's disease）", "C": "良性陣發性姿勢型暈眩（benign paroxysmal positional vertigo）", "D": "動暈症（motion sickness）"}}
+{"question": "下列何者會導致電位過極化（hyperpolarizing），進而誘發抑制性突觸後電位（inhibitory postsynaptic potential, IPSP）的表現？", "options": {"A": "Cl– channel open；K＋ channel open", "B": "Na＋ channel open；K＋ channel open", "C": "Ca２＋ channel open；K＋ channel open", "D": "Na＋ channel open；Cl– channel open"}}
+{"question": "下列有關褪黑激素（melatonin）的敘述，何者錯誤？", "options": {"A": "可由松果腺（pineal gland）分泌", "B": "血清素（serotonin）為其前驅物", "C": "夜晚睡眠時體內之濃度最低", "D": "可治療時差所造成的不適"}}
+{"question": "在人類胚胎期，下列何種激素最可能直接刺激外生殖構造發育為男性？", "options": {"A": "睪固酮（testosterone）", "B": "雙氫睪固酮（DHT）", "C": "雌激素（estrogen）", "D": "去氫雄脂酮（DHEA）"}}
+{"question": "6 特定微血管區段之微血管靜水壓（capillary hydrostatic pressure）為24 mmHg、組織間隙靜水壓 （interstitial hydrostatic pressure）為0 mmHg、微血管滲透壓（capillary colloid osmotic pressure）為12 mmHg、組織間隙滲透壓（interstitial colloid osmotic pressure）為2 mmHg， 則該處微血管液流動形式及總驅動力（net filtration pressure）分別為何？", "options": {"A": "再吸收（absorption）流入微血管：7 mmHg", "B": "再吸收（absorption）流入微血管：14 mmHg", "C": "過濾（filtration）流出微血管：7 mmHg", "D": "過濾（filtration）流出微血管：14 mmHg"}}
+{"question": "7 在胎兒時期，下列那個構造可與右心房直接相通？", "options": {"A": "動脈導管", "B": "肺動脈幹", "C": "左心房", "D": "左心室"}}
+{"question": "8 正常情況下，下列何種物質在腎臟再吸收（reabsorption）的比例最高？", "options": {"A": "水", "B": "鈉離子", "C": "葡萄糖", "D": "尿素"}}
+{"question": "9 肺氣腫（emphysema）患者因肺泡壁遭到破壞而容易出現下列那一種變化？", "options": {"A": "肺泡氣體擴散的總面積增加", "B": "肺臟回彈力增加", "C": "肺臟順應性增加", "D": "呼吸道阻力降低"}}
+{"question": "10 有關輔脂解酶（colipase）的敘述，下列何者正確？", "options": {"A": "由胰臟分泌", "B": "由肝臟分泌", "C": "僅具脂溶性", "D": "具脂解的作用"}}
+{"question": "11 下列那兩個體內空腔之間沒有實質構造區隔，其中一個空腔內如果產生積水，會在兩個空腔內互相 流通？", "options": {"A": "縱膈腔（mediastinum）與胸膜腔（pleural cavity）", "B": "胸膜腔（pleural cavity）與心包腔（pericardial cavity）", "C": "心包腔（pericardial cavity）與腹腔（abdominal cavity）", "D": "腹腔（abdominal cavity）與骨盆腔（pelvic cavity）"}}
+{"question": "12 關於腦下垂體（pituitary gland）的描述，下列何者錯誤？", "options": {"A": "與下視丘（hypothalamus）相連", "B": "位於蝶鞍的腦下垂體窩", "C": "腦下垂體中間部分泌黑色素細胞刺激素（melanocyte-stimulating hormone）", "D": "腦下垂體中間部分泌褪黑素（melatonin）"}}
+{"question": "13 下列有關成人腰椎（lumbar vertebrae）的敘述，何者正確？", "options": {"A": "典型腰椎棘突（spinous process）細長，朝下延伸", "B": "典型腰椎橫突（transverse process）具孔洞，供神經穿行", "C": "腰椎曲（lumbar curvature）是往前拱起的彎曲", "D": "腰椎穿刺（lumbar puncture）一般是在第一、二腰椎之間進行"}}
+{"question": "14 下列何者屬於彈性動脈？", "options": {"A": "腎動脈（renal artery）", "B": "脾動脈（splenic artery）", "C": "股動脈（femoral artery）", "D": "主動脈（aorta）"}}
+{"question": "15 下列何者不是輸尿管（ureter）管腔較為狹窄的位置？", "options": {"A": "腎盂（renal pelvis）與輸尿管交接處", "B": "腰大肌（psoas major）表面", "C": "髂總動脈（common iliac artery）分叉為髂內及髂外動脈處", "D": "穿進膀胱（urinary bladder）處"}}
+{"question": "16 下列何者不具支撐子宮（uterus）的功能？", "options": {"A": "主韌帶（cardinal ligament）", "B": "懸韌帶（suspensory ligament）", "C": "骨盆膈（pelvic diaphragm）", "D": "泌尿生殖膈（urogenital diaphragm）"}}
+{"question": "17 下列何者為負責分泌胃酸的細胞？", "options": {"A": "主細胞（chief cell）", "B": "壁細胞（parietal cell）", "C": "黏液頸細胞（mucous neck cell）", "D": "腸內分泌細胞（enteroendocrine cell）"}}
+{"question": "18 耳下腺導管（parotid duct）開口於口腔何處的黏膜？", "options": {"A": "上列第一臼齒", "B": "上列第二臼齒", "C": "上列第三臼齒", "D": "下列第二臼齒"}}
+{"question": "19 當肱骨（humerus）的骨幹發生骨折，最可能直接傷及那一條手臂的神經？", "options": {"A": "肌皮神經（musculocutaneous nerve）", "B": "正中神經（median nerve）", "C": "尺神經（ulnar nerve）", "D": "橈神經（radial nerve）"}}
+{"question": "20 下列何者源自骨髓細胞，而後遷移至中樞神經系統內成熟？", "options": {"A": "星狀細胞（astrocytes）", "B": "寡樹突膠細胞（oligodendrocytes）", "C": "微膠細胞（microglia）", "D": "室管膜細胞（ependymal cells）"}}
+{"question": "21 有關急性發炎反應（acute inflammation）的敘述，下列何者正確？", "options": {"A": "參與的白血球主要是嗜酸性白血球（eosinophils）", "B": "組織間隙常因血管通透性增加所以有漏出液（transudate）的蓄積", "C": "受損組織細胞分泌的緩激肽（bradykinin）與痛覺產生有關", "D": "介白素-1（interleukin-1）是造成血管舒張主要的媒介物"}}
+{"question": "22 下列何者與血液的高凝血狀態易形成血栓的關聯性最小？", "options": {"A": "長期臥床", "B": "口服避孕藥之使用", "C": "抗磷脂質症候群", "D": "von Willebrand疾病"}}
+{"question": "23 KIT基因突變是下列那種腫瘤最常見的分子變化？", "options": {"A": "肺腺癌", "B": "胃腸道基質瘤", "C": "肝癌", "D": "膀胱癌"}}
+{"question": "24 下列何者並非鉛中毒的常見表現？", "options": {"A": "肝硬化", "B": "兒童智力發展障礙", "C": "周邊神經病變", "D": "貧血"}}
+{"question": "25 下列何種血管炎會造成主動脈（aorta）及其主要分支的發炎狹窄，可能導致上肢摸不到脈搏，因 而又稱為無脈症（pulseless disease）？", "options": {"A": "高安氏動脈炎（Takayasu arteritis）", "B": "川崎氏病（Kawasaki disease）", "C": "韋格納氏肉芽腫（Wegener granulomatosis）", "D": "伯格氏病（Buerger disease）"}}
+{"question": "26 下列何者是何杰金氏淋巴瘤（Hodgkin lymphoma）的腫瘤細胞？", "options": {"A": "淋巴母細胞（lymphoblast）", "B": "副免疫母細胞（paraimmunoblast）", "C": "瑞德－史登堡氏細胞（Reed-Sternberg cell）", "D": "卡哈爾－瑞齊烏斯氏細胞（Cajal-Retzius cell）"}}
+{"question": "27 有關家族性腺瘤性息肉症（familial adenomatous polyposis），下列敘述何者錯誤？", "options": {"A": "是體染色體隱性（autosomal recessive）遺傳", "B": "病人的大腸會有超過100個腺瘤性息肉", "C": "未治療的病人幾乎都會發生大腸癌", "D": "可以用預防性大腸切除術來治療"}}
+{"question": "28 下列何者為快速進行性腎絲球腎炎（rapidly progressive glomerulonephritis）最主要的病理變 化？", "options": {"A": "新月體（crescent）", "B": "乾酪性壞死（caseous necrosis）", "C": "羅素小體（Russell body）", "D": "類纖維素性壞死（fibrinoid necrosis）"}}
+{"question": "29 乳癌病患出現橘皮（peau d'orange）現象，與下列何者最有關？", "options": {"A": "不典型乳管增生（atypical ductal hyperplasia）", "B": "發炎性癌 （inflammatory carcinoma）", "C": "BRCA1基因突變", "D": "乳管擴張"}}
+{"question": "30 庫賈氏病（Creutzfeldt-Jakob disease）最典型的病理變化為下列何者？", "options": {"A": "脫髓鞘斑塊", "B": "腦膿瘍", "C": "中腦黑質退化", "D": "大腦海綿狀轉化"}}
+{"question": "31 下列何種藥物不能抑制乙醯膽鹼酯酶（acetylcholinesterase）？", "options": {"A": "physostigmine", "B": "sarin", "C": "edrophonium", "D": "bethanechol"}}
+{"question": "32 下列藥物中，何者對於改善酒精成癮治療沒有幫助？", "options": {"A": "naltrexone", "B": "acamprosate", "C": "acetaminophen", "D": "disulfiram"}}
+{"question": "33 使用局部麻醉劑時常與腎上腺素合用，其目的為何？", "options": {"A": "使局部血管收縮", "B": "增加局部麻醉劑的吸收", "C": "增強中樞正腎上腺素系統之止痛作用", "D": "減少局部過敏"}}
+{"question": "34 下列何種藥物可調節血清素（serotonin）神經傳遞系統，達到抗憂鬱效果？", "options": {"A": "ergonovine", "B": "fluoxetine", "C": "ondansetron", "D": "sumatriptan"}}
+{"question": "35 毛地黃中毒時，因心跳過慢導致心律不整，下列何者為正確且安全的治療策略?", "options": {"A": "直接給與高劑量鎂與毛地黃競爭Na+ -K+ pump 的結合位", "B": "血鉀過低時宜補充鉀，並以atropine治療房室阻斷", "C": "可以抗心律不整藥物amiodarone來治療", "D": "不宜給與毛地黃抗體，以免加重傳導阻斷"}}
+{"question": "36 Abciximab治療不穩定型心絞痛（unstable angina）的藥理機制為何？", "options": {"A": "cyclic nucleotide phosphodiesterase抑制劑", "B": "GP IIb/IIIa 抑制劑", "C": "cyclooxygenase I 抑制劑", "D": "P2Y12 ADP receptor 拮抗劑"}}
+{"question": "37 下列何種藥物最適合以吸入方式用於緩解急性氣喘（asthma）發作？", "options": {"A": "albuterol", "B": "salmeterol", "C": "beclomethasone", "D": "mometasone"}}
+{"question": "38 下列那一個藥物最適合用來治療變形性骨炎（Paget disease）？", "options": {"A": "zoledronic acid", "B": "denosumab", "C": "teriparatide", "D": "romosozumab"}}
+{"question": "39 下列有關doxorubicin的描述，何者錯誤？", "options": {"A": "可治療急性淋巴球性白血病", "B": "可治療肉瘤", "C": "具有劑量依賴性的心臟毒性", "D": "可抑制topoisomerase I 活性"}}
+{"question": "40 使用化學治療藥於癌症病患，有時會給與amifostine，試問amifostine有何藥理作用？", "options": {"A": "保護正常細胞組織，避免細胞損傷", "B": "增強抗癌藥穿透血腦障壁，進入中樞神經系統", "C": "減少腫瘤組織周邊血液的asparagine含量", "D": "增強病人的免疫系統功能"}}
+{"question": "41 細菌間遺傳物質移轉有不同方式，其中噬菌體（phage）是藉由下列何種方式進行？", "options": {"A": "接合作用（conjugation）", "B": "轉化作用（transformation）", "C": "導入作用（transduction）", "D": "分泌作用（secretion）"}}
+{"question": "42 有關嗜中性白血球的敘述，下列何者錯誤？", "options": {"A": "屬於後天性免疫細胞", "B": "產生氧化活性物質能殺死病菌", "C": "具有吞噬微生物的能力", "D": "可藉由特殊的死亡方式釋放網狀結構捕捉微生物"}}
+{"question": "43 下列何者為T細胞最初發育的器官？", "options": {"A": "淋巴結", "B": "脾臟", "C": "胸腺", "D": "肝臟"}}
+{"question": "44 下列何者屬於減毒之活病毒疫苗？", "options": {"A": "B型肝炎疫苗", "B": "狂犬病疫苗", "C": "破傷風疫苗", "D": "小兒麻痺沙賓疫苗"}}
+{"question": "45 有關金黃色葡萄球菌（Staphylococcus aureus）感染所造成的臨床表徵，下列何者症狀通常不是 由其分泌的毒素所導致？", "options": {"A": "猛爆性紫斑病（purpura fulminans）", "B": "葡萄球菌食物中毒（food poisoning）", "C": "心內膜炎（endocarditis）", "D": "葡萄球菌燙傷狀皮膚症候群（staphylococcal scalded skin syndrome）"}}
+{"question": "46 病人最近得到泌尿道感染，醫師利用革蘭氏染色法檢驗尿液中的細菌，染到與番紅（safranin）呈 現相同顏色的一株細菌，下列針對這株細菌的敘述，何者錯誤？", "options": {"A": "可能是大腸桿菌（E. coli）", "B": "可能會產生內孢子（endospore）", "C": "應該具有內毒素（endotoxin）", "D": "可能缺少壁脂酸（lipoteichoic acid）的結構"}}
+{"question": "47 有關花斑癬（Pityriasis versicolor）之敘述，下列何者正確？", "options": {"A": "其病原菌馬拉色氏菌（Malassezia）平常不會在健康人皮膚上", "B": "是一種嗜脂性黴菌", "C": "不會形成菌絲", "D": "為造成血液感染主要的病原真菌"}}
+{"question": "48 有關腺病毒（adenovirus）的敘述，下列何者錯誤？", "options": {"A": "腺病毒感染會造成結膜炎、呼吸道感染或腸胃炎", "B": "腺病毒的感染以大人居多，小孩感染的病例較少", "C": "腺病毒的基因體是DNA", "D": "腺病毒目前並無特定抗病毒藥物可以治療"}}
+{"question": "49 下列何種RNA病毒沒有上市的疫苗可預防其感染？", "options": {"A": "輪狀病毒", "B": "小兒麻痺病毒", "C": "麻疹病毒", "D": "C型肝炎病毒"}}
+{"question": "50 下列何種症狀最常出現於非洲錐蟲病（African trypanosomiasis）病人的急性期臨床表現？", "options": {"A": "昏迷和抽搐", "B": "高燒和昏睡", "C": "無法集中注意力和失去平衡", "D": "發熱、肌肉疼痛、關節疼痛和淋巴結腫大"}}
+{"question": "下列胞器（organelle）何者具有雙層膜的結構？", "options": {"A": "核糖體（ribosome）", "B": "高爾基氏體（Golgi apparatus）", "C": "溶小體（lysosome）", "D": "粒線體（mitochondria）"}}
+{"question": "有關皮脂腺（sebaceous gland） ，下列敘述何者正確？", "options": {"A": "屬於局部分泌腺（merocrine gland）", "B": "耵聹腺（ceruminous gland）是特化的皮脂腺", "C": "皮脂腺導管大多直接開口於毛囊（hair follicle）", "D": "皮脂腺分泌部存在於皮下組織（hypodermis）"}}
+{"question": "以形狀分類，髕骨（patella）屬於下列何種骨頭？", "options": {"A": "長骨", "B": "短骨", "C": "扁平骨", "D": "種子骨"}}
+{"question": "心包腔（pericardial cavity）是位於那兩層構造之間？", "options": {"A": "纖維性心包膜（fibrous pericardium）與漿膜性心包膜的壁層（parietal layer of serous pericardium）", "B": "纖維性心包膜（fibrous pericardium）與胸膜的壁層（parietal layer of pleura）", "C": "漿膜性心包膜的壁層（parietal layer of serous pericardium）與漿膜性心包膜的臟層（visceral layer of serous pericardium）", "D": "纖維性心包膜（fibrous pericardium）與胸壁之間"}}
+{"question": "下列何者不屬於淋巴器官（lymphoid organs） ，無法製造免疫細胞？", "options": {"A": "松果腺（pineal gland）", "B": "胸腺（thymus）", "C": "脾臟（spleen）", "D": "扁桃腺（tonsil）"}}
+{"question": "6 女性青春期時，下列那三種體內的激素，在排卵（ovulation）之前會大量上升？", "options": {"A": "濾泡刺激激素（FSH） 、黃體生成激素（LH） 、黃體素（progesterone）", "B": "濾泡刺激激素（FSH） 、黃體生成激素（LH） 、動情素（estrogen）", "C": "黃體生成激素（LH） 、黃體素（progesterone） 、動情素（estrogen）", "D": "濾泡刺激激素（FSH） 、黃體素（progesterone） 、動情素（estrogen）"}}
+{"question": "7 女性月經來潮（menstruation）時，子宮的那一層構造會剝落，造成月經出血？", "options": {"A": "子宮外膜（perimetrium）", "B": "子宮肌膜（myometrium）", "C": "子宮內膜的功能層（functional layer of endometrium）", "D": "子宮內膜的基底層（basal layer of endometrium）"}}
+{"question": "8 想要聽清楚主動脈半月瓣（aortic semilunar valve）關閉的心音，要將聽診器置放於何處最佳？", "options": {"A": "胸骨右側的第二肋間", "B": "胸骨左側的第二肋間", "C": "胸骨右側的第五肋間", "D": "胸骨左側的第五肋間"}}
+{"question": "9 下列那個器官同時接受腸繫膜上動脈與腸繫膜下動脈的血液供應？", "options": {"A": "乙狀結腸", "B": "升結腸", "C": "降結腸", "D": "橫結腸"}}
+{"question": "10 下列何者攜帶的副交感神經支配淚腺與下頷下腺？", "options": {"A": "顏面神經", "B": "舌咽神經", "C": "動眼神經", "D": "舌下神經"}}
+{"question": "11 關於史達林力（Starling forces）在腳踝扭傷時所造成的水腫時的變化，下列敘述何者正確？", "options": {"A": "組織間液蛋白的滲透壓（πIF）增加，血漿蛋白造成的滲透壓（πC）也增加", "B": "組織間液蛋白的滲透壓（πIF）降低，血漿蛋白造成的滲透壓（πC）增加", "C": "組織間液蛋白的滲透壓（πIF）增加，血漿蛋白造成的滲透壓（πC）降低", "D": "組織間液蛋白的滲透壓（πIF）降低，血漿蛋白造成的滲透壓（πC）也降低"}}
+{"question": "12 下列何者是肌肉收縮過程中、短時間（數毫秒內）提供能量的最主要來源？", "options": {"A": "肌鈣蛋白", "B": "磷酸肌酸", "C": "肌紅蛋白", "D": "葡萄糖"}}
+{"question": "13 與脂肪組織中促進脂肪分解（lipolysis）作用，下列何者最為相關？", "options": {"A": "腎上腺素 α1 受體（adrenergic α1 receptor）", "B": "腎上腺素 β1 受體（adrenergic β1 receptor）", "C": "腎上腺素 β2 受體（adrenergic β2 receptor）", "D": "腎上腺素 β3 受體（adrenergic β3 receptor）"}}
+{"question": "14 下列何種腦電波圖型，不會出現在健康成人睡眠的非快速動眼（non-rapid eye movement, NREM）時期？", "options": {"A": "α 波", "B": "β 波", "C": "θ 波", "D": "δ 波"}}
+{"question": "15 有關甲狀腺素（thyroxine, T4）和三碘甲狀腺素（T3）的比較，下列何者正確？", "options": {"A": "甲狀腺主要分泌的激素以 T4 為主", "B": "血液中運輸的甲狀腺激素以 T3 為主", "C": "T4 的半衰期較 T3 短", "D": "T4 的生物活性較 T3 高"}}
+{"question": "16 下列何種蛋白是睪丸內與睪固酮結合的蛋白質？", "options": {"A": "白蛋白（albumin）", "B": "雄性素結合蛋白（androgen-binding protein）", "C": "性激素結合球蛋白（sex hormone-binding globulin）", "D": "皮質類固醇結合球蛋白（corticosteroid-binding globulin）"}}
+{"question": "17 關於治療慢性高血壓藥物血管張力素轉換酶（angiotensin-converting enzyme）抑制劑的作用機制，下列敘 述何者正確？", "options": {"A": "減少血管張力素 II 的生成，並降低醛固酮", "B": "減少血管張力素 II 的生成，但增加醛固酮", "C": "增加血管張力素 II 的生成，並增加醛固酮", "D": "增加血管張力素 II 的生成，但降低醛固酮"}}
+{"question": "18 當腎臟分泌的氫離子與磷酸氫根結合後排出體外，血漿的淨反應為何？", "options": {"A": "碳酸氫根增加、酸鹼值上升", "B": "碳酸氫根增加、酸鹼值下降", "C": "碳酸氫根減少、酸鹼值下降", "D": "碳酸氫根減少、酸鹼值上升"}}
+{"question": "19 關於氣體擴散（diffusion）的描述，下列何者正確？", "options": {"A": "氣體壓力與氣體濃度無關", "B": "氣體分子藉隨機運動穿過呼吸膜進行擴散", "C": "氧氣擴散速率比二氧化碳快", "D": "呼吸膜厚度的增加不影響氣體擴散速率"}}
+{"question": "20 下列那種神經傳遞物質，對平滑肌細胞最可能會產生興奮性或抑制性作用？", "options": {"A": "乙醯膽鹼", "B": "多巴胺", "C": "組織胺", "D": "血清素"}}
+{"question": "21 有關發炎反應的媒介物（mediators of inflammation） ，下列何者不是花生四烯酸（arachidonic acid）的代謝物？", "options": {"A": "血栓素 A2（thromboxane A2）", "B": "前列腺素 D2（prostaglandin D2）", "C": "白三烯素 D4（leukotriene D4）", "D": "組織胺（histamine）"}}
+{"question": "22 全身性紅斑性狼瘡（systemic lupus erythematosus, SLE）所造成的血球數目低下（cytopenia）病變，主要與 下列何種過敏反應有關？", "options": {"A": "第一型過敏反應", "B": "第二型過敏反應", "C": "第三型過敏反應", "D": "第四型過敏反應"}}
+{"question": "23 關於慢性阻塞性肺病（chronic obstructive pulmonary disease） ，下列敘述何者最適當？", "options": {"A": "好發於不吸菸的病患", "B": "FEV1 會上升", "C": "FEV1 與 FVC 的比值（FEV1 to FVC ratio）會上升", "D": "包括肺氣腫（pulmonary emphysema）和慢性支氣管炎（chronic bronchitis）"}}
+{"question": "24 心肌梗塞後的病理變化，在多久時間內，不論肉眼或光學顯微鏡下，都沒有明顯變化？", "options": {"A": "12 小時後", "B": "4 小時內", "C": "1 天後", "D": "7 天後"}}
+{"question": "25 下列何者是最常見的惡性淋巴瘤（malignant lymphoma）？", "options": {"A": "伯基特氏淋巴瘤（Burkitt lymphoma）", "B": "何杰金氏淋巴瘤（Hodgkin lymphoma）", "C": "結外邊緣區淋巴瘤（extranodal marginal zone lymphoma）", "D": "瀰漫性大 B 細胞淋巴瘤（diffuse large B-cell lymphoma）"}}
+{"question": "26 家族腺瘤性瘜肉症（familial adenomatous polyposis）主要是因為那個基因產生突變所造成？", "options": {"A": "APC", "B": "WT1", "C": "MYC", "D": "BRCA1"}}
+{"question": "27 燒瓶狀潰瘍（flask-shaped ulcer）的最可能致病原因為何？", "options": {"A": "服用廣效性抗生素後造成梭狀芽胞桿菌（Clostridium）滋長", "B": "吞入感染溶組織阿米巴（Entamoeba histolytica）的食物或飲水", "C": "生食受霍亂弧菌（Vibrio cholerae）污染水域捕獲的海鮮", "D": "胃酸侵犯力增強，胃腸黏膜防禦力減弱"}}
+{"question": "28 有關乳房纖維腺瘤（fibroadenoma） ，下列敘述何者最不適當？", "options": {"A": "為一界限清楚的良性腫瘤", "B": "懷孕時腫瘤可能會變大", "C": "好發於 70 歲以上女性", "D": "與 MED12 基因突變有關"}}
+{"question": "29 庫欣症候群 （Cushing syndrome） 病患 ， 左右兩側腎上腺變大 ， 血中 ACTH 上升 ， 下列病因何者最為可能？", "options": {"A": "腎上腺皮質腺瘤（adrenocortical adenoma）", "B": "腎上腺嗜鉻細胞瘤（pheochromocytoma）", "C": "腦下垂體前葉腫瘤", "D": "長期使用類固醇"}}
+{"question": "30 下列何種疾病是因為 FGFR3 基因突變而造成侏儒症（dwarfism）？", "options": {"A": "軟骨發育不全（achondroplasia）", "B": "纖維性發育不良（fibrous dysplasia）", "C": "佝僂病（rickets）", "D": "先天性成骨不全症（osteogenesis imperfecta）"}}
+{"question": "31 下列藥物中，何者為前驅藥物 （prodrug） 需要體內酵素代謝才會產生活性，但有些人可能因其代謝酵素活 性較低，而使得該藥物之藥效減弱？", "options": {"A": "phenobarbital", "B": "clopidogrel", "C": "rifampin", "D": "celecoxib"}}
+{"question": "32 氣喘（asthma）病人服用下列何種降血壓藥物時，最易誘發氣喘發作？", "options": {"A": "amlodipine", "B": "prazosin", "C": "propranolol", "D": "clonidine"}}
+{"question": "33 嗎啡（morphine）的止痛作用主要是活化下列何種受體而產生？", "options": {"A": "μ-opioid receptor", "B": "δ-opioid receptor", "C": "κ-opioid receptor", "D": "NMDA glutamate receptor"}}
+{"question": "34 用於治療巴金森氏症之藥物中，下列何者最不容易進入腦中產生作用？", "options": {"A": "pramipexole", "B": "carbidopa", "C": "benztropine", "D": "amantadine"}}
+{"question": "35 關於秋水仙素（colchicine） ，下列敘述何者錯誤？", "options": {"A": "可治療急性痛風", "B": "可口服給予", "C": "具抗發炎作用", "D": "懷孕婦女可使用"}}
+{"question": "36 下列利尿劑（diuretics）中，何者為醛固酮受體（aldosterone receptor）拮抗劑，常用於治療心衰竭？", "options": {"A": "chlorothiazide", "B": "furosemide", "C": "eplerenone", "D": "tolvaptan"}}
+{"question": "37 下列藥物中，何者可活化中樞神經 α2 受體，進而減少交感神經活性而達到降血壓效果？", "options": {"A": "clonidine", "B": "hydralazine", "C": "propranolol", "D": "losartan"}}
+{"question": "38 關於質子幫浦抑制劑（proton pump inhibitors, PPIs） ，下列敘述何者錯誤？", "options": {"A": "會明顯減少 clopidogrel 的抗血小板活性", "B": "不能使用在 aspirin 所造成的消化性潰瘍", "C": "應該在飯前 30～60 分鐘服用", "D": "可能會減少鈣的吸收，增加骨折的風險"}}
+{"question": "39 下列何者為尿崩症（diabetes insipidus）之治療藥物？", "options": {"A": "vasopressin", "B": "somatotropin", "C": "urofollitropin", "D": "triiodothyronine"}}
+{"question": "40 下 列 何 者 為 人 源 性 單 株 抗 體 （ humanized monoclonal antibody） ， 用 於 免 疫 抑 制 誘 導 治 療 （ induction immunosuppressant therapy）？", "options": {"A": "alemtuzumab", "B": "methylprednisolone", "C": "rituximab", "D": "cyclosporine"}}
+{"question": "41 泌尿道細菌感染的病人尿液複檢，卻呈現細菌培養陰性的結果，下列原因何者最為可能？", "options": {"A": "病人正在使用抗生素", "B": "尿液收集過程中受到細菌污染", "C": "尿液檢體放置在室溫保存", "D": "尿液檢體放置超過 24 小時"}}
+{"question": "42 下列何種抗體常以雙聚體方式分泌？", "options": {"A": "IgA", "B": "IgG", "C": "IgM", "D": "IgE"}}
+{"question": "43 面對胞外細菌感染時，下列那種效應 CD4+ T 細胞對強化嗜中性球驅化反應貢獻較大？", "options": {"A": "TH1", "B": "TH2", "C": "TH17", "D": "Treg"}}
+{"question": "44 有關過敏反應，下列何者不是由抗體引起？", "options": {"A": "異位性皮膚炎", "B": "青黴素所引起的過敏反應", "C": "接觸常春藤植物葉片造成的皮膚炎", "D": "RhD 血型不同所造成的新生兒溶血"}}
+{"question": "45 關於細菌毒素與毒性作用的相關性，下列敘述何者正確？", "options": {"A": "霍亂毒素：引發腸壁細胞穿孔死亡", "B": "百日咳毒素：活化 T 細胞", "C": "白喉毒素：抑制蛋白質生成", "D": "炭疽毒素：抑制肌肉放鬆"}}
+{"question": "46 有關腸內菌造成疾病的方式，下列敘述何者最適當？", "options": {"A": "傷寒沙門氏菌（Salmonella Typhi）不會以人傳人的方式造成疾病傳播", "B": "赤痢志賀氏菌（Shigella dysenteriae）只需要上百個病原菌就可能造成感染", "C": "鼠疫亞辛氏菌（Yersinia pestis）主要透過糞口傳播的方式傳染", "D": "肺炎克雷白氏菌（Klebsiella pneumoniae）只會造成呼吸道相關疾病"}}
+{"question": "47 主要經由人類身上的體蝨叮咬而傳播的細菌為何？", "options": {"A": "回歸熱包氏螺旋體（Borrelia recurrentis）", "B": "伯納特柯克斯體（Coxiella burnetii）", "C": "恙蟲病東方體（Orientia tsutsugamushi）", "D": "鸚鵡披衣菌（Chlamydia psittaci）"}}
+{"question": "48 有關真菌分類以及其細胞結構，下列敘述何者最不適當？", "options": {"A": "真菌屬於真核生物，具有粒線體等胞器", "B": "真菌細胞膜含有固醇成份，並為部份抗真菌劑的作用標的", "C": "真菌具有細胞壁結構，其主要成份為胜肽聚糖", "D": "真菌具有細胞核"}}
+{"question": "49 以蟲媒為傳染媒介的病毒，下列何者配對錯誤？", "options": {"A": "登革病毒（Dengue virus）／斑蚊", "B": "茲卡病毒（Zika virus）／蜱", "C": "屈公病毒（Chikungunya virus）／斑蚊", "D": "克里米亞－剛果出血熱病毒（Crimean-Congo hemorrhagic fever virus）／蜱"}}
+{"question": "50 有關傳染性蛋白質（prion）的特性，下列敘述何者最適當？", "options": {"A": "疾病潛伏期約數天", "B": "多具有核酸", "C": "加熱 100℃可清除", "D": "可由污染物或食物攝入傳播"}}
+{"question": "腦下腺腫瘤影響視覺功能時，下列何處最可能受壓迫？", "options": {"A": "視丘", "B": "眼神經", "C": "視交叉", "D": "初級視覺皮質"}}
+{"question": "脊柱側面觀的外形敘述，下列何者正確？", "options": {"A": "頸段呈後凸曲線", "B": "胸段呈垂直直線", "C": "腰段呈前凸曲線", "D": "薦段呈垂直直線"}}
+{"question": "下列何者屬於顏面表情肌？", "options": {"A": "頸闊肌", "B": "頦舌肌", "C": "顳肌", "D": "咬肌"}}
+{"question": "下列那個脊髓區段負責支配上肢？", "options": {"A": "頸段第 1 至第 4 節（C1-C4）", "B": "頸段第 5 至胸段第 1 節（C5-T1）", "C": "胸段第 2 至第 6 節（T2-T6）", "D": "胸段第 7 至第 12 節（T7-T12）"}}
+{"question": "在皮膚的構造，與壓覺有關的巴齊尼小體（Pacinian corpuscle）主要分布於何處？", "options": {"A": "基底層（stratum basale）", "B": "棘狀層（stratum spinosum）", "C": "顆粒層（stratum granulosum）", "D": "網狀層（reticular layer）"}}
+{"question": "6 將導管從頸內靜脈放置到上腔靜脈，過程中導管須穿過那條血管？", "options": {"A": "鎖骨下靜脈", "B": "頭臂靜脈", "C": "腋靜脈", "D": "頸外靜脈"}}
+{"question": "7 下列何者的脈搏，易於手腕外側感觸？", "options": {"A": "尺動脈", "B": "橈動脈", "C": "腕掌動脈", "D": "腕背動脈"}}
+{"question": "8 正常情形下，卵子從卵巢排出後，通常在輸卵管的那一部分受精？", "options": {"A": "漏斗部（infundibulum）", "B": "壺腹部（ampulla）", "C": "狹窄部（isthmus）", "D": "繖部（fimbriae）"}}
+{"question": "9 負責平衡鼓膜（tympanic membrane）內外壓力的耳咽管（auditory tube） ，主要連通那兩個部位？", "options": {"A": "鼻咽（nasopharynx）與內耳（internal ear）", "B": "鼻咽（nasopharynx）與中耳（middle ear）", "C": "口咽（oropharynx）與內耳（internal ear）", "D": "口咽（oropharynx）與中耳（middle ear）"}}
+{"question": "10 總膽管是由下列何者會合而形成？", "options": {"A": "膽管與總肝管", "B": "總肝管與膽囊管", "C": "膽囊管與胰管", "D": "總肝管與胰管"}}
+{"question": "11 下列何者屬於胜肽類神經傳導物質？", "options": {"A": "一氧化氮（nitric oxide）", "B": "P 物質（substance P）", "C": "多巴胺（dopamine）", "D": "血清素（serotonin）"}}
+{"question": "12 升糖素（glucagon）會刺激下列那一器官產生肝醣分解作用（glycogenolysis）？", "options": {"A": "肝臟", "B": "肌肉", "C": "腎臟", "D": "脂肪組織"}}
+{"question": "13 下列有關呼吸窘迫症候群之敘述，何者錯誤？", "options": {"A": "蛋白質由肺微血管外滲至肺泡", "B": "吸入性肺炎也會引起", "C": "會造成缺氧", "D": "屬於心原性肺水腫"}}
+{"question": "14 骨骼肌（skeletal muscle）的收縮過程中，鈣離子是與下列何者結合？", "options": {"A": "旋轉素（troponin）", "B": "肌動蛋白（actin）", "C": "旋轉肌凝素（tropomysin）", "D": "攜鈣素（calmodulin）"}}
+{"question": "15 作夢通常發生於那一個睡眠階段？", "options": {"A": "清醒時", "B": "非快速動眼期 I 期", "C": "非快速動眼期 II 期", "D": "快速動眼期"}}
+{"question": "16 下列何種反應是阻斷毒蕈鹼類受器（muscarinic receptors）所造成？", "options": {"A": "刺激支氣管收縮", "B": "增強腸胃道活性", "C": "瞳孔收縮", "D": "心跳速率上升"}}
+{"question": "17 心肌細胞快速反應之高原期（plateau phase） ，主要是因為那種離子持續流入所造成？", "options": {"A": "鉀離子", "B": "鈉離子", "C": "鈣離子", "D": "氯離子"}}
+{"question": "18 下列有關敗血性休克的敘述，何者最不可能發生？", "options": {"A": "因腸管破裂造成腹膜炎所引起發高燒", "B": "泌尿道感染所引起", "C": "初期時病人的心輸出量會明顯降低", "D": "全身廣泛性產生小血塊"}}
+{"question": "19 下列有關心衰竭病程中的代償調節作用之敘述，何者正確？", "options": {"A": "交感神經的活性降低導致靜脈血液回流量上升", "B": "腎小管對水和鹽之再吸收減少", "C": "因心臟功能受損而增加鈉離子再吸收，使水分滲透入血液", "D": "心衰竭會因心房壓力的升高而抑制心房利鈉尿胜肽之分泌"}}
+{"question": "20 下列有關吸氣時的敘述，何者錯誤？", "options": {"A": "血液滲透壓變小", "B": "門靜脈壓變大", "C": "鈉離子貯積", "D": "淋巴管阻塞"}}
+{"question": "(A) 血液滲透壓變小", "options": {"A": "IgD", "B": "IgE", "C": "IgG", "D": "IgA"}}
+{"question": "(A)  IgD", "options": {"A": "肝母細胞癌（hepatoblastoma）", "B": "肝細胞癌（hepatocellular carcinoma）", "C": "原發性膽道性硬化（primary biliary cirrhosis）", "D": "膽道閉鎖（biliary atresia）"}}
+{"question": "(A) 肝母細胞癌（hepatoblastoma）", "options": {"A": "增生（hyperplasia）", "B": "肥大（hypertrophy）", "C": "萎縮（atrophy）", "D": "化生（metaplasia）"}}
+{"question": "(A) 類風濕性關節炎（rheumatoid arthritis）", "options": {"A": "骨髓造血細胞", "B": "生殖細胞", "C": "腸壁上皮細胞", "D": "骨骼肌細胞"}}
+{"question": "(B) 肥大（hypertrophy）", "options": {"A": "鼻咽癌", "B": "鼻息肉", "C": "黴菌感染", "D": "鼻中膈彎曲"}}
+{"question": "(B) 生殖細胞", "options": {"A": "川崎氏病（Kawasaki disease）", "B": "心肌梗塞（myocardial infarction）", "C": "高血壓心臟病變（hypertensive cardiomyopathy）", "D": "細菌性心內膜炎（bacteria endocarditis）"}}
+{"question": "(B) 鼻息肉", "options": {"A": "病人常會有月經異常，慢性不排卵及不孕", "B": "主要病因為雌性激素過多", "C": "病理下，病人卵巢中有許多囊泡", "D": "病人肥胖及糖尿病的風險增高"}}
+{"question": "(B) 心肌梗塞（myocardial infarction）", "options": {"A": "巨人症（Gigantism）", "B": "肢端肥大症（Acromegaly）", "C": "高泌乳素血症（Hyperprolactinemia）", "D": "不當 ADH 分泌症候群（Syndrome of Inappropriate ADH Secretion, SIADH）"}}
+{"question": "(B) 主要病因為雌性激素過多", "options": {"A": "Mivacurium", "B": "Pancuronium", "C": "Tubocurarine", "D": "Succinylcholine"}}
+{"question": "(B) 肢端肥大症（Acromegaly）", "options": {"A": "Amobarbital", "B": "Pentobarbital", "C": "Phenobarbital", "D": "Secobarbital"}}
+{"question": "(B)  Pancuronium", "options": {"A": "屬於 penicillin 類抗生素", "B": "干擾細菌葉酸生合成", "C": "干擾細菌細胞壁生合成", "D": "干擾細菌蛋白質生合成"}}
+{"question": "(B)  Pentobarbital", "options": {"A": "使用丙藥最安全", "B": "甲藥能結合的受體最少", "C": "丙藥與受體的親和力最高", "D": "乙藥的藥理作用強度比甲藥小"}}
+{"question": "(B) 干擾細菌葉酸生合成", "options": {"A": "磷酸雙酯酶（phosphodiesterase）", "B": "磷脂質脂解酶（phospholipase）", "C": "鹼性磷酸酶（alkaline phosphatase）", "D": "酪氨酸激酶（tyrosine kinase）"}}
+{"question": "(B) 甲藥能結合的受體最少", "options": {"A": "Alpha 腎上腺素受體拮抗劑", "B": "鈣離子通道阻斷劑", "C": "鈉離子通道阻斷劑", "D": "Beta 腎上腺素受體拮抗劑"}}
+{"question": "(B) 磷脂質脂解酶（phospholipase）", "options": {"A": "Atorvastatin（Lipitor）", "B": "Cholestyramine（Questran）", "C": "Colestipol（Colestid）", "D": "Nicotinic acid（Niacin）"}}
+{"question": "(B) 鈣離子通道阻斷劑", "options": {"A": "Bismuth subsalicylate", "B": "Methylcellulose", "C": "Bisacodyl", "D": "Castor oil"}}
+{"question": "(B)  Cholestyramine（Questran）", "options": {"A": "可刺激女性乳房產生乳汁", "B": "屬於腦下垂體後葉分泌的激素", "C": "可抑制排卵或月經週期，減低生殖功能", "D": "其分泌受到多巴胺（dopamine）的調控"}}
+{"question": "(B)  Methylcellulose", "options": {"A": "古柯鹼", "B": "安非他命", "C": "麥角酸二乙胺（LSD）", "D": "大麻"}}
+{"question": "(B) 屬於腦下垂體後葉分泌的激素", "options": {"A": "可活化補體", "B": "可抑制宿主的發炎反應", "C": "可引起高燒", "D": "由死細菌分解而釋放出來"}}
+{"question": "(B) 安非他命", "options": {"A": "C1", "B": "C3", "C": "C5a", "D": "C5b-9"}}
+{"question": "(B) 可抑制宿主的發炎反應", "options": {"A": "B 型肝炎疫苗", "B": "百日咳疫苗", "C": "沙克疫苗", "D": "麻疹疫苗"}}
+{"question": "(B)  C3", "options": {"A": "腦膜炎雙球菌（Neisseria meningitidis）", "B": "肺炎雙球菌（Streptococcus pneumoniae）", "C": "炭疽桿菌（Bacillus anthracis）", "D": "臘腸毒桿菌（Clostridium botulinum）"}}
+{"question": "(B) 百日咳疫苗", "options": {"A": "巨噬細胞", "B": "上皮細胞", "C": "基底細胞", "D": "自然殺手細胞"}}
+{"question": "(B) 肺炎雙球菌（Streptococcus pneumoniae）", "options": {"A": "下疳（chancre）", "B": "心血管性梅毒", "C": "梅毒腫", "D": "全身性黏膜皮膚性紅疹"}}
+{"question": "(B) 上皮細胞", "options": {"A": "人類乳突瘤病毒", "B": "B 型肝炎病毒", "C": "腺病毒", "D": "EB 病毒"}}
+{"question": "(B) 心血管性梅毒", "options": {"A": "沙克（Salk）疫苗是注射，沙賓（Sabin）疫苗是口服", "B": "沙克（Salk）疫苗是口服，沙賓（Sabin）疫苗是注射", "C": "沙克（Salk）是減毒活性疫苗，沙賓（Sabin）是去活化疫苗", "D": "沙克（Salk）疫苗與沙賓（Sabin）疫苗均為口服"}}
+{"question": "(B)  B 型肝炎病毒", "options": {"A": "潛伏期短，感染數週即可發病", "B": "其感染無季節性差別", "C": "可藉由侵入性醫療裝置傳染", "D": "目前無藥可用"}}
+{"question": "(B) 沙克（Salk）疫苗是口服，沙賓（Sabin）疫苗是注射", "options": {"A": "IgM", "B": "IgG", "C": "IgA", "D": "IgE"}}
+{"question": "下列何者收縮可伸展肘關節（elbow joint）？", "options": {"A": "肱橈肌（brachioradialis）", "B": "喙肱肌（coracobrachialis）", "C": "肱二頭肌（biceps brachii）", "D": "肱三頭肌（triceps brachii）"}}
+{"question": "下列那一種胞器負責分類、包裝並運送蛋白質與脂質？", "options": {"A": "粒線體（mitochondria）", "B": "過氧化氫酶體（peroxisome）", "C": "溶小體（lysosome）", "D": "高爾基體（Golgi complex）"}}
+{"question": "三塊聽小骨（auditory ossicle）位在那一塊骨頭之中？", "options": {"A": "顳骨（temporal bone）", "B": "篩骨（ethmoid bone）", "C": "蝶骨（sphenoid bone）", "D": "上頷骨（maxilla）"}}
+{"question": "喉結（laryngeal prominence）主要是由喉部（larynx）的那一塊軟骨構成？", "options": {"A": "會厭軟骨（epiglottis）", "B": "甲狀軟骨（thyroid cartilage）", "C": "杓狀軟骨（arytenoid cartilage）", "D": "環狀軟骨（cricoid cartilage）"}}
+{"question": "下列血管何者與下腔靜脈（inferior vena cava）直接相連？", "options": {"A": "肝靜脈（hepatic vein）", "B": "脾靜脈（splenic vein）", "C": "腸繫膜上靜脈（superior mesenteric vein）", "D": "腸繫膜下靜脈（inferior mesenteric vein）"}}
+{"question": "6 支持子宮的韌帶中，下列何者會經過鼠蹊管（inguinal canal）連結到大陰唇（labia majora）？", "options": {"A": "子宮闊韌帶（broad ligament）", "B": "子宮主韌帶（cardinal ligament）", "C": "子宮圓韌帶（round ligament）", "D": "子宮薦韌帶（uterosacral ligament）"}}
+{"question": "7 下列何者不會通過肝門（porta hepatis）？", "options": {"A": "肝動脈（hepatic artery）", "B": "肝門靜脈（hepatic portal vein）", "C": "肝管（hepatic duct）", "D": "下腔靜脈（inferior vena cava）"}}
+{"question": "8 胃壁之肌肉層依其走向由內而外之排列為何？", "options": {"A": "內環，外縱", "B": "內縱，外環", "C": "內斜，中環，外縱", "D": "內縱，中環，外斜"}}
+{"question": "9 下列何者連接第三腦室與第四腦室？", "options": {"A": "室間孔（interventricular foramen）", "B": "正中孔（median aperture）", "C": "大腦導水管（cerebral aqueduct）", "D": "中央管（central canal）"}}
+{"question": "10 支配橫膈（diaphragm）的神經主要源自：", "options": {"A": "頸神經叢（cervical plexus）", "B": "臂神經叢（brachial plexus）", "C": "腰神經叢（lumbar plexus）", "D": "薦神經叢（sacral plexus）"}}
+{"question": "11 細胞膜外側表面的盞醣（glycocalyx）最主要的功能為何？", "options": {"A": "穩定細胞核構造", "B": "進行細胞間的辨識與環境互動", "C": "構成細胞的間隙接合（gap junction）", "D": "構成細胞的緊密接合（tight junction）"}}
+{"question": "12 有關激素（hormone）的敘述，下列何者正確？", "options": {"A": "由外分泌腺分泌", "B": "主要由淋巴循環系統運送至標的細胞", "C": "藉由專一性接受器調節標的細胞功能", "D": "大部分以正回饋的方式調節濃度變化"}}
+{"question": "13 下列腦區何者未參與調節意識（consciousness）的清醒或睡眠狀態？", "options": {"A": "視丘（thalamus）", "B": "皮質（cortex）", "C": "枕葉（occipital lobe）", "D": "腦幹（brain stem）"}}
+{"question": "14 下列何者與行為動機（motivation）和獎賞（reward）路徑最為相關？", "options": {"A": "histamine", "B": "acetylcholine", "C": "dopamine", "D": "glutamate"}}
+{"question": "15 下列何者為副交感（parasympathetic）神經興奮所引起之反應？", "options": {"A": "支氣管舒張（bronchial dilation）", "B": "引起腎上腺釋放正腎上腺素（norepinephrine）", "C": "瞳孔收縮（pupil constriction）", "D": "肝醣（glycogen）轉換成葡萄糖的速率增加"}}
+{"question": "16 下列何種變化最有利於增加骨質密度？", "options": {"A": "皮質醇（cortisol）濃度上升", "B": "雌激素（estrogen）濃度下降", "C": "降鈣素（calcitonin）濃度下降", "D": "雙羥維生素 D〔1,25-(OH)2D〕濃度上升"}}
+{"question": "17 人類胚胎時期性激素（sex hormone）的分泌量與青春期前（prepuberty）相比，下列敘述何者正確？", "options": {"A": "胚胎時期較高", "B": "青春期前較高", "C": "兩者相等", "D": "個體間無一致性"}}
+{"question": "18 當物質經腎臟排出至尿液的量大於其腎絲球過濾率（glomerular filtration rate）時，則表示該物質在腎臟中 經過下列何種處理？", "options": {"A": "被腎小管代謝分解", "B": "被腎小管再吸收", "C": "被腎小管分泌", "D": "被腎小管過濾"}}
+{"question": "19 下列何者屬於腸道神經系統（enteric nervous system）？", "options": {"A": "腹腔叢（celiac plexus）", "B": "黏膜下神經叢（submucosa plexus）", "C": "薦神經叢（sacral plexus）", "D": "腹下神經叢（hypogastric plexus）"}}
+{"question": "20 下列何者為微粒（micelle）在消化系統中的主要功能？", "options": {"A": "收集和運輸水溶性維生素", "B": "分解蛋白質成胺基酸", "C": "促進脂肪消化和吸收", "D": "產生胃酸以幫助消化"}}
+{"question": "21 下列何者，最容易出現細胞中脂褐質（lipofuscin）的沉積？", "options": {"A": "萎縮的心肌細胞", "B": "增生的脂肪細胞", "C": "肥大的肌肉細胞", "D": "動脈粥狀硬化斑塊中的泡沫細胞"}}
+{"question": "22 下列何者不是下肢深部靜脈血栓（deep venous thrombosis）常引起的臨床表現？", "options": {"A": "患側下肢遠端水腫", "B": "患側遠端疼痛", "C": "肺栓塞", "D": "肝臟栓塞"}}
+{"question": "23 下列那一種疾病最常發生非化膿性增殖性滑液膜炎（proliferative synovitis）？", "options": {"A": "類風濕性關節炎（rheumatoid arthritis）", "B": "骨關節炎（osteoarthritis）", "C": "脫臼（dislocation）", "D": "骨質疏鬆（osteoporosis）"}}
+{"question": "24 有關唐氏症（Down syndrome）的敘述，下列何者錯誤？", "options": {"A": "可用 FISH（fluorescence in situ hybridization）輔助診斷", "B": "是最常見的體染色體疾病", "C": "發生率和父親年齡有關，而和母親年齡關係較小", "D": "第 21 對染色體數目多了 1 條"}}
+{"question": "25 最常引起心肌炎（myocarditis）的原因為何？", "options": {"A": "病毒（virus）", "B": "黴菌（fungus）", "C": "披衣菌（Chlamydiae）", "D": "立克次體（Richettsiae）"}}
+{"question": "26 下列何者不是動脈粥狀硬化（arteriosclerosis）的高危險因子？", "options": {"A": "高血脂", "B": "高血壓", "C": "抽菸", "D": "嚼檳榔"}}
+{"question": "27 鼻咽癌那一種組織形態對放射線治療敏感性最好、效果最佳？", "options": {"A": "角化鱗狀細胞癌（keratinizing squamous cell carcinoma）", "B": "非角化性癌（non-keratinizing carcinoma）", "C": "未分化性癌（undifferentiated carcinoma）", "D": "腺癌（adenocarcinoma）"}}
+{"question": "28 下列何者是兒童最常見的白血病？", "options": {"A": "慢性骨髓性白血病（chronic myeloid leukemia, CML）", "B": "慢性淋巴細胞性白血病（chronic lymphocytic leukemia, CLL）", "C": "急性骨髓性白血病（acute myeloid leukemia, AML）", "D": "急性淋巴母細胞性白血病（acute lymphoblastic leukemia, ALL）"}}
+{"question": "29 下列何者是最常見的口腔癌？", "options": {"A": "基底細胞癌（basal cell carcinoma）", "C": "侵襲性導管癌（invasive ductal carcinoma）", "B": "鱗狀細胞癌（squamous cell carcinoma）", "D": "唾液腺導管癌（salivary duct carcinoma）"}}
+{"question": "30 有關肝硬化（liver cirrhosis） ，下列敘述何者錯誤？", "options": {"A": "非酒精性脂肪肝病（non-alcoholic fatty liver disease）可能導致肝硬化", "B": "病人可能發生食道靜脈曲張（esophageal varices）", "C": "會增加發生肝細胞癌（hepatocellular carcinoma）的機率", "D": "通常會造成門靜脈壓力過低（portal hypotension）"}}
+{"question": "31 下列何種藥物不適合用來治療青光眼？", "options": {"A": "Cyclopentolate", "B": "Physostigmine", "C": "Carbachol", "D": "Timolol"}}
+{"question": "32 治療慢性阻塞性肺病（chronic obstructive pulmonary disease）的藥物中，下列何者具有抗發炎的作用？", "options": {"A": "Salmeterol", "B": "Ipratropium", "C": "Corticosteroids", "D": "Terbutaline"}}
+{"question": "33 下列何種藥物最適合給與初診斷為第二型糖尿病且尚無併發症之病人？", "options": {"A": "Alogliptin", "B": "Empagliflozin", "C": "Insulin glulisine", "D": "Metformin"}}
+{"question": "34 下列有關 Propranolol 特性和作用之敘述，何者錯誤？", "options": {"A": "可通過血腦障壁（blood-brain barrier）", "B": "治療急性甲狀腺功能亢進（acute hyperthyroidism）", "C": "可引起血糖上升", "D": "抑制腎素（renin）分泌"}}
+{"question": "35 非類固醇抗發炎藥物（NSAIDs）可以抑制下列何種酵素之活性，減少前列腺素生成，而產生解熱、鎮痛， 以及抗發炎效果？", "options": {"A": "cyclooxygenase", "C": "HMG CoA reductase", "B": "angiotensin converting enzyme", "D": "xanthine oxidase"}}
+{"question": "36 下列藥物中，何者可以拮抗第一型 angiotensin II （AT1） 受體，使小動脈及靜脈舒張，達到降血壓的效果？", "options": {"A": "Captopril", "B": "Felodipine", "C": "Aliskiren", "D": "Irbesartan"}}
+{"question": "37 下列抗心律不整藥物中，何者為人體內生性物質，經靜脈方式給與高劑量時，可以有效治療心室上心搏過 速（supraventricular tachycardias）？", "options": {"A": "dronedarone", "B": "adenosine", "C": "sotalol", "D": "lidocaine"}}
+{"question": "38 使用口服 Levothyroxine 治療甲狀腺功能低下（hypothyroidism）時，併用下列何種口服藥物最會降低 Levothyroxine 吸收？", "options": {"A": "Vitamin D", "B": "Aluminum hydroxide", "C": "Phenobarbital", "D": "Pravastatin"}}
+{"question": "39 下列化療藥物中，何者主要使用於腦瘤治療？", "options": {"A": "Ifosfamide", "B": "Cisplatin", "C": "Carmustine", "D": "Dacarbazine"}}
+{"question": "40 長期使用免疫抑制劑 Cyclosporine 治療自體免疫疾病，可能引發下列何種副作用？", "options": {"A": "骨髓損害", "B": "腎毒性與高血壓", "C": "白內障", "D": "偏頭痛"}}
+{"question": "41 下列那一種細胞是人類血液中數量最多的吞噬細胞？", "options": {"A": "嗜鹼性球（Basophils）", "B": "嗜中性球（Neutrophils）", "C": "巨噬細胞（Macrophages）", "D": "自然殺手細胞（Natural killer cells）"}}
+{"question": "42 從胸腺發育而來，未曾受抗原刺激的 T 細胞，主要由下列何種細胞啟動第一步的活化？", "options": {"A": "B 細胞", "B": "巨噬細胞", "C": "嗜中性白血球細胞", "D": "樹突細胞"}}
+{"question": "43 下列何種過敏反應主要是由 IgE 抗體所引起？", "options": {"A": "第一型過敏反應", "B": "第二型過敏反應", "C": "第三型過敏反應", "D": "第四型過敏反應"}}
+{"question": "44 下列何者並非葡萄球菌腸毒素引起的食物中毒之特徵？", "options": {"A": "嘔吐", "B": "潛伏期長（通常在 24 小時後發生）", "C": "噁心", "D": "腹瀉"}}
+{"question": "45 造成軟性下疳（chancroid）的病原菌為何？", "options": {"A": "尿素放線菌（Actinobacillus ureae）", "B": "流行性嗜血桿菌（Haemophilus influenzae）", "C": "杜克氏嗜血桿菌（Haemophilus ducreyi）", "D": "泡沫狀嗜血桿菌（Haemophilus aphrophilus）"}}
+{"question": "46 下列何種黴菌較常存在於鴿糞中，且會造成腦膜炎？", "options": {"A": "白色念珠菌（Candida albicans）", "B": "申克氏孢子絲菌（Sporothrix schenckii）", "C": "黃色麴菌（Aspergillus flavus）", "D": "新型隱球菌（Cryptococcus neoformans）"}}
+{"question": "47 下列那一型乳突病毒（HPV）和子宮頸癌的形成最有關係？", "options": {"A": "13 型乳突病毒", "B": "14 型乳突病毒", "C": "15 型乳突病毒", "D": "16 型乳突病毒"}}
+{"question": "48 有關病毒造成的無症狀感染，下列敘述何者正確？", "options": {"A": "不同病毒感染，發生無症狀感染的機率相同", "B": "慢性病毒感染均為無症狀的感染", "C": "雖然感染後無症狀，但病毒還是有被散布的可能", "D": "感染初期若無症狀，感染後期症狀也會較輕微"}}
+{"question": "49 恐水症（hydrophobia）症狀的病人，是感染下列何種病毒的特殊病徵？", "options": {"A": "人類免疫不全病毒（Human immunodeficiency virus）", "B": "人類嗜 T 淋巴球細胞病毒（Human T-cell lymphotropic virus）", "C": "人類巨細胞病毒（Human cytomegarovirus）", "D": "狂犬病毒（Rabies virus）"}}
+{"question": "50 下列何種疾病最常藉由埃及斑蚊（Aedes aegypti）傳播？", "options": {"A": "瘧疾（Malaria）", "B": "登革熱（Dengue fever）", "C": "利什曼病（Leishmaniasis）", "D": "西尼羅熱（West Nile Fever）"}}
+{"batch": 112, "year": 2, "num": 2, "type": 0, "num_question": 80, "subject_code": "510", "subject_name": "2_510", "topic": "", "subtopic": "", "tags": [], "question": "需要進步，應要有病人參與臨床試驗\n(C) 醫師行為違反醫療倫理，因為並未清楚告知參與新藥之可能風險\n(D) 醫師行為違反醫療倫理，因為臨床醫師不能進行人體臨床試驗計畫", "correct_option": "G", "correct_answer": "G", "explanation": "", "sub1": "", "sub2": "", "sub3": "", "sub4": "", "sub5": "", "sub6": "", "sub7": "", "sub8": "", "sub9": "", "sub10": "", "sub11": "", "sub12": "", "sub13": "", "sub14": "", "sub15": "", "sub16": ""}
+{"batch": 114, "year": 1, "num": 2, "type": 0, "num_question": 50, "subject_code": "510", "subject_name": "1_510", "topic": "", "subtopic": "", "tags": [], "question": "l Jones）", "correct_option": "J", "correct_answer": "J", "explanation": "", "sub1": "", "sub2": "", "sub3": "", "sub4": "", "sub5": "", "sub6": "", "sub7": "", "sub8": "", "sub9": "", "sub10": "", "sub11": "", "sub12": "", "sub13": "", "sub14": "", "sub15": "", "sub16": ""}
+{"batch": 113, "year": 1, "num": 2, "type": 0, "num_question": 50, "subject_code": "510", "subject_name": "1_510", "topic": "", "subtopic": "", "tags": [], "question": "路徑有關\n(D) 泌乳素上升的副作用主要與黑質—紋狀體多巴胺路徑有關", "correct_option": "H", "correct_answer": "H", "explanation": "", "sub1": "", "sub2": "", "sub3": "", "sub4": "", "sub5": "", "sub6": "", "sub7": "", "sub8": "", "sub9": "", "sub10": "", "sub11": "", "sub12": "", "sub13": "", "sub14": "", "sub15": "", "sub16": ""}
+{"batch": 112, "year": 1, "num": 3, "type": 0, "num_question": 80, "subject_code": "510", "subject_name": "1_510", "topic": "", "subtopic": "", "tags": [], "question": "憲法所保障的人身自由權利 ， 對於嚴重精神病人可進行強制鑑定 ， 若病人無法接受或拒絕住院 治療，不能強制病人住院", "correct_option": "A", "correct_answer": "A", "explanation": "", "sub1": "", "sub2": "", "sub3": "", "sub4": "", "sub5": "", "sub6": "", "sub7": "", "sub8": "", "sub9": "", "sub10": "", "sub11": "", "sub12": "", "sub13": "", "sub14": "", "sub15": "", "sub16": ""}
+{"question": "細胞膜的成分，下列何者錯誤？", "options": {"A": "碳水化合物", "B": "蛋白質", "C": "磷脂質", "D": "核酸"}}
+{"question": "小腿脛骨（tibia）的外形，屬於下列何種骨骼？", "options": {"A": "長骨", "B": "短骨", "C": "扁平骨", "D": "種子骨"}}
+{"question": "下列何者藉由跟腱（Achilles tendon）附著於跟骨？", "options": {"A": "脛前肌", "B": "脛後肌", "C": "腓長肌", "D": "腓腸肌"}}
+{"question": "下列何者同時供應小腸與大腸？", "options": {"A": "肝總動脈", "B": "左胃動脈", "C": "上腸繫膜動脈", "D": "下腸繫膜動脈"}}
+{"question": "下列何者不通過肺門？", "options": {"A": "胸管", "B": "肺動脈", "C": "肺靜脈", "D": "主支氣管"}}
+{"question": "6 有關消化道肌肉層的敘述，下列何者正確？", "options": {"A": "除口腔、咽部外，所有消化道的肌肉層皆由平滑肌構成", "B": "除口腔、咽部外，所有消化道的肌肉層皆分為內層環向、外層縱向", "C": "咽部主要由骨骼肌所構成", "D": "口腔的硬腭是骨骼肌構成，而軟腭是平滑肌所構成"}}
+{"question": "7 脊髓的齒狀韌帶由下列何者衍生構成？", "options": {"A": "軟脊膜", "B": "蛛網膜", "C": "硬脊膜", "D": "絨毛膜"}}
+{"question": "8 腦下垂體細胞 HE 染色的特性與其功能的敘述，下列何者錯誤？", "options": {"A": "嗜酸性細胞分泌促腎上腺皮質素（adrenocorticortropic hormone）", "B": "無顆粒難染細胞（chromophobes）分泌促腎上腺皮質素（adrenocorticortropic hormone）", "C": "嗜鹼性細胞分泌促甲狀腺素（thyroid-stimulating hormone）", "D": "嗜鹼性細胞分泌濾泡刺激素（follicle-stimulating hormone）"}}
+{"question": "9 下列何者不是皮膚表皮（epidermis）的細胞層？", "options": {"A": "基底層（stratum basale）", "B": "棘狀層（stratum spinosum）", "C": "顆粒層（stratum granulosum）", "D": "網狀層（reticular layer）"}}
+{"question": "10 心尖的位置約在左鎖骨中線與第幾肋間的交會處？", "options": {"A": "第 3 肋間", "B": "第 5 肋間", "C": "第 7 肋間", "D": "第 9 肋間"}}
+{"question": "11 血球的生命週期，下列何者最長？", "options": {"A": "紅血球", "B": "血小板", "C": "嗜中性球", "D": "嗜鹼性球"}}
+{"question": "12 睪丸主要負責產生精子，是下列那一構造？", "options": {"A": "睪丸網（rete testis）", "B": "直管（straight tubule）", "C": "輸出小管（efferent ductule）", "D": "曲細精管（seminiferous tubule）"}}
+{"question": "13 腎小體（renal corpuscle）的過濾膜（filtration membrane） ，不含下列那一構造？", "options": {"A": "腎絲球血管的內皮（glomerular endothelium）", "B": "腎絲球的基底膜（basal membrance of glomerulus）", "C": "鮑氏囊的壁層（parietal layer of Bowman’s capsule）", "D": "鮑氏囊的臟層（visceral layer of Bowman’s capsule）"}}
+{"question": "14 消化道的奧氏神經叢（Auerbach’s plexus） ，主要位於下列何處？", "options": {"A": "黏膜層", "B": "黏膜下層", "C": "肌肉層", "D": "漿膜層"}}
+{"question": "15 橫結腸不具下列何種構造？", "options": {"A": "腸脂垂", "B": "縱走之肌肉帶", "C": "結腸袋", "D": "小網膜"}}
+{"question": "16 股神經（femoral nerve）受損，最可能發生下列何種情形？", "options": {"A": "大腿內收功能不全", "B": "膝反射消失", "C": "男性陰莖皮膚感覺消失", "D": "足無法外翻"}}
+{"question": "17 有關骨骼肌與心肌收縮的比較，下列敘述何者正確？", "options": {"A": "兩者都是透過橫小管來傳導動作電位", "B": "兩者的收縮速度都很慢", "C": "骨骼肌與心肌一樣，肌纖維長度越長，收縮時產生的張力就越大", "D": "單一骨骼肌纖維與心肌纖維一樣，都是刺激頻率越高，產生的張力就越大"}}
+{"question": "18 基底核（basal nuclei）功能受損或退化的症狀，下列何者最有關？", "options": {"A": "阿茲海默症", "B": "帕金森氏症", "C": "失語症", "D": "嗅覺喪失"}}
+{"question": "19 有關促進睪固酮分泌之敘述，下列何者正確？", "options": {"A": "濾泡刺激素（FSH）直接作用於萊氏細胞（Leydig cell）", "B": "黃體刺激素（LH）直接作用於賽氏細胞（Sertoli cell）", "C": "促性腺素釋放激素（GnRH）間接作用於萊氏細胞（Leydig cell）", "D": "抑制素（inhibin）間接作用於賽氏細胞（Sertoli cell）"}}
+{"question": "20 當血壓升高時，頸動脈竇內的壓力接受器因應壓力變化而引發之神經衝動，會傳至何處來調節血壓的平衡？", "options": {"A": "大腦", "B": "中腦", "C": "橋腦", "D": "延腦"}}
+{"question": "21 有關細胞膜的主要生理功能，下列何者錯誤？", "options": {"A": "媒介細胞物質運輸", "B": "進行訊息傳遞", "C": "產生細胞骨架", "D": "細胞辨識與細胞黏附"}}
+{"question": "22 下列何種細胞受損對血腦障壁（blood-brain barrier）的功能影響最大？", "options": {"A": "微膠細胞（microglia）", "B": "寡突細胞（oligodendrocytes）", "C": "星狀細胞（astrocytes）", "D": "室管膜細胞（ependymal cells）"}}
+{"question": "23 褪黑激素（melatonin）主要由腦部那一區域的腺體所分泌？", "options": {"A": "下視丘（hypothalamus）", "B": "上視丘（epithalamus）", "C": "視丘（thalamus）", "D": "前額葉皮質（prefrontal cortex）"}}
+{"question": "24 下列何種激素最可能造成血管平滑肌的收縮？", "options": {"A": "醛固酮（aldosterone）", "B": "副甲狀腺素（PTH）", "C": "抗利尿激素（ADH）", "D": "多巴胺（dopamine）"}}
+{"question": "25 甲狀腺激素（thyroid hormone）合成的第一個步驟，下列過程何者正確？", "options": {"A": "酪胺酸（tyrosine）的碘化", "B": "甲狀腺素（T4）轉變為三碘甲狀腺素（T3）", "C": "雙碘酪胺酸（DIT）與單碘酪胺酸（MIT）結合", "D": "碘離子（I-）轉換為碘分子（I2）"}}
+{"question": "26 有關排卵過程的敘述，下列何者正確？", "options": {"A": "單一高劑量雌激素（estrogen）即可促進排卵", "B": "濾泡刺激素（FSH）使顆粒細胞黃體化", "C": "前列腺素（prostaglandin）減少濾泡液", "D": "顆粒細胞分泌酵素促進濾泡膜分解"}}
+{"question": "27 有關體內維持酸鹼平衡的敘述，下列何者錯誤？", "options": {"A": "腎臟近曲小管可藉由次級主動運輸分泌氫離子", "B": "重碳酸根離子與氫離子結合後分解成二氧化碳和水", "C": "醛固酮過量分泌會造成腎小管性酸中毒", "D": "降低血管收縮素Ⅱ分泌會降低氫離子分泌"}}
+{"question": "28 健康檢查中檢測腎功能的常用指標，下列何者正確？", "options": {"A": "肌肝酸", "B": "菊糖", "C": "葡萄糖", "D": "脂肪酸"}}
+{"question": "29 有關表面作用劑（surfactant）敘述，下列何者錯誤？", "options": {"A": "增加肺順應性（lung compliance）", "B": "穩定大肺泡，預防萎縮", "C": "減少小肺泡的表面張力（surface tension）", "D": "深呼吸可增加表面作用劑分泌"}}
+{"question": "30 造成氧合解離曲線（oxygen-hemoglobin dissociation curve）向左偏移，下列何者正確？", "options": {"A": "增加 2, 3-雙磷甘油（2, 3-diphosphoglycerate）", "B": "增加體溫", "C": "增加代謝", "D": "升高 pH 值"}}
+{"question": "31 有關腸道中脂解酶（lipase）的敘述，下列何者正確？", "options": {"A": "主要由肝臟製造分泌", "B": "協助乳化脂肪", "C": "使乳糜微粒（chylomicron）分解成單酸甘油酯（monoglyceride）和游離脂肪酸（free fatty acid）", "D": "將三酸甘油酯（triglyceride）分解為單酸甘油酯和游離脂肪酸"}}
+{"question": "32 下列那個物質不會出現在乳糜微粒（chylomicron）中？", "options": {"A": "特低密度脂蛋白（very-low-density lipoprotein）", "B": "維生素 D（vitamin D）", "C": "磷脂質（phospholipid）", "D": "膽固醇（cholesterol）"}}
+{"question": "33 血清素（serotonin）是屬於那一類之炎症化學介質？", "options": {"A": "血管活性胺（vasoactive amine）", "B": "激肽系統（kinin system）", "C": "補體系統（complement system）", "D": "凝血系統（clotting system）"}}
+{"question": "34 臨床上引起肺栓塞（pulmonary embolism）栓子（embolus）最常見的來源，下列何者正確？", "options": {"A": "上腔靜脈", "B": "下腔靜脈", "C": "大隱靜脈", "D": "下肢深部靜脈"}}
+{"question": "35 嗜伊紅性白血球增多（eosinophilic leukocytosis）之常見原因，下列何者錯誤？", "options": {"A": "天皰瘡（pemphigus）", "B": "氣喘", "C": "Epstein-Barr virus感染", "D": "寄生蟲感染"}}
+{"question": "36 下列何者與 Epstein-Barr virus 之感染最有關？", "options": {"A": "子宮頸癌（cervical carcinoma ）", "C": "肝癌（hepatocellular carcinoma ）", "B": "鼻咽癌（nasopharyngeal carcinoma ）", "D": "卡波西肉瘤（Kaposi sarcoma ）"}}
+{"question": "37 有關細菌內毒素之敘述，下列何者錯誤？", "options": {"A": "是革蘭氏陽性細菌細胞壁的一種成分", "B": "細菌死亡後釋出", "C": "可引起發燒", "D": "可引起急性呼吸窘迫症候群"}}
+{"question": "38 下列何種病灶的顯微變化與微血管性血管瘤相似，有大量的微血管增生？", "options": {"A": "化膿性肉芽腫（pyogenic granuloma）", "B": "囊性水瘤（cystic hygroma）", "C": "血管球瘤（glomus tumor）", "D": "蜘蛛網血管擴張症（spider telangiectasia）"}}
+{"question": "39 胎兒紅血球母細胞症（erythroblastosis fetalis）的主要病因為何？", "options": {"A": "母親的血紅素球蛋白 β 鏈異常", "B": "母親與胎兒血型不合", "C": "母親的紅血球細胞膜異常", "D": "母親葉酸缺乏"}}
+{"question": "40 梅克爾氏憩室（Meckel diverticulum）最常見的異位組織，下列何者正確？", "options": {"A": "肝組織", "B": "胃黏膜", "C": "脾組織", "D": "唾液腺"}}
+{"question": "41 鏈球菌感染後腎絲球腎炎（post-streptococcal glomerulonephritis）之主要臨床表現，下列何者錯誤？", "options": {"A": "血尿（hematuria）", "B": "氮血症（azotemia）", "C": "高血壓", "D": "大量蛋白尿"}}
+{"question": "42 25 歲女性，因下腹部不適就醫，經醫師檢查後確定為良性卵巢腫瘤。下列何者的可能性最高？", "options": {"A": "卵黃囊腫瘤（yolk sac tumor）", "B": "成熟畸胎瘤（mature teratoma）", "C": "顆粒細胞腫瘤（granulosa cell tumor）", "D": "克魯肯氏腫瘤（Krukenberg tumor）"}}
+{"question": "43 5 歲小男孩 ， 出現腦壓增加 、 步履不穩的症狀 ， 腦部電腦斷層掃描發現小腦中間有一生長迅速的腫瘤 ， 下列何者是最可能的診斷？", "options": {"A": "髓芽母細胞瘤（medulloblastoma）", "B": "室管膜瘤（ependymoma）", "C": "星狀細胞瘤（astrocytoma）", "D": "寡突膠細胞瘤（oligodendroglioma）"}}
+{"question": "44 關於良性（benign）腫瘤的敘述，下列何者最不適當？", "options": {"A": "腫瘤多半界限明顯，常有纖維性包膜（fibrous capsule）將腫瘤局限於一處", "B": "較少見壞死（necrosis）或出血（hemorrhage）", "C": "常見細胞多形性（pleomorphism）", "D": "核質比（nuclear-to-cytoplasmic ratio）偏向正常"}}
+{"question": "45 顯微鏡下 ， 肺腫瘤細胞的細胞質少且呈圓形或橢圓形 ， 具有神經內分泌的特性 ， 是下列那一種肺腫瘤？", "options": {"A": "腺癌（adenocarcinoma）", "B": "鱗狀細胞癌（squamous cell carcinoma）", "C": "小細胞癌（small cell carcinoma）", "D": "大細胞未分化癌（large cell undifferentiated carcinoma）"}}
+{"question": "46 關於發生於胃的黏膜相關淋巴組織淋巴瘤（mucosa-associated lymphoid tissue lymphoma, MALToma） 之敘述，下列何者錯誤？", "options": {"A": "與慢性胃炎（chronic gastritis）有關", "B": "可以經由消除幽門螺旋桿菌來治療，屬於低惡性度淋巴瘤", "C": "屬於 T 細胞淋巴瘤（T-cell lymphoma）", "D": "顯微鏡下可見淋巴上皮病灶（lymphoepithelial lesions）"}}
+{"question": "47 關於腎臟囊腫疾病（cystic disease of the kidney） ，下列何者錯誤？", "options": {"A": "單純性囊腫（simple cyst）一般為臨床上無害的變異", "B": "成人多囊性腎病（adult polycystic kidney disease）典型為雙側腎臟囊腫，且伴隨肝臟囊腫", "C": "兒童多囊性腎病 （childhood polycystic kidney disease） 遺傳上多為體染色體顯性 （autosomal dominant）", "D": "成人多囊性腎病有許多病例與 PKD1 基因缺陷有關"}}
+{"question": "48 下列那一種關節炎是好發於年輕男性的薦腸骨關節及 HLA-B27 呈陽性？", "options": {"A": "黏連性脊椎關節炎（ankylosing spondyloarthritis）", "B": "類風濕性關節炎（rheumatoid arthritis）", "C": "退化性關節炎（degenerative arthritis）", "D": "痛風性關節炎（gouty arthritis）"}}
+{"question": "49 治療青光眼的藥物中，下列何者是藉由直接作用於膽鹼性受體（cholinergic receptor）而降低眼壓？", "options": {"A": "Atropine", "B": "Echothiophate", "C": "Pilocarpine", "D": "Timolol"}}
+{"question": "50 Cabamazepine 主要作用於下列何種離子通道（ion channel） ，而用於 partial seizure 之治療？", "options": {"A": "鈣", "B": "氯", "C": "鉀", "D": "鈉"}}
+{"question": "51 治療糖尿病的用藥中，下列何者的主要作用是刺激胰臟β細胞釋放insulin？", "options": {"A": "Glyburide", "B": "Metformin", "C": "Acarbose", "D": "Dapagliflozin"}}
+{"question": "52 動情素在臨床上用來治療攝護腺癌，是因為下列何種藥理作用？", "options": {"A": "可以增加腎素（renin）的分泌", "B": "可以和攝護腺癌細胞的動情素受體結合，而調控基因表現", "C": "具有拮抗雄性素的作用", "D": "可以經由腎臟代謝產生代謝物，而抑制攝護腺癌生長"}}
+{"question": "53 免疫抑制劑 mycophenolate mofetil 用於腎臟移植時，可減少淋巴細胞異常增殖而緩解腎臟排斥作用，其作用機轉為何？", "options": {"A": "抑制 purine 的生合成", "B": "抑制 calcineurin 的活性", "C": "螯合 DNA 的作用", "D": "抑制轉錄因子 NFAT 的活性"}}
+{"question": "54 如果一個藥物的半衰期為 10 小時 ， 以靜脈輸注此藥物後 ， 在血液中達到穩定濃度所需的時間約多久？", "options": {"A": "5 小時", "B": "10 小時", "C": "20 小時", "D": "40 小時"}}
+{"question": "55 非典型抗憂鬱藥物，下列何者可降低菸癮者對尼古丁的渴求？", "options": {"A": "Nefazodone", "B": "Mirtazapine", "C": "Bupropion", "D": "Vortioxetine"}}
+{"question": "56 成癮性物質中，下列何者之身體依賴性相對較高？", "options": {"A": "咖啡因", "B": "麥角酸二乙胺（LSD）", "C": "大麻", "D": "安非他命"}}
+{"question": "57 下列何者藥物具有強力止吐作用？", "options": {"A": "Sibutramine", "B": "Tegaserod", "C": "Buspirone", "D": "Ondansetron"}}
+{"question": "58 Propranolol 治療甲狀腺亢奮引起之震顫及心悸，但病人有下列何種疾病時，不宜使用？", "options": {"A": "高血壓", "B": "心搏過速", "C": "氣喘", "D": "偏頭痛"}}
+{"question": "59 抗高血壓藥物 Aliskiren 的藥理作用為何？", "options": {"A": "直接抑制血管內皮受體", "B": "直接抑制腎素活性", "C": "抑制心房利鈉胜肽代謝", "D": "抑制血管緊縮素受體"}}
+{"question": "60 有關具黏膜保護作用的 Sucralfate 敘述，下列何者錯誤？", "options": {"A": "可與黏膜上帶正電的蛋白質結合", "B": "需要在高 pH 值環境下活化", "C": "不宜與 Omeprazole 併用", "D": "無法預防 Aspirin 造成之消化性潰瘍"}}
+{"question": "61 下列何種藥物可預防或減輕因使用 Aspirin 造成之消化性潰瘍？", "options": {"A": "Biscodyl", "B": "Lactulose", "C": "Misoprostol", "D": "Sorbitol"}}
+{"question": "62 有關體重控制藥物 Lorcaserin 的敘述，下列何者錯誤？", "options": {"A": "是 serotonin reuptake 的抑制劑", "B": "可刺激 pro-opiomelanocortin 神經而活化 melanocortin 受體", "C": "主要由肝臟代謝", "D": "代謝物經由尿液排除"}}
+{"question": "63 下列何種藥物可以治療免疫不全病人 ， 因感染巨細胞病毒 （CMV） 導致視網膜炎 ， 以及對 acyclovir 無效之單純疱疹病毒感染？", "options": {"A": "Cidofovir", "B": "Fomivirsen", "C": "Foscarnet", "D": "Ganciclovir"}}
+{"question": "64 抗癌藥物中，下列何者有明顯的周邊神經毒性與肝毒性？", "options": {"A": "Busulfan", "B": "Cisplatin", "C": "Doxorubicin", "D": "Oxaliplatin"}}
+{"question": "65 有關真菌的敘述，下列何者錯誤？", "options": {"A": "化合異營生物（chemoheterotroph） ，且不含葉綠素", "B": "單細胞或多細胞生物", "C": "可行無性或有性生殖", "D": "沒細胞核，但有細胞壁"}}
+{"question": "66 下列何種補體的成分，可以活化吞噬細胞？", "options": {"A": "C1", "B": "C5a", "C": "C4", "D": "C5b-9"}}
+{"question": "67 如果在出生後立即切除胸腺，主要會影響下列何種免疫反應？", "options": {"A": "補體的作用", "B": "樹突細胞（dendritic cell）的抗原呈現", "C": "T 淋巴細胞的成熟分化", "D": "B 淋巴細胞產生 IgM 的能力"}}
+{"question": "68 婦女經期衛生棉條不潔，引起之毒性休克症候群 （toxic shock syndrome） ，為下列何種細菌產生之毒素所引起的？", "options": {"A": "腦膜炎雙球菌（Neisseriae menigitidis）", "B": "金黃色葡萄球菌（Staphylococcus aureus）", "C": "A 族鏈球菌（group A Streptococcus）", "D": "淋病雙球菌（Neisseriae gonorrhoeae）"}}
+{"question": "69 主要抑制麥角固醇（ergosterol）合成有關之抗真菌藥物為何？", "options": {"A": "Polyenes 及 Azoles", "B": "Echinocandins", "C": "Azoles 及 Fluorocytosine", "D": "Polyenes 及 Echinocandins"}}
+{"question": "70 下列何種細胞源於卵黃囊，發育後長期駐守在組織中，負責組織維護與修復的功能？", "options": {"A": "肝臟的庫氏細胞（Kupffer cell）", "B": "樹突細胞（dendritic cell）", "C": "肥大細胞（mast cell）", "D": "漿細胞（plasma cell）"}}
+{"question": "71 後天性免疫缺乏症候群（acquired immune deficiency syndrome, AIDS）是因為感染人類免疫缺乏病毒（HIV） ，造成何種細胞減少？", "options": {"A": "B 細胞", "B": "CD4 T 細胞", "C": "巨噬細胞（macrophage）", "D": "自然殺手細胞（natural killer cell）"}}
+{"question": "72 關於厭氧菌的敘述，下列何者錯誤？", "options": {"A": "粉刺丙酸桿菌（Propionibacterium acnes）造成青春痘的症狀可靠清潔皮膚完全消除", "B": "厭氧菌通常是人體常在菌的一部分，常從黏膜傷口侵入造成疾病", "C": "鬆脆性類桿菌（Bacteroides fragilis）的莢膜是其重要致病因子", "D": "放射菌屬（Actinomycetes）感染部位可見硫磺色細粒（sulfur granules）"}}
+{"question": "73 關於土倫法蘭西斯桿菌（Francisella tularensi）的敘述，下列何者正確？", "options": {"A": "對清除細菌來說，抗體免疫比細胞免疫重要", "B": "A 型菌比 B 型菌的毒性強", "C": "可利用乙內醯胺（β-lactam）類抗生素降低死亡率", "D": "主要引發戰壕熱（trench fever）"}}
+{"question": "74 關於肉毒梭孢桿菌（Clostridium botulinum）感染之敘述，下列何者錯誤？", "options": {"A": "此菌是一種產生芽孢之厭氧菌", "B": "感染者應立即給予疫苗治療", "C": "食源性肉毒桿菌素中毒（foodborne botulism）通常是由罐頭或真空包裝食品所引起", "D": "嬰兒肉毒桿菌素中毒（infant botulism）可能由污染的蜂蜜或奶粉而傳染"}}
+{"question": "75 關於萊姆病（Lyme disease）及其病原體的敘述，下列何者錯誤？", "options": {"A": "由包氏疏螺旋體（Borrelia burgdorferi）感染所引起", "B": "主要是人與人之間藉由體蝨（body louse）互相傳染", "C": "典型的症狀是病媒叮咬皮膚，傷口出現遊走性紅斑（erythema migrans）", "D": "若未適當治療可能導致神經症狀及關節炎"}}
+{"question": "76 關於新型隱球菌（Cryptococcus neoformans）的敘述，下列何者錯誤？", "options": {"A": "常在鴿子的糞便中被發現", "B": "會形成莢膜（capsule）", "C": "會引發黴菌性腦膜炎（fungal meningitis）", "D": "只會在免疫缺失的病患身上造成感染"}}
+{"question": "77 肝炎病毒感染後，下列何者只會造成急性肝炎，並不會導致長期慢性感染的發生？", "options": {"A": "A 型肝炎病毒", "B": "B 型肝炎病毒", "C": "C 型肝炎病毒", "D": "D 型肝炎病毒"}}
+{"question": "78 下列何類型藥物，無法用於抑制人類免疫缺乏病毒（HIV）？", "options": {"A": "神經氨酸水解酶抑制劑（neuraminidase inhibitor）", "B": "核苷類似物（nucleoside analogue）", "C": "蛋白酶抑制劑（protease inhibitor）", "D": "嵌合酶抑制劑（integrase inhibitor）"}}
+{"question": "79 有關庫賈氏病（Creutzfeldt-Jakob disease, CJD）的敘述，下列何者錯誤？", "options": {"A": "大部分患者曾暴露到牛海綿狀腦病（bovin spongiform encephalopathy）致病原", "B": "為 prion 蛋白所引起", "C": "目前並無特殊療法可以延緩疾病的進程，以支持性治療為主", "D": "無法利用血液檢驗（serologic tests）檢出"}}
+{"question": "80 下列何種寄生蟲病診斷時不需要檢查糞便檢體？", "options": {"A": "蛔蟲病（ascariasis）", "B": "鞭蟲病（trichuriasis）", "C": "旋毛蟲病（trichinellosis）", "D": "腸道毛線蟲病（intestinal capillariasis）"}}
+{"question": "下列何者主要是由膜（membrane）構成的胞器？", "options": {"A": "核仁", "B": "內質網", "C": "核糖體", "D": "中心粒"}}
+{"question": "低血鈣主要會刺激那一個內分泌腺體的激素分泌，以增加血鈣濃度？", "options": {"A": "下視丘", "B": "副甲狀腺", "C": "腦下垂體前葉", "D": "腦下垂體後葉"}}
+{"question": "內側蹄系（medial lemniscus）與下列何訊息傳遞有關？", "options": {"A": "視覺", "B": "本體覺", "C": "痛覺", "D": "聽覺"}}
+{"question": "肺臟內進行氣體交換的呼吸膜 （respiratory membrane） 構造，主要是由那兩種細胞與結締組織共同構成？", "options": {"A": "第一型肺泡細胞（type I alveolar cell）與第二型肺泡細胞（type II alveolar cell）", "B": "第一型肺泡細胞（type I alveolar cell）與微血管內皮細胞（endothelial cell）", "C": "第二型肺泡細胞（type II alveolar cell）與微血管內皮細胞（endothelial cell）", "D": "第二型肺泡細胞（type II alveolar cell）與肺泡內巨噬細胞（alveolar macrophage）"}}
+{"question": "有關前列腺的敘述，下列何者錯誤？", "options": {"A": "位於膀胱下方", "B": "位於泌尿生殖橫膈上方", "C": "位於直腸後方", "D": "位於精囊下方"}}
+{"question": "6 下列支氣管樹的分支，何者具有氣體交換功能？", "options": {"A": "葉支氣管", "B": "節支氣管", "C": "終末細支氣管", "D": "呼吸性細支氣管"}}
+{"question": "7 下列何者不是淋巴組織？", "options": {"A": "扁桃體", "B": "腮腺", "C": "淋巴結", "D": "胸腺"}}
+{"question": "8 下列管道何者不開口於右心房？", "options": {"A": "肺靜脈", "B": "冠狀竇", "C": "上腔靜脈", "D": "下腔靜脈"}}
+{"question": "9 下列器官的主要養分來源，何者不是來自髂內動脈？", "options": {"A": "卵巢", "B": "子宮", "C": "陰道", "D": "膀胱"}}
+{"question": "10 卵巢排卵（ovulation）時，卵母細胞（oocyte）的減數分裂（meiosis），停留在那一時期？", "options": {"A": "第一次減數分裂的中期（metaphase of meiosis I）", "B": "第一次減數分裂的末期（telophase of meiosis I）", "C": "第二次減數分裂的中期（metaphase of meiosis II）", "D": "第二次減數分裂的末期（telophase of meiosis II）"}}
+{"question": "11 下列何者不屬於小腸的一部分？", "options": {"A": "十二指腸", "B": "迴腸", "C": "盲腸", "D": "空腸"}}
+{"question": "12 下列何者位於肝臟尾葉（caudate lobe）的右側？", "options": {"A": "膽囊", "B": "肝門（porta hepatis）", "C": "小網膜", "D": "下腔靜脈"}}
+{"question": "13 下列何者是位於迴腸最外層之結構？", "options": {"A": "漿膜層", "B": "黏膜層", "C": "黏膜下層", "D": "肌肉層"}}
+{"question": "14 下列何者會發出滋養肺臟的支氣管動脈？", "options": {"A": "肺動脈", "B": "肺靜脈", "C": "胸主動脈", "D": "胸內動脈"}}
+{"question": "15 中腦內不具有下列何者？", "options": {"A": "薄核（gracile nucleus）", "B": "紅核（red nucleus）", "C": "網狀結構（reticular formation）", "D": "內側蹄系（medial lemniscus）"}}
+{"question": "16 下列何種神經節主要負責傳遞一般體表感覺訊息？", "options": {"A": "翼腭神經節（pterygopalatine ganglion）", "B": "睫狀神經節（ciliary ganglion）", "C": "螺旋神經節（spiral ganglion）", "D": "背根神經節（dorsal root ganglion）"}}
+{"question": "17 碳水化合物（carbohydrate）的碳、氫、氧原子數目的比率是：", "options": {"A": "1：1：1", "B": "1：2：1", "C": "1：3：1", "D": "1：4：1"}}
+{"question": "18 肌肉收縮使用無氧呼吸時，主要使用的能量來源為何？", "options": {"A": "乳酸", "B": "蛋白質", "C": "葡萄糖", "D": "脂肪"}}
+{"question": "19 下列何種胺基酸與甘味（umami）的味覺產生有關？", "options": {"A": "甘胺酸（glycine）", "B": "麩胺酸（glutamate）", "C": "酪胺酸（tyrosine）", "D": "色胺酸（tryptophan）"}}
+{"question": "20 下列關於摸到滾燙的熱水，手臂會迅速的收回的敘述，何者錯誤？", "options": {"A": "此反應是由痛的刺激所引起", "B": "此時手臂屈肌收縮", "C": "此反應無需大腦下達命令", "D": "此反應的神經傳導途徑，無需中間神經元"}}
+{"question": "21 下列何者可協助維生素 D（vitamin D）轉換為骨化三醇（calcitriol）？", "options": {"A": "副甲狀腺素", "B": "降鈣素", "C": "抗利尿激素", "D": "胰島素"}}
+{"question": "22 下列何者具有產生配子的功能？", "options": {"A": "卵巢", "B": "輸卵管", "C": "子宮", "D": "子宮頸"}}
+{"question": "23 下列由內皮細胞分泌的因子中，何者不會使血管舒張？", "options": {"A": "一氧化氮（NO）", "B": "緩激肽（bradykinin）", "C": "前列腺環素（prostacyclin）", "D": "內皮因子-1（endothelin-1）"}}
+{"question": "24 下列有關微血管及組織液交換的敘述，何者錯誤？", "options": {"A": "組織液的膠體滲透壓比血漿大", "B": "組織液的靜水壓比血漿小", "C": "組織液中葡萄糖與鹽的濃度與血漿相同", "D": "組織液中蛋白質的濃度比血漿低"}}
+{"question": "25 正常成年男子之腎絲球過濾率（glomerular filtration rate）約為多少 mL/min？", "options": {"A": "1250", "B": "125", "C": "12.5", "D": "1.25"}}
+{"question": "26 下列有關人體缺血性休克後造成排尿量下降的主要原因，何者最不可能？", "options": {"A": "動脈壓下降", "B": "腎素分泌下降", "C": "出球小動脈收縮", "D": "入球小動脈不收縮"}}
+{"question": "27 下列何者不屬於胰臟的外分泌蛋白質？", "options": {"A": "胰島素（insulin）", "B": "胰蛋白酶（trypsin）", "C": "胰乳麋蛋白酶（chymotrypsin）", "D": "胰澱粉酶（pancreatic alpha-amylase）"}}
+{"question": "28 下列有關色盲（color blindness）的敘述，何者正確？", "options": {"A": "發生於女性的機率遠高於男性", "B": "是與 Y 染色體相關的顯性性狀", "C": "主要肇因於產生太多種錐狀細胞（cone cells）", "D": "主要肇因於視蛋白（opsins）的種類過少"}}
+{"question": "29 下列有關肌節（sarcomere）的明暗帶在肌肉收縮時的敘述，何者正確？", "options": {"A": "I band 縮短、H zone 不變", "B": "H zone 縮短、I band 不變", "C": "I band 及 H zone 皆縮短", "D": "H zone 及 I band 皆不變"}}
+{"question": "30 下列何種激素在懷孕過程中不會大量增加？", "options": {"A": "人類胎盤泌乳素（hPL）", "B": "催產素（oxytocin）", "C": "雌激素（estrogen）", "D": "泌乳素（prolactin）"}}
+{"question": "31 下列有關人體在高海拔地區之生理調適反應，何者正確？", "options": {"A": "2, 3-雙磷甘油（2, 3-diphosphoglycerate）減少", "B": "肌肉中血管的密度降低", "C": "刺激周邊化學接受器（peripheral chemoreceptor）促進換氣", "D": "腎臟促紅細胞生成素（erythropoietin）分泌降低"}}
+{"question": "32 下列有關胃腸道神經反射的受體（receptor）角色，何者錯誤？", "options": {"A": "包括化學感受器、滲透壓感受器和機械感受器", "B": "位於胃腸道管壁上", "C": "將信息傳遞給中樞神經系統或腸道神經叢", "D": "激活前饋路徑（feedforward pathway）"}}
+{"question": "33 細胞壞死（Necrosis）時，最早會出現：", "options": {"A": "細胞核濃縮", "B": "細胞核破裂", "C": "細胞核溶解", "D": "胞膜破裂"}}
+{"question": "34 下列何者最不代表惡性細胞的病理特徵？", "options": {"A": "多型性（pleomorphism）", "B": "細胞核濃染（hyperchromasia）", "C": "異常細胞分裂相（abnormal mitosis）", "D": "核質比下降（nuclear/cytoplasmic ratio decreased）"}}
+{"question": "35 帶狀疱疹病毒（Varicella-Zoster virus）在初次感染人體後，會潛伏在人體何種細胞中？", "options": {"A": "背根神經節的神經元細胞", "B": "骨髓中的造血幹細胞", "C": "皮膚真皮血管的內皮細胞", "D": "皮膚上皮的基底層細胞"}}
+{"question": "36 社區型急性肺炎（community-acquired acute pneumonia）最常由下列何種微生物的感染所引起？", "options": {"A": "黴漿菌（Mycoplasma）", "B": "隱球菌（Cryptococcus）", "C": "鏈球菌（Streptococcus）", "D": "麴菌（Aspergillus）"}}
+{"question": "37 Heinz 氏小體是一種氧化的血紅素，下列何種溶血性貧血的紅血球內最常見到 Heinz 氏小體？", "options": {"A": "免疫性溶血性貧血（immunohemolytic anemia）", "B": "地中海型貧血（thalassemia）", "C": "鐮刀血球性貧血（sickle cell anemia）", "D": "葡萄糖-6-磷酸去氫酶缺乏症（glucose-6-phosphate dehydrogenase deficiency）"}}
+{"question": "38 下列何種肝炎病毒，只能在 B 型肝炎病毒存在的情況下共同感染？", "options": {"A": "A 型", "B": "C 型", "C": "D 型", "D": "E 型"}}
+{"question": "39 下列那一種腎臟腫瘤主要常見於 10 歲以下的小孩？", "options": {"A": "亮細胞癌（clear cell carcinoma）", "B": "威爾斯氏瘤（Wilms tumor）", "C": "嫌色腎細胞癌（chromophobe renal cell carcinoma）", "D": "乳突狀腎細胞癌（papillary renal cell carcinoma）"}}
+{"question": "40 子宮頸癌最可能與何者病毒感染有關？", "options": {"A": "人類乳突病毒（HPV）", "B": "疱疹病毒（HSV）", "C": "Epstein-Barr 病毒（EBV）", "D": "巨細胞病毒（CMV）"}}
+{"question": "41 下列何種腦瘤最常見於小於 5 歲兒童的小腦？", "options": {"A": "寡突細胞瘤（oligodendroglioma）", "B": "室管細胞瘤（ependymoma）", "C": "髓母細胞瘤（medulloblastoma）", "D": "腦膜瘤（meningioma）"}}
+{"question": "42 肝臟因為慢性右側心臟衰竭發生嚴重充血現象時，肝小葉中心區域出現出血性壞死，稱為：", "options": {"A": "脂肪肝", "B": "荳蔻肝", "C": "肉芽腫", "D": "潰瘍"}}
+{"question": "43 下列何種免疫性疾病，病人幾乎都是男性？", "options": {"A": "全身性紅斑性狼瘡（SLE）", "B": "迪喬治症候群（DiGeorge syndrome）", "C": "IgA 缺乏症（isolated IgA deficiency）", "D": "布魯頓氏病（Bruton disease）／X-性聯遺傳無伽碼 g 球蛋白血症"}}
+{"question": "44 下列那一項因素與波雷特氏食道（Barrett esophagus）發生腺癌（adenocarcinoma）最有關係？", "options": {"A": "上皮細胞的異生程度", "B": "波雷特氏食道的長短", "C": "波雷特氏食道的發炎程度", "D": "有無食道狹窄發生"}}
+{"question": "45 下列何者與新生兒呼吸窘迫症候群最不相關？", "options": {"A": "致病機轉主要與新生兒體重過大有關", "B": "肺界面活性劑（surfactant）缺乏", "C": "玻璃質膜（hyaline membrane）形成，導致缺氧", "D": "新生兒出現呼吸困難現象"}}
+{"question": "46 下列有關妊娠滋養層疾病（Gestational trophoblastic disease）之敘述，何者錯誤？", "options": {"A": "主要常見有葡萄胎、侵襲性葡萄胎和絨毛膜癌", "B": "絕大多數會製造人類絨毛膜性腺激素（human Chorionic Gonadotropin, hCG）", "C": "完全型葡萄胎是二倍體，而部分型葡萄胎是三倍體", "D": "部分型葡萄胎轉變為絨毛膜癌之機會比完全型葡萄胎高"}}
+{"question": "47 下列何者不是引起快速進行 （新月形） 腎小球腎炎[Rapidly progressive （crescentic） glomerulonephritis]的原因？", "options": {"A": "Goodpasture’s 症候群", "B": "全身性紅斑性狼瘡", "C": "鏈球菌感染後腎小球腎炎（Post-streptococcal glomerulonephritis）", "D": "非類固醇抗消炎藥（Non-Steroidal Anti-Inflammatory Drug, NSAID）引起之腎病變"}}
+{"question": "48 下列何者是病理性骨折（pathological fracture）？", "options": {"A": "因車禍，只有骨頭折斷，周圍的軟組織未受傷；病理切片檢查並無發現任何潛在病兆", "B": "運動員因長期的活動而造成反覆的骨頭外傷", "C": "因軍人長期行軍造成的趾骨骨折", "D": "因潛在疾病造成的骨折，如轉移性腫瘤、惡性腫瘤等"}}
+{"question": "49 Dobutamine 可用於增加急性鬱血性心臟衰竭（congestive heart failure）病人的心輸出量（cardiac output），其作用主要是透過活化下列何種受體而產生？", "options": {"A": "β1 腎上腺素受體（β1 adrenergic receptor）", "B": "β2 腎上腺素受體（β2 adrenergic receptor）", "C": "D1 多巴胺受體（D1 dopaminergic receptor）", "D": "D2 多巴胺受體（D2 dopaminergic receptor）"}}
+{"question": "50 使用下列何種吸入性麻醉劑，最易引起心律不整（cardiac arrhythmia）之副作用？", "options": {"A": "Desflurane", "B": "Halothane", "C": "Isoflurane", "D": "Sevoflurane"}}
+{"question": "51 下列藥物和作用機轉之配對，何者錯誤？", "options": {"A": "Procainamide：阻斷鉀離子通道", "B": "Bretylium：阻斷鉀離子通道", "C": "Propanolol：阻斷腎上腺素 beta 受體", "D": "Quinidine：阻斷鈉離子通道"}}
+{"question": "52 下列藥物中，何者不適用於治療生長激素分泌過多而產生的肢端肥大症？", "options": {"A": "Octreotide", "B": "Bromocriptine", "C": "Corticotropin", "D": "Pegvisomant"}}
+{"question": "53 下列抗生素中，何者不會作用在細菌的核糖體上？", "options": {"A": "Vancomycin", "B": "Gentamicin", "C": "Erythromycin", "D": "Clindamycin"}}
+{"question": "54 藥物在肝臟代謝的第一期（phase I）反應，不包括下列何者？", "options": {"A": "氧化（oxidation）", "B": "水解（hydrolysis）", "C": "結合作用（conjugation）", "D": "羥化（hydroxylation）"}}
+{"question": "55 Buspirone 治療慢性泛焦慮症，主要透過下列何種受體？", "options": {"A": "多巴胺 1 型（D1）", "B": "血清素 3 型（5-HT3）", "C": "GABAA", "D": "血清素 1A 型（5-HT1A）"}}
+{"question": "56 使用左多巴（levodopa）治療帕金森氏症時，不會產生下列何種副作用？", "options": {"A": "厭食", "B": "心搏過慢", "C": "精神疾患", "D": "血壓降低"}}
+{"question": "57 下列有關 aspirin 的作用中，何者所需要的劑量最高？", "options": {"A": "抗發炎", "B": "止痛", "C": "抗凝血", "D": "退燒"}}
+{"question": "58 血管緊縮素轉換酶抑制劑用於治療充血性心衰竭病人，其作用機轉為何？", "options": {"A": "增加血中腎素活性，但不影響心臟纖維化", "B": "減少腎素產生，進而減少心臟纖維化", "C": "減少周邊血管阻抗，促進利尿來降低心臟後負荷", "D": "減少醛固酮（aldosterone）分泌，可降低心臟前負荷"}}
+{"question": "59 下列抗高血壓治療藥物，何者不會產生心搏過速之副作用？", "options": {"A": "Amlodipine", "B": "Atenolol", "C": "Prazosin", "D": "Hydralazine"}}
+{"question": "60 下列何種藥物具有止吐作用，常合併 metoclopramide 以增強止吐的作用？", "options": {"A": "Loperamide", "B": "Dexamethasone", "C": "Lubiprostone", "D": "Methylcellulose"}}
+{"question": "61 下列何種藥物是屬於擬抗膽鹼素性拮抗劑（cholinergic antagonists），當氣喘病人無法忍受擬腎上腺素性作用劑（β2 adrenergic agonists）的作用時，可作為替代品治療氣喘？", "options": {"A": "Cromolyn", "B": "Omalizumab", "C": "Ipratropium", "D": "Theophylline"}}
+{"question": "62 關於礦物皮質類固醇（mineralocorticoid）的生理及藥理作用，下列何者錯誤？", "options": {"A": "促進鈉離子的再吸收", "B": "促進氯離子的再吸收", "C": "促進鉀離子的再吸收", "D": "促進水的再吸收"}}
+{"question": "63 下列何者可藉由中和 interleukin-1（IL-1），阻斷 IL-1 受體活化所導致的關節發炎疾病？", "options": {"A": "Anakinra", "B": "Infliximab", "C": "Rituximab", "D": "Tofacitinib"}}
+{"question": "64 當前往瘧疾疫區旅行，得知該區疫情已經對 chloroquine 產生抗藥性時，下列何者為最佳預防用藥？", "options": {"A": "Artemisinin", "B": "Mefloquine", "C": "Primaquine", "D": "Pyrimethamine"}}
+{"question": "65 在淋巴結的濾泡（follicle）所聚集的細胞，會產生什麼特殊蛋白質？", "options": {"A": "肝素（heparin）", "B": "抗體（antibody）", "C": "穿孔素／顆粒溶解酶（perforin／granzyme）", "D": "纖維分解酶（cellulase）"}}
+{"question": "66 下列關於細胞激素（cytokine）的敘述何者錯誤？", "options": {"A": "具有多效性", "B": "具有協同作用", "C": "具有拮抗作用", "D": "無法誘發其他細胞激素的產生"}}
+{"question": "67 下列對於滅菌作用機制的描述，何者正確？", "options": {"A": "酒精的殺菌作用是破壞細胞膜", "B": "紫外線的殺菌作用是破壞細胞膜", "C": "戊二醛（glutaraldehyde）的殺菌作用是破壞核酸", "D": "石碳酸化合物（例如 Lysol）的殺菌作用是阻礙核酸合成"}}
+{"question": "68 利用黏試紙（scotch tape test）黏取肛門周邊之蟲卵是用於下列那一種寄生蟲診斷？", "options": {"A": "蟯蟲（Enterobius vermicularis）", "B": "蛔蟲（Ascaris lumbricoides）", "C": "鞭蟲（Trichuris trichiura）", "D": "鉤蟲（Hookworm）"}}
+{"question": "69 絕對厭氧菌不能在有氧環境下生長，是因為缺乏以下何種酵素？", "options": {"A": "觸酶（catalase）和凝固酶（coagulase）", "B": "超氧岐化酶（superoxide dismutase）和觸酶（catalase）", "C": "氧化酶（oxidase）和超氧岐化酶（superoxide dismutase）", "D": "凝固酶（coagulase）和氧化酶（oxidase）"}}
+{"question": "70 下列何者是主要引起敗血症全身性反應的因子？", "options": {"A": "TNF-α", "B": "IL-12", "C": "IL-17", "D": "C-reactive protein"}}
+{"question": "71 下列何者是影響自體免疫疾病易感性的主要遺傳因子？", "options": {"A": "CTLA-4（cytotoxic T lymphocyte-associated antigen 4）", "B": "FOXP3（forkhead box P3）", "C": "HLA（human leukocyte antigen）", "D": "AIRE（Autoimmune regulator）"}}
+{"question": "72 關於肉毒桿菌（Clostridium botulinum） 引發食物中毒的敘述，下列何者錯誤？", "options": {"A": "不容易從腸道分離出細菌", "B": "常因自製醃漬或封裝的罐頭食物被污染造成", "C": "病人常因嚴重的發炎反應導致呼吸系統功能降低而死亡", "D": "病人康復後對肉毒桿菌仍然不具有免疫能力"}}
+{"question": "73 關於萊姆病（Lyme disease）的敘述，下列何者錯誤？", "options": {"A": "被節肢動物叮咬後引發", "B": "患者出現全身性丘疹的臨床症狀", "C": "若未依照程序治療，患者有可能引發關節炎", "D": "血清學測試可做為檢驗依據"}}
+{"question": "74 下列關於痘病毒（poxvirus）的敘述，何者錯誤？", "options": {"A": "天花病毒（Smallpox Virus）雖然目前在自然界已經絕跡，但仍有被使用作為生化武器之風險", "B": "天花病毒與傳染性軟疣病毒（Molluscum Contagiosum Virus）都只會感染人類", "C": "痘病毒是 DNA 病毒，所以病毒的複製是在細胞核內進行", "D": "很多動物痘病毒與天花病毒具有共通的抗原性，所以可以用動物痘病毒來製備天花病毒疫苗"}}
+{"question": "75 下列那一種細菌與引起非典型肺炎（atypical pneumonia）較為無關？", "options": {"A": "李斯特菌（Listeria monocytogenes）", "B": "肺炎黴漿菌（Mycoplasma pneumoniae）", "C": "退伍軍人桿菌（Legionella pneumophila）", "D": "肺炎披衣菌（Chlamydophila pneumoniae）"}}
+{"question": "76 下列關於黴漿菌（Mycoplasma）的敘述，何者錯誤？", "options": {"A": "無法於體外自由生長（free-living），是絕對細胞內寄生的細菌", "B": "細菌無細胞壁", "C": "培養時需要添加固醇（sterol）", "D": "細菌菌體小，可通過 0.45 μm 的濾膜"}}
+{"question": "77 補體活化後最終形成膜攻擊複合體（membrane attack complex, MAC）。下列何者較易受到這項防禦機制的作用而死亡？", "options": {"A": "B 型肝炎病毒（Hepatitis B virus）", "B": "奈瑟氏菌（Neisseria）", "C": "葡萄球菌（Staphylococcus）", "D": "鏈球菌（Streptococcus）"}}
+{"question": "78 下列何種病毒會造成潛伏感染（latent infection），病毒會潛伏在神經節的神經細胞中？", "options": {"A": "EB 病毒（Epstein-Barr Virus, EBV）", "B": "巨細胞病毒（Cytomegalovirus, CMV）", "C": "單純疱疹病毒（Herpes Simplex Virus）", "D": "日本腦炎病毒（Japanese Encephalitis Virus）"}}
+{"question": "79 下列有關登革熱病毒的敘述，何者錯誤？", "options": {"A": "只有一種血清型", "B": "可藉由埃及斑蚊傳播", "C": "病患若發生多次感染，發生重症的機率會增加", "D": "嚴重的登革熱病症會有出血與休克"}}
+{"question": "80 宿主細胞的何種機轉必為病毒所用？", "options": {"A": "RNA 剪接（RNA splicing）", "B": "轉錄（transcription）", "C": "轉譯（translation）", "D": "轉導（transduction）"}}
+{"question": "總膽管是由那兩者匯聚形成？", "options": {"A": "左肝管與右肝管", "B": "總肝管與胰管", "C": "膽囊管與胰管", "D": "總肝管與膽囊管"}}
+{"question": "下列何神經興奮可使膀胱壁之迫尿肌收縮、尿道內括約肌舒張？", "options": {"A": "骨盆交感神經", "B": "直腸下神經", "C": "骨盆內臟神經", "D": "陰部神經"}}
+{"question": "下列何者不具細胞核？", "options": {"A": "紅血球（red blood cell）", "C": "巨噬細胞（macrophage）", "D": "神經元（neuron）"}}
+{"question": "(A) 嚼肌（masseter）", "options": {"A": "嚼肌（masseter）", "B": "顳肌（temporalis）", "C": "翼外肌（lateral pterygoid）", "D": "翼內肌（medial pterygoid）"}}
+{"question": "(A) 腹主動脈", "options": {"A": "腹主動脈", "B": "腹腔動脈幹", "C": "腸繫膜上動脈", "D": "腸繫膜下動脈"}}
+{"question": "(A) 肝", "options": {"A": "肝", "B": "胰", "C": "腎", "D": "脾"}}
+{"question": "(A) 子宮體部（body）", "options": {"A": "子宮體部（body）", "B": "子宮底部（fundus）", "C": "子宮頸部（cervix）", "D": "子宮峽部（isthmus）"}}
+{"question": "(A) 胃的黏膜層", "options": {"A": "胃的黏膜層", "B": "十二指腸黏膜下層", "C": "迴腸黏膜層", "D": "胰臟"}}
+{"question": "(A) 肝固有動脈", "options": {"A": "肝固有動脈", "B": "上腸繫膜動脈", "C": "肝門靜脈", "D": "肝靜脈"}}
+{"question": "(A) 項韌帶（nuchal ligament）", "options": {"A": "項韌帶（nuchal ligament）", "B": "黃韌帶（ligamentum flavum）", "C": "齒狀韌帶（denticulate ligament）", "D": "翼韌帶（alar ligament）"}}
+{"question": "(A) 氧化自由基", "options": {"A": "氧化自由基", "B": "乳酸", "C": "磷酸肌胺酸", "D": "ADP"}}
+{"question": "(A)  serotonin", "options": {"A": "serotonin", "B": "acetylcholine", "C": "histamine", "D": "epinephrine"}}
+{"question": "(A) 海馬迴（hippocampus）", "options": {"A": "海馬迴（hippocampus）", "B": "小腦（cerebellum）", "C": "運動皮質（motor cortex）", "D": "橋腦（pons）"}}
+{"question": "(A) 增加胰島素受體數目", "options": {"A": "增加胰島素受體數目", "B": "減少胰島素受體數目", "C": "增加胰島素受體之親和力", "D": "減少胰島素受體之親和力"}}
+{"question": "(A) 包含 23 對染色體", "options": {"A": "包含 23 對染色體", "B": "最合適的生存溫度為 38℃", "C": "濾泡刺激激素（FSH）有助其生成", "D": "主要儲存在儲精囊（seminal vesicle）"}}
+{"question": "(A) 心輸出量上升", "options": {"A": "心輸出量上升", "B": "血液中嗜酸性球大量釋出組織胺", "C": "小動脈擴張", "D": "大幅降低微血管的通透性"}}
+{"question": "(A) 心室收縮開始時", "options": {"A": "心室收縮開始時", "B": "心室收縮結束時", "C": "心室舒張開始時", "D": "心室舒張結束時"}}
+{"question": "(A) 二氧化碳", "options": {"A": "二氧化碳", "B": "葡萄糖", "C": "麩醯胺酸", "D": "氯化鈉"}}
+{"question": "(A) 過度換氣就等於增加換氣", "options": {"A": "過度換氣就等於增加換氣", "B": "容易發生於強烈運動或過度緊張", "C": "會造成呼吸性鹼中毒", "D": "易導致血液中二氧化碳減少"}}
+{"question": "(A) 正回饋", "options": {"A": "鉀離子貯積", "B": "血管內壓上升", "C": "高血脂症", "D": "血液滲透壓下降"}}
+{"question": "(B) 血管內壓上升", "options": {"A": "血清類澱粉 A 蛋白質（serum amyloid A protein）", "B": "免疫球蛋白輕鏈（immunoglobulin light chain）", "C": "貝他 2-小球蛋白（beta2-microglobulin）", "D": "前白蛋白（transthyreitin/prealbumin）"}}
+{"question": "(B) 免疫球蛋白輕鏈（immunoglobulin light chain）", "options": {"A": "頸部", "B": "胸部", "C": "腹部", "D": "大腿"}}
+{"question": "(B) 胸部", "options": {"A": "梅毒（syphilis）", "B": "結核菌（Mycobacteria tuberculosis）", "C": "金黃色葡萄球菌（Staphylococcus aureus）", "D": "大腸桿菌（E. coli）"}}
+{"question": "(B) 結核菌（Mycobacteria tuberculosis）", "options": {"A": "膿瘍（abscess）", "B": "潰瘍（ulcer）", "C": "肉芽腫（granuloma）", "D": "蟹足腫（keloid）"}}
+{"question": "(B) 潰瘍（ulcer）", "options": {"A": "血管內皮細胞受損", "B": "Hageman 因子的缺乏", "C": "血液鬱滯或層流紊亂", "D": "高血液凝固性"}}
+{"question": "(B)  Hageman 因子的缺乏", "options": {"A": "此惡性腫瘤來自間質細胞（mesenchymal cells）", "B": "分化差（poorly-differentiated）是指腫瘤細胞和正常結腸細胞十分相似", "C": "N1 指的是病人的腫瘤已侵犯神經（nerves）", "D": "此腫瘤沒有遠端轉移（distant metastasis）"}}
+{"question": "(B) 分化差（poorly-differentiated）是指腫瘤細胞和正常結腸細胞十分相似", "options": {"A": "宿主細胞表面的受體蛋白", "B": "宿主細胞膜的脂肪組成", "C": "宿主細胞內特殊的轉錄因子", "D": "宿主細胞物理性的屏障，如溫度、pH 值"}}
+{"question": "(B) 宿主細胞膜的脂肪組成", "options": {"A": "食用含亞硝酸鹽（nitrosamines）的食物", "B": "長期胃食道逆流（gastroesophageal reflux）", "C": "食用被黴菌污染的食物", "D": "人類乳突瘤病毒（HPV）感染"}}
+{"question": "(B) 長期胃食道逆流（gastroesophageal reflux）", "options": {"A": "臨床上會造成減慢性動作失調（Hypokinetic movement disorder）", "B": "黑質區（substantia nigra）產生 dopamin 的神經元（dopaminergic neuron）會減少", "C": "殘存的神經元可能發現 Lewy bodies", "D": "長期下來會出現含有 amyloid 的 neuritic plaques 及含有過度磷酸化 tau 蛋白的 neurofibrillary tangles"}}
+{"question": "(B) 黑質區（substantia nigra）產生 dopamin 的神經元（dopaminergic neuron）會減少", "options": {"A": "Tyrosine kinase", "B": "Phospholipase C", "C": "Adenylyl cyclase", "D": "Guanylyl cyclase"}}
+{"question": "(B)  Phospholipase C", "options": {"A": "timolol", "B": "nadolol", "C": "pindolol", "D": "esmolol"}}
+{"question": "(B)  nadolol", "options": {"A": "促進局部血液循環", "B": "加快藥物代謝速率", "C": "增強藥物全身性吸收", "D": "延長藥物作用時間"}}
+{"question": "(B) 加快藥物代謝速率", "options": {"A": "抑制乙醯膽鹼的代謝，可以治療阿茲海默症（Alzheimer’s Disease）", "B": "與 lithium 合併使用，治療雙極性躁鬱症", "C": "具有抗流感病毒的功效", "D": "抑制個體對 nicotine 的渴求，用以治療菸癮"}}
+{"question": "(B) 與 lithium 合併使用，治療雙極性躁鬱症", "options": {"A": "diphenhydramine", "B": "loratadine", "C": "fexofenadine", "D": "cetirizine"}}
+{"question": "(B)  loratadine", "options": {"A": "fenofibrate", "B": "ezetimibe", "C": "colestipol", "D": "rosuvastatin"}}
+{"question": "(B)  ezetimibe", "options": {"A": "albuterol", "B": "salmeterol", "C": "cromolyn", "D": "corticosteroids"}}
+{"question": "(B)  salmeterol", "options": {"A": "避孕貼片（含 ethinyl estradiol & levonorgestrel）", "B": "口服避孕藥 ethinyl estradiol & levonorgestrel", "C": "陰道避孕環（含 ethinyl estradiol）", "D": "肌肉注射避孕藥 medroxyprogesterone acetate"}}
+{"question": "(B) 口服避孕藥 ethinyl estradiol & levonorgestrel", "options": {"A": "cladribine", "B": "cytarabine", "C": "fludarabine", "D": "methotrexate"}}
+{"question": "(B)  cytarabine", "options": {"A": "amoxicillin", "B": "oxacillin", "C": "ampicillin", "D": "piperacillin"}}
+{"question": "(B)  oxacillin", "options": {"A": "B 細胞（B cell）可分泌抗體", "B": "B 細胞不能呈現抗原給 T 細胞", "C": "T 細胞如能辨認抗原呈現細胞（Antigen presenting cell）所提供的抗原可以被活化", "D": "T 細胞可幫助 B 細胞產生較有親和力的抗體"}}
+{"question": "(B)  B 細胞不能呈現抗原給 T 細胞", "options": {"A": "原核生物", "B": "不能行光合作用", "C": "具胜糖（peptidoglycan）細胞壁", "D": "具 penicillin 感受性"}}
+{"question": "(B) 不能行光合作用", "options": {"A": "短小包膜絛蟲（Hymenolepis nana）", "B": "縮小包膜絛蟲（Hymenolepis diminuta）", "C": "有鉤絛蟲（Taenia solium）", "D": "無鉤絛蟲（Taenia saginata）"}}
+{"question": "(B) 縮小包膜絛蟲（Hymenolepis diminuta）", "options": {"A": "HLA 配對不合", "B": "ABO 血型不合", "C": "次要組織相容性抗原（minor histocompatibility antigens）不相容", "D": "同種異體辨識間接路徑（the indirect pathway of allorecognition）受到活化"}}
+{"question": "(B)  ABO 血型不合", "options": {"A": "全身性紅斑狼瘡（Systemic Lupus Erythematosus, SLE）", "B": "古德帕斯丘氏症候群（Goodpasture’s syndrome）", "C": "類風溼關節炎（Rheumatoid arthritis）", "D": "多發性硬化症（Multiple sclerosis）"}}
+{"question": "(B) 古德帕斯丘氏症候群（Goodpasture’s syndrome）", "options": {"A": "很少引發肺炎", "B": "多醣體莢膜是一重要的毒力因子", "C": "皮膚型炭疽病的致死率最高", "D": "腸胃型炭疽病會造成上吐下瀉，致死率極低"}}
+{"question": "(B) 多醣體莢膜是一重要的毒力因子", "options": {"A": "此菌為格蘭氏陽性細菌", "B": "是一種需氧菌", "C": "在感染的組織易產生氣體代謝物，造成氣性壞疽（gas gangrene）", "D": "感染腸道可能會導致壞死性腸炎（necrotizing enteritis）"}}
+{"question": "(B) 是一種需氧菌", "options": {"A": "EB 病毒（Epstein-Barr virus, EBV）感染會引起傳染性單核白血球增多症（Infectious mononucleosis）", "B": "JC 病毒（JC virus）感染會引起進行性多灶部腦白質病變（Progressive multifocal leukoencephalopathy）", "C": "單純疱疹病毒（Herpes simplex）感染會引起帶狀疱疹（Shingles）", "D": "微小病毒 B19（Parvovirus B19）感染會引起傳染性紅斑（Erythema infectiosum）"}}
+{"question": "(B)  JC 病毒（JC virus）感染會引起進行性多灶部腦白質病變（Progressive multifocal leukoencephalopathy）", "options": {"A": "可用抗病毒藥物治療", "B": "已有疫苗可供接種", "C": "為一個主要造成嬰幼兒嚴重腹瀉的病毒", "D": "如果同時感染兩個不同血清型的病毒，基因體重組（reassortment）可能發生"}}
+{"question": "(B) 已有疫苗可供接種", "options": {"A": "彈狀病毒（Rhabdovirus）", "B": "小 RNA 病毒（Picornavirus）", "C": "黃熱病毒（Flavivirus）", "D": "正黏液病毒（Orthomyxovirus）"}}
+{"question": "下列胞器，何者是由兩層膜組成？", "options": {"A": "粒線體", "B": "溶酶體", "C": "過氧化體", "D": "核糖體"}}
+{"question": "單一肌節（sarcomere）的範圍，下列定義何者最正確？", "options": {"A": "相鄰粗肌絲的長度總和", "B": "相鄰細肌絲的長度總和", "C": "相鄰粗肌絲加上細肌絲的長度總和", "D": "相鄰Z線間的距離"}}
+{"question": "下列何者為控制反射動作的反射弧（reflex arc）之最終端構造？", "options": {"A": "感覺神經元（sensory neuron）", "B": "運動神經元（motor neuron）", "C": "受器（receptor）", "D": "動器（effector）"}}
+{"question": "帕金森氏症（Parkinson's disease）的顫抖症狀肇因為何？", "options": {"A": "腦內缺乏多巴胺（dopamine deficiency）", "B": "腦內多巴胺過高（dopamine excess）", "C": "腦內缺乏血清素（serotonin deficiency）", "D": "腦內血清素過高（serotonin excess）"}}
+{"question": "下列何者最可能促進生長激素（growth hormone）分泌？", "options": {"A": "高血糖（hyperglycemia）", "B": "高強度運動（high intensity exercise）", "C": "體抑素（somatostatin）分泌增加", "D": "類胰島素生長因子1（IGF-1）分泌增加"}}
+{"question": "6 科林菲特氏症（Klinefelter's syndrome）患者的白血球細胞核旁，最多可以看到幾個巴氏體（barr body）？", "options": {"A": "0", "B": "1", "C": "2", "D": "3"}}
+{"question": "7 下列何者最可能同時降低動脈血壓波振幅（arterial pulse wave）與動脈血壓波速度（pulse wave velocity）？", "options": {"A": "粥狀動脈硬化", "B": "動脈老化", "C": "高血壓", "D": "低血壓"}}
+{"question": "8 在沒有抗利尿激素（antidiuretic hormone）介入的情況下，下列何處對鈉離子的再吸收（reabsorption） 最多？", "options": {"A": "近曲小管（proximal convoluted tubule）", "B": "遠曲小管（distal convoluted tubule）", "C": "亨利氏管上行枝（ascending limb of loop of Henle）", "D": "亨利氏管下行枝（descending limb of loop of Henle）"}}
+{"question": "9 正常吸氣的過程中，不會出現下列何種情況？", "options": {"A": "橫膈肌（diaphragm）收縮下移", "B": "肺泡壓（alveolar pressure）增加", "C": "胸膜內壓（intrapleural pressure）降低", "D": "肺間壓（transpulmonary pressure）增加"}}
+{"question": "10 調節消化道平滑肌收縮，最主要的離子為下列何者？", "options": {"A": "鈣離子", "B": "鈉離子", "C": "鉀離子", "D": "氯離子"}}
+{"question": "11 下列那一種細胞分泌激素的主要功能，與副甲狀腺素（parathyroid hormone）的作用相反？", "options": {"A": "甲狀腺的濾泡細胞（follicular cell of thyroid gland）", "B": "甲狀腺的濾泡旁細胞（parafollicular cell of thyroid gland）", "C": "腎上腺的束狀區細胞（zona fasciculata of adrenal gland）", "D": "腎上腺的網狀區細胞（zona reticularis of adrenal gland）"}}
+{"question": "12 組成踝關節（ankle joint）的骨骼，除脛骨、腓骨之外還包括：", "options": {"A": "跟骨（calcaneus）", "B": "蹠骨（metatarsal bone）", "C": "骰骨（cuboid）", "D": "距骨（talus）"}}
+{"question": "13 下列何者兼具屈曲和伸展肩關節的功能？", "options": {"A": "胸大肌", "B": "三角肌", "C": "斜方肌", "D": "棘上肌"}}
+{"question": "14 右心室的腱索（chordae tendineae）固著在下列何處？", "options": {"A": "肺動脈瓣", "B": "主動脈瓣", "C": "二尖瓣", "D": "三尖瓣"}}
+{"question": "15 下列何者是負責供應肝臟充氧血的血管？", "options": {"A": "腸繫膜上動脈", "B": "腹腔動脈幹", "C": "肝門靜脈", "D": "肝靜脈"}}
+{"question": "16 下列腎臟構造中，何者最靠近腎門（renal hilum）？", "options": {"A": "腎柱（renal column）", "B": "腎盂（renal pelvis）", "C": "腎盞（renal calyx）", "D": "腎錐體（renal pyramid）"}}
+{"question": "17 下列有關卵巢內成熟濾泡（mature follicle）的敘述，何者錯誤？", "options": {"A": "濾泡外圍的內鞘膜（theca interna）細胞可合成雄性素（androgen）", "B": "濾泡內部的顆粒細胞（granulosa cells）參與雌激素（estrogen）的合成", "C": "濾泡內含23條染色體的卵子（ovum）", "D": "濾泡內含單一大濾泡腔（antrum）"}}
+{"question": "18 下列何者調控並可加速肝臟分泌膽汁？", "options": {"A": "交感神經（sympathetic nerve）", "B": "迷走神經（vagus nerves）", "C": "胸腰段脊神經（spinal nerves）", "D": "舌咽神經（glossopharyngeal nerve）"}}
+{"question": "19 肝胰壺腹是由下列那兩者會合而形成？", "options": {"A": "肝管與主胰管", "B": "肝管與副胰管", "C": "總膽管與主胰管", "D": "總膽管與副胰管"}}
+{"question": "20 下列那一個內臟的位移痛（referred pain）出現在左手臂內側皮膚？", "options": {"A": "心臟（heart）", "B": "肺臟（lung）", "C": "肝臟（liver）", "D": "腎臟（kidney）"}}
+{"question": "21 有關組織傷口癒合的敘述，下列何者最不適當？", "options": {"A": "傷口感染是造成癒合延遲的重要因素", "B": "組織癒合過程易出現肉芽組織（granulation tissue）", "C": "使用類固醇抗發炎藥能有效抑制發炎並增進傷口癒合強度", "D": "糖尿病患因血液灌注不良引起傷口癒合異常"}}
+{"question": "22 下列何者不是心因性休克病患常見的臨床表現？", "options": {"A": "低血壓", "B": "快而弱的脈搏", "C": "呼吸急促", "D": "尿量增加"}}
+{"question": "23 下列那種遺傳性疾病的遺傳模式和其他選項不一樣？", "options": {"A": "第一型神經纖維瘤症（neurofibromatosis type 1）", "B": "地中海型貧血（thalassemia）", "C": "馬凡氏症（Marfan syndrome）", "D": "結節性硬化症（tuberous sclerosis）"}}
+{"question": "24 壞血病（scurvy）是那一種維生素缺乏所造成？", "options": {"A": "維生素C", "B": "維生素A", "C": "維生素D", "D": "維生素B12"}}
+{"question": "25 社區性肺炎（community-acquired pneumonia）指的是患者在日常生活環境中所得到的感染，而非在醫院中 的感染。引起典型社區性肺炎最常見的致病菌為何？", "options": {"A": "金黃色葡萄球菌（Staphylococcus aureus）", "B": "肺炎鏈球菌（Streptococcus pneumoniae）", "C": "流行感冒嗜血桿菌（Haemophilus influenzae）", "D": "黴漿菌（Mycoplasma pneumoniae）"}}
+{"question": "26 缺鐵性貧血（iron deficiency anemia）的紅血球，其形態有何特徵？", "options": {"A": "體積小且顏色深", "B": "體積小且顏色淺", "C": "體積大且顏色深", "D": "體積大且顏色淺"}}
+{"question": "27 下列何種病毒必須有B型肝炎病毒（hepatitis B virus）存在才能感染人體？", "options": {"A": "A型肝炎病毒（hepatitis A virus）", "B": "C型肝炎病毒（hepatitis C virus）", "C": "D型肝炎病毒（hepatitis D virus）", "D": "E型肝炎病毒（hepatitis E virus）"}}
+{"question": "28 三陰性（triple negative）乳癌的定義不包含下列何者？", "options": {"A": "雌激素受體（estrogen receptor）陰性", "B": "孕激素受體（progesterone receptor）陰性", "C": "第二型人類表皮生長因子接受體（human epidermal growth factor receptor 2）陰性", "D": "細胞角蛋白（cytokeratin）陰性"}}
+{"question": "29 進行性多灶性白質腦病（progressive multifocal leukoencephalopathy, PML）是一種髓鞘脫失 （demyelination）的病變，臨床上常與免疫抑制有關。此病主要由何種病毒引起？", "options": {"A": "HSV-1（herpes simplex virus-1）", "B": "VZV（varicella-zoster virus）", "C": "EBV（Epstein-Barr virus）", "D": "JC virus"}}
+{"question": "30 侏儒症中最常見的原因是軟骨發育不全（achondroplasia），而軟骨發育不全為體染色體顯性遺傳疾病。約 90%的病人與下列那一個基因突變有關？", "options": {"A": "Fibroblast growth factor receptor 3基因", "B": "Fibrillin-1基因", "C": "NF-1基因", "D": "TCIRG1基因"}}
+{"question": "31 在治療慢性阻塞性肺病（COPD）的藥物中，下列何者可抑制乙醯膽鹼（ACh）受體，以減少黏液之分泌？", "options": {"A": "cromolyn", "B": "ipratropium", "C": "beclomethasone", "D": "terbutaline"}}
+{"question": "32 下列何者最常用於緊急治療過敏性休克（anaphylactic shock）？", "options": {"A": "terbutaline", "B": "isoproterenol", "C": "ephedrine", "D": "epinephrine"}}
+{"question": "33 下列對於毒品搖頭丸之敘述，何者最不適當？", "options": {"A": "可抑制血清素之再回收", "B": "結構類似安非他命", "C": "可能引起高熱症", "D": "英文簡稱NMDA"}}
+{"question": "34 下列何者不屬於類鴉片藥物戒斷症候群？", "options": {"A": "體溫過低", "B": "噁心、嘔吐", "C": "顫抖", "D": "流鼻涕"}}
+{"question": "35 Fexofenadine較不具鎮靜安眠作用，原因為何？", "options": {"A": "較難通過血腦障壁", "B": "對H1受體的選擇性增加", "C": "抑制中樞GABA受體", "D": "體內半衰期短"}}
+{"question": "36 口服抗凝血劑warfarin中毒出血時，應如何救治最好？", "options": {"A": "給予肌肉注射或靜脈注射維生素K", "B": "給予皮下注射或靜脈注射維生素B12", "C": "給予口服、皮下注射或靜脈注射methylprednisolone", "D": "給予口服、皮下注射或靜脈注射tranexamic acid"}}
+{"question": "37 Milrinone具有強心及擴張血管之功能，長期使用會引發心律不整，此藥物的藥理作用機制為何？", "options": {"A": "第一型磷酸雙酯酶（phosphodiesterase 1）抑制劑", "B": "第二型磷酸雙酯酶（phosphodiesterase 2）抑制劑", "C": "第三型磷酸雙酯酶（phosphodiesterase 3）抑制劑", "D": "第五型磷酸雙酯酶（phosphodiesterase 5）抑制劑"}}
+{"question": "38 治療糖尿病的用藥canagliflozin，其主要作用機制為何？", "options": {"A": "刺激insulin的釋放", "B": "減少肝臟生成葡萄糖", "C": "減少腸胃道對葡萄糖的吸收", "D": "增加葡萄糖從尿液排除"}}
+{"question": "39 下列抗結核桿菌的藥物中，何者會降低以protease inhibitors治療愛滋病（AIDS）的效果？", "options": {"A": "ethambutol", "B": "isoniazid", "C": "pyrazinamide", "D": "rifampin"}}
+{"question": "40 下列藥物均能治療新生兒感染，但在考量副作用的前提下，何者是最好的選擇？", "options": {"A": "chloramphenicol", "B": "penicillin G", "C": "sulfamethoxazole", "D": "tetracycline"}}
+{"question": "41 下列何種構造通常是由多醣組成，對於幫助細菌抵抗免疫細胞的吞噬作用（phagocytosis）極為重要？", "options": {"A": "莢膜（capsule）", "B": "鞭毛（flagellum）", "C": "線毛（pilus）", "D": "芽孢（spore）"}}
+{"question": "42 下列那個酵素主要負責B細胞的體細胞超突變（somatic hypermutation）？", "options": {"A": "RAG1（recombination-activating gene 1）", "B": "RAG2（recombination-activating gene 2）", "C": "TdT（terminal deoxynucleotidyl transferase）", "D": "AID（activation-induced cytidine deaminase）"}}
+{"question": "43 有關抗體的敘述，下列何者錯誤？", "options": {"A": "IgG包含兩個輕鏈及兩個重鏈，由雙硫鍵連結", "B": "IgA以雙體（dimer）的結構，透過黏膜上皮細胞基底部位之poly-Ig receptor運送至管腔部位", "C": "大部分血清中的IgG半衰期大約三週", "D": "血清中濃度最高的是IgE"}}
+{"question": "44 下列何者屬於第二型過敏反應？", "options": {"A": "阿圖斯氏反應（Arthus reaction）", "B": "全身性過敏反應（systemic anaphylaxis）", "C": "結核菌素反應", "D": "ABO血型不合造成的溶血與輸血反應"}}
+{"question": "45 治療金黃色葡萄球菌造成的院內感染，下列何種抗生素最可能有效？", "options": {"A": "紅黴素（Erythromycin）", "B": "萬古黴素（Vancomycin）", "C": "氯黴素（Chloramphenicol）", "D": "青黴素（Penicillin）"}}
+{"question": "46 下列何種細菌感染，常與食用受污染的帶殼海鮮所發生的食物中毒相關？", "options": {"A": "腸炎弧菌（Vibrio parahaemolyticus）", "B": "傷寒沙門氏菌（Salmonella Typhi）", "C": "鼠疫耶氏桿菌（Yersinia pestis）", "D": "痢疾志賀氏菌（Shigella dysenteriae）"}}
+{"question": "47 下列何種細菌感染所造成的腸炎，最可能引發周邊神經病變（Guillain-Barré症候群）？", "options": {"A": "大腸桿菌（Escherichia coli）", "B": "幽門螺旋桿菌（Helicobacter pylori）", "C": "霍亂弧菌（Vibrio cholerae）", "D": "空腸彎曲桿菌（Campylobacter jejuni）"}}
+{"question": "48 下列何者不屬於皮癬菌（dermatophytes）？", "options": {"A": "表皮癬菌（Epidermophyton）", "B": "毛髮癬菌（Trichophyton）", "C": "絲孢酵母菌（Trichosporon）", "D": "小芽孢菌（Microsporum）"}}
+{"question": "49 有關第16型人類乳突病毒（HPV-16）的敘述，下列何者錯誤？", "options": {"A": "感染提高婦女得到子宮頸癌的機率", "B": "感染提高口咽癌罹患機率", "C": "感染造成傳染性濕疣（molluscum contagiosum）", "D": "HPV-16 E6為致癌基因（oncogene）"}}
+{"question": "50 下列何種人體器官，最常受到腸外阿米巴病（extraintestinal amebiasis）原蟲的滋養體（trophozoite） 入侵？", "options": {"A": "肺", "B": "心臟", "C": "肝", "D": "腎臟"}}
+{"question": "下列何者能傳遞表皮的觸覺？", "options": {"A": "蘭氏細胞（Langerhan’s cell）", "B": "牟克耳氏細胞（Merkel’s cell）", "C": "巴齊尼小體（Pacinian corpuscles）", "D": "角質細胞（keratinocyte）"}}
+{"question": "女性體內黃體素（progesterone）的含量在下列子宮週期中何時最高？", "options": {"A": "月經期（menstrual phase）", "B": "增生期（proliferative phase）", "C": "分泌期（secretory phase）", "D": "濾泡期（follicular phase）"}}
+{"question": "下列那一條肌肉的收縮可繃緊聲帶？", "options": {"A": "杓肌（arytenoid）", "B": "環甲肌（cricothyroid）", "C": "後環杓肌（posterior cricoarytenoid）", "D": "外側環杓肌（lateral cricoarytenoid）"}}
+{"question": "下列何者為隔開心臟的右心房與右心室之間的瓣膜？", "options": {"A": "肺動脈瓣", "B": "三尖瓣", "C": "二尖瓣", "D": "心房中膈"}}
+{"question": "尿道外括約肌（external urethral sphincter）位於：", "options": {"A": "骨盆膈（pelvic diaphragm）", "B": "泌尿生殖膈（urogenital diaphragm）", "C": "膀胱底（base of urinary bladder）", "D": "膀胱頸（neck of urinary bladder）"}}
+{"question": "6 有關女性外生殖器（vulva）的敘述，下列何者錯誤？", "options": {"A": "前庭球（bulb of vestibule）是位於陰道口兩側的腺體", "B": "尿道外口（external urethral orifice）介於陰蒂與陰道口之間", "C": "陰蒂包皮（prepuce）是連接兩側小陰唇的皮膚皺褶", "D": "陰道前庭（vaginal vestibule）是介於兩側小陰唇之間的區域"}}
+{"question": "7 下列何者將肝臟連接至前腹壁及橫膈？", "options": {"A": "鐮狀韌帶（falciform ligament）", "B": "冠狀韌帶（coronary ligament）", "C": "靜脈韌帶（ligamentum venosum）", "D": "十字韌帶（cruciate ligament）"}}
+{"question": "8 下列何器官只被腹膜（peritoneum）覆蓋住其前表面？", "options": {"A": "胃", "B": "胰臟", "C": "子宮", "D": "肝臟"}}
+{"question": "9 支配橫膈的膈神經（phrenic nerve） ，主要是來自下列何者？", "options": {"A": "頸神經叢（cervical plexus）", "B": "肋間神經（intercostal nerve）", "C": "心臟神經叢（cardiac plexus）", "D": "肺臟神經叢（pulmonary plexus）"}}
+{"question": "10 傳導相鄰細胞間神經訊息的電性突觸是下列何種結構？", "options": {"A": "緊密結合（tight junction）", "B": "裂隙結合（gap junction）", "C": "胞橋小體（desmosome）", "D": "黏著帶（adhesive belt）"}}
+{"question": "11 骨骼肌收縮所需要的鈣離子主要來自下列何種胞器？", "options": {"A": "肌漿質網", "B": "細胞核", "C": "溶小體", "D": "高基氏體"}}
+{"question": "12 活化副交感神經（parasympathetic nervous system） ，將會降低心跳速率，此作用主要媒介的受體為：", "options": {"A": "adrenergic α1 receptor", "B": "adrenergic β1 receptor", "C": "nicotinic acetylcholine receptor", "D": "muscarinic acetylcholine receptor"}}
+{"question": "13 耳石復位術 （epley maneuver） 經由改變頭部動作的方向 ， 可以緩解良性陣發性姿勢暈眩 （benign paroxysmal positional vertigo） ，此動作主要是恢復下列何者功能？", "options": {"A": "橢圓束（utricle）與圓囊（saccule）", "B": "鼓膜（tympanic membrane）", "C": "砧骨（incus）", "D": "歐氏管（Eustachian tube）"}}
+{"question": "14 下列何種激素的分泌對血糖濃度的影響最小？", "options": {"A": "醛固酮（aldosterone）", "B": "皮質醇（cortisol）", "C": "甲狀腺素（thyroxine）", "D": "腎上腺素（epinephrine）"}}
+{"question": "15 下列何種激素最主要透過肌醇三磷酸（IP3）和鈣離子（Ca2+）執行其生理功能？", "options": {"A": "皮質醇（cortisol）", "B": "胰島素（insulin）", "C": "雌激素（estrogen）", "D": "性釋素（GnRH）"}}
+{"question": "16 有關增強抗凝血作用，下列敘述何者正確？", "options": {"A": "巨噬細胞可吞噬凝血因子", "B": "主要靠抗凝血酶 III 的快速作用", "C": "活化腎臟合成的蛋白質 C", "D": "降低肝素與抗凝血酶的結合"}}
+{"question": "17 下列何種生理調控現象，會使動脈壓上升？", "options": {"A": "醛固酮分泌降低", "B": "腎臟鹽和水的保留降低", "C": "血管收縮素 II 分泌增加", "D": "心房利鈉尿胜肽分泌增加"}}
+{"question": "18 抗利尿激素（antidiuretic hormone）最能增加下列何處對水分的再吸收（reabsorption）？", "options": {"A": "近曲小管（proximal convoluted tubule）", "B": "亨利氏管上行枝（ascending limb of loop of Henle）", "C": "亨利氏管下行枝（descending limb of loop of Henle）", "D": "集尿管（collecting tubule）"}}
+{"question": "19 平靜呼氣中止後，正常吸入一口空氣到肺臟，此吸入的氣體體積稱為：", "options": {"A": "肺活量", "B": "吸氣儲備容積", "C": "潮氣容積", "D": "肺餘容積"}}
+{"question": "20 下列那個腦區與吞嚥的訊息傳導最為直接相關？", "options": {"A": "腦幹", "B": "下視丘", "C": "小腦", "D": "運動皮質"}}
+{"question": "21 下列何者與營養不良性鈣化（dystrophic calcification）最不相關？", "options": {"A": "動脈粥狀硬化血管壁鈣質沉積", "B": "胰臟炎周邊脂肪組織鈣質沉積", "C": "高血鈣導致腎臟鈣質沉積", "D": "心臟瓣膜受損發生鈣質沉積"}}
+{"question": "22 肝衰竭引發腹部腫大，下列敘述何者最不適當？", "options": {"A": "常合併凝血功能障礙", "B": "血漿中白蛋白通常是正常的", "C": "常合併腹水", "D": "常見原因是肝硬化"}}
+{"question": "23 下列何者與即發型過敏反應關聯性最小？", "options": {"A": "TH1 細胞", "B": "IgE 抗體", "C": "肥大細胞（mast cells）", "D": "嗜酸性球（eosinophils）"}}
+{"question": "24 Familial breast and ovarian carcinoma syndrome 的突變基因為何？", "options": {"A": "PTEN", "B": "NF1", "C": "PTCH", "D": "BRCA1 and BRCA2"}}
+{"question": "25 下列何者非屬石棉相關疾病（asbestos-related diseases）？", "options": {"A": "廣泛間質性纖維化（diffuse interstitial fibrosis）", "B": "肋膜間皮瘤（pleural mesothelioma）", "C": "喉癌（laryngeal carcinoma）", "D": "肺膿瘍（lung abscess）"}}
+{"question": "26 下列造成血小板減少的原因中，何者最可能發現骨髓的巨核細胞（megakaryocyte）減少？", "options": {"A": "再生不良性貧血（aplastic anemia）", "B": "免疫性血小板減少性紫斑症（immune thrombocytopenic purpura）", "C": "血栓性血小板減少性紫斑症（thrombotic thrombocytopenic purpura）", "D": "溶血性尿毒症候群（hemolytic uremic syndrome）"}}
+{"question": "27 由巴雷特氏食道（Barrett’s esophagus）惡性化產生的食道癌，下列何者最常見？", "options": {"A": "腺癌（adenocarcinoma）", "B": "惡性黑色素瘤（malignant melanoma）", "C": "鱗狀細胞癌（squamous cell carcinoma）", "D": "基底細胞癌（basal cell carcinoma）"}}
+{"question": "28 生骨性（osteoblastic）骨轉移，最常見於下列何種腫瘤？", "options": {"A": "前列腺癌", "B": "乳癌", "C": "大腸癌", "D": "肺癌"}}
+{"question": "29 醛固酮分泌腺瘤 （aldosterone-secreting adenoma） 產生原發性醛固酮過多症 （hyperaldosteronism） 會造成下 列那一種症候群？", "options": {"A": "愛迪生氏症（Addison’s disease）", "B": "康氏症候群（Conn’s syndrome）", "C": "庫欣氏症候群（Cushing’s syndrome）", "D": "腎上腺生殖器症候群（adrenogenital syndrome）"}}
+{"question": "30 下列何者最常引起「自發性蛛網膜下腔出血」 （spontaneous subarachnoid hemorrhage）？", "options": {"A": "動脈瘤破裂", "B": "巨細胞病毒（cytomegalovirus）感染", "C": "中腦膜動脈破裂", "D": "中腦動脈阻塞"}}
+{"question": "31 有關麥角生物鹼（ergot alkaloids）的作用，下列敘述何者錯誤？", "options": {"A": "產生血管收縮", "B": "產生幻覺", "C": "促進子宮收縮", "D": "產生偏頭痛"}}
+{"question": "32 有關全身性麻醉劑 propofol，下列敘述何者正確？", "options": {"A": "除了靜脈注射，也可以吸入式投與", "B": "具有良好的止吐效果", "C": "主要經由抑制麩胺酸（glutamate）受體而產生麻醉效果", "D": "具有良好的水溶性"}}
+{"question": "33 下列藥物中，何者無法改善幼兒之注意力缺損過動症（attention deficit hyperactivity disorder）？", "options": {"A": "atomoxetine", "B": "dextroamphetamine", "C": "methylphenidate", "D": "theophylline"}}
+{"question": "34 下列何種藥物為前列腺素致效劑 （agonist） ，可降低胃酸釋出，也能促進胃黏液的產生，以緩解胃潰瘍的病 症？", "options": {"A": "misoprostol", "B": "mifepristone", "C": "naratriptan", "D": "famotidine"}}
+{"question": "35 下列利尿劑中，何者排尿效果最顯著，除了可以改善水腫，亦可用於治療高血鈣症（hypercalcemia）？", "options": {"A": "chlorothiazide", "B": "furosemide", "C": "eplerenone", "D": "acetazolamide"}}
+{"question": "36 Clopidogrel 抑制血小板凝集的作用機制為何？", "options": {"A": "不可逆性地抑制第一型環氧酶（cyclooxygenase 1）", "B": "不可逆性地抑制凝血因子 Xa", "C": "不可逆性地抑制 P2Y12 ADP 受體", "D": "抑制血栓素 A2（TXA2）受體"}}
+{"question": "37 下列何者屬於抑制腸胃蠕動的藥物（antimotility agents） ，用於治療嚴重腹瀉？", "options": {"A": "metoclopramide", "B": "domperidone", "C": "prucalopride", "D": "loperamide"}}
+{"question": "38 長期口服 prednisone 之病人最常出現下列何種副作用？", "options": {"A": "高血鉀", "B": "體重降低", "C": "骨質疏鬆", "D": "低血糖"}}
+{"question": "39 下列抗癌藥物中，何者最易產生腎毒性？", "options": {"A": "raloxifene", "B": "cisplatin", "C": "rituximab", "D": "trastuzumab"}}
+{"question": "40 有關克隆氏症（Crohn’s disease）之治療，下列那一個藥物屬於 TNF-α 抑制劑？", "options": {"A": "adalimumab", "B": "vedolizumab", "C": "ustekinumab", "D": "tofacitinib"}}
+{"question": "41 有關細菌內毒素（endotoxin） ，下列敘述何者最不適當？", "options": {"A": "主要成分為蛋白質", "B": "位於細菌之細胞壁，於細菌裂解時釋出", "C": "可刺激宿主之先天性免疫反應，產生細胞激素", "D": "可引起發燒和休克"}}
+{"question": "42 對抗病菌後死亡的嗜中性白血球（neutrophil） ，會由何種細胞清除，以維持組織恆定？", "options": {"A": "巨噬細胞（macrophage）", "B": "肥大細胞（mast cell）", "C": "樹突細胞（dendritic cell）", "D": "漿細胞（plasma cell）"}}
+{"question": "43 下列何種細胞具有抑制 CD4 與 CD8 T 細胞活性的功能？", "options": {"A": "TH1 細胞", "B": "TH2 細胞", "C": "濾泡輔助 T 細胞（TFH）", "D": "調節型 T 細胞（Treg）"}}
+{"question": "44 有關結核分枝桿菌（Mycobacterium tuberculosis） ，下列敘述何者最適當？", "options": {"A": "青黴素為治療第一線藥物", "B": "可以造成肺部及腸道感染", "C": "分裂非常快速", "D": "不能在有氧環境中生存"}}
+{"question": "45 有關病毒的散播，下列敘述何者錯誤？", "options": {"A": "垂直感染是指病毒由母體傳給子代", "B": "經由糞口傳染的病毒，以具有外套膜的病毒居多", "C": "藉由病媒蚊散播的病毒，必須也能在此蚊子中複製", "D": "抑制病毒在族群中散播的最好方式是疫苗接種"}}
+{"question": "46 有關梅毒螺旋體（Treponema pallidum） ，下列敘述何者正確？", "options": {"A": "具有超氧化物岐化酶（superoxide dismutase） ，可以在有氧的環境中生存", "B": "可以在實驗室中進行體外培養後，以光學顯微鏡進行觀察檢驗", "C": "青黴素（penicillin）是治療梅毒螺旋體感染症的常用藥物", "D": "接種梅毒疫苗可以預防梅毒螺旋體的感染"}}
+{"question": "47 有關恙蟎，下列敘述何者正確？", "options": {"A": "發育階段屬於完全變態", "B": "稚蟲、成蟲均能吸血", "C": "被病原體感染的恙蟎無法擔任媒介傳播疾病", "D": "可傳播斑疹傷寒"}}
+{"question": "48 有關猴痘，下列敘述何者最適當？", "options": {"A": "由天花病毒所引起", "B": "只會由感染猴痘的猴子傳染給人", "C": "接種減弱天花病毒株製成之疫苗（JYNNEOS）可減低得到猴痘的機會", "D": "猴痘病毒感染也造成傳染性濕疣（molluscum contagiosum）"}}
+{"question": "49 流行性感冒病毒感染後，引起的常見症狀，如發燒、喉嚨痛及關節疼痛的原因不包括下列何者？", "options": {"A": "病毒對呼吸道上皮細胞的破壞", "B": "病毒對關節的直接破壞", "C": "T 細胞引起的免疫反應", "D": "干擾素引起的免疫反應"}}
+{"question": "50 下列何者為中華肝吸蟲（Clonorchis sinensis）最常見的感染方式？", "options": {"A": "生食未洗淨的蔬菜", "B": "飲用未經煮沸的生水", "C": "食用未經煮熟的淡水魚", "D": "被蚊子叮咬"}}
